@@ -1,0 +1,20656 @@
+a_cup	一杯
+
+a_game	一个游戏
+
+a_level	一个等级
+
+a_lot	很多
+
+a_team	一个团队
+
+abandon	放弃
+
+abbey	僧院
+
+abduction	绑架
+
+ability	能力
+
+able	能够
+
+aboriginal	土著
+
+abortion	流产
+
+abroad	国外
+
+absence	缺席
+
+absolute	绝对
+
+abstract	抽象
+
+absurd	荒诞
+
+abuse	滥用
+
+academic	学术的
+
+academic_discipline	学术学科
+
+academic_institution	学术机构
+
+academician	院士
+
+academy	学院
+
+academy_award	学术奖
+
+accent	口音
+
+acceptance	验收
+
+access	访问
+
+access_code	访问代码
+
+access_control	访问控制
+
+access_point	切入点
+
+access_road	通路
+
+access_time	访问时间
+
+accession	加入
+
+accident	事故
+
+accidental	偶然
+
+acclaim	欢呼
+
+accommodation	住所
+
+accompanying	随同
+
+accomplishment	成就
+
+accord	符合
+
+accordance	根据
+
+account_executive	业务经理
+
+account_manager	客户经理
+
+account_statement	帐户对帐单
+
+accountability	问责
+
+accounting	会计
+
+accounting_profit	会计利润
+
+accuracy	准确性
+
+accusation	指控
+
+accused	被告
+
+accuser	原告
+
+ace	高手
+
+achievement	成就
+
+achiever	成功者
+
+acid	酸
+
+acid_house	酸房
+
+acid_jazz	酸性爵士
+
+acid_rain	酸雨
+
+acid_rock	酸性岩
+
+acid_test	酸测试
+
+acoustic	声
+
+acquaintance	熟人
+
+acquisition	获得
+
+acre	英亩
+
+across	横过
+
+act	法案
+
+acting	演戏
+
+action	行动
+
+action_adventure	动作冒险
+
+action_figure	动作人物
+
+action_film	动作电影
+
+action_group	行动小组
+
+action_hero	动作英雄
+
+action_man	行动人
+
+action_movie	动作片
+
+action_painting	动作绘画
+
+action_plan	行动计划
+
+action_potential	动作电位
+
+action_star	动作明星
+
+active	活性
+
+active_volcano	活火山
+
+activeness	活跃
+
+activist	活动家
+
+activity	活动
+
+actor	演员
+
+actress	演员
+
+actual	实际
+
+adaptation	适应
+
+add	加
+
+addiction	瘾
+
+addition	加成
+
+addition_reaction	加成反应
+
+address	地址
+
+address_bar	地址栏
+
+address_book	地址簿
+
+address_space	地址空间
+
+adjacent	邻
+
+adjudicator	评判员
+
+adjustment	调整
+
+administration	管理
+
+administrative_law	行政法规
+
+administrator	管理员
+
+admiral	上将
+
+admission	入场
+
+adolescent	青少年
+
+adoption	采用
+
+adult	成人
+
+advance	预先
+
+advance_guard	先进警卫
+
+advancement	进步
+
+advantage	优点
+
+adventure	冒险
+
+adventure_game	冒险游戏
+
+adversary	对手
+
+adversity	逆境
+
+advertisement	广告
+
+advertiser	广告
+
+advertising	广告
+
+advice	忠告
+
+adviser	顾问
+
+advisor	顾问
+
+advisory	咨询
+
+advocacy	拥护
+
+advocate	主张
+
+aerial	天线
+
+aerospace	航天
+
+affair	事务
+
+affect	影响
+
+affiliate	子公司
+
+affiliate_marketing	会员营销
+
+affiliate_network	会员网络
+
+affiliation	联系
+
+affirmation	肯定
+
+afghan	阿富汗
+
+aftermath	后果
+
+afternoon	下午
+
+afternoon_tea	下午茶
+
+age	年龄
+
+age_group	年龄阶层
+
+age_limit	年龄限制
+
+aged	老
+
+agency	机构
+
+agenda	议程
+
+agent	代理人
+
+aggregate	骨料
+
+aggression	侵略
+
+aging	老化
+
+agreement	协议
+
+agricultural_revolution	农业革命
+
+agriculture	农业
+
+aid	援助
+
+aid_worker	救援人员
+
+aide	助手
+
+aim	目标
+
+air	空气
+
+air_ambulance	空中救护车
+
+air_bag	安全气囊
+
+air_base	空军基地
+
+air_brake	空气制动器
+
+air_bridge	空中桥
+
+air_bubble	气泡
+
+air_cargo	空运货物
+
+air_carrier	航空母舰
+
+air_corridor	空中走廊
+
+air_drill	气钻
+
+air_filter	空气过滤器
+
+air_flow	空气流动
+
+air_force	空军
+
+air_guitar	空气吉他
+
+air_gun	气枪
+
+air_mail	航空邮件
+
+air_marshal	中将
+
+air_mass	气团
+
+air_mile	空中英里
+
+air_navigation	空中航行
+
+air_photo	空中照片
+
+air_piracy	空中盗版
+
+air_pistol	气枪
+
+air_plant	空气厂
+
+air_pocket	气袋
+
+air_pollution	空气污染
+
+air_pressure	空气压力
+
+air_pump	气泵
+
+air_raid	空袭
+
+air_resistance	空气阻力
+
+air_rifle	气枪
+
+air_shaft	通风井
+
+air_show	航展
+
+air_sign	空气标志
+
+air_space	空域
+
+air_sport	空中运动
+
+air_strike	空袭
+
+air_support	空中支援
+
+air_suspension	空气悬架
+
+air_tanker	空中加油机
+
+air_taxi	空中出租车
+
+air_terminal	空运站
+
+air_ticket	飞机票
+
+air_time	播音时间
+
+air_travel	航空旅行
+
+airborne	空降
+
+airbus	空中客车公司
+
+aircraft	飞机
+
+aircraft_carrier	航空母舰
+
+aircraft_engine	飞机发动机
+
+airfield	机场
+
+airing	晾干
+
+airline	航空公司
+
+airliner	客机
+
+airplane	飞机
+
+airport	飞机场
+
+airspace	空域
+
+alan	艾伦
+
+alarm	报警
+
+alarm_bell	警钟
+
+alarm_clock	闹钟
+
+alarm_system	警报系统
+
+album	专辑
+
+album_track	专辑曲目
+
+alcohol	醇
+
+alert	警报
+
+alexander	亚历山大
+
+algerian	阿尔及利亚人
+
+algorithm	算法
+
+alien	外侨
+
+all-star	全明星
+
+allegation	断言
+
+allegiance	忠诚
+
+alley	胡同
+
+alliance	联盟
+
+allocation	分配
+
+ally	盟国
+
+alma	母校
+
+almost	几乎
+
+alpha	α
+
+alpha_channel	阿尔法通道
+
+alpha_dog	阿尔法狗
+
+alpha_male	阿尔法男性
+
+alpha_version	Alpha版本
+
+alpha_wave	阿尔法波
+
+alpine	高山
+
+altar	坛
+
+alteration	改造
+
+alternate	备用
+
+alternative	替代
+
+alternative_country	替代国家
+
+alternative_energy	可替代能源
+
+alternative_medicine	替代药物
+
+alternative_rock	另类摇滚
+
+altitude	高度
+
+aluminum	铝
+
+alumni	校友
+
+alumni_association	校友会
+
+amateur	业余
+
+amazon	亚马逊
+
+ambassador	大使
+
+ambition	志向
+
+ambulance	救护车
+
+ambush	伏击
+
+ambush_marketing	埋伏营销
+
+amendment	修订
+
+american	美国
+
+american_eagle	美国之鹰
+
+american_spelling	美国拼写
+
+ammunition	弹药
+
+amnesty	大赦
+
+amount	量
+
+amp	功放
+
+amtrak	特拉克
+
+ana	全日空
+
+anaheim	阿纳海姆
+
+analog	类似物
+
+analysis	分析
+
+analyst	分析人士
+
+ancestry	祖先
+
+anchor	锚
+
+ancient	古
+
+angel	天使
+
+angel_dust	天使尘
+
+angel_hair	天使的头发
+
+angel_investor	天使投资人
+
+anger	愤怒
+
+anger_management	情绪管理
+
+angle	角度
+
+anglo	盎格鲁
+
+animal	动物
+
+animal_fat	动物脂肪
+
+animal_kingdom	动物王国
+
+animal_product	动物产品
+
+animal_rights	动物权益
+
+animal_shelter	动物收容所
+
+animal_testing	动物测验
+
+animal_welfare	动物福利
+
+animation	动画
+
+anime	动漫
+
+ankle	踝
+
+ann	安
+
+anna	安娜
+
+anniversary	周年
+
+announcement	公告
+
+announcer	播音员
+
+annual	全年
+
+anonymity	匿名
+
+answer	回答
+
+answering_machine	电话应答机
+
+anthem	圣歌
+
+anthrax	炭疽病
+
+anti	抗
+
+anticipation	预期
+
+anxiety	焦虑
+
+apartheid	种族隔离
+
+apartment	公寓
+
+apartment_building	公寓楼
+
+apartment_complex	公寓大楼
+
+apollo	阿波罗
+
+apology	歉意
+
+apparatus	仪器
+
+apparel	服饰
+
+appeal	上诉
+
+appearance	出现
+
+appetite	食欲
+
+applause	掌声
+
+apple	苹果
+
+apple_butter	苹果酱
+
+apple_juice	苹果汁
+
+apple_pie	苹果派
+
+apple_sauce	苹果酱
+
+apple_seed	苹果种子
+
+apple_tree	苹果树
+
+applicant	申请人
+
+application	应用
+
+application_form	申请表格
+
+application_program	应用程序
+
+application_software	应用程序软件
+
+applied_mathematics	应用数学
+
+applied_science	应用科学
+
+appointment	约定
+
+appraisal	评价
+
+appreciation	升值
+
+approach	途径
+
+approach_shot	接近射击
+
+approval	赞同
+
+approval_voting	批准投票
+
+april_fool	愚人节
+
+arbitration	仲裁
+
+arc	弧
+
+arch	拱
+
+arch_enemy	大敌
+
+arch_rival	主要竞争对手
+
+archbishop	大主教
+
+archdiocese	教区
+
+archeologist	考古学家
+
+archer	射手
+
+archipelago	群岛
+
+architect	建筑师
+
+architecture	建筑
+
+archive	档案
+
+arctic	北极
+
+arctic_circle	北极圈
+
+arctic_fox	白狐
+
+area	区域
+
+area_code	区号
+
+arena	竞技场
+
+arena_football	竞技场足球
+
+argentine	阿根廷
+
+argument	争论
+
+ariel	阿里尔
+
+aristocrat	贵族
+
+arm	臂
+
+arm_wrestling	手臂摔跤
+
+armor	盔甲
+
+army	军队
+
+arrangement	安排
+
+array	排列
+
+arrest	逮捕
+
+arrest_warrant	逮捕证
+
+arrested_development	发展停滞
+
+arrival	到达
+
+arrow	箭头
+
+arroyo	阿罗约
+
+arsenal	兵工厂
+
+arson	纵火
+
+art	艺术
+
+art_collection	艺术品收藏
+
+art_film	艺术电影
+
+art_form	艺术形式
+
+art_gallery	美术馆
+
+art_glass	艺术玻璃
+
+art_historian	艺术史学家
+
+art_history	艺术史
+
+art_house	艺术屋
+
+art_journal	艺术杂志
+
+art_movement	艺术运动
+
+art_movie	艺术电影
+
+art_music	艺术音乐
+
+art_rock	艺术摇滚
+
+art_school	艺术学校
+
+art_student	艺术系学生
+
+art_therapy	艺术疗法
+
+article	文章
+
+articulator	发音器官
+
+artifact	神器
+
+artificial_intelligence	人工智能
+
+artillery	炮兵
+
+artist	艺术家
+
+artwork	艺术品
+
+ascent	上升
+
+ash	灰
+
+ash_tree	灰树
+
+asian	亚洲
+
+asian_elephant	亚洲象
+
+aside	在旁边
+
+ask	问
+
+asking	问
+
+aspect	方面
+
+aspect_ratio	长宽比
+
+assassination	暗杀
+
+assault	突击
+
+assault_rifle	突击步枪
+
+assault_weapon	突击武器
+
+assembly	部件
+
+assembly_language	汇编语言
+
+assembly_line	流水线
+
+assertion	断言
+
+assessment	评定
+
+asset	财富
+
+assignment	分配
+
+assist	助攻
+
+assistance	帮助
+
+assistance_dog	协助犬
+
+assistant	助理
+
+assistant_referee	助理裁判
+
+associate	关联
+
+association	协会
+
+association_football	足协
+
+assumption	假设
+
+assurance	保证
+
+asteroid	小行星
+
+astronaut	宇航员
+
+asylum	避难所
+
+athlete	运动员
+
+athletics	竞技
+
+atlantic_salmon	大西洋三文鱼
+
+atlas	舆图
+
+atmosphere	大气层
+
+atomic_energy	原子能
+
+atomic_number	原子数
+
+atrocity	暴行
+
+attack	攻击
+
+attack_dog	攻击犬
+
+attacker	攻击者
+
+attacking_midfielder	前腰
+
+attempt	尝试
+
+attendance	勤
+
+attending	出席
+
+attention	注意
+
+attention_span	注意力
+
+attire	服装
+
+attitude	态度
+
+attorney	律师
+
+attorney_general	总检察长
+
+attraction	引力
+
+attribution	归因
+
+attribution_theory	归因理论
+
+au_pair	换工
+
+auburn	奥本
+
+auction	拍卖
+
+audience	听众
+
+audio	音频
+
+audio_commentary	音频评论
+
+audit	审计
+
+audit_trail	审计追踪
+
+auditorium	礼堂
+
+aunt	姨
+
+austerity	简朴
+
+australian	澳大利亚
+
+austrian	奥
+
+author	作者
+
+authoritarian	独裁的
+
+authority	权威
+
+authorization	授权
+
+auto	汽车
+
+auto_insurance	汽车保险
+
+auto_racing	赛车
+
+auto_shop	汽车店
+
+autobiography	自传
+
+automaker	汽车
+
+automatic	自动
+
+automatic_rifle	自动步枪
+
+automatic_transmission	自动变速器
+
+automobile	汽车
+
+automobile_racing	赛车
+
+autonomous_community	自治社区
+
+autonomy	自治
+
+autopsy	尸检
+
+autumn	秋季
+
+auxiliary	辅
+
+availability	可用性
+
+avalanche	雪崩
+
+avalanche_effect	雪崩效应
+
+avenue	大街
+
+average	平均
+
+average_joe	普通人
+
+aviation	航空
+
+aviator	飞行员
+
+award	奖
+
+award_ceremony	颁奖仪式
+
+awareness	意识
+
+axis	轴
+
+ayatollah	阿亚图拉
+
+baby	宝宝
+
+baby_blue	淡蓝色
+
+baby_book	婴儿书
+
+baby_boom	婴儿潮
+
+baby_bottle	婴儿奶瓶
+
+baby_boy	男婴
+
+baby_face	娃娃脸
+
+baby_food	婴儿食品
+
+baby_formula	婴儿配方奶粉
+
+baby_girl	女婴
+
+baby_monitor	维持现状
+
+baby_oil	婴儿油
+
+baby_seat	婴儿座椅
+
+baby_step	宝贝一步
+
+baby_talk	宝贝说话
+
+bachelor	单身汉
+
+bachelor_party	单身派对
+
+back	背部
+
+back_channel	后通道
+
+back_door	后门
+
+back_row	后排
+
+back_street	后街
+
+back_yard	后院
+
+backdrop	背景
+
+background	背景
+
+background_music	背景音乐
+
+background_radiation	背景辐射
+
+backing	后盾
+
+backing_band	背带
+
+backlash	反弹
+
+backup	备用
+
+bacon	培根
+
+bad	坏
+
+bad_boy	坏小子
+
+bad_girl	坏女孩
+
+bad_news	坏消息
+
+bad_seed	坏种子
+
+badminton	羽毛球
+
+bag	袋
+
+baggage	行李
+
+baht	铢
+
+bail	保释
+
+bail_bond	保释金
+
+bailey	贝利
+
+bailout	救助
+
+baker	面包师傅
+
+baking	饼
+
+balance	平衡
+
+balance_beam	平衡木
+
+balance_board	平衡板
+
+balance_sheet	资产负债表
+
+balance_wheel	摆轮
+
+balancing	平衡
+
+balancing_act	平衡技术
+
+ball	球
+
+ball_bearing	滚珠轴承
+
+ball_boy	球童
+
+ball_carrier	球载体
+
+ball_club	球杆
+
+ball_game	球赛
+
+ball_lightning	球状闪电
+
+ball_player	球手
+
+ballet	芭蕾舞
+
+ballistic_missile	弹道式导弹
+
+balloon	气球
+
+ballot	选票
+
+ballot_box	选票箱
+
+ballot_paper	选票
+
+ballots	选票
+
+ballplayer	球坛
+
+ban	禁止
+
+banana	香蕉
+
+banana_republic	香蕉共和国
+
+band	带
+
+bang	砰
+
+bank	银行
+
+bank_account	银行账户
+
+bank_balance	银行存款余额
+
+bank_card	银行卡
+
+bank_holiday	银行假期
+
+bank_rate	银行利率
+
+bank_statement	银行对帐单
+
+bank_transfer	银行转帐
+
+banker	银行家
+
+banking	银行业
+
+bankruptcy	破产
+
+banner	旗帜
+
+banner_ad	横幅广告
+
+banning	取缔
+
+baptist	浸礼者
+
+bar	酒吧
+
+bar_association	律师协会
+
+bar_chart	条形图
+
+bar_code	条码
+
+bar_exam	律师资格考试
+
+bar_examination	律师考试
+
+barbara	芭芭拉
+
+barber	理发师
+
+bare	裸
+
+bargain	讨价还价
+
+bargaining_power	议价能力
+
+barn	谷仓
+
+barney	巴尼
+
+baron	男爵
+
+barrage	弹幕
+
+barrel	桶
+
+barrel_roll	滚桶
+
+barrier	屏障
+
+barrier_island	屏障岛
+
+barrier_method	屏障法
+
+barry	巴里
+
+barton	巴顿
+
+base	基础
+
+base_class	基类
+
+base_hit	基本命中
+
+base_isolation	基本隔离
+
+base_metal	基本金属
+
+base_pair	碱基对
+
+base_station	基站
+
+base_unit	基本单位
+
+baseball	棒球
+
+baseball_bat	棒球棒
+
+baseball_cap	棒球帽
+
+baseball_card	棒球卡
+
+baseball_field	棒球场
+
+baseball_player	棒球选手
+
+baseman	三垒手
+
+basement	地下室
+
+basic	基本
+
+basic_research	基础研究
+
+basic_training	基础训练
+
+basin	盆地
+
+basis	基础
+
+basis_point	基点
+
+basket	篮
+
+basket_case	篮子盒
+
+basketball	篮球
+
+basketball_court	篮球场
+
+basketball_player	篮球运动员
+
+basque	巴斯克
+
+bass	低音
+
+bass_drum	低音鼓
+
+bass_guitar	低音吉他
+
+bass_guitarist	低音吉他手
+
+bassist	贝斯手
+
+bat	蝙蝠
+
+batch	批量
+
+batch_file	批处理文件
+
+bath	浴
+
+bath_salt	浴盐
+
+bathroom	浴室
+
+bathroom_break	浴室休息
+
+batman	蝙蝠侠
+
+baton	指挥棒
+
+batsman	击球手
+
+battalion	营
+
+batter	面糊
+
+battery	电池
+
+batting	棉絮
+
+batting_average	平均击球
+
+batting_order	击球顺序
+
+battle	战斗
+
+battle_buddy	战斗伙伴
+
+battle_cry	战斗口号
+
+battle_fatigue	战斗疲劳
+
+battle_line	战线
+
+battle_royal	荣誉之战
+
+battlefield	战场
+
+battling	作战
+
+bay	湾
+
+bay_leaf	月桂叶
+
+bay_window	飘窗
+
+beach	海滩
+
+beach_ball	沙滩球
+
+beach_chair	沙滩椅
+
+beach_party	沙滩派对
+
+beach_soccer	沙滩足球
+
+beach_volleyball	沙滩排球
+
+beam	光束
+
+bean	豆角，扁豆
+
+bear	熊
+
+bear_cat	熊猫
+
+bear_market	熊市
+
+beard	胡子
+
+bearing	轴承
+
+bears	熊
+
+beast	兽
+
+beat	击败
+
+beating	跳动
+
+beauty	美女
+
+beauty_contest	选美赛
+
+beauty_product	美容产品
+
+beauty_queen	选美皇后
+
+beauty_school	美容学校
+
+beauty_spot	风景名胜区
+
+beck	招手
+
+becker	贝克尔
+
+becoming	变得
+
+bed	床
+
+bed_sheet	床单
+
+bedroom	卧室
+
+bedroom_community	卧室社区
+
+bee	蜜蜂
+
+beef	牛肉
+
+beer	啤酒
+
+beer_bottle	啤酒瓶
+
+beer_can	啤酒罐
+
+beer_garden	啤酒园
+
+beer_hall	啤酒厅
+
+beer_money	啤酒钱
+
+beer_tent	啤酒帐篷
+
+beetle	甲虫
+
+begin	开始
+
+beginning	开始
+
+begun	开始
+
+behalf	代表
+
+behavior	行为
+
+behaviour	行为
+
+behind	背后
+
+belief	信仰
+
+belief_system	信仰体系
+
+bell	钟
+
+bell_curve	钟形曲线
+
+bell_pepper	灯笼椒
+
+bell_tower	钟楼
+
+belle	美女
+
+belonging	属于
+
+beloved	心爱
+
+belt	带
+
+belt_drive	皮带传动
+
+ben	本
+
+bench	长凳
+
+bench_press	卧推
+
+bench_trial	庭审
+
+bench_warrant	基准令
+
+benchmark	基准
+
+bend	弯曲
+
+benedict	本尼迪克特
+
+benefit	效益
+
+benjamin	本杰明
+
+bent	弯曲
+
+berlin	柏林
+
+bernard	伯纳德
+
+berry	浆果
+
+berth	泊位
+
+best	最好
+
+best_friend	最好的朋友
+
+bet	打赌
+
+beta_version	测试版本
+
+beth	贝丝
+
+better	更好
+
+betty	贝蒂
+
+beverage	饮料
+
+beyond	外
+
+bias	偏压
+
+bible	圣经
+
+bible_belt	圣经腰带
+
+bicycle	自行车
+
+bicycle_kick	自行车踢
+
+bicycle_lane	自行车道
+
+bicycle_path	自行车道
+
+bid	出价
+
+bid_price	竞价
+
+bidding_price	投标价
+
+big	大
+
+big_band	大乐队
+
+big_bang	大爆炸
+
+big_beat	大节奏
+
+big_boy	大男孩
+
+big_brother	大哥
+
+big_business	大生意
+
+big_deal	没关系
+
+big_house	大房子
+
+big_mouth	大嘴巴
+
+big_shot	大人物
+
+big_sister	大姐姐
+
+big_time	重要时刻
+
+big_wheel	巨轮
+
+bike	自行车
+
+bike_lane	自行车道
+
+bike_path	自行车道
+
+bill	法案
+
+billboard	广告牌
+
+billion	十亿
+
+billionaire	亿万富翁
+
+billy	比利
+
+bin	箱子
+
+binding	捆绑
+
+binding_energy	结合能
+
+biography	传
+
+biologist	生物学家
+
+biology	生物学
+
+biotechnology	生物技术
+
+bird	鸟
+
+bird_flu	禽流感
+
+bird_strike	鸟罢工
+
+birdie	小鸟
+
+birth	分娩
+
+birth_canal	产道
+
+birth_certificate	出生证明
+
+birth_control	计划生育
+
+birth_father	亲生父亲
+
+birth_mother	亲生母亲
+
+birth_rate	出生率
+
+birthday	生日
+
+birthday_boy	寿星
+
+birthday_cake	生日蛋糕
+
+birthday_card	生日贺卡
+
+birthday_gift	生日礼物
+
+birthday_present	生日礼物
+
+birthday_suit	生日服装
+
+birthplace	出生地
+
+bishop	主教
+
+bit	位
+
+bit_part	位部分
+
+bit_player	位播放器
+
+bit_rate	比特率
+
+bite	咬
+
+bitter	苦
+
+bitter_end	悲惨结局
+
+black	黑色
+
+black_belt	黑带
+
+black_bloc	黑色集团
+
+black_box	黑盒子
+
+black_cat	黑猫
+
+black_eye	黑色眼睛
+
+black_flag	黑旗
+
+black_gold	黑金
+
+black_hat	黑帽
+
+black_hole	黑洞
+
+black_jack	黑杰克
+
+black_knight	黑色骑士
+
+black_light	黑光
+
+black_magic	黑魔法
+
+black_man	黑人
+
+black_market	黑市
+
+black_metal	黑金属
+
+black_sheep	害群之马
+
+black_swan	黑天鹅
+
+black_tea	红茶
+
+black_tie	黑领带
+
+black_water	黑色的水
+
+black_widow	黑寡妇
+
+blade	刀
+
+blame	怪
+
+blame_game	怪游戏
+
+blank	空白
+
+blanket	毯
+
+blanket_term	总称
+
+blast	爆破
+
+blast_beat	爆炸拍
+
+blasts	爆炸
+
+blaze	火焰
+
+bleak	苍凉
+
+bleeding	流血的
+
+blend	混合
+
+blessing	祝福
+
+blind	盲
+
+blind_date	相亲
+
+blitz	闪电战
+
+bloc	集团
+
+block	块
+
+block_letter	封号
+
+block_party	集体聚会
+
+blockade	封锁
+
+blockade_runner	封锁赛跑者
+
+blockbuster	重磅炸弹
+
+blockbuster_drug	重磅炸弹药
+
+blocking	闭塞
+
+blog	博客
+
+blog_roll	博客卷
+
+blood	血液
+
+blood_bank	血库
+
+blood_bath	血浴
+
+blood_brother	亲兄弟
+
+blood_cell	血细胞
+
+blood_count	血球计数
+
+blood_diamond	血钻
+
+blood_donor	献血者
+
+blood_feud	血海深仇
+
+blood_group	血型
+
+blood_money	血钱
+
+blood_orange	血橙
+
+blood_poisoning	血液中毒
+
+blood_pressure	血压
+
+blood_red	血红
+
+blood_relative	血亲
+
+blood_replacement	补血
+
+blood_sample	血液样本
+
+blood_sport	血液运动
+
+blood_sugar	血糖
+
+blood_supply	血液供应
+
+blood_test	验血
+
+blood_type	血型
+
+blood_vessel	血管
+
+blood_work	血汗工作
+
+bloodshed	流血
+
+bloody_mary	血腥玛丽
+
+bloom	盛开
+
+blow	吹
+
+blow_torch	吹火炬
+
+blue	蓝色
+
+blue_blood	贵族
+
+blue_box	蓝框
+
+blue_bull	蓝牛
+
+blue_cheese	蓝乳酪
+
+blue_chip	蓝筹
+
+blue_flag	蓝旗
+
+blue_grass	蓝草
+
+blue_hole	蓝洞
+
+blue_jay	蓝松鸦
+
+blue_jean	蓝色牛仔裤
+
+blue_line	蓝线
+
+blue_moon	蓝月亮
+
+blue_note	蓝音符
+
+blue_peter	蓝色彼得
+
+blue_room	蓝色房间
+
+blue_screen	蓝屏幕
+
+blue_shark	蓝鲨
+
+blue_state	蓝色状态
+
+blue_water	蓝色的水
+
+blue_whale	蓝鲸
+
+blueprint	蓝图
+
+blunt	钝
+
+board	板
+
+board_game	棋盘游戏
+
+board_room	董事会会议室
+
+boarding	登机
+
+boarding_school	寄宿学校
+
+boat	船
+
+boat_lift	船用升降机
+
+boat_race	划船比赛
+
+boat_trip	游船旅行
+
+bob	短发
+
+bobby	鲍比
+
+body	身体
+
+body_bag	尸体袋
+
+body_check	身体检查
+
+body_count	死亡人数
+
+body_fluid	体液
+
+body_hair	体毛
+
+body_image	身体形象
+
+body_language	身体语言
+
+body_of_water	水体
+
+body_part	身体的一部分
+
+body_shop	车身修理厂
+
+body_spray	身体喷雾
+
+body_temperature	体温
+
+bogey	忌
+
+bold	胆大
+
+bolivia	玻利维亚
+
+bologna	博洛尼亚
+
+bolt	螺栓
+
+bolt_action	螺栓行动
+
+bomb	炸弹
+
+bomb_shelter	防空洞
+
+bomb_site	炸弹现场
+
+bombardment	轰击
+
+bomber	轰炸机
+
+bombing	轰炸
+
+bond	键
+
+bond_energy	键能
+
+bond_issue	债券发行
+
+bond_market	债券市场
+
+bonds	债券
+
+bone	骨
+
+bone_china	骨瓷
+
+bone_density	骨密度
+
+bone_meal	骨粉
+
+bone_structure	骨骼结构
+
+bonus	奖金
+
+boo	嘘
+
+book	书
+
+book_award	图书奖
+
+book_burning	烧书
+
+book_club	图书俱乐部
+
+book_deal	预定交易
+
+book_fair	书展
+
+book_shop	书店
+
+book_signing	签书
+
+book_store	书店
+
+book_value	账面价值
+
+booklet	小册子
+
+boom	繁荣
+
+boom_box	动臂箱
+
+boom_town	繁荣小镇
+
+boost	促进
+
+boot	靴
+
+boot_camp	新兵训练营
+
+boot_sector	引导区
+
+booth	亭
+
+border	边界
+
+bore	孔
+
+boring	无聊
+
+born	天生
+
+borough	镇
+
+borrow	借
+
+borrowing	借款
+
+boss	老板
+
+bother	烦
+
+bottle	瓶子
+
+bottle_cap	瓶盖
+
+bottle_opener	开瓶器
+
+bottom	底部
+
+bottom_line	底线
+
+boulevard	林荫大道
+
+bounce	弹跳
+
+bound	界
+
+boundary	边界
+
+bourse	股票交易所
+
+bout	回合
+
+bow	弓
+
+bow_shock	弓震动
+
+bow_tie	领结
+
+bowl	碗
+
+bowl_cut	碗切
+
+bowler	投球手
+
+bowling	保龄球
+
+bowling_ball	保龄球
+
+bowling_green	保龄球绿
+
+box	框
+
+box_camera	相机盒
+
+box_model	盒子模型
+
+box_office	票房
+
+box_plot	箱形图
+
+box_score	盒子分数
+
+box_seat	箱座
+
+box_set	盒装
+
+box_spring	发条盒
+
+boxer	拳击手
+
+boxing	拳击
+
+boxing_day	节礼日
+
+boxing_ring	拳击场
+
+boy	男孩
+
+boy_band	男孩乐队
+
+boy_friend	男朋友
+
+boy_genius	天才男孩
+
+boy_scout	童子军
+
+boy_wonder	男孩奇迹
+
+boycott	抵制
+
+boyfriend	男朋友
+
+brad	布拉德
+
+brain	脑
+
+brain_cancer	脑癌
+
+brain_candy	脑糖
+
+brain_cell	脑细胞
+
+brain_damage	脑损伤
+
+brain_death	脑死亡
+
+brain_drain	人才外流
+
+brain_stem	脑干
+
+brain_surgery	脑部手术
+
+brain_trust	脑信任
+
+brain_wave	脑电波
+
+brake	制动
+
+branch	科
+
+branch_line	支线
+
+branch_office	分支机构
+
+brand	牌
+
+brand_image	品牌形象
+
+brand_name	品牌
+
+brands	品牌
+
+brass	黄铜
+
+brass_band	铜管乐队
+
+brass_ring	黄铜环
+
+brass_section	黄铜部分
+
+brave	勇敢
+
+brazil	巴西
+
+breach	突破口
+
+bread	面包
+
+bread_roll	面包卷
+
+break	打破
+
+break_point	断点
+
+break_room	休息室
+
+breakaway	摆脱
+
+breakdown	分解
+
+breakfast	早餐
+
+breaking	破坏
+
+breakthrough	突破
+
+breakup	分手
+
+breast	乳房
+
+breast_cancer	乳腺癌
+
+breast_milk	母乳
+
+breast_pump	吸奶器
+
+breast_reduction	乳房缩小
+
+breath	呼吸
+
+breath_test	呼气测试
+
+breathing	呼吸
+
+breathing_room	呼吸室
+
+breathing_space	喘息空间
+
+breed	品种
+
+breeding	配种
+
+breeding_ground	繁殖地
+
+brent	黑雁
+
+brewer	啤酒
+
+brewery	酿酒厂
+
+brewing	酿造
+
+bribery	受贿
+
+brick	砖
+
+brick_house	砖房
+
+brick_wall	砖墙
+
+bride	新娘
+
+bride_price	聘礼
+
+bridge	桥
+
+bridge_loan	过桥贷款
+
+brief	简要
+
+briefing	简报
+
+briefing_note	简报
+
+brigade	旅
+
+brigadier	准将
+
+brigadier_general	准将
+
+bright	亮
+
+brilliant	辉煌
+
+brink	边缘
+
+bristol	布里斯托尔
+
+broad	宽
+
+broad_gauge	宽范围
+
+broadband	宽带
+
+broadcast	广播
+
+broadcast_station	广播电台
+
+broadcaster	广播员
+
+broadcasting	广播
+
+broadway	百老汇
+
+broken_heart	心碎
+
+broker	经纪人
+
+brokerage	佣金
+
+bronze	青铜
+
+bronze_medal	铜牌
+
+bronze_medalist	铜牌得主
+
+brook	溪
+
+brooks	布鲁克斯
+
+brother	哥哥
+
+brotherhood	手足情谊
+
+brown	棕色
+
+brown_bear	棕熊
+
+brown_sauce	棕色酱
+
+browser	浏览器
+
+bruce	布鲁斯
+
+brush	刷
+
+bubble	气泡
+
+bubble_sort	气泡排序
+
+buck	降压
+
+bud	芽
+
+buddha	佛
+
+buddy	伙伴
+
+budget	预算
+
+buffalo	水牛
+
+buffalo_jump	水牛跳
+
+buffalo_soldier	水牛士兵
+
+buffalo_wing	水牛城翼
+
+buffer	缓冲
+
+bug	窃听器
+
+build	建立
+
+builder	建设者
+
+building	建造
+
+building_block	积木
+
+building_code	建筑规范
+
+building_site	建筑工地
+
+building_society	建设社会
+
+buildup	建立
+
+built	内置
+
+bulk	块
+
+bulk_cargo	大批货物
+
+bulk_carrier	散货船
+
+bull	公牛
+
+bull_market	牛市
+
+bull_ring	公牛圈
+
+bullet	子弹
+
+bullet_hell	子弹地狱
+
+bullet_hole	子弹孔
+
+bullet_point	要点
+
+bullet_time	子弹时间
+
+bullet_train	子弹头列车
+
+bulletin	通报
+
+bulletin_board	布告栏
+
+bullpen	牛棚
+
+bunch	束
+
+bunker	掩体
+
+burden	负担
+
+bureau	局
+
+bureaucracy	官僚
+
+bureaucrat	僚
+
+burger	汉堡包
+
+burial	葬礼
+
+burial_chamber	墓室
+
+burial_ground	墓地
+
+burke	伯克
+
+burn	烧伤
+
+burn_notice	烧伤通知
+
+burning	燃烧
+
+burst	爆
+
+burton	伯顿
+
+bury	埋葬
+
+bus	总线
+
+bus_driver	公车司机
+
+bus_fare	公交车票价
+
+bus_lane	公交专用道
+
+bus_route	巴士路线
+
+bus_shelter	候车亭
+
+bus_station	公车站
+
+bus_stop	巴士站
+
+bush	衬套
+
+bush_pilot	布什飞行员
+
+bushel	蒲式耳
+
+business	商业
+
+business_administration	商业管理
+
+business_analyst	业务分析师
+
+business_card	名片
+
+business_class	商务课程
+
+business_cycle	商业周期
+
+business_day	工作日
+
+business_economics	商业经济学
+
+business_end	业务端
+
+business_ethics	商业伦理
+
+business_intelligence	商业智能
+
+business_logic	商业逻辑
+
+business_lunch	商务午餐
+
+business_model	商业模式
+
+business_park	商业园
+
+business_plan	商业计划
+
+business_record	业务记录
+
+business_trip	商务旅行
+
+business_venture	商业冒险
+
+businessman	商人
+
+businessperson	商人
+
+businesswoman	女商人
+
+bust	胸围
+
+butler	男管家
+
+butt	屁股
+
+butter	牛油
+
+butter_chicken	黄油鸡
+
+butter_cream	黄油奶油
+
+butterfly	蝴蝶
+
+butterfly_bush	蝴蝶布什
+
+butterfly_effect	蝴蝶效应
+
+button	按键
+
+buy	购买
+
+buyer	买方
+
+buying_power	购买力
+
+buyout	买断
+
+buzz	蜂鸣器
+
+buzz_word	流行语
+
+bye	再见
+
+bypass	旁路
+
+bystander	旁观者
+
+cab	出租车
+
+cabin	舱
+
+cabin_boy	机舱男孩
+
+cabin_crew	机组人员
+
+cabinet	内阁
+
+cabinet_maker	橱柜制造商
+
+cabinet_minister	内阁大臣
+
+cable	电缆
+
+cable_box	电缆盒
+
+cable_car	缆车
+
+cable_guy	电缆家伙
+
+cable_internet	有线互联网
+
+cable_length	电缆长度
+
+cable_television	有线电视
+
+cable_tie	扎线带
+
+cafe	咖啡店
+
+cage	笼
+
+cage_match	笼子比赛
+
+cake	蛋糕
+
+cake_mix	混合蛋糕
+
+cake_shop	蛋糕店
+
+cal	CAL
+
+calamity	灾害
+
+calendar	日历
+
+calendar_month	历月
+
+calendar_year	公历年
+
+caliber	口径
+
+call	呼叫
+
+call_center	呼叫中心
+
+call_centre	呼叫中心
+
+call_girl	应召女郎
+
+call_sign	呼号
+
+calling	调用
+
+calm	平静
+
+came	来了
+
+camera	相机
+
+camera_flash	相机闪光灯
+
+camera_movement	相机运动
+
+camera_phone	拍照手机
+
+camp	营
+
+camp_bed	露营床
+
+campaign	运动
+
+campaigner	活动家
+
+camping	露营
+
+campus	校园
+
+canal	运河
+
+cancellation	消除
+
+cancer	癌症
+
+candidacy	候选人
+
+candidate	候选人
+
+candy	糖果
+
+candy_apple	糖苹果
+
+candy_bar	糖果条
+
+candy_man	糖果人
+
+candy_store	糖果店
+
+cane	甘蔗
+
+cannon	大炮
+
+cannon_ball	炮弹
+
+canon	教规
+
+canon_law	教会法
+
+canterbury	坎特伯雷
+
+canton	广州
+
+canvas	帆布
+
+canyon	峡谷
+
+cap	帽
+
+capability	能力
+
+capacity	容量
+
+cape	岬
+
+capita	人头
+
+capital	首都
+
+capital_account	资本账户
+
+capital_asset	资本资产
+
+capital_city	首都
+
+capital_crime	死罪
+
+capital_equipment	基本设备
+
+capital_expenditure	资本支出
+
+capital_gain	资本收益
+
+capital_letter	大写字母
+
+capital_loss	资本损失
+
+capital_market	资本市场
+
+capital_offense	死罪
+
+capital_punishment	死刑
+
+capital_ship	资本船
+
+capitalism	资本主义
+
+capitalist	资本家
+
+capitol	国会大厦
+
+captain	队长
+
+captain_general	上尉
+
+captive	俘虏
+
+captives	俘虏
+
+captivity	囚禁
+
+capture	捕获
+
+car	汽车
+
+car_alarm	汽车防盗器
+
+car_battery	汽车电池
+
+car_bomb	汽车炸弹
+
+car_boot	汽车后备箱
+
+car_chase	追车
+
+car_door	车门
+
+car_hire	汽车租赁
+
+car_park	停车场
+
+car_radio	汽车收音机
+
+car_rental	汽车出租
+
+car_seat	汽车座椅
+
+car_wash	洗车
+
+carbon	碳
+
+carbon_copy	复本
+
+carbon_credit	碳信用
+
+carbon_cycle	碳循环
+
+carbon_dioxide	二氧化碳
+
+carbon_fiber	碳纤维
+
+carbon_market	碳市场
+
+carbon_offset	碳补偿
+
+carbon_paper	复写纸
+
+carbon_steel	碳素钢
+
+carbon_tax	碳税
+
+carbon_trading	碳交易
+
+card	卡
+
+card_game	纸牌游戏
+
+card_table	卡表
+
+cardinal	枢机主教
+
+cardinal_bishop	红衣主教
+
+cardinal_rule	基本法则
+
+care	关心
+
+care_bears	护理熊
+
+care_package	护理包
+
+career	事业
+
+career_criminal	职业罪犯
+
+careers	职业生涯
+
+caretaker	管理人
+
+cargo	货物
+
+cargo_cult	货物崇拜
+
+cargo_hold	货舱
+
+cargo_pants	工装裤
+
+cargo_ship	货船
+
+cargo_vessel	货船
+
+carl	卡尔
+
+carnival	狂欢
+
+carol	颂歌
+
+carpenter	木匠
+
+carpet	地毯
+
+carr	卡尔
+
+carrier	支架
+
+carrier_bag	购物袋
+
+carrier_wave	载波
+
+carry	携带
+
+carrying	携带
+
+cart	大车
+
+cartel	卡特尔
+
+carter	卡特
+
+cartoon	动画片
+
+cartoon_character	卡通人物
+
+case	案件
+
+case_history	病历
+
+case_law	判例法
+
+case_report	案例报告
+
+case_study	案例分析
+
+cash	现金
+
+cash_box	钱箱
+
+cash_cow	摇钱树
+
+cash_crop	经济作物
+
+cash_flow	现金周转
+
+cash_machine	取款机
+
+cash_money	现金
+
+cash_position	现金状况
+
+cash_register	收银机
+
+casino	赌场
+
+cast	投
+
+casting	铸件
+
+casting_agent	铸造剂
+
+castle	城堡
+
+casual	随便
+
+casual_game	休闲游戏
+
+casualty	受害者
+
+cat	猫
+
+cat_food	猫食
+
+cat_lady	猫咪夫人
+
+catalog	目录
+
+catastrophe	灾难
+
+catastrophe_theory	突变理论
+
+catch	抓住
+
+catch_phrase	流行语
+
+catcher	捕手
+
+category	类别
+
+category_theory	范畴论
+
+cathedral	大教堂
+
+cathedral_city	大教堂城
+
+cattle	黄牛
+
+cattle_car	牛车
+
+cattle_dog	牛狗
+
+cattle_drive	牛驱动器
+
+cattle_station	养牛场
+
+caucus	预备会议
+
+cause	原因
+
+caution	警告
+
+cavalry	骑兵
+
+cave	洞穴
+
+cave_bear	洞熊
+
+cave_painting	石洞壁画
+
+ceasefire	停火
+
+cedar	雪松
+
+ceiling	天花板
+
+ceiling_fan	吊扇
+
+celebration	庆典
+
+celebrity	名人
+
+celestial_body	星体
+
+cell	细胞
+
+cell_death	细胞死亡
+
+cell_division	细胞分裂
+
+cell_line	细胞系
+
+cell_phone	手机
+
+cell_theory	细胞理论
+
+cell_wall	细胞壁
+
+cellular	细胞的
+
+celsius	摄氏
+
+cement	水泥
+
+cemetery	公墓
+
+censorship	审查
+
+census	人口调查
+
+cent	一分钱
+
+center	中央
+
+center_back	中后卫
+
+center_field	中心场
+
+center_fielder	中心守场员
+
+center_stage	中心舞台
+
+central_bank	中央银行
+
+centre	中央
+
+centre_back	中后卫
+
+centre_circle	中心圆
+
+centre_half	中心一半
+
+centre_stage	中心舞台
+
+centrist	中间派
+
+century	世纪
+
+century_egg	世纪蛋
+
+ceremonial	仪式
+
+ceremony	仪式
+
+certainty	肯定
+
+certificate	证书
+
+certificate_authority	证书颁发机构
+
+certification	证明
+
+chad	乍得
+
+chain	链
+
+chain_gang	链帮
+
+chain_gun	链枪
+
+chain_letter	连锁信
+
+chain_mail	锁子甲
+
+chain_reaction	连锁反应
+
+chain_saw	链锯
+
+chain_store	连锁店
+
+chair	椅子
+
+chair_lift	升降椅
+
+chairman	主席
+
+chairwoman	女主席
+
+challenge	挑战
+
+challenger	挑战者
+
+chamber	室
+
+chamber_ensemble	室内乐团
+
+chamber_music	室内乐
+
+chamber_orchestra	室内乐团
+
+chambers	室
+
+champ	冠军
+
+champagne	香槟酒
+
+champion	冠军
+
+championship	锦标赛
+
+chan	陈
+
+chance	机会
+
+chancellor	校长
+
+chandler	钱德勒
+
+chang	昌
+
+change	更改
+
+change_management	更换管理层
+
+channel	渠道
+
+chanting	诵经
+
+chaos	混沌
+
+chaos_theory	混沌理论
+
+chapel	教堂
+
+chapman	查普曼
+
+chapter	章节
+
+chapter_house	章屋
+
+character	字符
+
+character_actor	角色演员
+
+character_actress	角色女演员
+
+character_assassination	人物暗杀
+
+character_class	人物类
+
+character_reference	角色参考
+
+character_set	字符集
+
+characteristic	特性
+
+charge	收费
+
+charge_density	电荷密度
+
+charging	充电
+
+charismatic	魅力
+
+charitable_organization	慈善组织
+
+charity	慈善机构
+
+charity_shop	慈善商店
+
+charlotte	夏洛特
+
+charm	魅力
+
+charm_offensive	魅力攻势
+
+charm_school	魅力学校
+
+chart	图表
+
+charter	宪章
+
+charter_school	特许学校
+
+charwoman	女佣
+
+chase	追
+
+chat	聊
+
+chat_line	聊天专线
+
+chat_room	聊天室
+
+chat_show	访谈节目
+
+cheap	贱
+
+cheating	作弊
+
+check	校验
+
+checking	检查
+
+checking_account	支票账户
+
+checkpoint	检查站
+
+cheer	欢呼
+
+cheese	起司
+
+chef	厨师
+
+chemical	化学
+
+chemical_agent	化学剂
+
+chemical_bond	化学键
+
+chemical_change	化学变化
+
+chemical_composition	化学成分
+
+chemical_compound	化学合成物
+
+chemical_element	化学元素
+
+chemical_energy	化学能源
+
+chemical_engineer	化学工程师
+
+chemical_engineering	化学工程
+
+chemical_equation	化学方程式
+
+chemical_formula	化学式
+
+chemical_law	化学法
+
+chemical_physics	化学物理学
+
+chemical_plant	化工厂
+
+chemical_property	化学性质
+
+chemical_reaction	化学反应
+
+chemical_rocket	化学火箭
+
+chemical_species	化学种类
+
+chemical_structure	化学结构
+
+chemical_substance	化学物质
+
+chemical_warfare	化学战
+
+chemical_weapon	化学武器
+
+chemistry	化学
+
+cheng	程
+
+cherry	樱桃
+
+cherry_bomb	樱桃炸弹
+
+cherry_red	樱桃红
+
+cherry_tree	樱桃树
+
+cherry_wood	樱桃木
+
+chess	棋
+
+chess_boxing	象棋拳击
+
+chess_master	国际象棋大师
+
+chess_piece	棋子
+
+chess_player	棋手
+
+chess_set	国际象棋
+
+chest	胸部
+
+chest_hair	胸毛
+
+chest_wall	胸壁
+
+chi	志
+
+chicken	鸡
+
+chicken_breast	鸡胸肉
+
+chicken_feed	鸡饲料
+
+chicken_leg	鸡腿
+
+chicken_soup	鸡汤
+
+chicken_wing	鸡翅
+
+chicken_wire	鸡丝
+
+chief	首席
+
+chief_executive	首席执行官
+
+chief_executive_officer	首席执行官
+
+chief_god	首席神
+
+chief_scientist	首席科学家
+
+child	儿童
+
+child_abuse	虐待儿童
+
+child_benefit	儿童福利
+
+child_bride	儿童新娘
+
+child_labor	童工
+
+child_pornography	儿童色情
+
+child_prostitution	儿童卖淫
+
+child_rape	儿童强奸
+
+child_support	子女抚养费
+
+childhood	童年
+
+chile	智利
+
+chile_pepper	辣椒
+
+chin	下巴
+
+china	中国
+
+chip	芯片
+
+chip_shop	薯条店
+
+chip_shot	筹码射击
+
+chocolate	巧克力
+
+chocolate_bar	巧克力吧
+
+chocolate_chip	巧克力片
+
+chocolate_milk	巧克力牛奶
+
+chocolate_spread	巧克力酱
+
+choice	选择
+
+choice_theory	选择理论
+
+choir	唱诗班
+
+cholera	霍乱
+
+cholesterol	胆固醇
+
+chorus	合唱
+
+chorus_line	合唱线
+
+christ	基督
+
+christie	克里斯蒂
+
+chronic	慢性
+
+chronicle	编年史
+
+chuck	夹头
+
+church	教会
+
+church_service	教堂服务
+
+cigarette	香烟
+
+cinema	电影
+
+circle	圈
+
+circle_segment	圆弧段
+
+circles	界
+
+circuit	电路
+
+circuit_board	电路板
+
+circuit_court	巡回法庭
+
+circuit_race	巡回赛
+
+circuit_rider	赛车手
+
+circuit_training	循环训练
+
+circular	圆
+
+circulation	循环
+
+circumstance	环境
+
+circus	马戏团
+
+cisco	思科
+
+citation	引用
+
+cites	引用
+
+citizen	公民
+
+citizen_journalism	公民新闻
+
+citizenry	公民
+
+citizenship	国籍
+
+city	市
+
+city_administrator	城市管理员
+
+city_block	城市街区
+
+city_boy	城市男孩
+
+city_center	市中心
+
+city_council	市议会
+
+city_father	城市之父
+
+city_girl	城市女孩
+
+city_hall	市政府
+
+city_state	市，州
+
+civic_crown	公民冠
+
+civil_engineer	土木工程师
+
+civil_engineering	土木工程
+
+civil_law	民法
+
+civil_rights	公民权利
+
+civil_servant	公务员
+
+civil_service	公务员
+
+civil_society	文明社会
+
+civil_union	公民联盟
+
+civil_war	内战
+
+civilian	平民
+
+civilization	文明
+
+claim	要求
+
+clan	氏族
+
+clarence	克拉伦斯
+
+clash	冲突
+
+class	类
+
+class_action	集体诉讼
+
+class_struggle	阶级斗争
+
+class_warfare	阶级战争
+
+classic	经典
+
+classic_rock	经典摇滚
+
+classical_music	古典音乐
+
+classification	分类
+
+classification_scheme	分类方案
+
+classified	分类
+
+classroom	课堂
+
+clause	条款
+
+clay	粘土
+
+clean	清洁
+
+cleaner	清洁器
+
+cleaning	清洁的
+
+cleanup	清理
+
+clearance	净空
+
+clearing	空地
+
+clearing_bank	清算银行
+
+clearing_house	交换所
+
+clergy	牧师
+
+clergyman	牧师
+
+cleric	牧师
+
+clerk	书记
+
+click	点击
+
+client	客户
+
+clientele	客户
+
+cliff	悬崖
+
+climate	气候
+
+climate_change	气候变化
+
+climate_control	气候控制
+
+climb	爬
+
+climbing	攀登
+
+clinch	成交
+
+clinic	诊所
+
+clinical_psychology	临床心理学
+
+clip	夹
+
+clip_art	剪贴画
+
+clique	集团
+
+clock	时钟
+
+clock_face	钟面
+
+clock_speed	时钟速度
+
+clock_tower	钟楼
+
+cloning	克隆
+
+close	关
+
+closed_circuit	闭路
+
+closer	接近
+
+closing	关闭
+
+closing_time	关闭时间
+
+closure	关闭
+
+cloth	布
+
+clothes	衣服
+
+clothes_line	晾衣绳
+
+clothes_shop	服装店
+
+clothing	服装
+
+cloud	云
+
+cloud_base	云底
+
+cloud_cover	云盖
+
+clout	影响力
+
+club	俱乐部
+
+club_foot	球杆脚
+
+club_kid	俱乐部小子
+
+clubhouse	俱乐部
+
+cluster	簇
+
+cluster_analysis	聚类分析
+
+cluster_bomb	集束炸弹
+
+coach	教练
+
+coal	煤
+
+coal_bed	煤层
+
+coal_gas	煤气
+
+coal_mine	煤矿
+
+coalition	联盟
+
+coast	滨
+
+coast_guard	海岸警卫队
+
+coastline	海岸线
+
+coat	涂层
+
+coca	古柯
+
+cocaine	可卡因
+
+cockpit	座舱
+
+cocktail	鸡尾酒
+
+cocktail_party	酒会
+
+cocoa	可可
+
+code	码
+
+code_enforcement	代码执行
+
+code_name	代码名称
+
+code_page	代码页
+
+code_point	代码点
+
+code_review	代码审查
+
+code_signing	代码签名
+
+coffee	咖啡
+
+coffee_bar	咖啡厅
+
+coffee_break	咖啡时间（休闲时光
+
+coffee_house	咖啡屋
+
+coffee_machine	咖啡机
+
+coffee_maker	咖啡机
+
+coffee_pot	咖啡壶
+
+coffee_shop	咖啡店
+
+coffee_table	咖啡桌
+
+coffin	棺材
+
+cohen	科恩
+
+coin	硬币
+
+coke	可乐
+
+cola	可乐
+
+cold	冷
+
+cold_blood	冷血
+
+cold_case	寒冷的情况
+
+cold_front	冷锋
+
+cold_fusion	冷聚变
+
+cold_turkey	冷火鸡
+
+cold_war	冷战
+
+cole	油菜
+
+collaboration	合作
+
+collaborator	合作者
+
+collapse	坍方
+
+collar	领
+
+colleague	同事
+
+collect	收藏
+
+collecting	搜集
+
+collection	采集
+
+collection_plate	收集板
+
+collective	集体
+
+collective_agreement	集体协议
+
+collective_security	集体安全
+
+collector	集电极
+
+college	学院
+
+collegiate	合议
+
+collegiate_church	学院教堂
+
+collins	柯林斯
+
+collision	碰撞
+
+collision_course	碰撞过程
+
+cologne	科隆
+
+colonel	陆军上校
+
+colonial	殖民
+
+colony	殖民地
+
+color	颜色
+
+color_bar	彩条
+
+color_charge	彩色电荷
+
+color_commentator	颜色评论员
+
+color_space	色彩空间
+
+color_television	彩色电视
+
+color_wheel	色轮
+
+colored	有色
+
+colors	颜色
+
+colour	颜色
+
+colour_scheme	配色方案
+
+colour_television	彩色电视
+
+column	柱
+
+columnist	专栏作家
+
+combat	战斗
+
+combat_boot	战斗靴
+
+combat_sport	格斗运动
+
+combatant	战斗
+
+combination	组合
+
+combination_lock	密码锁
+
+combine	结合
+
+come	来
+
+comeback	回来
+
+comeback_kid	卷土重来的孩子
+
+comedian	喜剧演员
+
+comedy	喜剧
+
+comfort	安慰
+
+comfort_food	舒适食品
+
+comfort_zone	舒适区
+
+comic	滑稽
+
+comic_book	漫画书
+
+comic_relief	漫画浮雕
+
+comic_strip	连环漫画
+
+coming	未来
+
+command	命令
+
+command_economy	计划经济
+
+command_line	命令行
+
+command_pattern	命令模式
+
+command_performance	命令执行
+
+commander	指挥官
+
+commander_in_chief	总司令
+
+comment	评论
+
+commentary	评论
+
+commentator	评论员
+
+commerce	商业
+
+commercial	广告
+
+commercial_model	商业模式
+
+commission	佣金
+
+commissioned_officer	军官
+
+commissioner	专员
+
+commitment	承诺
+
+committee	委员会
+
+commodity	商品
+
+commodity_exchange	商品交易
+
+commodity_market	商品市场
+
+common	共同
+
+common_cause	常见的原因
+
+common_ground	共同点
+
+common_law	普通法
+
+common_multiple	公倍数
+
+common_name	通用名
+
+commonwealth	联邦
+
+commune	公社
+
+communication	通讯
+
+communicator	传播者
+
+communique	公报
+
+communism	共产主义
+
+communist	共产
+
+community	社区
+
+community_card	社区卡
+
+community_chest	公益金
+
+community_college	社区大学
+
+community_development	社区发展
+
+community_ownership	社区所有权
+
+community_service	社区服务
+
+commuter	通勤
+
+compact	紧凑
+
+compact_car	紧凑型车
+
+companion	伴侣
+
+companion_animal	伴侣动物
+
+company	公司
+
+company_man	公司人
+
+company_store	公司专卖店
+
+company_time	公司时间
+
+company_town	公司镇
+
+comparison	对照
+
+comparison_shopping	比较购物
+
+compassion	同情
+
+compatriot	国人
+
+compensation	赔偿金
+
+competition	竞争
+
+competitiveness	竞争力
+
+competitor	竞争者
+
+compilation	汇编
+
+complaint	抱怨
+
+complement	补充
+
+completion	完成
+
+complex	复杂
+
+complex_analysis	复杂分析
+
+complex_number	复数
+
+complex_plane	复杂平面
+
+complexity	复杂
+
+complexity_theory	复杂性理论
+
+compliance	合规
+
+component	零件
+
+component_video	分量视频
+
+composer	作曲家
+
+composite	综合
+
+composite_material	复合材料
+
+composition	组成
+
+composition_book	作文书
+
+compound	复合
+
+compound_bow	复合弓
+
+compound_interest	复利
+
+compound_sentence	复合句
+
+compound_word	复合词
+
+comprehensive	全面
+
+comprehensive_school	综合学校
+
+compromise	妥协
+
+compulsory	义务
+
+computer	电脑
+
+computer_architecture	计算机架构
+
+computer_chess	电脑象棋
+
+computer_chip	电脑芯片
+
+computer_engineering	计算机工程
+
+computer_game	电脑游戏
+
+computer_graphics	电脑图像
+
+computer_language	电脑语言
+
+computer_literacy	电脑知识
+
+computer_model	电脑模型
+
+computer_processor	电脑处理器
+
+computer_program	计算机程序
+
+computer_programming	电脑编程
+
+computer_science	计算机科学
+
+computer_scientist	电脑科学家
+
+computer_security	电脑安全
+
+computer_system	计算机系统
+
+computer_virus	电脑病毒
+
+computer_vision	计算机视觉
+
+computing	计算
+
+con	CON
+
+con_artist	骗子
+
+con_man	骗子
+
+concentrate	浓缩
+
+concentration	浓度
+
+concentration_camp	集中营
+
+concept	概念
+
+concept_album	概念专辑
+
+concept_art	概念艺术
+
+concept_map	概念图
+
+conceptualization	概念化
+
+concern	关心
+
+concert	音乐会
+
+concert_hall	音乐厅
+
+concession	让步
+
+conclusion	结论
+
+concrete	具体
+
+condemnation	非难
+
+condition	条件
+
+conditioning	空调
+
+conduct	进行
+
+conductor	导体
+
+cone	锥体
+
+confederate	帮凶
+
+confederation	联盟
+
+conference	会议
+
+conference_call	电话会议
+
+confession	自白书
+
+confidence	置信度
+
+confidence_level	置信度
+
+confidence_trick	信心技巧
+
+configuration	组态
+
+confirmation	确认
+
+confirmation_name	确认名称
+
+conflict	冲突
+
+confluence	合流
+
+confrontation	对抗
+
+confusion	混乱
+
+conglomerate	集团
+
+congregation	集合
+
+congress	国会
+
+congressman	众议员
+
+conjunction	连词
+
+connection	连接
+
+conquest	征服
+
+conscience	良心
+
+conscience_vote	良心投票
+
+consciousness	意识
+
+consensus	共识
+
+consent	同意
+
+consequence	后果
+
+conservation	保护
+
+conservation_biology	保护生物学
+
+conservation_law	守恒定律
+
+conservative	保守
+
+consideration	考虑
+
+consist	组成
+
+consistency	一致性
+
+console	安慰
+
+consolidation	合并
+
+consortium	财团
+
+conspiracy	阴谋
+
+conspiracy_theory	阴谋论
+
+constant	不变
+
+constituency	选民
+
+constitution	宪法
+
+constitutional	构成
+
+constitutional_amendment	宪法修正案
+
+constitutional_law	宪法
+
+constitutional_monarchy	君主立宪制
+
+construct	构造
+
+construction	施工
+
+construction_paper	施工图纸
+
+construction_site	工地
+
+consul	领事
+
+consulate	领事馆
+
+consult	请教
+
+consultant	顾问
+
+consultation	会诊
+
+consumer	消费者
+
+consumer_credit	消费信贷
+
+consumption	消费
+
+contact	联系
+
+contact_language	接触语言
+
+contact_lens	隐形眼镜
+
+contact_sport	接触运动
+
+container	容器
+
+container_ship	集装箱船
+
+contamination	污染
+
+contemporary	现代的
+
+contempt	鄙视
+
+contender	竞争者
+
+content	内容
+
+content_farm	内容农场
+
+content_word	内容词
+
+contention	争夺
+
+contest	比赛
+
+contestant	选手
+
+context	上下文
+
+continent	大陆
+
+continental	大陆
+
+continental_divide	大陆鸿沟
+
+continental_philosophy	大陆哲学
+
+contingent	队伍
+
+continuation	延续
+
+continue	继续
+
+continuity	连续性
+
+contract	合同
+
+contract_killer	合同杀手
+
+contraction	收缩
+
+contractor	承包商
+
+contrary	相反
+
+contrast	对比
+
+contribution	贡献
+
+contributor	贡献者
+
+control	控制
+
+control_chart	控制图
+
+control_group	控制组
+
+control_mechanism	控制机制
+
+control_order	控制命令
+
+control_panel	控制面板
+
+control_room	控制室
+
+control_theory	控制理论
+
+control_tower	控制塔
+
+controlled_substance	管制物质
+
+controller	调节器
+
+controversy	争议
+
+convenience	方便
+
+convenience_food	方便食品
+
+convenience_store	便利店
+
+convention	惯例
+
+convention_state	约定状态
+
+conversation	会话
+
+conversation_piece	谈话片
+
+conversion	转变
+
+conversion_rate	兑换率
+
+convert	兑换
+
+convict	定罪
+
+conviction	信念
+
+convictions	信念
+
+convoy	护航
+
+cook	厨师
+
+cook_book	烹饪书
+
+cooking	烹饪
+
+cooking_oil	食用油
+
+cooking_pot	烹饪锅
+
+cool	凉
+
+cooling	冷却
+
+cooling_tower	冷却塔
+
+cooper	库珀
+
+cooperation	合作
+
+cooperative	合作社
+
+coordinate	坐标
+
+coordinate_system	坐标系
+
+coordination	协调
+
+coordination_compound	配位化合物
+
+coordination_number	协调号
+
+coordinator	协调
+
+cop	警察
+
+cope	应付
+
+copper	铜
+
+cops	警察
+
+copy	复制
+
+copy_boy	复制男孩
+
+copy_editor	复制编辑器
+
+copy_protection	复制保护
+
+copyright	版权
+
+coral	珊瑚
+
+cord	绳
+
+core	核心
+
+core_constituency	核心选区
+
+core_curriculum	核心课程
+
+core_dump	核心转储
+
+core_inflation	核心通货膨胀
+
+core_temperature	核心温度
+
+cork	软木
+
+corn	玉米
+
+corn_dog	玉米狗
+
+corn_exchange	玉米交易所
+
+corn_oil	玉米油
+
+corner	角
+
+corner_flag	角旗
+
+corner_kick	角球
+
+corner_office	角落办公室
+
+corner_shop	街头小店
+
+corner_store	街角商店
+
+cornerback	角卫
+
+corporate	企业
+
+corporate_executive	公司行政人员
+
+corporation	公司
+
+corporations	公司
+
+corps	兵团
+
+correction	更正
+
+correction_officer	惩教官
+
+correctional_institution	惩教所
+
+correspondence	对应
+
+correspondent	通信者
+
+corresponding	相应
+
+corridor	走廊
+
+corruption	腐败
+
+cost	成本
+
+cost_cutting	削减成本
+
+costa	哥斯达黎加
+
+costing	成本核算
+
+costume	服装
+
+costume_drama	古装戏
+
+costume_party	化妆舞会
+
+cottage	茅屋
+
+cottage_hospital	山寨医院
+
+cottage_industry	手工业
+
+cotton	棉
+
+council	评议会
+
+council_estate	理事会庄园
+
+council_house	市政厅
+
+council_tax	议会税
+
+counsel	法律顾问
+
+counseling	辅导服务
+
+counselor	参赞
+
+count	计数
+
+counter	计数器
+
+counter_intelligence	反情报
+
+counterpart	对方
+
+counterterrorism	反恐
+
+counting	数数
+
+country	国家
+
+country_club	乡村俱乐部
+
+country_code	国家代码
+
+country_dance	乡村舞蹈
+
+country_house	乡间别墅
+
+country_music	乡村音乐
+
+country_park	郊野公园
+
+country_rock	围岩
+
+country_seat	国家座位
+
+country_store	乡村商店
+
+countryside	农村
+
+county	县
+
+county_fair	县集市
+
+county_family	县家庭
+
+county_seat	县城
+
+county_town	县城
+
+coup	政变
+
+couple	一对
+
+courage	勇气
+
+course	课程
+
+course_work	课程工作
+
+court	法庭
+
+court_appearance	出庭
+
+court_martial	军事法庭
+
+court_order	法庭命令
+
+court_reporter	法庭记者
+
+court_tennis	网球场
+
+courtesy	礼貌
+
+courthouse	法院
+
+courtroom	法庭
+
+courtyard	庭院
+
+cousin	表姐
+
+cover	覆盖
+
+cover_artist	封面画家
+
+cover_charge	保险费
+
+cover_crop	覆盖作物
+
+cover_drive	盖驱动器
+
+cover_girl	封面女郎
+
+cover_letter	求职信
+
+cover_song	翻唱歌曲
+
+cover_story	封面故事
+
+cover_version	翻唱版本
+
+coverage	覆盖
+
+covered_bridge	廊桥
+
+covering	覆盖
+
+cow	牛
+
+cow_milk	牛奶
+
+cowboy	牛仔
+
+cox	考克斯
+
+crack	裂纹
+
+crack_cocaine	可卡因
+
+crackdown	打假
+
+cracking	开裂
+
+craft	手艺
+
+craftsman	匠
+
+crane	起重机
+
+crash	紧急
+
+crash_barrier	防撞栏
+
+crash_course	速成班
+
+crash_diet	速食
+
+crash_landing	飞机着陆
+
+crash_test	碰撞测试
+
+crater	弹坑
+
+crater_lake	火山口湖
+
+crazy	疯
+
+cream	奶油
+
+cream_cheese	奶油乳酪
+
+cream_tea	奶油茶
+
+creation	创建
+
+creation_science	创造科学
+
+creative	创作的
+
+creative_writing	创意写作
+
+creativity	创造力
+
+creator	创造者
+
+creature	生物
+
+credentials	证书
+
+credibility	可信性
+
+credibility_gap	信誉差距
+
+credit	信用
+
+credit_card	信用卡
+
+credit_crunch	信贷紧缩
+
+credit_limit	信用额度
+
+credit_line	信用额度
+
+credit_rating	信用评级
+
+credit_report	信用报告
+
+credit_risk	信用风险
+
+credit_score	信用评分
+
+credit_union	信用合作社
+
+creek	溪
+
+creek_bed	小河床
+
+crescent	新月
+
+crest	波峰
+
+crew	船员
+
+crew_chief	船长
+
+crew_cut	平头
+
+cricket	蟋蟀
+
+cricket_ball	板球
+
+cricket_bat	板球拍
+
+cricket_field	板球场
+
+cricket_ground	板球场
+
+cricket_pitch	板球场
+
+cricketer	玩板球者
+
+crime	犯罪
+
+crime_lord	犯罪主
+
+crime_scene	犯罪现场
+
+criminal	刑事
+
+criminal_law	刑法
+
+criminal_lawyer	刑事律师
+
+criminal_procedure	刑事诉讼
+
+criminal_record	犯罪记录
+
+crisis	危机
+
+crisis_center	危机中心
+
+crisp	酥脆
+
+critic	评论家
+
+critical_mass	临界质量
+
+criticism	批评
+
+crop	作物
+
+crop_circle	麦田怪圈
+
+cross	交叉
+
+cross_country	越野
+
+cross_examination	交叉检查
+
+cross_section	横截面
+
+cross_talk	相声
+
+crossing	路口
+
+crowd	人群
+
+crowd_control	维持人群秩序
+
+crown	王冠
+
+crown_corporation	皇冠公司
+
+crown_prince	皇太子
+
+crown_princess	皇冠公主
+
+crown_prosecutor	检察官
+
+crude	原油
+
+crude_oil	原油
+
+cruise	巡航
+
+cruise_control	巡航控制
+
+cruise_missile	巡航导弹
+
+cruise_ship	游轮
+
+cruiser	巡洋舰
+
+crunch	紧缩
+
+crunch_time	紧要关头
+
+crusade	运动
+
+crush	粉碎
+
+cry	哭
+
+cry_baby	哭泣的婴儿
+
+crying	哭了
+
+crystal	水晶
+
+crystal_ball	水晶球
+
+crystal_radio	水晶收音机
+
+cubic	立方体
+
+cuisine	烹饪
+
+cult	礼拜
+
+cult_classic	邪教经典
+
+cultivation	养殖
+
+culture	文化
+
+culture_medium	培养基
+
+culture_minister	文化部长
+
+culture_shock	文化冲击
+
+culture_war	文化大战
+
+cunningham	坎宁安
+
+cup	杯子
+
+curator	馆长
+
+curb	抑制
+
+curb_appeal	遏制上诉
+
+cure	治愈
+
+curfew	宵禁
+
+currency	货币
+
+currency_code	货币代码
+
+currency_risk	货币风险
+
+currency_sign	货币符号
+
+currency_war	货币战争
+
+current	当前
+
+curriculum	课程
+
+curry	咖喱
+
+curry_house	咖喱屋
+
+curse	诅咒
+
+curtain	窗帘
+
+curtain_call	谢幕
+
+curve	曲线
+
+custodian	保管人
+
+custody	保管
+
+custom	习惯
+
+custom_house	海关
+
+customary	习惯性
+
+customer	顾客
+
+customer_base	客户群
+
+customer_service	客户服务
+
+cut	切
+
+cut_line	切割线
+
+cut_scene	剪切场景
+
+cutting	切割
+
+cutting_edge	前沿
+
+cycle	周期
+
+cycle_path	自行车道
+
+cycle_time	周期
+
+cycling	循环
+
+cyclist	骑车人
+
+cyclone	气旋
+
+cylinder	圆筒
+
+cylinder_head	气缸盖
+
+dad	爸
+
+daily	日常
+
+daily_bread	日常面包
+
+dairy	乳制品
+
+dairy_product	奶制品
+
+dale	戴尔
+
+dam	坝
+
+damage	损伤
+
+damage_control	损害控制
+
+damages	赔偿
+
+dame	贵妇人
+
+dan	担
+
+dance	舞蹈
+
+dance_floor	舞池
+
+dance_hall	舞厅
+
+dance_music	舞蹈音乐
+
+dance_school	舞蹈学校
+
+dance_studio	舞蹈室
+
+dancer	舞蹈家
+
+dancing	跳舞
+
+dancing_girl	舞女
+
+danger	危险
+
+danger_area	危险区域
+
+danger_zone	危险区
+
+daniel	丹尼尔
+
+danish	丹麦
+
+dare	敢
+
+dark	暗
+
+dark_horse	黑马
+
+dark_ride	黑暗之旅
+
+darkness	黑暗
+
+darling	宠儿
+
+dash	短跑
+
+data	数据
+
+data_bank	数据银行
+
+data_base	资料库
+
+data_cable	数据线
+
+data_center	数据中心
+
+data_centre	数据中心
+
+data_entry	数据输入
+
+data_flow	数据流
+
+data_management	数据管理
+
+data_mining	数据挖掘
+
+data_model	数据模型
+
+data_point	数据点
+
+data_processing	数据处理
+
+data_rate	数据速率
+
+data_set	数据集
+
+data_store	数据存储
+
+data_stream	数据流
+
+data_structure	数据结构
+
+data_type	数据类型
+
+data_warehouse	数据仓库
+
+database	数据库
+
+database_administrator	数据库管理员
+
+database_engine	数据库引擎
+
+database_model	数据库模型
+
+database_transaction	数据库事务
+
+date	日期
+
+date_night	约会之夜
+
+date_palm	海枣
+
+date_rape	约会强奸
+
+dating	约会
+
+datum	基准
+
+daughter	女儿
+
+daughter_cell	子细胞
+
+davenport	长椅
+
+dawn	黎明
+
+day	天
+
+day_job	日常工作
+
+day_labor	临时工
+
+day_school	日制学校
+
+day_shift	白班
+
+day_time	白天时间
+
+day_trade	日间交易
+
+day_trader	日间交易员
+
+day_trip	一日游
+
+daylight	阳光
+
+daytime	白天
+
+dead	死
+
+dead_end	死路
+
+dead_horse	死马
+
+dead_man	死人
+
+dead_space	死角
+
+dead_zone	盲区
+
+deadline	最后期限
+
+deadlock	僵局
+
+deaf	聋
+
+deal	合同
+
+dealer	零售商
+
+dean	院长
+
+dear	亲
+
+death	死亡
+
+death_bed	死亡床
+
+death_camp	死亡集中营
+
+death_cap	死亡上限
+
+death_certificate	死亡证明
+
+death_duty	死刑
+
+death_house	死屋
+
+death_march	死亡行军
+
+death_mask	死亡面具
+
+death_metal	死亡金属
+
+death_panel	死亡小组
+
+death_penalty	判死刑
+
+death_rate	死亡率
+
+death_ray	死亡激光
+
+death_row	死囚
+
+death_sentence	死刑
+
+death_spiral	死亡螺旋
+
+death_squad	死亡小队
+
+death_star	死星
+
+death_tax	死亡税
+
+death_toll	死亡人数
+
+death_warrant	死刑令
+
+death_wish	死亡之愿
+
+debate	辩论
+
+debris	废墟
+
+debris_field	碎片场
+
+debt	债务
+
+debt_burden	债务负担
+
+debt_instrument	债务工具
+
+debut	登场
+
+decade	十
+
+deceased	死者
+
+decision	决定
+
+decision_making	做决定
+
+decision_tree	决策树
+
+deck	甲板
+
+deck_chair	躺椅
+
+declaration	宣言
+
+decline	下降
+
+decoration	装饰
+
+decrease	减少
+
+decree	法令
+
+dedication	贡献
+
+deep	深
+
+deep_cover	隐藏的很好
+
+deep_freeze	深度冻结
+
+deep_sea	深海
+
+deep_space	深空
+
+deep_state	深层状态
+
+deep_water	深水
+
+deer	鹿
+
+def	高清
+
+default	默认
+
+defeat	打败
+
+defence	防御
+
+defendant	被告
+
+defender	辩护人
+
+defense	防御
+
+defense_mechanism	防御机制
+
+defenseman	防守
+
+defensive	防御性
+
+defensive_back	防守后卫
+
+defensive_midfielder	防守型中场
+
+defensive_tackle	防守铲球
+
+defiance	蔑视
+
+deficit	赤字
+
+definition	定义
+
+definitive	明确
+
+degree	学位
+
+deity	神
+
+del	德尔
+
+delay	延迟
+
+delays	延迟
+
+delegate	代表
+
+delegation	代表团
+
+deliberation	审议
+
+delicate	精巧
+
+delight	喜
+
+delivery	交货
+
+delivery_room	产房
+
+dell	戴尔
+
+delta	三角洲
+
+delta_connection	三角连接
+
+delta_wing	三角翼
+
+demand	需求
+
+demand_note	需求单
+
+demise	让位
+
+democracy	民主
+
+democrat	民主党人
+
+demographic	人口
+
+demographics	人口统计学
+
+demolition	拆除
+
+demonstration	示范
+
+demonstrator	示威者
+
+den	巢穴
+
+denial	否认
+
+density	密度
+
+departed	死者
+
+department	部
+
+department_store	百货商店
+
+departure	离开
+
+dependence	依赖
+
+dependent	依赖的
+
+deploy	部署
+
+deployment	部署
+
+deportation	放逐
+
+deposit	存款
+
+depot	仓库
+
+depression	萧条
+
+depth	深度
+
+depth_charge	深度冲锋
+
+deputy	副
+
+derby	德比
+
+deregulation	放松管制
+
+descent	降落
+
+description	描述
+
+desert	沙漠
+
+desert_island	沙漠荒岛
+
+design	设计
+
+design_pattern	设计模式
+
+designated_hitter	指定击球手
+
+designation	指定
+
+designer	设计师
+
+designer_baby	设计师宝贝
+
+designer_drug	设计药物
+
+designer_label	制作人商标
+
+desire	欲望
+
+desk	台
+
+desk_job	桌面工作
+
+desktop	桌面
+
+desktop_computer	台式电脑
+
+desktop_environment	桌面环境
+
+destination	目的地
+
+destiny	命运
+
+destroyer	驱逐舰
+
+destruction	毁坏
+
+detail	详情
+
+detainee	被拘留者
+
+detection	发现
+
+detective	侦探
+
+detention	拘留
+
+detention_centre	拘留所
+
+deterioration	恶化
+
+determination	判定
+
+devastation	毁坏
+
+developer	开发人员
+
+development	发展
+
+device	设备
+
+device_driver	设备驱动
+
+devil	魔鬼
+
+devil_dog	恶魔狗
+
+devon	德文
+
+diabetes	糖尿病
+
+diagnosis	诊断
+
+dial	拨号
+
+dialect	方言
+
+dialogue	对话
+
+diameter	直径
+
+diamond	钻石
+
+diamond_ring	钻石戒指
+
+diarist	记日记
+
+diary	日记
+
+dick	迪克
+
+dictator	独裁者
+
+dictatorship	专政
+
+dictionary	字典
+
+dictionary_attack	字典攻击
+
+dictionary_form	字典形式
+
+die	死
+
+died	死亡
+
+diesel	柴油机
+
+diesel_engine	柴油发动机
+
+diet	饮食
+
+difference	区别
+
+difference_engine	差异引擎
+
+difference_equation	差分方程
+
+different	不同
+
+difficulty	困难
+
+difficulty_level	难度级别
+
+dig	挖
+
+digging	挖掘
+
+digit	数字
+
+digital_camera	数码相机
+
+digital_library	数字图书馆
+
+digital_media	数字媒体
+
+digital_signal	数字信号
+
+digital_television	数字电视
+
+digital_video	数字视频
+
+dignity	尊严
+
+dilemma	困境
+
+dimension	尺寸
+
+dining	用餐
+
+dining_car	餐车
+
+dining_facility	餐饮设施
+
+dining_hall	食堂
+
+dining_room	饭厅
+
+dining_table	餐桌
+
+dinner	晚餐
+
+dinner_jacket	晚宴外套
+
+dinner_party	晚餐聚会
+
+dinner_plate	餐盘
+
+dinner_table	饭桌
+
+dinner_time	晚餐时间
+
+diocese	教区
+
+dioxide	二氧化碳
+
+dip	蘸
+
+diploma	文凭
+
+diplomacy	外交
+
+diplomat	外交官
+
+direct_mail	直邮
+
+direct_marketing	直销
+
+direction	方向
+
+directive	指示
+
+director	导向器
+
+dirt	污垢
+
+dirty_dancing	贴面舞
+
+dirty_money	肮脏钱
+
+disability	失能
+
+disabled	残
+
+disagreement	异议
+
+disambiguation	消歧
+
+disappearance	消失
+
+disappointment	失望
+
+disarmament	裁军
+
+disaster	灾害
+
+disaster_area	灾区
+
+disc	圆盘
+
+disc_drive	光碟机
+
+disc_golf	光盘高尔夫
+
+discharge	排出
+
+discipline	学科
+
+disclose	透露
+
+disclosure	泄露
+
+discount	折扣
+
+discount_rate	折扣率
+
+discount_store	折扣店
+
+discovery	发现
+
+discrimination	区别
+
+discussion	讨论
+
+disease	疾病
+
+dish	碟
+
+disk	磁盘
+
+disk_drive	磁盘驱动器
+
+disk_image	磁盘映像
+
+dismissal	解雇
+
+disorder	紊乱
+
+dispatch	调度
+
+display	显示
+
+display_case	陈列柜
+
+disposal	处置
+
+dispute	争议
+
+dispute_resolution	争议解决
+
+disruption	瓦解
+
+dissent	异议
+
+dissenter	异己
+
+dissident	持不同政见
+
+dissolution	解散
+
+distance	距离
+
+distance_education	远程教育
+
+distance_formula	距离公式
+
+distance_learning	远程教育
+
+distinction	分别
+
+distress	苦难
+
+distribution	分配
+
+distribution_channel	分销渠道
+
+distributor	经销商
+
+district	区
+
+district_attorney	地区检察官
+
+district_heating	区域供热
+
+disturbance	骚乱
+
+ditch	沟
+
+dive	潜水
+
+diversity	多样
+
+divide	划分
+
+dividend	股利
+
+divine	神圣
+
+divine_right	神权
+
+diving	潜水
+
+diving_suit	潜水装
+
+division	师
+
+division_ring	分割环
+
+divorce	离婚
+
+dock	码头
+
+doctor	医生
+
+doctorate	博士学位
+
+doctrine	教义
+
+document	文献
+
+documentary	记录
+
+documentation	文件
+
+dodge	躲闪
+
+dog	狗
+
+dog_collar	狗项圈
+
+dog_day	狗日
+
+dog_fight	狗打架
+
+dog_food	狗粮
+
+dog_house	狗屋
+
+dog_meat	狗肉
+
+dog_tag	狗牌
+
+dole	悲
+
+doll	娃娃
+
+dollar	美元
+
+dollar_bill	美元的钞票
+
+dollar_sign	美元符号
+
+dollar_store	美元商店
+
+domain	域
+
+domain_name	域名
+
+domain_theory	领域理论
+
+dome	拱顶
+
+domestic	国内
+
+domestic_violence	家庭暴力
+
+dominance	霸主地位
+
+dominant	优势
+
+domination	统治
+
+donation	捐款
+
+dong	东
+
+donna	唐娜
+
+donor	捐赠者
+
+door	门
+
+door_frame	门框
+
+doping	兴奋剂
+
+dose	剂量
+
+dot	点
+
+dot_product	点积
+
+double	双
+
+double_act	双重行动
+
+double_agent	双重代理
+
+double_star	双星
+
+doubt	怀疑
+
+downhill	下坡
+
+downing	唐宁
+
+download	下载
+
+downtown	市中心
+
+downturn	低迷
+
+dozen	打
+
+draft	草案
+
+draft_horse	起草
+
+drafting	制图
+
+drag	拖动
+
+drag_king	拖王
+
+drag_queen	皇后乐队
+
+drag_race	阻力赛
+
+drag_racing	飙车
+
+dragging	拖延
+
+dragon	龙
+
+dragon_boat	龙舟
+
+dragon_fruit	火龙果
+
+dragon_tree	龙树
+
+drain	排水
+
+drainage	引流
+
+drake	鸭
+
+drama	戏剧
+
+drama_queen	戏剧女王
+
+draw	画
+
+drawing	画画
+
+drawing_board	绘图板
+
+drawing_room	客厅
+
+dream	梦想
+
+dream_team	梦之队
+
+dress	连衣裙
+
+dress_code	着装要求
+
+dressing	敷料
+
+drill	钻头
+
+drill_bit	钻头
+
+drilling	钻孔
+
+drink	喝
+
+drink_driver	酒后驾驶
+
+drinking	喝
+
+drinking_age	饮酒年龄
+
+drinking_game	饮酒游戏
+
+drinking_straw	吸管
+
+drinking_water	饮用水
+
+drive	驾驶
+
+drive_time	开车时间
+
+drive_train	传动系
+
+drive_wheel	驱动轮
+
+driver	司机
+
+driving	主动
+
+drop	下降
+
+drop_goal	下降目标
+
+drop_shot	投篮
+
+drop_zone	拖放区
+
+drought	干旱
+
+drove	开车
+
+drug	药物
+
+drug_abuse	吸毒
+
+drug_baron	毒bar
+
+drug_deal	毒品交易
+
+drug_dealer	毒贩子
+
+drug_lord	毒枭
+
+drug_store	药店
+
+drug_test	药检
+
+drum	鼓
+
+drum_major	鼓专业
+
+drummer	鼓手
+
+drunk	醉
+
+drunk_driving	酒后驾车
+
+dry	干
+
+dry_cleaning	干洗
+
+dry_dock	干船坞
+
+dry_eye	干眼症
+
+dry_ice	干冰
+
+dry_lake	干lake的湖
+
+dual	双
+
+duck	鸭
+
+due	应有
+
+due_process	正当程序
+
+dug	挖
+
+duke	公爵
+
+duma	杜马
+
+dump	倾倒
+
+dump_truck	垃圾车
+
+duo	二人
+
+duration	持续时间
+
+dust	灰尘
+
+dust_bin	垃圾桶
+
+dust_storm	尘暴
+
+dutch	荷兰人
+
+duty	义务
+
+duty_cycle	占空比
+
+dwelling	住宅
+
+dying	垂死
+
+dynamic	动态
+
+dynamics	动力学
+
+dynasty	王朝
+
+eager	急于
+
+eagle	鹰
+
+eagle_eye	鹰眼
+
+ear	耳
+
+ear_canal	耳道
+
+earl	伯爵
+
+early	早
+
+earn	赚
+
+earnest	认真
+
+earnings	收益
+
+earth	地球
+
+earth_metal	土金属
+
+earth_science	地球科学
+
+earth_sign	地球标志
+
+earthquake	地震
+
+earthquake_engineering	地震工程
+
+ease	缓解
+
+east	东
+
+east_africans	东非人
+
+eastern_europeans	东欧人
+
+eastern_hemisphere	东半球
+
+easy_listening	轻松听
+
+easy_money	快钱
+
+eating	吃
+
+eating_disorder	饮食失调
+
+echo	回声
+
+eclipse	日食
+
+ecology	生态
+
+economic_capital	经济资本
+
+economic_crisis	经济危机
+
+economic_growth	经济增长
+
+economic_rent	经济租金
+
+economics	经济学
+
+economist	经济学家
+
+economy	经济
+
+economy_car	经济车
+
+edge	边缘
+
+editing	编辑
+
+edition	版
+
+editor	编辑
+
+editorial	社论
+
+education	教育
+
+educational	教育性
+
+educational_technology	教育技术
+
+educator	教育家
+
+effect	影响
+
+effect_size	规模效应
+
+effectiveness	效用
+
+efficiency	效率
+
+effort	功夫
+
+egg	蛋
+
+egg_case	蛋盒
+
+egg_cell	卵细胞
+
+egg_hunt	寻蛋
+
+egg_roll	蛋卷
+
+eight	八
+
+elbow	弯头
+
+elbow_room	肘室
+
+elder	长老
+
+elect	选
+
+election	选举
+
+electoral_college	选举团
+
+electoral_district	选区
+
+electoral_fraud	选举欺诈
+
+electorate	选民
+
+electric	电动
+
+electric_blue	电蓝
+
+electric_car	电子车
+
+electric_charge	电荷
+
+electric_circuit	电路
+
+electric_current	电流
+
+electric_energy	电能
+
+electric_field	电场
+
+electric_guitar	电吉他
+
+electric_guitarist	电吉他手
+
+electric_motor	电动马达
+
+electrical	电动
+
+electrical_circuit	电路
+
+electrical_contact	电接触
+
+electrical_engineering	电机工程
+
+electricity	电力
+
+electronic_communication	电子通讯
+
+electronic_game	电子游戏
+
+electronics	电子产品
+
+element	元件
+
+elementary_school	小学
+
+elephant	象
+
+elephant_bird	象鸟
+
+elevation	海拔
+
+elevator	电梯
+
+eleven	十一
+
+eligibility	合格
+
+eligible	合格
+
+elimination	消除
+
+elite	原种
+
+ellen	艾伦
+
+elsewhere	别处
+
+email	电子邮件
+
+embargo	禁运
+
+embarrassment	困窘
+
+embassy	大使馆
+
+embrace	拥抱
+
+emergence	紧急情况
+
+emergency	急
+
+emergency_exit	紧急出口
+
+emergency_landing	紧急着陆
+
+emergency_light	紧急灯
+
+emergency_medicine	急诊医学
+
+emergency_response	紧急反应
+
+emergency_room	急救室
+
+emergency_service	紧急服务
+
+emergency_services	紧急服务
+
+emission	发射
+
+emission_line	发射线
+
+emma	艾玛
+
+emotion	感情
+
+emotional_intelligence	情商
+
+emperor	皇帝
+
+emphasis	重点
+
+empire	帝国
+
+employ	采用
+
+employee	雇员
+
+employee_benefit	员工福利
+
+employer	雇主
+
+employment	雇用
+
+employment_agency	职业介绍所
+
+employment_contract	劳动合同
+
+empress	皇后
+
+empty	空
+
+enclave	飞地
+
+encounter	遭遇
+
+encounters	遭遇
+
+encouragement	鼓励
+
+end	结束
+
+end_board	端板
+
+end_game	结束游戏
+
+end_line	终点线
+
+end_product	最终产品
+
+end_run	结束运行
+
+end_user	最终用户
+
+end_zone	末端区域
+
+endangered_species	濒危物种
+
+endemic	流行
+
+ending	结尾
+
+endorsement	背书
+
+endowment	天赋
+
+enemy	敌人
+
+energy	能源
+
+energy_bar	能量棒
+
+energy_crisis	能源危机
+
+energy_drink	能量饮料
+
+energy_expenditure	能量消耗
+
+energy_field	能量场
+
+energy_level	能级
+
+energy_mix	能量混合
+
+energy_poverty	能源贫困
+
+energy_shot	能量射门
+
+energy_source	能量源
+
+energy_transfer	能量转移
+
+enforcement	强制
+
+eng	工程
+
+engagement	订婚
+
+engagement_ring	订婚戒指
+
+engine	发动机
+
+engine_room	机房
+
+engine_trouble	引擎故障
+
+engineer	工程师
+
+engineering	工程
+
+english	英语
+
+enlargement	放大
+
+enlisted	入伍
+
+enrichment	丰富
+
+enrollee	登记者
+
+enrollment	注册
+
+ensemble	合奏
+
+enter	输入
+
+enterprise	企业
+
+enterprise_architecture	企业架构
+
+entertainer	艺人
+
+entertainment	娱乐
+
+entertainment_center	娱乐中心
+
+enthusiasm	热情
+
+entire	整个
+
+entrance	入口
+
+entrance_examination	入学考试
+
+entrepreneur	企业家
+
+entry	条目
+
+environment	环境
+
+environment_variable	环境变量
+
+environmental_protection	环保
+
+environmental_science	环境科学
+
+environmental_scientist	环境科学家
+
+envoy	使者
+
+enzyme	酶
+
+epic	史诗
+
+epidemic	疫情
+
+episode	插曲
+
+equal	等于
+
+equality	平等
+
+equation	方程
+
+equipment	设备
+
+equity	公平
+
+equivalent	当量
+
+era	时代
+
+eric	埃里克
+
+ernest	欧内斯特
+
+erosion	侵蚀
+
+error	错误
+
+error_bar	错误栏
+
+error_function	错误功能
+
+error_message	错误信息
+
+eruption	喷发
+
+escalation	升级
+
+escape	逃逸
+
+escape_artist	逃脱大师
+
+escape_clause	转义条款
+
+escort	护送
+
+escort_agency	护送机构
+
+espionage	间谍
+
+essay	文章
+
+essence	本质
+
+essential	必要
+
+essential_oil	香精油
+
+est	美东时间
+
+established_church	建立的教会
+
+establishment	编制
+
+estate	房地产
+
+estate_agent	房地产经纪人
+
+estate_car	旅行车
+
+estate_sale	房地产销售
+
+estate_tax	遗产税
+
+estimate	估计
+
+eta	ETA
+
+eternal_life	永恒的生命
+
+ethanol	乙醇
+
+ethical	合乎道德的
+
+ethics	伦理
+
+ethnic	民族
+
+ethnic_group	民族
+
+ethnic_minority	少数族裔
+
+euro	欧元
+
+eurozone	欧元区
+
+evacuation	疏散
+
+evacuation_slide	疏散滑道
+
+evaluation	评测
+
+evaluator	评估
+
+evangelical	福音
+
+eve	前夕
+
+even	甚至
+
+evening	晚间
+
+evening_dress	晚礼服
+
+evening_star	晚星
+
+event	事件
+
+event_horizon	事件视界
+
+everyday	每天
+
+evidence	证据
+
+evil	邪恶
+
+evolution	演化
+
+exam	考试
+
+exam_paper	试卷
+
+examination	检查
+
+examiner	检查员
+
+example	例
+
+excellence	卓越
+
+exception	例外
+
+excess	过量
+
+exchange	交换
+
+exchange_rate	汇率
+
+exchange_student	交换学生
+
+excitement	激动
+
+exclusion	排除
+
+exclusive	独家
+
+excuse	借口
+
+execution	执行
+
+executive	行政人员
+
+executive_branch	行政部门
+
+executive_committee	执行委员会
+
+executive_mansion	行政大厦
+
+executive_officer	主管人员
+
+executive_order	行政命令
+
+executive_producer	执行制片人
+
+exemption	豁免
+
+exercise	行使
+
+exercise_ball	健身球
+
+exercise_book	练习簿
+
+exhibit	展示
+
+exhibition	展览
+
+exile	流亡
+
+existence	存在
+
+exit	出口
+
+exit_poll	退出民意调查
+
+exit_strategy	退出策略
+
+exodus	出埃及记
+
+exotic	异国情调
+
+expanded_universe	扩展的宇宙
+
+expansion	扩张
+
+expansion_joint	伸缩缝
+
+expansion_pack	扩展包
+
+expansion_slot	扩充槽
+
+expectation	期望
+
+expedition	远征
+
+expenditure	支出
+
+expense	费用
+
+expense_account	费用账户
+
+experience	经验
+
+experience_point	经验点
+
+experiment	实验
+
+experimental	试验
+
+expert	专家
+
+expert_system	专业系统
+
+expertise	专门知识
+
+explanation	说明
+
+exploit	利用
+
+exploitation	开发
+
+exploitation_film	剥削电影
+
+exploration	勘探
+
+explorer	探险者
+
+exploring	探索
+
+explosion	爆炸
+
+explosive	爆炸物
+
+expo	博览会
+
+export	出口
+
+exporter	出口
+
+exposure	曝光
+
+express	表达
+
+express_train	快速列车
+
+expression	表达
+
+expressway	高速公路
+
+expulsion	开除
+
+extension	延期
+
+extent	程度
+
+exterior	外观
+
+external_link	外部链接
+
+extinct_language	灭绝的语言
+
+extinction	灭绝
+
+extra	额外
+
+extra_time	额外的时间
+
+extract	提取
+
+extradition	引渡
+
+extreme	极端
+
+extreme_programming	极限编程
+
+extreme_sport	极限运动
+
+extremism	极端主义
+
+extremist	极端主义
+
+extremity	末端
+
+eye	眼睛
+
+eye_bank	眼库
+
+eye_candy	秀色可餐
+
+eye_chart	视力表
+
+eye_contact	眼神接触
+
+eye_doctor	眼科医生
+
+eye_drop	眼药水
+
+eye_patch	眼罩
+
+eye_shadow	眼影
+
+eye_witness	目击者
+
+f_word	F字
+
+fabric	布
+
+face	面对
+
+face_mask	面具
+
+face_time	视频对话
+
+face_value	面值
+
+facebook	Facebook的
+
+facial	面部
+
+facility	设施
+
+facing	面对
+
+fact	事实
+
+fact_sheet	情况说明书
+
+faction	派
+
+factor	因子
+
+factory	厂
+
+factory_farm	工厂农场
+
+factory_pattern	工厂模式
+
+factory_team	工厂团队
+
+faculty	学院
+
+fail	失败
+
+failing	失败
+
+failure	失败
+
+failure_rate	失败率
+
+fair	公平
+
+fair_game	公平的游戏
+
+fair_play	公平竞争
+
+fair_trade	公平交易
+
+fair_use	合理使用
+
+fairness	公平
+
+fairy	仙女
+
+faith	信仰
+
+faithful	可信
+
+fake	假
+
+fall	秋季
+
+fall_guy	替死鬼
+
+fall_line	下降线
+
+fallen	堕落
+
+fallen_angel	堕落的天使
+
+falling	落下
+
+fallout	掉出来
+
+falls	下降
+
+fame	名誉
+
+familiar	熟
+
+family	家庭
+
+family_business	家族企业
+
+family_doctor	家庭医生
+
+family_history	家史
+
+family_man	以家庭为重的（男）人
+
+family_medicine	家庭医学
+
+family_name	姓
+
+family_planning	家庭计划
+
+family_restaurant	家庭餐厅
+
+family_reunion	家庭团聚
+
+family_room	家庭房
+
+family_tree	家谱
+
+family_values	家庭价值观
+
+famine	饥荒
+
+fan	风扇
+
+fan_base	粉丝群
+
+fan_club	粉丝俱乐部
+
+fan_fiction	粉丝小说
+
+fan_mail	粉丝的邮件
+
+fan_palm	扇形棕榈
+
+fan_service	粉丝服务
+
+fancy	幻想
+
+fantasy	幻想
+
+fantasy_football	梦幻足球
+
+fantasy_land	梦幻之地
+
+far	远
+
+far_cry	相距甚远
+
+fare	票价
+
+farewell	告别
+
+farm	农场
+
+farm_animal	农场动物
+
+farm_team	农场队
+
+farm_worker	农场工人
+
+farmer	农民
+
+farming	农业
+
+farmland	农田
+
+fashion	时尚
+
+fashion_designer	时装设计师
+
+fashion_house	时装屋
+
+fashion_model	时装模特
+
+fashion_plate	时尚板
+
+fashion_police	时尚警察
+
+fashion_sense	时尚感
+
+fashion_show	时装秀
+
+fashion_statement	时尚宣言
+
+fast	快速
+
+fast_bowler	快速投球手
+
+fast_food	快餐
+
+faster	快点
+
+fat	脂肪
+
+fat_cat	肥猫
+
+fatah	法塔赫
+
+fatal	致命
+
+fate	命运
+
+father	父亲
+
+father_figure	父亲的形象
+
+fatigue	疲劳
+
+fault	故障
+
+fault_line	断层线
+
+favor	偏爱
+
+favorite	喜爱
+
+favour	偏爱
+
+favourite	喜爱
+
+fax	传真
+
+fax_machine	传真机
+
+fear	恐惧
+
+feast	盛宴
+
+feast_day	节日
+
+feat	功绩
+
+feature	特征
+
+feature_film	长片
+
+feature_phone	功能手机
+
+feature_story	精选故事
+
+fed	美联储
+
+federal	联邦
+
+federal_government	联邦政府
+
+federal_official	联邦官员
+
+federation	联邦
+
+fee	费用
+
+feed	饲料
+
+feedback	反馈
+
+feeding	馈送
+
+feeling	感觉
+
+feet	脚
+
+fell	下跌
+
+fellow	同伴
+
+fellowship	奖学金
+
+felon	重犯
+
+felony	重罪
+
+felt	毡
+
+female	女
+
+feminist	女权主义者
+
+fence	篱笆
+
+ferry	渡船
+
+ferry_boat	渡船
+
+fertilizer	肥料
+
+festival	节
+
+feud	世仇
+
+fever	发热
+
+fever_pitch	发烧音高
+
+fiat	菲亚特
+
+fiat_currency	法定货币
+
+fiat_money	法定货币
+
+fiber	纤维
+
+fiction	小说
+
+fidelity	保真度
+
+field	领域
+
+field_artillery	野战炮兵
+
+field_day	野外日
+
+field_goal	射门得分
+
+field_hockey	曲棍球
+
+field_hospital	野战医院
+
+field_house	野外房
+
+field_line	场线
+
+field_marshal	元帅
+
+field_officer	外勤人员
+
+field_theory	场论
+
+field_trip	实地考察
+
+field_unit	现场部队
+
+field_work	现场工作
+
+fielder	外野手
+
+fielding	守备
+
+fifth	第五
+
+fifty	五十
+
+fight	斗争
+
+fight_song	打架
+
+fighter	战斗机
+
+fighter_aircraft	战斗机
+
+fighter_bomber	战斗轰炸机
+
+fighter_pilot	战斗机飞行员
+
+fighter_plane	战斗机
+
+fighting	战斗
+
+fighting_fish	斗鱼
+
+fighting_game	格斗游戏
+
+figure	数字
+
+figure_skating	花样滑冰
+
+file	文件
+
+file_cabinet	文件柜
+
+file_extension	文件扩展名
+
+file_sharing	文件共享
+
+file_size	文件大小
+
+file_system	文件系统
+
+file_type	文件类型
+
+filed	提交
+
+filing	备案
+
+filing_cabinet	文件柜
+
+filing_system	备案系统
+
+fill	填
+
+filling	填充
+
+filling_station	加油站
+
+film	电影
+
+film_crew	剧组人员
+
+film_industry	电影业
+
+film_maker	电影制片人
+
+film_making	电影制作
+
+film_set	电影集
+
+film_speed	电影速度
+
+film_star	电影明星
+
+filming	拍戏
+
+filmmaker	电影制片人
+
+filter	过滤
+
+fin	鳍
+
+final	最后
+
+final_cut	晋级决赛
+
+finale	压轴
+
+finalist	决赛
+
+finance	金融
+
+financial_crisis	金融危机
+
+financial_instrument	金融工具
+
+financial_investment	金融投资
+
+financial_market	金融市场
+
+financial_statement	财务报告
+
+financier	金融家
+
+financing	融资
+
+find	找
+
+finding	发现
+
+fine	精细
+
+fine_art	美术
+
+finest	最好的
+
+finger	手指
+
+finger_food	小点心
+
+finger_ring	戒指
+
+finish	完
+
+finish_line	终点线
+
+finishing	精加工
+
+finishing_school	完成学业
+
+fire	火
+
+fire_alarm	火警
+
+fire_brigade	消防队
+
+fire_chief	消防队长
+
+fire_code	消防法规
+
+fire_company	消防队
+
+fire_department	消防部门
+
+fire_drill	消防演习
+
+fire_engine	消防车
+
+fire_escape	火灾逃生
+
+fire_fighting	消防
+
+fire_marshal	消防元帅
+
+fire_sale	甩卖
+
+fire_service	消防
+
+fire_sign	消防标志
+
+fire_station	消防局
+
+fire_tower	火塔
+
+fire_truck	消防车
+
+fireman	消防队员
+
+fireworks	烟花
+
+firing	射击
+
+firing_line	射击线
+
+firing_pin	撞针
+
+firing_range	射击范围
+
+firing_squad	射击队
+
+firm	公司
+
+first	第一
+
+first_aid	急救
+
+first_base	一垒
+
+first_baseman	一垒手
+
+first_blood	第一滴血
+
+first_choice	第一选择
+
+first_city	第一城市
+
+first_contact	第一次接触
+
+first_grade	一年级
+
+first_lady	第一夫人
+
+first_language	第一语言
+
+first_lieutenant	中尉
+
+first_love	初恋
+
+first_mate	大副
+
+first_minister	第一部长
+
+first_name	名字
+
+first_officer	副驾驶
+
+first_person	第一个人
+
+first_principle	第一原则
+
+first_sergeant	第一军士
+
+first_team	一线队
+
+first_time	第一次
+
+first_woman	第一个女人
+
+fiscal	财
+
+fish	鱼
+
+fish_cake	鱼饼
+
+fish_eagle	鱼鹰
+
+fish_farm	养鱼场
+
+fish_farming	养鱼
+
+fish_finger	鱼手指
+
+fish_food	鱼食
+
+fish_hook	鱼钩
+
+fish_kill	鱼杀
+
+fish_pond	鱼池
+
+fish_sauce	鱼露
+
+fish_tank	鱼缸
+
+fisher	费舍尔
+
+fisher_cat	费希尔猫
+
+fishing	钓鱼
+
+fishing_boat	渔船
+
+fishing_expedition	钓鱼探险
+
+fishing_line	钓鱼线
+
+fishing_pole	钓鱼竿
+
+fishing_rod	钓竿
+
+fist	拳头
+
+fit	适合
+
+fitness	身体素质
+
+fitness_center	健身中心
+
+fitness_model	健身模型
+
+fitting	配件
+
+five	五
+
+fix	固定
+
+fixture	夹具
+
+flag	旗
+
+flag_captain	船长
+
+flag_carrier	旗载体
+
+flag_day	国旗纪念日
+
+flag_football	旗足球
+
+flag_officer	船长
+
+flag_pole	旗杆
+
+flag_stop	标志停止
+
+flagship	旗舰
+
+flame	火焰
+
+flame_test	火焰测试
+
+flame_war	火焰战争
+
+flash	闪
+
+flash_card	闪存卡
+
+flash_drive	随身碟
+
+flash_fiction	快闪小说
+
+flash_flood	暴洪
+
+flash_memory	快闪记忆体
+
+flash_point	闪点
+
+flat	平面
+
+flavor	味道
+
+fledgling	雏鸟
+
+fleet	舰队
+
+flesh	肉
+
+fletcher	弗莱彻
+
+flexibility	灵活性
+
+flexible	灵活
+
+flight	飞行
+
+flight_crew	机组人员
+
+flight_engineer	飞行工程师
+
+flight_lieutenant	飞行中尉
+
+flight_mode	飞行模式
+
+flight_path	飞行路径
+
+flight_plan	飞行计划
+
+flight_risk	飞行风险
+
+flip	翻动
+
+float	浮动
+
+flood	洪水
+
+flood_gate	防洪闸
+
+flood_plain	泛洪平原
+
+flood_stage	洪水期
+
+flooding	洪水
+
+floor	地板
+
+floor_exercise	自由体操
+
+floor_plan	平面图
+
+flora	植物群
+
+flour	面粉
+
+flow	流
+
+flow_chart	流程图
+
+flow_control	流量控制
+
+flower	花
+
+flower_bed	花床
+
+flower_girl	花季少女
+
+flower_head	花头
+
+flower_power	花的力量
+
+flowing	流动
+
+flu	流感
+
+fluid	流体
+
+fluid_intelligence	流体智能
+
+flurry	慌张
+
+fly	飞
+
+fly_ball	飞球
+
+fly_fishing	钓飞鱼
+
+flying_ace	飞行王牌
+
+flying_circus	飞行马戏团
+
+flying_fish	飞鱼
+
+flying_fox	飞狐
+
+focus	焦点
+
+focus_group	焦点小组
+
+foe	敌人
+
+fog	多雾路段
+
+foil	挫败
+
+fold	折
+
+foley	弗利
+
+folk	民间
+
+folk_culture	民俗文化
+
+folk_dance	民间舞蹈
+
+folk_hero	民间英雄
+
+folk_music	民间音乐
+
+folk_religion	民间宗教
+
+folk_rock	民间摇滚
+
+folk_singer	民谣歌手
+
+folk_song	民歌
+
+folk_tale	民间故事
+
+follower	信徒
+
+following	以下
+
+food	餐饮
+
+food_bank	食物银行
+
+food_chain	食物链
+
+food_court	美食广场
+
+food_crop	粮食作物
+
+food_desert	食物沙漠
+
+food_drive	食物驱动
+
+food_fight	食物大战
+
+food_fish	食用鱼
+
+food_plant	食品厂
+
+food_poisoning	食物中毒
+
+food_processor	食品加工机
+
+food_pyramid	食物金字塔
+
+food_stamp	粮票
+
+food_supplement	食物供给
+
+food_web	食物网
+
+fool	傻子
+
+foot	脚丫子
+
+foot_fault	脚伤
+
+foot_passenger	步行乘客
+
+foot_race	竞走
+
+foot_soldier	步兵
+
+footage	镜头
+
+football	足球
+
+football_field	足球场
+
+football_player	足球运动员
+
+footballer	足球运动员
+
+force	力
+
+force_field	力场
+
+ford	涉
+
+forecast	预测
+
+forehand	正手
+
+foreign	国外
+
+foreign_country	外国
+
+foreign_exchange	外汇交易
+
+foreign_language	外语
+
+foreign_minister	外交大臣
+
+foreign_policy	对外政策
+
+foreigner	外国人
+
+forensic_science	法医学
+
+forest	森林
+
+forest_fire	森林火灾
+
+forest_green	森林绿
+
+forestry	林业
+
+forever	永远
+
+forge	锻造
+
+forgotten	忘记了
+
+fork	叉子
+
+form	形成
+
+form_factor	构成因素
+
+form_letter	求职信
+
+formal	正式
+
+formal_system	形式系统
+
+format	格式
+
+formation	编队
+
+former	前任的
+
+formula	式
+
+fort	堡
+
+forth	向前
+
+fortress	要塞
+
+fortune	幸运
+
+forty	四十
+
+forum	论坛
+
+forward	向前
+
+fossil	化石
+
+fossil_fuel	化石燃料
+
+fossil_record	化石记录
+
+foster	培育
+
+foster_family	寄养家庭
+
+foul	犯规
+
+found	发现
+
+foundation	基础
+
+founder	创办人
+
+founder_effect	创始人效应
+
+founders	创始人
+
+founding	创建
+
+founding_father	开国元勋
+
+founding_member	创始成员
+
+fountain	喷泉
+
+four	四
+
+four_square	四方
+
+fourth	第四
+
+fowler	捕鸟
+
+fox	狐狸
+
+fra	FRA
+
+fraction	分数
+
+frame	帧
+
+frame_rate	帧率
+
+framework	骨架
+
+franc	法郎
+
+franchise	专营权
+
+franco	佛朗哥
+
+frank	坦率
+
+frankfurt	法兰克福
+
+franklin	富兰克林
+
+fraud	骗局
+
+free	自由
+
+free_agent	自由球员
+
+free_energy	自由能
+
+free_enterprise	自由企业
+
+free_fall	自由落体
+
+free_market	自由市场
+
+free_press	新闻自由
+
+free_radical	自由基
+
+free_rider	搭顺风车
+
+free_software	免费软件
+
+free_speech	言论自由
+
+free_state	自由邦省
+
+free_trade	自由贸易
+
+free_will	自由意志
+
+free_world	自由的世界
+
+free_zone	自由区
+
+freed	释放
+
+freedom	自由
+
+freedom_fighter	自由战士
+
+freedom_ride	自由骑
+
+freedom_rider	自由骑士
+
+freeman	弗里曼
+
+freestyle	自由泳
+
+freeway	高速公路
+
+freeze	冻结
+
+freezing	冷冻
+
+freezing_point	冰点
+
+freight	货物
+
+freight_car	货运车
+
+freight_train	货运火车
+
+frequency	频率
+
+fresh	新鲜
+
+fresh_air	新鲜空气
+
+freshman	新生
+
+friction	摩擦
+
+fried_rice	炒饭
+
+friend	朋友
+
+friendly	友好
+
+friendship	友谊
+
+fringe	条纹
+
+fringe_group	边缘群
+
+frog	青蛙
+
+front	面前
+
+front_bench	前排长椅
+
+front_door	前门
+
+front_end	前端
+
+front_group	前组
+
+front_line	前线
+
+front_man	前锋
+
+front_page	首页
+
+front_row	前排
+
+front_runner	领跑者
+
+front_yard	前院
+
+frontier	边境
+
+frost	霜
+
+fruit	水果
+
+fruit_bat	水果蝙蝠
+
+fruit_cake	水果蛋糕
+
+fruit_fly	果蝇
+
+fruit_juice	果汁
+
+fruit_loop	水果圈
+
+fruit_tree	果树
+
+frustration	挫折
+
+fuel	汽油
+
+fuel_cell	燃料电池
+
+fuel_injection	燃油喷射
+
+fuel_poverty	加剧贫困
+
+fuel_station	加油站
+
+fuel_tank	油箱
+
+fugitive	逃亡
+
+fulham	富勒姆
+
+full	充分
+
+full_house	客满
+
+full_moon	满月
+
+full_name	全名
+
+fuller	富勒
+
+fun	开玩笑
+
+fun_house	游乐园
+
+function	功能
+
+functional	实用
+
+functioning	功能
+
+fund	基金
+
+fundamental	基本的
+
+fundamentalist	原教旨主义
+
+funding	资金
+
+fundraising	筹款
+
+funeral	葬礼
+
+funeral_home	殡仪馆
+
+funk	恐惧
+
+funny	滑稽
+
+funny_car	有趣的车
+
+fur	毛皮
+
+furniture	家具
+
+further_education	继续教育
+
+fury	愤怒
+
+fusion	聚变
+
+future	未来
+
+g_force	g力
+
+gain	获得
+
+gala	节日
+
+galaxy	星系
+
+galaxy_group	星系群
+
+gallery	画廊
+
+gallon	加仑
+
+gamble	赌
+
+gambling	赌博
+
+game	游戏
+
+game_bird	猎鸟
+
+game_board	游戏板
+
+game_console	游戏机
+
+game_engine	游戏引擎
+
+game_face	游戏面
+
+game_fish	猎鱼
+
+game_master	游戏大师
+
+game_plan	比赛计划
+
+game_point	游戏点
+
+game_score	游戏成绩
+
+game_show	游戏节目
+
+game_theory	博弈论
+
+gaming	赌博
+
+gang	结伙
+
+gang_rape	轮奸
+
+gap	间隙
+
+gap_junction	间隙连接
+
+gap_year	空档年
+
+garage	车库
+
+garage_door	车库门
+
+garage_rock	车库摇滚
+
+garage_sale	车库出售
+
+garbage	垃圾
+
+garbage_bin	垃圾桶
+
+garbage_can	垃圾桶
+
+garbage_collection	垃圾收集
+
+garbage_truck	垃圾车
+
+garden	花园
+
+garden_center	花园中心
+
+garden_centre	花园中心
+
+garden_city	花园城市
+
+garden_path	花园小径
+
+garlic	大蒜
+
+garment	服装
+
+garner	谷仓
+
+garrison	驻军
+
+gas	加油站
+
+gas_bottle	气瓶
+
+gas_chamber	毒气室
+
+gas_constant	气体常数
+
+gas_cylinder	气瓶
+
+gas_fire	煤气火
+
+gas_giant	天然气巨人
+
+gas_mask	防毒面具
+
+gas_pump	加油站
+
+gas_station	加油站
+
+gas_tank	储气罐
+
+gasoline	汽油
+
+gastropod	腹
+
+gate	门
+
+gate_array	门阵列
+
+gate_guard	门卫
+
+gate_guardian	门卫
+
+gate_house	门房
+
+gateway	网关
+
+gateway_drug	门户药物
+
+gather	收集
+
+gathering	搜集
+
+gauge	规
+
+gay	同性恋者
+
+gay_bar	同性恋酒吧
+
+gay_marriage	同性恋婚姻
+
+gay_pride	同性恋的骄傲
+
+gear	齿轮
+
+gear_ratio	齿轮比
+
+gear_shift	变速
+
+gear_train	齿轮系
+
+gen	根
+
+gender	性别
+
+gender_gap	性别差异
+
+gender_identity	性别认同
+
+gene	基因
+
+gene_expression	基因表达
+
+gene_family	基因家族
+
+gene_pool	基因库
+
+gene_product	基因产物
+
+gene_therapy	基因治疗
+
+general	一般
+
+general_aviation	通用航空
+
+general_classification	一般分类
+
+general_contractor	总承包商
+
+general_election	全民选举
+
+general_manager	总经理
+
+general_practice	一般惯例
+
+general_public	公众
+
+general_store	杂货店
+
+general_strike	全面罢工
+
+generation	代
+
+generation_gap	代沟
+
+generations	代
+
+generic	通用
+
+generic_name	通用名
+
+genius	天才
+
+genocide	种族灭绝
+
+genome	基因组
+
+genre	类型
+
+genre_fiction	体裁小说
+
+gentle	温和
+
+gentleman	绅士
+
+genus	种
+
+genus_name	属名
+
+geographical_area	地理区域
+
+geography	地理
+
+german	德语
+
+gesture	手势
+
+get	得到
+
+getting	越来越
+
+ghost	鬼
+
+ghost_ship	幽灵船
+
+ghost_story	鬼故事
+
+ghost_town	鬼城
+
+ghost_train	幽灵列车
+
+ghost_writer	幽灵作家
+
+giant	巨人
+
+giant_planet	巨型星球
+
+giant_slalom	大回转
+
+giant_star	巨星
+
+gift	礼品
+
+gift_card	礼物卡
+
+gift_certificate	礼券
+
+gift_shop	礼品店
+
+gilbert	吉尔伯特
+
+gill	鳃
+
+girl	女孩
+
+girl_band	女子乐队
+
+girl_friend	女朋友
+
+girl_group	女子组合
+
+girl_power	女孩的力量
+
+girl_talk	女孩说话
+
+girlfriend	女朋友
+
+give	给
+
+given_name	给定的名称
+
+giving	给
+
+glacier	冰川
+
+glance	一瞥
+
+glass	玻璃
+
+glass_ceiling	玻璃天花板
+
+glass_door	玻璃门
+
+glass_eye	玻璃眼
+
+glass_transition	玻璃化转变
+
+glen	狭谷
+
+glimpse	一瞥
+
+global	全球
+
+global_warming	全球暖化
+
+globalization	全球化
+
+globe	地球
+
+glory	荣耀
+
+glory_hole	荣耀洞
+
+glove	手套
+
+gmina	gmina
+
+goal	目标
+
+goal_area	目标区域
+
+goal_celebration	目标庆祝
+
+goal_difference	目标差异
+
+goal_keeper	守门员
+
+goal_kick	射门得分
+
+goal_line	球门线
+
+goal_post	球门柱
+
+goalie	守门员
+
+goalkeeper	守门员
+
+god	神
+
+goddess	女神
+
+goes	去
+
+going	去
+
+gold	金
+
+gold_coin	金币
+
+gold_dust	金粉
+
+gold_farmer	金农
+
+gold_farming	黄金种植
+
+gold_leaf	金叶子
+
+gold_medal	金牌
+
+gold_medalist	金牌获得者
+
+gold_mine	金矿
+
+gold_plate	金盘子
+
+gold_rush	淘金热
+
+gold_standard	黄金标准
+
+golden_age	黄金年龄
+
+golden_boy	金童
+
+golden_eagle	金鹰
+
+golden_girl	金色的女孩
+
+golden_mean	中庸
+
+golden_ratio	黄金比例
+
+golden_rule	黄金法则
+
+golden_section	黄金分割
+
+golden_ticket	金票
+
+golf	高尔夫球
+
+golf_ball	高尔夫球
+
+golf_cart	高尔夫车
+
+golf_club	高尔夫俱乐部
+
+golf_course	高尔夫球场
+
+golf_shirt	高尔夫衫
+
+golfer	高尔夫球手
+
+gong	锣
+
+gong_show	锣秀
+
+good	好
+
+good_guy	好小子
+
+good_news	好消息
+
+good_time	美好时光
+
+goodbye	再见
+
+goodman	好人
+
+goods	产品
+
+goods_train	货车
+
+goodwill	善意
+
+google	谷歌
+
+gore	血块
+
+gospel	福音
+
+gospel_music	福音音乐
+
+governance	治理
+
+government	政府
+
+government_issue	政府问题
+
+government_spending	政府开支
+
+governor	州长
+
+governor_general	总督
+
+grab	抓
+
+grace	恩典
+
+grace_note	恩典
+
+grace_period	宽限期
+
+grade	年级
+
+grade_inflation	等级通货膨胀
+
+grade_school	小学
+
+gradual	缓
+
+graduate	毕业
+
+graduate_school	研究所
+
+graduate_student	研究生
+
+graduation	毕业
+
+graf	格拉夫
+
+graft	接枝
+
+graham	格雷厄姆
+
+grain	粮食
+
+grain_boundary	晶界
+
+grammar	语法
+
+grammar_school	语法学校
+
+grand	盛大
+
+grand_duke	大公
+
+grand_final	总决赛
+
+grand_jury	大陪审团
+
+grand_prince	大王子
+
+grand_prize	大奖
+
+grand_slam	大满贯
+
+grandchildren	孙子
+
+grandfather	祖父
+
+grandfather_clock	祖父钟
+
+grandmother	祖母
+
+grandparent	祖父母
+
+grandson	孙子
+
+granite	花岗岩
+
+grant	发放
+
+grape	葡萄
+
+graph	图形
+
+graph_paper	方格纸
+
+graphic	图像
+
+graphic_novel	图画小说
+
+graphics	图像
+
+graphics_card	图形卡
+
+graphics_engine	图形引擎
+
+grasp	把握
+
+grass	草
+
+grass_court	草场
+
+grass_tree	草树
+
+grave	墓
+
+gravity	重力
+
+gray	灰色
+
+gray_matter	灰质
+
+gray_wolf	灰狼
+
+great	大
+
+great_hall	大厅
+
+great_house	大房子
+
+great_power	强大的力量
+
+great_seal	大印章
+
+greece	希腊
+
+greek	希腊语
+
+green	绿色
+
+green_belt	绿化带
+
+green_building	绿色建筑
+
+green_card	绿卡
+
+green_energy	绿色能源
+
+green_flash	绿色闪光
+
+green_lane	绿道
+
+green_light	绿灯
+
+green_line	绿线
+
+green_man	绿人
+
+green_paper	绿皮书
+
+green_party	绿党
+
+green_roof	绿色屋顶
+
+green_room	绿色房间
+
+green_sea	绿海
+
+green_state	绿色状态
+
+green_tea	绿茶
+
+green_wave	绿波
+
+greenhouse	温室
+
+greenhouse_effect	温室效应
+
+greenhouse_gas	温室气体
+
+grenade	手榴弹
+
+grey	灰色
+
+grey_area	灰色地带
+
+grey_market	灰色市场
+
+grid	格
+
+grid_plan	网格计划
+
+grid_reference	网格参考
+
+grief	哀思
+
+grievance	不平
+
+griffin	格里芬
+
+grill	烤架
+
+grip	握
+
+grocery	杂货
+
+grocery_list	购物清单
+
+grocery_store	杂货店
+
+gross	毛
+
+gross_profit	毛利
+
+ground	地面
+
+ground_ball	地面球
+
+ground_beef	碎牛肉
+
+ground_clearance	离地间隙
+
+ground_cover	地被植物
+
+ground_effect	地面效应
+
+ground_floor	一楼
+
+ground_game	地面游戏
+
+ground_glass	毛玻璃
+
+ground_offensive	地面进攻
+
+ground_rule	基本规则
+
+ground_state	基态
+
+ground_tissue	地面组织
+
+ground_water	地下水
+
+ground_zero	零地
+
+grounds	理由
+
+group_action	集体行动
+
+group_leader	组长
+
+group_sex	群交
+
+group_stage	小组赛
+
+group_theory	群论
+
+group_therapy	团体疗法
+
+group_velocity	组速度
+
+grouping	分组
+
+grove	树林
+
+growing	生长
+
+growth	发展
+
+growth_factor	生长因子
+
+growth_hormone	生长激素
+
+growth_medium	生长培养基
+
+growth_ring	年轮
+
+guarantee	保证
+
+guard	守护
+
+guard_dog	看门狗
+
+guard_rail	护栏
+
+guard_station	警卫站
+
+guardian	监护人
+
+guardian_angel	守护天使
+
+guerrilla	游击队
+
+guerrilla_warfare	游击战
+
+guess	猜测
+
+guest	客人
+
+guest_book	留言簿
+
+guest_room	客房
+
+guest_speaker	特邀发言人
+
+guest_star	特邀明星
+
+guest_worker	客工
+
+guidance	指导
+
+guide	指南
+
+guide_book	指导书
+
+guide_dog	导盲犬
+
+guided_missile	导弹
+
+guiding	主导
+
+guild	公会
+
+guilt	有罪
+
+guilty	有罪
+
+guilty_pleasure	有罪的快乐
+
+guinea	几内亚
+
+guitar	吉他
+
+guitarist	吉他手
+
+gulf	海湾
+
+gun	枪
+
+gun_club	枪支俱乐部
+
+gun_dog	枪狗
+
+gun_lobby	枪厅
+
+gun_powder	枪粉
+
+gunfire	炮火
+
+gunman	枪手
+
+guru	领袖
+
+guy	家伙
+
+gym	健身房
+
+gymnastics	体操
+
+habit	习惯
+
+habitat	栖息地
+
+hacker	黑客
+
+hail	冰雹
+
+hair	头发
+
+hair_cut	剪头发
+
+hair_extension	接发
+
+hale	硬朗
+
+half	半
+
+half_brother	同父异母或同母异父的兄弟
+
+half_dozen	半打
+
+half_marathon	半程马拉松
+
+half_measure	半量
+
+half_sister	同父异母的妹妹
+
+half_time	半场
+
+half_volley	半截击
+
+halftime	半场
+
+halfway_house	中途之家
+
+hall	大厅
+
+halt	停
+
+ham	火腿
+
+ham_radio	火腿电台
+
+hamilton	汉密尔顿
+
+hamlet	村庄
+
+hammer	锤子
+
+hamstring	腿筋
+
+hand	手
+
+hand_ball	手球
+
+hand_grenade	手榴弹
+
+hand_tool	手工具
+
+handbook	手册
+
+hander	投手
+
+handful	少数
+
+handle	处理
+
+handling	处理
+
+handover	交出
+
+hang	挂
+
+hanging	挂
+
+hank	汉克
+
+happening	事件
+
+happiness	幸福
+
+harassment	骚扰
+
+harbor	港口
+
+harbour	港口
+
+hard	硬
+
+hard_disk	硬盘
+
+hard_rock	硬石
+
+hard_time	困难时期
+
+harder	更难
+
+hardline	强硬
+
+hardware	硬件
+
+hardware_store	五金店
+
+hardy	耐寒
+
+harm	危害
+
+harmony	和谐
+
+harper	哈珀
+
+hart	牡鹿
+
+harvest	收成
+
+harvest_festival	丰收节日
+
+harvest_moon	牧场物语
+
+harvest_time	收获时间
+
+hat	帽子
+
+hat_tip	帽子小费
+
+hat_trick	帽子戏法
+
+hatch	孵化
+
+hate	讨厌
+
+hate_crime	仇恨犯罪
+
+hate_figure	讨厌图
+
+hate_mail	仇恨邮件
+
+hate_speech	仇恨言论
+
+hatred	仇
+
+haul	运输
+
+haunted_house	鬼屋
+
+hawk	鹰
+
+hay	干草
+
+hazard	冒险
+
+head	头
+
+head_boy	优等生
+
+head_butt	头屁股
+
+head_cheese	头肉冻块
+
+head_coach	主教练
+
+head_cold	头冷
+
+head_count	人数
+
+head_covering	头套
+
+head_game	头游戏
+
+head_girl	头女孩
+
+head_hunter	猎头者
+
+head_man	头人
+
+head_of_state	国家元首
+
+head_office	总公司
+
+head_shop	总店
+
+head_start	领先
+
+head_teacher	班主任
+
+header	头
+
+header_file	头文件
+
+heading	标题
+
+headline	标题
+
+headliner	顶篷
+
+headman	头人
+
+headquarters	司令部
+
+heal	愈合
+
+healing	复原
+
+health	健康
+
+health_care	卫生保健
+
+health_centre	保健中心
+
+health_club	健身房
+
+health_food	健康食品
+
+health_warning	健康警告
+
+healthcare	卫生保健
+
+hearing	听力
+
+hearing_aid	助听器
+
+heart	心
+
+heart_attack	心脏病发作
+
+heart_block	心脏传导阻滞
+
+heart_failure	心脏衰竭
+
+heart_rate	心率
+
+heat	热
+
+heat_capacity	热容量
+
+heat_death	热死
+
+heat_engine	热机
+
+heat_index	热度指数
+
+heat_map	热图
+
+heat_pump	热泵
+
+heat_shield	隔热板
+
+heat_sink	散热器
+
+heat_stroke	心脏病
+
+heat_transfer	传播热量
+
+heat_wave	热浪
+
+heath	健康
+
+heating	加热
+
+heating_oil	取暖油
+
+heaven	天堂
+
+heavy	重
+
+heavy_industry	重工业
+
+heavy_metal	重金属
+
+heavyweight	重量级
+
+hedge	树篱
+
+hedge_fund	对冲基金
+
+height	高度
+
+heir	继承者
+
+heir_apparent	继承人
+
+helicopter	直升机
+
+helicopter_parent	直升机父
+
+hell	地狱
+
+helm	舵
+
+helmet	头盔
+
+help	救命
+
+help_desk	服务台
+
+helping	帮助
+
+hemisphere	半球
+
+henry	亨利
+
+herald	先锋
+
+herb	草本植物
+
+herbert	赫伯特
+
+heritage	遗产
+
+hero	英雄
+
+heroin	海洛因
+
+hey	嘿
+
+hidden_agenda	隐藏的议程
+
+hide	隐藏
+
+hiding	藏
+
+hiding_place	隐藏处
+
+hierarchy	等级制度
+
+high	高
+
+high_court	高等法院
+
+high_cross	高十字
+
+high_definition	高清晰度
+
+high_fidelity	高保真度
+
+high_frequency	高频
+
+high_jumper	跳高运动员
+
+high_life	高生活
+
+high_line	高线
+
+high_noon	正午
+
+high_point	高点
+
+high_priest	大祭司
+
+high_road	高速
+
+high_school	中学
+
+high_sea	公海
+
+high_society	上流社会
+
+high_street	高街
+
+high_tech	高科技
+
+high_technology	高科技
+
+high_water	高水
+
+higher_education	高等教育
+
+highland	高地
+
+highlands	高地
+
+highlight	突出
+
+highlights	强调
+
+highway	高速公路
+
+hike	远足
+
+hiking	徒步旅行
+
+hill	爬坡道
+
+hill_station	山站
+
+hint	暗示
+
+hip	臀部
+
+hip_bone	胯骨
+
+hip_hop	嘻哈（音乐
+
+hire	聘请
+
+historian	历史学家
+
+historical_method	历史方法
+
+history	历史
+
+hit_list	暗杀名单
+
+hit_man	杀手
+
+hit_parade	流行歌曲
+
+hitter	打者
+
+hitting	打
+
+hockey	曲棍球
+
+hockey_puck	冰球
+
+hockey_stick	曲棍球棒
+
+hogan	霍根
+
+hold	保持
+
+holder	持有人
+
+holding	保持
+
+holding_cell	拘留室
+
+holding_company	控股公司
+
+holding_pattern	持有模式
+
+hole	洞
+
+holiday	假日
+
+holiday_camp	度假营
+
+holiday_home	渡假村
+
+holiday_season	假期
+
+holland	荷兰
+
+hollow	空洞
+
+holly	冬青
+
+holmes	霍姆斯
+
+holocaust	大屠杀
+
+holy	圣
+
+holy_cross	圣十字
+
+holy_family	圣洁的家庭
+
+holy_war	圣战
+
+homage	尊敬
+
+home	家
+
+home_base	本垒
+
+home_care	家庭护理
+
+home_cinema	家庭影院
+
+home_computer	家用电脑
+
+home_country	本国
+
+home_economics	家庭经济
+
+home_equity	家庭资产
+
+home_front	家门前
+
+home_game	主场比赛
+
+home_inspection	上门检查
+
+home_inspector	房屋检查员
+
+home_invasion	家庭入侵
+
+home_loan	房屋贷款
+
+home_movie	家庭电影
+
+home_office	在家办公
+
+home_page	主页
+
+home_plate	本垒
+
+home_rule	本垒
+
+home_run	本垒打
+
+home_shopping	家庭购物
+
+home_side	本侧
+
+home_stretch	家庭伸展
+
+home_team	主队
+
+home_town	家乡
+
+home_video	家庭影片
+
+homeland	家园
+
+homer	本垒打
+
+homestead	家园
+
+hometown	家乡
+
+homicide	杀人
+
+homosexual	同性
+
+homosexuality	同性恋
+
+honey	蜜糖
+
+hong	红
+
+honor	荣誉
+
+honor_killing	荣誉杀
+
+honor_roll	光荣榜
+
+honor_system	荣誉制度
+
+honorary	名誉
+
+honour	荣誉
+
+honour_killing	荣誉杀
+
+honour_system	荣誉制度
+
+hood	引擎罩
+
+hook	钩
+
+hook_shot	勾手投篮
+
+hop	跳
+
+hope	希望
+
+hopeful	有希望
+
+horizon	地平线
+
+horizontal	横
+
+hormone	激素
+
+horn	喇叭
+
+horrible	可怕
+
+horror	恐怖
+
+horror_film	恐怖片
+
+horror_movie	恐怖电影
+
+horror_story	恐怖故事
+
+horse	马
+
+horse_race	赛马
+
+horse_racing	赛马
+
+horse_trading	马交易
+
+hospital	医院
+
+hospital_ship	医院船
+
+host	主办
+
+hostage	人质
+
+hostage_negotiator	人质谈判者
+
+hostile	敌对
+
+hostility	敌意
+
+hosting	托管
+
+hot_air	热气
+
+hot_chocolate	热可可
+
+hot_press	热压
+
+hot_rod	热棒
+
+hot_sauce	辣酱
+
+hot_seat	受欢迎的位置
+
+hot_spring	温泉
+
+hot_water	热水
+
+hotel	旅馆
+
+hour	小时
+
+house	屋
+
+house_arrest	软禁
+
+house_call	房屋电话
+
+house_cat	家猫
+
+house_floor	房屋地板
+
+house_martin	马丁别墅
+
+house_mouse	家鼠
+
+house_music	家庭音乐
+
+house_number	门牌号码
+
+house_organ	室内器官
+
+house_party	家庭聚会
+
+house_rule	众议院规则
+
+house_spider	房子蜘蛛
+
+house_style	房屋风格
+
+household	家庭
+
+household_income	家庭收入
+
+household_name	家喻户晓
+
+householder	住户
+
+housing	住房
+
+housing_estate	屋苑
+
+hub	毂
+
+hui	辉
+
+hull	船壳
+
+human	人的
+
+human_nature	人性
+
+human_right	人权
+
+human_rights	人权
+
+human_trafficking	人口贩运
+
+humanitarian	人道主义
+
+humanity	人性
+
+humor	幽默
+
+hun	勋
+
+hundred	百
+
+hunger	饥饿
+
+hunger_strike	绝食抗议
+
+hunt	狩猎
+
+hunter	猎人
+
+hunting	狩猎
+
+hunting_knife	猎刀
+
+hunting_lodge	狩猎小屋
+
+hurdle	栏
+
+hurricane	飓风
+
+hurricanes	飓风
+
+hurt	伤害
+
+hurt_locker	伤害储物柜
+
+husband	丈夫
+
+hybrid	混合动力
+
+hybrid_car	混合动力汽车
+
+hybrid_vehicle	混合动力汽车
+
+hyde	海德
+
+hydrogen	氢
+
+hydrogen_bomb	氢弹
+
+hydrogen_bond	氢键
+
+hydrogen_car	氢气车
+
+hydrogen_economy	氢经济
+
+hydrogen_gas	氢气
+
+hypothesis	假设
+
+ibn	伊本
+
+ice	冰
+
+ice_age	冰河世纪
+
+ice_cap	冰帽
+
+ice_cream	冰淇淋
+
+ice_dam	冰坝
+
+ice_dancing	冰舞
+
+ice_field	冰原
+
+ice_fishing	冰钓
+
+ice_fog	冰雾
+
+ice_giant	冰巨人
+
+ice_hockey	冰球
+
+ice_pack	冰袋
+
+ice_palace	冰宫
+
+ice_pick	冰镐
+
+ice_plant	制冰厂
+
+ice_sculpture	冰雕
+
+ice_sheet	冰盖
+
+ice_shelf	冰架
+
+ice_show	冰上表演
+
+ice_skating	溜冰
+
+ice_storm	冰暴
+
+ice_water	冰水
+
+ice_wine	冰酒
+
+icon	图标
+
+idea	理念
+
+ideal	理想
+
+identification	鉴定
+
+identity	身分
+
+identity_card	身份证
+
+identity_crisis	身份危机
+
+identity_element	身份元素
+
+identity_function	身份功能
+
+identity_matrix	单位矩阵
+
+identity_theft	身份盗窃
+
+ideology	思想
+
+idol	偶像
+
+ill	生病
+
+ill_health	身体欠佳
+
+illegal	非法
+
+illness	疾病
+
+illustration	插图
+
+image	图片
+
+image_map	影像图
+
+image_processing	图像处理
+
+imagination	想像力
+
+imaging	成像
+
+imam	阿訇
+
+immigrant	移民
+
+immigration	移民
+
+immune	免疫的
+
+immunity	免疫
+
+impact	碰撞
+
+impact_crater	撞击坑
+
+impact_resistance	耐冲击
+
+impact_statement	影响陈述
+
+impacts	影响
+
+impasse	僵局
+
+impeachment	弹劾
+
+imperial	帝国
+
+imperial_decree	皇家法令
+
+implement	实行
+
+implementation	履行
+
+import	进口
+
+importance	重要性
+
+impossible	不可能
+
+impression	印象
+
+imprisonment	徒刑
+
+improvement	起色
+
+inability	无力
+
+inaugural	就职
+
+inauguration	就职典礼
+
+incentive	激励
+
+inception	成立
+
+inch	英寸
+
+incident	事件
+
+incident_report	事故报告
+
+inclusion	包容
+
+income	收入
+
+income_statement	收入证明
+
+income_tax	所得税
+
+increase	增加
+
+incumbent	现任
+
+independence	独立
+
+independent	独立
+
+independent_city	独立城市
+
+independent_scholar	独立学者
+
+index	指数
+
+index_card	索引卡
+
+index_finger	食指
+
+index_fossil	指数化石
+
+indication	迹象
+
+indicator	指示符
+
+indictment	起诉书
+
+individual	个人
+
+industrial	产业
+
+industrial_design	工业设计
+
+industrial_estate	工业区
+
+industrial_park	工业园
+
+industrial_school	工业学校
+
+industrialist	实业家
+
+industry	行业
+
+indy	印
+
+infant	婴儿
+
+infantry	步兵
+
+infection	感染
+
+inflation	通货膨胀
+
+influence	影响
+
+influential	有影响
+
+influenza	流感
+
+influx	辐辏
+
+informant	线人
+
+information	信息
+
+information_model	信息模型
+
+information_modeling	信息建模
+
+information_science	信息科学
+
+information_security	信息安全
+
+information_space	信息空间
+
+information_system	信息系统
+
+information_technology	信息技术
+
+information_theory	信息论
+
+information_warfare	信息战
+
+informer	举报人
+
+infrastructure	基础设施
+
+ing	ING
+
+ingredient	成分
+
+inhabitant	居民
+
+initial	初始
+
+initiative	倡议
+
+injection	注射
+
+injunction	禁令
+
+injury	伤
+
+injury_time	补时阶段
+
+ink	墨
+
+inland	内陆
+
+inland_sea	内陆海
+
+inmate	犯人
+
+inn	旅店
+
+inner	内
+
+inner_circle	内圆
+
+inner_city	内城
+
+inner_ear	内耳
+
+inning	一局
+
+innings	局
+
+innocence	无辜
+
+innocent	无辜
+
+innovation	革新
+
+input	输入
+
+input_device	输入设备
+
+inquiry	查询
+
+inscription	题词
+
+insect	昆虫
+
+inside	内
+
+inside_joke	内心的笑话
+
+insider	内幕
+
+insider_trading	内幕交易
+
+insight	眼光
+
+insistence	坚持
+
+inspection	检查
+
+inspector	检查员
+
+inspector_general	督察长
+
+inspiration	灵感
+
+instability	不稳定
+
+install	安装
+
+installation	安装
+
+installation_art	装置艺术
+
+instance	例
+
+instant	瞬间
+
+instant_coffee	速溶咖啡
+
+instant_message	即时消息
+
+institute	研究所
+
+institution	机构
+
+instruction	指令
+
+instruction_set	指令系统
+
+instructor	讲师
+
+instrument	仪器
+
+instrument_panel	仪表板
+
+instrumental	仪器的
+
+instrumentality	媒介
+
+insurance	保险
+
+insurance_company	保险公司
+
+insurance_fraud	保险欺诈
+
+insurance_goal	保险目标
+
+insurance_policy	保险政策
+
+insurer	保险公司
+
+insurgency	暴动
+
+insurgent	叛乱
+
+integral	积分
+
+integrated_circuit	集成电路
+
+integration	积分
+
+integrity	廉正
+
+intel	英特尔
+
+intellectual	知识分子
+
+intellectual_property	知识产权
+
+intelligence	情报
+
+intelligence_agency	情报局
+
+intelligence_asset	情报资产
+
+intelligent_system	智能系统
+
+intensity	强度
+
+intensive	集约
+
+intensive_care	重症监护室
+
+intent	意图
+
+intention	意向
+
+interact	相互作用
+
+interaction	相互作用
+
+interaction_design	交互设计
+
+interactive	互动
+
+interception	截击
+
+interchange	互换
+
+interest	利益
+
+interest_rate	利率
+
+interface	接口
+
+interference	干扰
+
+interim	临时
+
+interior	内部
+
+interior_design	室内设计
+
+interior_designer	室内设计师
+
+intermediate	中间
+
+intermediate_school	中学
+
+internal_medicine	内科
+
+international	国际
+
+international_airport	国际机场
+
+international_law	国际法
+
+internet	互联网
+
+interpretation	解释
+
+interpreter	翻译员
+
+interrogation	问诊
+
+intersection	路口
+
+interstate	州际
+
+interval	间隔
+
+intervention	介入
+
+interview	访问
+
+interviewee	受访者
+
+interviews	面试
+
+intimate	亲密
+
+intimidation	恐吓
+
+introduction	介绍
+
+invasion	侵入
+
+invention	发明
+
+inventor	发明者
+
+inventory	库存
+
+inventory_management	库存管理
+
+invest	投资
+
+investigation	调查
+
+investigator	研究者
+
+investment	投资
+
+investment_bank	投资银行
+
+investor	投资者
+
+invisible	无形
+
+invitation	请帖
+
+invite	邀请
+
+involvement	参与
+
+ion	离子
+
+iron	铁
+
+iron_cross	铁十字
+
+iron_hand	铁腕
+
+iron_horse	铁马
+
+iron_lung	铁肺
+
+iron_man	钢铁侠
+
+iron_mine	铁矿
+
+iron_ore	铁矿
+
+irrigation	灌溉
+
+island	岛
+
+island_chain	岛链
+
+island_state	岛国
+
+isle	小岛
+
+isolation	隔离
+
+issue	问题
+
+item	项目
+
+ivory	象牙
+
+ivory_tower	象牙塔
+
+jack	插口
+
+jack_russell	杰克·罗素
+
+jacket	夹克
+
+jail	监狱
+
+jake	可靠的人
+
+jam	果酱
+
+jam_session	即兴演奏
+
+jamaica	牙买加
+
+jan	一月
+
+jane	简
+
+janitor	门警
+
+japan	日本
+
+java	java的
+
+jay	松鸦
+
+jazz	爵士乐
+
+jazz_band	爵士乐队
+
+jazz_dance	爵士舞
+
+jean	牛仔
+
+jeep	吉普车
+
+jenny	珍妮
+
+jerry	杰瑞
+
+jerry_can	杰里可
+
+jersey	球衣
+
+jet	喷射
+
+jet_bridge	喷射桥
+
+jet_engine	喷气发动机
+
+jet_fighter	喷气战斗机
+
+jet_plane	喷气式飞机
+
+jet_set	喷气机
+
+jet_ski	摩托艇
+
+jet_stream	急流
+
+jewelry	首饰
+
+jihad	讨伐异教徒
+
+jill	吉尔
+
+jimmy	吉米
+
+jin	斤
+
+job	工作
+
+job_action	工作行动
+
+job_center	工作中心
+
+job_centre	工作中心
+
+job_creator	工作创造者
+
+job_description	职位描述
+
+job_title	职称
+
+jockey	骑师
+
+joe	乔
+
+joe_job	乔·乔布
+
+joey	乔伊
+
+john	约翰
+
+johnny	约翰尼
+
+johnson	约翰逊
+
+join	加入
+
+joining	加盟
+
+joint	联合
+
+joint_committee	联合委员会
+
+joint_venture	合资企业
+
+joke	玩笑
+
+jones	琼斯
+
+jong	麻将
+
+joseph	约瑟夫
+
+josh	玩笑
+
+journal	日志
+
+journalism	新闻学
+
+journalist	记者
+
+journey	旅程
+
+joy	喜悦
+
+joy_ride	欢乐之旅
+
+judge	法官
+
+judge_advocate	法官辩护人
+
+judges	法官
+
+judgment	判断
+
+judgment_call	审判电话
+
+judgment_day	审判当天
+
+judicial	司法
+
+judicial_branch	司法部门
+
+judiciary	司法
+
+juice	果汁
+
+jump	跳
+
+jump_shot	跳投
+
+jumper	跨接器
+
+junction	连接点
+
+junction_point	连接点
+
+jungle	丛林
+
+junior	初级
+
+junior_college	大专
+
+junior_high	初中
+
+junior_minister	初级部长
+
+junior_school	初中
+
+junk	破烂
+
+junk_bond	垃圾债券
+
+junk_food	垃圾食品
+
+junk_mail	垃圾邮件
+
+junk_science	垃圾科学
+
+junk_shot	垃圾射击
+
+junta	军政府
+
+jurisdiction	管辖权
+
+jury	陪审团
+
+jury_box	陪审团
+
+jury_duty	陪审团义务
+
+jury_pool	陪审团池
+
+jury_trial	陪审团审案
+
+justice	正义
+
+justification	理由
+
+juvenile	少年
+
+kai	佳
+
+kate	凯特
+
+kay	凯
+
+kee	记
+
+keen	敏锐
+
+keep	保持
+
+keeper	管理人
+
+kemp	肯普
+
+ken	肯
+
+key	键
+
+keyboard	键盘
+
+khan	汗
+
+kick	踢
+
+kicking	踢
+
+kid	孩子
+
+kid_brother	小弟弟
+
+kid_sister	小妹妹
+
+kidnap	绑架
+
+kidnapping	绑架
+
+kidney	肾
+
+kidney_failure	肾功能衰竭
+
+kidney_stone	肾结石
+
+kiev	基辅
+
+kill	杀
+
+killer	凶手
+
+killing	谋杀
+
+killing_field	杀戮场
+
+killing_spree	杀人狂魔
+
+kilometer	公里
+
+kin	亲属
+
+kind	类
+
+kindergarten	幼儿园
+
+king	王
+
+kingdom	王国
+
+kingdom_come	王国来了
+
+kirk	柯克
+
+kiss	吻
+
+kit	套件
+
+kitchen	厨房
+
+kitchen_cabinet	厨柜
+
+kitchen_garden	果菜园
+
+knee	膝盖
+
+knee_cap	护膝
+
+knicks	尼克斯
+
+knife	刀
+
+knight	骑士
+
+knock	敲
+
+knocking	敲门
+
+knockout	昏死
+
+know	知道
+
+knowledge	知识
+
+knowledge_base	知识库
+
+knowledge_management	知识管理
+
+knowledge_worker	知识工作者
+
+known	已知
+
+kohl	科尔
+
+kong	港
+
+kremlin	克里姆林宫
+
+kyle	凯尔
+
+lab	实验室
+
+lab_coat	实验工作服
+
+label	标签
+
+labor	劳工
+
+labor_camp	劳教所
+
+labor_force	劳动力
+
+labor_market	劳动力市场
+
+labor_union	工会
+
+laboratory	实验室
+
+labour	劳工
+
+labour_camp	劳教所
+
+labour_force	劳动力
+
+labour_union	工会
+
+lack	缺乏
+
+lady	淑女
+
+lady_friend	女士朋友
+
+lah	啦
+
+lake	湖
+
+lake_effect	湖效应
+
+lama	喇嘛
+
+lamb	羊肉
+
+lambert	兰伯特
+
+lance	长矛
+
+land	土地
+
+land_bridge	陆桥
+
+land_grant	土地补助
+
+land_line	陆线
+
+land_mine	地雷
+
+land_snail	蜗牛
+
+landing	降落
+
+landing_craft	登陆艇
+
+landing_gear	起落架
+
+landing_page	登陆页面
+
+landing_ship	登陆舰
+
+landing_strip	降落跑道
+
+landmark	里程碑
+
+landmass	大陆
+
+landscape	景观
+
+landslide	滑坡
+
+landslide_victory	压倒性胜利
+
+lane	车道
+
+lang	郎
+
+language	语言
+
+language_barrier	语言障碍
+
+language_code	语言代码
+
+language_family	语言族
+
+lap	膝部
+
+lap_dance	圈舞
+
+lap_dog	lap狗
+
+lap_record	单圈记录
+
+laptop	笔记本电脑
+
+laptop_computer	笔记本电脑
+
+large	大
+
+laser	激光
+
+laser_gun	激光枪
+
+laser_surgery	激光手术
+
+last	持续
+
+last_name	姓
+
+late	晚的
+
+latest	最新
+
+latin	拉丁
+
+latter	后者
+
+latter_day_saints	后期圣徒
+
+laugh	笑
+
+laugh_track	笑声
+
+laughing	笑
+
+launch	发射
+
+launch_pad	发射台
+
+launch_party	启动晚会
+
+launch_vehicle	运载火箭
+
+launch_window	启动窗口
+
+laundering	洗钱
+
+laura	劳拉
+
+laureate	得主
+
+law	法
+
+law_clerk	法律文员
+
+law_enforcement	执法
+
+law_review	法律审查
+
+law_school	法学院
+
+law_student	法律系学生
+
+law_suit	诉讼
+
+lawgiver	立法者
+
+lawmaker	国会议员
+
+lawman	执法者
+
+lawn	草坪
+
+lawn_tennis	草地网球
+
+lawsuit	诉讼
+
+lawyer	律师
+
+lay	铺设
+
+layer	层
+
+layout	布局
+
+lead	铅
+
+lead_character	主角
+
+lead_dog	领头狗
+
+lead_guitar	主音吉他
+
+lead_poisoning	铅中毒
+
+lead_time	交货时间
+
+lead_vocalist	主唱
+
+leader	领导
+
+leader_board	排行榜
+
+leadership	领导
+
+leading	领导
+
+leaf	叶
+
+leaf_spring	板簧
+
+league	联盟
+
+league_cup	联赛杯
+
+league_table	排行榜
+
+leak	泄漏
+
+leaning	倚
+
+leap	飞跃
+
+leap_day	日
+
+leap_second	秒
+
+leap_year	闰年
+
+learner	学习者
+
+learning	学习
+
+learning_curve	学习曲线
+
+lease	租
+
+leather	皮革
+
+leave	离开
+
+lecture	演讲
+
+lecture_hall	演讲厅
+
+lecturer	讲师
+
+ledger	总帐
+
+lee	背风处
+
+left	剩下
+
+left_bank	左岸
+
+left_fielder	左外野手
+
+left_wing	左翼
+
+leftist	左派分子
+
+leg	腿
+
+leg_press	压腿
+
+leg_side	腿侧
+
+legacy	遗产
+
+legacy_system	遗留系统
+
+legal	法律
+
+legal_aid	法律援助
+
+legal_entity	法人实体
+
+legal_term	法律条款
+
+legend	传说
+
+legendary	传奇的
+
+legion	军团
+
+legislation	立法
+
+legislative	立法
+
+legislative_body	立法机关
+
+legislative_branch	立法部门
+
+legislator	立法者
+
+legislature	立法机关
+
+legitimacy	合法
+
+leigh	利
+
+leisure	闲暇
+
+lemon	柠檬
+
+lender	贷款人
+
+lending	贷款
+
+length	长度
+
+lens	镜片
+
+lens_board	镜头板
+
+leone	利昂
+
+les	莱
+
+lesbian	女同性恋
+
+lesser	较小
+
+lesson	课
+
+lesson_plan	课程计划
+
+let	让
+
+lethal	致死
+
+letter	信
+
+letter_bomb	信件炸弹
+
+letter_box	信箱
+
+letter_carrier	信载体
+
+letter_grade	字母等级
+
+letter_patent	信件专利
+
+letting	出租
+
+level	水平
+
+leverage	杠杆作用
+
+levin	莱文
+
+levy	征收
+
+lewis	刘易斯
+
+liability	责任
+
+liability_insurance	责任保险
+
+liaison	联络
+
+liberal	自由主义的
+
+liberation	解放
+
+liberty	自由
+
+library	图书馆
+
+library_assistant	图书馆助理
+
+library_catalog	图书馆目录
+
+library_science	图书馆学
+
+licence	执照
+
+license	执照
+
+license_plate	牌照
+
+lie	位于
+
+lied	说谎
+
+lien	留置权
+
+lieutenant	陆军中尉
+
+lieutenant_colonel	上校
+
+lieutenant_commander	中尉
+
+lieutenant_governor	副州长
+
+life	生活
+
+life_assurance	生命保证
+
+life_coach	人生导师
+
+life_cycle	生命周期
+
+life_force	生命力
+
+life_form	生命形式
+
+life_history	生活史
+
+life_insurance	人寿保险
+
+life_jacket	救生衣
+
+life_partner	生活伴侣
+
+life_peer	同伴
+
+life_ring	生命环
+
+life_savings	挽救生命
+
+life_science	生命科学
+
+life_sentence	无期徒刑
+
+life_span	寿命
+
+life_story	生活故事
+
+life_style	生活方式
+
+life_support	生命保障
+
+lifestyle	生活方式
+
+lifetime	一生
+
+lift	电梯
+
+lifting	吊装
+
+light	光
+
+light_infantry	轻步兵
+
+light_rail	轻轨列车
+
+light_railway	轻轨
+
+light_show	灯展
+
+light_source	光源
+
+lighter	打火机
+
+lighthouse	灯塔
+
+lighting	灯光
+
+lightning	闪电
+
+lightweight	轻量级
+
+like	喜欢
+
+likelihood	可能性
+
+limb	肢
+
+limestone	石灰石
+
+limit	限制
+
+limit_point	极限点
+
+limited_partnership	有限合伙制
+
+lin	林
+
+line	线
+
+line_art	线条艺术
+
+line_break	越线
+
+line_dance	线舞
+
+line_dancing	排舞
+
+line_drive	线驱动
+
+line_item	订单项
+
+line_judge	线路法官
+
+line_segment	线段
+
+linebacker	后卫
+
+liner	衬垫
+
+lineup	排队
+
+lining	衬
+
+link	链接
+
+link_exchange	链接交换
+
+link_farm	链接农场
+
+lion	狮子
+
+lionel	莱昂内尔
+
+lip	唇
+
+liquid	液体
+
+liquid_air	液态空气
+
+liquid_asset	流动资产
+
+liquid_crystal	液晶
+
+liquidity	流动性
+
+liquor	酒
+
+liquor_store	酒品店
+
+list	名单
+
+list_price	价格表
+
+listening	听
+
+listening_post	听的帖子
+
+listing	清单
+
+lit	发光的
+
+literacy	读写能力
+
+literary_agent	文学代理
+
+literary_device	文学装置
+
+literary_language	文学语言
+
+literary_technique	文学技巧
+
+literature	文献
+
+litigant	当事人
+
+litigation	诉讼
+
+little_boy	小男孩
+
+little_brother	小弟弟
+
+little_girl	小姑娘
+
+live_action	现场录制
+
+live_album	现场专辑
+
+live_blog	现场博客
+
+live_oak	橡树
+
+lively	活泼
+
+liver	肝
+
+liver_bird	肝鸟
+
+liver_cancer	肝癌
+
+lives	生活
+
+livestock	家畜
+
+living	活的
+
+living_fossil	活化石
+
+living_hell	人间地狱
+
+living_room	客厅
+
+living_standard	生活水平
+
+living_thing	生物
+
+living_tissue	活组织
+
+load	加载
+
+load_time	加载时间
+
+loading	装载
+
+loan	贷款
+
+loan_shark	高利贷者
+
+loan_translation	贷款翻译
+
+loan_word	贷款词
+
+lobby	前厅
+
+lobbyist	说客
+
+local	本地
+
+local_government	地方政府
+
+localization	本土化
+
+location	位置
+
+lock	锁
+
+locker	更衣室
+
+locomotive	机车
+
+lodge	小屋
+
+log	日志
+
+logan	洛根
+
+logging	记录
+
+logic	逻辑
+
+logic_board	逻辑板
+
+logic_bomb	逻辑炸弹
+
+logic_gate	逻辑门
+
+logo	商标
+
+long	长
+
+long_division	长除法
+
+long_jumper	跳远
+
+long_tail	长尾巴
+
+look	看
+
+looking	看着
+
+looking_glass	镜子
+
+loop	环
+
+loose	疏松
+
+looting	抢劫
+
+lord	主
+
+loser	失败者
+
+losing	失去
+
+losing_streak	连败
+
+loss	失利
+
+loss_leader	损失负责人
+
+lot	批量
+
+lottery	抽奖
+
+lottery_ticket	彩票
+
+lotus	莲花
+
+lounge	休息室
+
+lounge_music	休闲音乐
+
+love	爱
+
+love_affair	恋爱关系
+
+love_bite	爱咬
+
+love_child	爱小孩
+
+love_egg	爱蛋
+
+love_game	爱情游戏
+
+love_hotel	情趣酒店
+
+love_interest	爱的兴趣
+
+love_letter	爱情信
+
+love_life	热爱生活
+
+love_nest	爱巢
+
+love_song	情歌
+
+love_triangle	三角恋
+
+lovely	可爱
+
+lover	情人
+
+loving	爱心
+
+low	低
+
+lowe	罗威
+
+lower_house	下议院
+
+lowering	降低
+
+loyalty	忠诚
+
+luck	运气
+
+lucy	露西
+
+luggage	行李
+
+lumber	木料
+
+lunch	午餐
+
+lunch_box	午餐盒
+
+lunch_lady	午餐女士
+
+lung	肺
+
+lung_cancer	肺癌
+
+lure	饵
+
+luxury	豪华
+
+luxury_tax	奢侈税
+
+lyon	里昂
+
+lyrics	歌词
+
+ma_ma	妈呀
+
+mac	苹果电脑
+
+machine	机
+
+machine_code	机器码
+
+machine_gun	机枪
+
+machine_language	机器语言
+
+machine_learning	机器学习
+
+machine_pistol	机枪
+
+machine_room	机房
+
+machine_shop	机器商店
+
+machine_tool	机床
+
+machine_translation	机器翻译
+
+machinery	机械
+
+machines	机
+
+mack	麦克
+
+mad_cow	疯牛
+
+mad_man	疯子
+
+mad_money	我为钱狂
+
+madeleine	马德莱娜
+
+madison	麦迪逊
+
+madonna	麦当娜
+
+mafia	黑手党
+
+magazine	杂志
+
+magic	魔法
+
+magic_eye	魔眼
+
+magic_square	魔术广场
+
+magistrate	法官
+
+magnitude	大小
+
+maiden	少女
+
+mail	邮件
+
+mail_bomb	邮件炸弹
+
+mail_carrier	邮递员
+
+mail_fraud	邮件欺诈
+
+mail_order	邮购
+
+mail_train	邮件火车
+
+mail_truck	邮件卡车
+
+main	主要
+
+main_building	主楼
+
+main_course	主菜
+
+main_group	主要组
+
+main_line	主线
+
+main_stage	主舞台
+
+mainland	大陆
+
+mainstream	主流
+
+mainstream_america	美国主流
+
+maintenance	保养
+
+major	重大的
+
+major_element	主要元素
+
+major_general	大将军
+
+major_league	主要联盟
+
+major_party	大党
+
+major_scale	主要规模
+
+majority	多数
+
+majority_decision	多数决定
+
+majority_owner	大股东
+
+majority_rule	多数规则
+
+make	使
+
+maker	制作者
+
+makeup	补偿
+
+makeup_artist	彩妆大师
+
+making	制造
+
+malaria	疟疾
+
+male	男
+
+male_member	男成员
+
+mali	马里
+
+mall	购物中心
+
+malta	马耳他
+
+mammal	哺乳动物
+
+man	男人
+
+man_cave	人洞
+
+man_page	手册页
+
+management	管理
+
+manager	经理
+
+managing_director	常务董事
+
+manchester	曼彻斯特
+
+mandate	要求
+
+mandatory	强制性
+
+maneuver	演习
+
+manga	漫画
+
+manhattan	曼哈顿
+
+manila	马尼拉
+
+manipulation	操作
+
+manner	方式
+
+manor	庄园
+
+manor_house	庄园别墅
+
+mansion	大厦
+
+manual	手册
+
+manual_labour	手工劳力
+
+manual_transmission	手动变速器
+
+manufacture	制造
+
+manufacturer	生产厂家
+
+manufacturing	制造业
+
+manuscript	手稿
+
+map	地图
+
+map_room	地图室
+
+maple	枫
+
+mapping	制图
+
+marathon	马拉松
+
+marble	大理石
+
+marc	渣
+
+march	游行
+
+marching	行军
+
+marching_band	军乐队
+
+margin	余量
+
+margin_call	追加保证金
+
+maria	玛丽亚
+
+marijuana	大麻
+
+marina	码头
+
+marine	海洋
+
+marine_biology	海洋生物学
+
+marine_corps	陆战队
+
+marine_infantry	海上步兵
+
+maritime_law	海商法
+
+mark	标记
+
+marker	标记
+
+market	市场
+
+market_basket	市场篮
+
+market_day	市场日
+
+market_discipline	市场纪律
+
+market_economy	市场经济
+
+market_garden	市场花园
+
+market_maker	做市商
+
+market_opening	市场开放
+
+market_order	市场秩序
+
+market_place	市场
+
+market_price	市场价
+
+market_research	市场调查
+
+market_risk	市场风险
+
+market_share	市场份额
+
+market_square	市集广场
+
+market_town	集镇
+
+market_value	市场价值
+
+marketing	营销
+
+marketing_research	市场研究
+
+marketplace	市井
+
+marking	印记
+
+marriage	婚姻
+
+marriage_certificate	结婚证
+
+marriage_equality	婚姻平等
+
+married	已婚
+
+marsh	沼泽
+
+marshal	元帅
+
+marshall	马歇尔
+
+mart	市场
+
+martial_art	武术
+
+martial_artist	武术家
+
+martial_law	戒严法
+
+martin	马丁
+
+marvel	奇迹
+
+mary	玛丽
+
+mask	面具
+
+mason	石匠
+
+mass	块
+
+mass_burial	大规模埋葬
+
+mass_destruction	大规模破坏
+
+mass_funeral	集体葬礼
+
+mass_grave	群众坟墓
+
+mass_media	媒体
+
+mass_murder	大屠杀
+
+mass_number	质量数
+
+mass_production	大量生产
+
+mass_storage	大容量储存
+
+mass_surveillance	群众监视
+
+mass_transit	轨道交通
+
+massacre	屠杀
+
+massive	大规模的
+
+master	主
+
+master_bedroom	主卧室
+
+master_class	硕士课
+
+master_data	主要的数据
+
+master_key	主密钥
+
+master_plan	总体规划
+
+master_race	大师赛
+
+master_sergeant	军士长
+
+match	比赛
+
+match_play	比赛
+
+match_point	匹配点
+
+match_referee	比赛裁判
+
+matching	匹配
+
+mate	伴侣
+
+material	材料
+
+material_support	物质支持
+
+math	数学
+
+mathematical_game	数学游戏
+
+mathematics	数学
+
+matrix	矩阵
+
+matter	物
+
+maturity	到期
+
+maturity_date	成人礼
+
+maximum	最大值
+
+maxwell	麦克斯韦
+
+may	可以
+
+maybe	也许
+
+mayor	市长
+
+meal	膳食
+
+mean	意思
+
+mean_time	与此同时
+
+meaning	含义
+
+meantime	与此同时
+
+meanwhile	与此同时
+
+measure	测量
+
+measure_theory	测量理论
+
+measurement	测量
+
+meat	肉
+
+meat_hook	肉钩
+
+meat_market	肉类市场
+
+mecca	麦加
+
+mechanical_engineering	机械工业
+
+mechanics	机械学
+
+mechanism	机制
+
+med	MED
+
+medal	勋章
+
+medal_table	奖牌桌
+
+medalist	得主
+
+media	媒体
+
+media_advocacy	媒体宣传
+
+media_bias	媒体偏见
+
+media_circus	媒体马戏团
+
+media_kit	媒体工具包
+
+media_outlet	媒体出口
+
+media_player	媒体播放器
+
+median	中位数
+
+mediation	调解
+
+mediator	中间人
+
+medical	医
+
+medical_doctor	医生
+
+medical_examiner	法医
+
+medical_school	医学院
+
+medical_student	医学专业的学生
+
+medical_tourism	医疗旅游
+
+medicare	医疗保险
+
+medication	药物治疗
+
+medicine	医学
+
+medicine_ball	药球
+
+medicine_cabinet	药品柜
+
+medicine_man	药人
+
+medicine_show	医学展示
+
+medieval	中世纪
+
+medina	麦地那
+
+mediterranean_sea	地中海
+
+medium	介质
+
+medium_of_exchange	交换媒介
+
+medley	混合
+
+meet	遇到
+
+meeting	会议
+
+meeting_place	会议地点
+
+meeting_room	会议室
+
+mel	梅尔
+
+melody	旋律
+
+meltdown	崩溃
+
+member	会员
+
+member_state	会员国
+
+membership	籍
+
+memo	备忘录
+
+memoir	传记
+
+memorandum	备忘录
+
+memorial	纪念馆
+
+memorial_park	纪念公园
+
+memorial_service	追悼会
+
+memory	记忆
+
+memory_card	存储卡
+
+memory_chip	记忆体晶片
+
+memory_lane	内存通道
+
+memory_leak	内存泄漏
+
+memory_stick	记忆棒
+
+men	男人
+
+menace	威胁
+
+mental_disorder	精神障碍
+
+mental_health	精神健康
+
+mental_hospital	精神病院
+
+mental_illness	精神疾病
+
+mention	提到
+
+mentor	导师
+
+menu	菜单
+
+menu_bar	菜单栏
+
+merchandise	商品
+
+merchant	商人
+
+merchant_bank	商业银行
+
+merchant_marine	商船
+
+merchant_navy	商海军
+
+merchant_ship	商船
+
+merck	默克
+
+mercury	汞
+
+mercy	怜悯
+
+mercy_killing	安乐死
+
+mercy_rule	仁慈规则
+
+mercy_seat	怜悯的座位
+
+mere	只
+
+merge	合并
+
+merger	合并
+
+merging	合并
+
+merit	值得
+
+mesa	台面
+
+mess	食堂
+
+mess_dress	烂摊子
+
+mess_hall	食堂
+
+message	信息
+
+message_board	留言板
+
+metal	金属
+
+meter	仪表
+
+method	方法
+
+method_acting	方法行事
+
+method_actor	方法演员
+
+metre	仪表
+
+metric	公
+
+metro	地铁
+
+metro_station	地铁站
+
+metropolitan	宗主
+
+metropolitan_area	都市区
+
+metropolitan_borough	大都会区
+
+metropolitan_county	大都市县
+
+mice	老鼠
+
+mickey	米奇
+
+micro	微
+
+mid	中
+
+midday	正午
+
+middle	中间
+
+middle_age	中年
+
+middle_class	中产阶级
+
+middle_name	中间名字
+
+middle_passage	中间通道
+
+middle_school	初中
+
+middle_way	中间方式
+
+midfield	中场
+
+midfielder	中场
+
+midland	美联
+
+midnight	午夜
+
+midnight_movie	午夜电影
+
+midnight_sun	午夜的阳光
+
+midst	中间
+
+midway	中途
+
+midwest	中西部
+
+might	威力
+
+mighty	威武
+
+migrant	农民
+
+migration	移民
+
+mike	麦克风
+
+mild	温和
+
+mile	英里
+
+milestone	里程碑
+
+militant	激进
+
+military	军事
+
+military_academy	军校
+
+military_exercise	军事演习
+
+military_order	军事命令
+
+military_police	宪兵
+
+military_school	军校
+
+military_service	兵役
+
+military_tribunal	军事法庭
+
+militia	民兵
+
+milk	牛奶
+
+milk_chocolate	牛奶巧克力
+
+milk_powder	牛奶粉
+
+milk_tea	奶茶
+
+mill	磨
+
+millennium	千年
+
+miller	磨坊主
+
+millionaire	百万富翁
+
+min	分
+
+mind	心神
+
+mind_control	精神控制
+
+mind_game	智力游戏
+
+mind_map	思维导图
+
+mind_share	心智分享
+
+miner	矿工
+
+mineral	矿物
+
+mineral_oil	矿物油
+
+mineral_right	矿物权
+
+mineral_water	矿泉水
+
+ming	明
+
+mini	微型
+
+minimum	最低限度
+
+minimum_wage	最低工资
+
+mining	矿业
+
+minister	部长
+
+ministry	部
+
+minor	次要
+
+minor_league	小联盟
+
+minor_planet	小行星
+
+minority	少数民族
+
+minority_cabinet	少数派内阁
+
+minority_government	少数民族政府
+
+minority_leader	少数派领袖
+
+minority_report	少数派报告
+
+mint	薄荷
+
+minus	减去
+
+minute	分钟
+
+mir	MIR
+
+miracle	奇迹
+
+miracle_worker	奇迹工人
+
+mirror	镜子
+
+mirror_ball	镜球
+
+mirror_image	镜像
+
+mirror_stage	镜台
+
+misconduct	处理不当
+
+misery	苦难
+
+misfortune	不幸
+
+mishap	不测
+
+miss	小姐
+
+missile	导弹
+
+missing_link	缺少链接
+
+mission	任务
+
+mission_statement	使命宣言
+
+missionary	传教士
+
+mistake	错误
+
+mix	混合
+
+mix_tape	混合胶带
+
+mixed_company	混合公司
+
+mixing	混合
+
+mixture	混合物
+
+mob	暴民
+
+mob_rule	暴民统治
+
+mobile	移动
+
+mobile_game	手机游戏
+
+mobile_home	移动房屋
+
+mobile_phone	移动电话
+
+mobility	流动性
+
+mock	嘲笑
+
+mode	模式
+
+model	模型
+
+modeling	造型
+
+moderate	中等
+
+modern	现代
+
+modern_art	现代艺术
+
+modern_dance	现代舞
+
+modern_physics	现代物理学
+
+modernization	现代化
+
+modest_proposal	适度的建议
+
+modified	改性
+
+module	模
+
+mom	妈妈
+
+moment	时刻
+
+momentum	动量
+
+monarch	君主
+
+monarchy	帝制
+
+monastery	修道院
+
+monetary_policy	货币政策
+
+monetary_unit	货币单位
+
+money	钱
+
+money_bag	钱袋子
+
+money_laundering	洗钱
+
+money_maker	摇钱树
+
+money_market	货币市场
+
+money_order	汇票
+
+money_pit	钱坑
+
+money_shot	钱射击
+
+money_supply	资金供应
+
+monitor	监控
+
+monitoring	监控
+
+monitors	显示器
+
+monk	僧
+
+monkey	猴
+
+monkey_business	胡闹
+
+monopoly	垄断
+
+monster	怪物
+
+monster_truck	怪物卡车
+
+monte	蒙特
+
+month	月
+
+monthly	每月一次
+
+monument	纪念碑
+
+moo	哞
+
+mood	心情
+
+mood_ring	心情环
+
+mood_swing	情绪波动
+
+moon	月亮
+
+moon_landing	登陆月球
+
+moon_shot	月亮射门
+
+moral	道德
+
+moral_philosophy	道德哲学
+
+morale	情绪
+
+moratorium	暂停
+
+morgan	摩根
+
+morning	早上
+
+morning_coat	晨衣
+
+morning_dress	晨礼服
+
+morning_glory	喇叭花
+
+morning_star	晨星
+
+morning_tea	早茶
+
+morocco	摩洛哥
+
+morris	莫里斯
+
+morris_dance	莫里斯舞蹈
+
+morris_dancing	莫里斯跳舞
+
+mortality	死亡
+
+mortality_rate	死亡率
+
+mortar	砂浆
+
+mortgage	抵押
+
+mosque	清真寺
+
+moss	苔藓
+
+moth	蛾
+
+mother	母亲
+
+mother_country	母国
+
+mother_goddess	母亲女神
+
+mother_language	母语
+
+mother_sauce	母酱
+
+mother_ship	母舰
+
+mother_superior	上级母亲
+
+mother_tongue	母语
+
+motion	运动
+
+motion_capture	动作捕捉
+
+motion_picture	电影
+
+motivation	动机
+
+motive	动机
+
+motive_power	原动力
+
+motor	发动机
+
+motor_car	摩托车
+
+motor_home	汽车之家
+
+motor_oil	机油
+
+motor_pool	电机池
+
+motor_racing	赛车
+
+motor_unit	电机单元
+
+motor_vehicle	摩托车
+
+motorcycle	摩托车
+
+motorcycle_club	摩托车俱乐部
+
+motorist	司机
+
+motto	座右铭
+
+mound	冢
+
+mount	安装
+
+mountain	山
+
+mountain_ash	山灰
+
+mountain_bike	山地自行车
+
+mountain_building	山区建筑
+
+mountain_chain	山链
+
+mountain_climbing	爬山
+
+mountain_lion	山狮
+
+mountain_range	山脉
+
+mountain_top	山顶
+
+mounted_infantry	步兵
+
+mounted_police	骑警
+
+mounting	安装
+
+mourning	丧
+
+mouse	老鼠
+
+mouth	口
+
+mouth_organ	口腔器官
+
+move	移动
+
+movement	运动
+
+movie	电影
+
+movie_deal	电影交易
+
+movie_star	影星
+
+movie_theater	电影院
+
+movie_theatre	电影院
+
+moving	移动
+
+mud	泥
+
+mud_flat	泥滩
+
+multimedia	多媒体
+
+multinational	跨国
+
+multiple	多
+
+multiple_star	聚星
+
+multitude	苠
+
+municipal	市政
+
+municipal_borough	市政区
+
+municipal_corporation	市政公司
+
+municipality	直辖市
+
+murder	谋杀
+
+murderer	凶手
+
+muscle	肌肉
+
+muscle_car	肌肉车
+
+muscle_memory	肌肉记忆
+
+muscle_tone	肌肉张力
+
+museum	博物馆
+
+museum_piece	博物馆作品
+
+music	音乐
+
+music_box	音乐盒
+
+music_center	音乐中心
+
+music_centre	音乐中心
+
+music_chart	音乐排行榜
+
+music_group	音乐组
+
+music_hall	音乐厅
+
+music_room	音乐房
+
+music_school	音乐学校
+
+music_theory	音乐理论
+
+music_therapy	音乐疗法
+
+music_video	音乐视频
+
+musical	音乐
+
+musical_instrument	乐器
+
+musician	音乐家
+
+muster	鼓起
+
+mutual	相互
+
+mutual_fund	共同基金
+
+mystery	神秘
+
+mystery_meat	神秘的肉
+
+mystery_play	神秘剧
+
+mystery_tour	神秘之旅
+
+myth	神话
+
+mythology	神话
+
+nail	钉
+
+name	名称
+
+name_brand	名牌
+
+name_day	命名日
+
+name_server	名称服务器
+
+naming	命名
+
+naming_convention	命名约定
+
+nancy	南希
+
+napoleon	拿破仑
+
+narrative	叙述
+
+narrator	叙述者
+
+narrow_gauge	窄轨
+
+nasty	讨厌
+
+nation	国家
+
+national	国民
+
+national_academy	国家科学院
+
+national_airline	国家航空公司
+
+national_anthem	国歌
+
+national_archive	国家档案馆
+
+national_convention	国民大会
+
+national_court	国家法院
+
+national_day	国庆日
+
+national_debt	国债
+
+national_epic	民族史诗
+
+national_grid	国家电网
+
+national_holiday	法定假日
+
+national_park	国家公园
+
+national_revival	民族复兴
+
+national_security	国家安全
+
+national_service	国家服务
+
+national_treasure	国家宝藏
+
+nationalism	民族主义
+
+nationalist	民族主义者
+
+nationality	国籍
+
+native	本地人
+
+native_bear	本地熊
+
+native_language	母语
+
+native_speaker	母语人士
+
+native_species	本地物种
+
+native_title	本机标题
+
+natural	自然
+
+natural_disaster	自然灾害
+
+natural_fiber	天然纤维
+
+natural_gas	天然气
+
+natural_history	自然历史
+
+natural_language	自然语言
+
+natural_law	自然法则;自然规律
+
+natural_process	自然过程
+
+natural_reserve	自然保护区
+
+natural_resource	自然资源
+
+natural_science	自然科学
+
+nature	性质
+
+nature_preserve	自然保护区
+
+nature_reserve	自然保护区
+
+naval_architect	海军建筑师
+
+navigation	导航
+
+navigation_channel	导航频道
+
+navy	海军
+
+navy_blue	海军蓝
+
+nazi	纳粹
+
+necessary	必要
+
+necessity	必要性
+
+neck	颈部
+
+need	需要
+
+negative	负
+
+neglect	忽略
+
+negotiation	谈判
+
+negotiator	谈判代表
+
+neighbor	邻居
+
+neighborhood	邻里
+
+neighbourhood	邻里
+
+nelson	纳尔逊
+
+nephew	外甥
+
+nerve	神经
+
+nerve_agent	神经毒剂
+
+nerve_cell	神经细胞
+
+nerve_center	神经中枢
+
+nerve_ending	神经末梢
+
+nerve_gas	神经毒气
+
+nervous_system	神经系统
+
+nest	巢
+
+nest_box	巢箱
+
+net	净
+
+net_income	净收入
+
+net_profit	净利
+
+net_worth	净值
+
+network	网络
+
+network_card	网卡
+
+network_effect	网络效应
+
+networking	联网
+
+neutral	中性
+
+new	新
+
+new_age	新时代
+
+new_math	新数学
+
+new_media	新媒体
+
+new_moon	新月
+
+new_potato	新土豆
+
+new_school	新学校
+
+new_standard	新标准
+
+new_town	新城市
+
+new_year	新年
+
+newcomer	新人
+
+news	新闻
+
+news_agency	通讯社
+
+news_anchor	新闻主播
+
+news_channel	新闻频道
+
+news_conference	新闻发布会
+
+news_correspondent	新闻通讯员
+
+news_desk	新闻台
+
+news_flash	新闻快讯
+
+news_media	新闻媒体
+
+news_wire	新闻线
+
+newscaster	新闻主播
+
+newsletter	通讯
+
+newspaper	报纸
+
+newt	蝾螈
+
+newton	牛顿
+
+next	下一个
+
+next_generation	下一代
+
+nice_guy	好人
+
+niche	壁龛
+
+niche_market	利基市场
+
+nick	缺口
+
+nickel	镍
+
+nickname	昵称
+
+niger	尼日尔
+
+night	晚
+
+night_bird	夜鸟
+
+night_club	夜店
+
+night_letter	晚间信
+
+night_light	小夜灯
+
+night_school	夜校
+
+night_shift	夜班
+
+night_terror	夜惊
+
+night_vision	夜间视力
+
+night_watch	夜间值班
+
+nightclub	夜店
+
+nightmare	恶梦
+
+nikkei	日经指数
+
+nine	九
+
+noble	高贵
+
+nod	点头
+
+noh	能剧
+
+noise	噪声
+
+noise_pollution	噪音污染
+
+nomination	提名
+
+nominee	被提名人
+
+nonfiction	纪实
+
+nonprofit	非营利性
+
+nonsense	废话
+
+noon	中午
+
+norm	规范
+
+normal	正常
+
+north	北
+
+north_pole	北极
+
+north_wind	北风
+
+northeast	东北
+
+northwest	西北
+
+nose	鼻子
+
+nose_job	隆鼻
+
+nose_ring	鼻环
+
+notable	显着
+
+note	注意
+
+notebook	笔记本
+
+noted	注意
+
+notice	注意
+
+notice_board	公告栏
+
+notion	概念
+
+nova	新星
+
+novel	小说
+
+novelist	小说家
+
+nowhere	无处
+
+nuclear_energy	核能
+
+nuclear_physics	核物理
+
+nuclear_power	核电
+
+nuclear_weapon	核武器
+
+number	数
+
+number_eleven	十一号
+
+number_line	数字线
+
+number_plate	车牌号
+
+number_system	编号系统
+
+number_theory	数论
+
+numeral	数字
+
+nurse	护士
+
+nursing	看护
+
+nursing_home	疗养院
+
+nutrition	营养
+
+oak	橡木
+
+oak_tree	橡树
+
+oath	誓言
+
+obesity	肥胖
+
+object	宾语
+
+object_code	目标代码
+
+object_lesson	对象课
+
+objection	异议
+
+objective	目的
+
+oblast	州
+
+obligation	义务
+
+observation	意见
+
+observatory	天文台
+
+observer	观察者
+
+obstacle	障碍
+
+obstruction	梗阻
+
+occasion	场合
+
+occupation	占用
+
+occurrence	发生
+
+ocean	海洋
+
+ocean_current	海流
+
+odds	可能性
+
+offense	罪行
+
+offensive	进攻
+
+offensive_line	进攻线
+
+offensive_tackle	进攻铲球
+
+offer	提供
+
+offering	供
+
+office	办公室
+
+office_boy	办公室男孩
+
+office_building	办公楼
+
+office_chair	办公椅
+
+office_mate	办公室伴侣
+
+office_wall	办公室墙
+
+officeholder	官吏
+
+officer	官
+
+official	官方
+
+offseason	淡季
+
+offset	抵消
+
+oil	油
+
+oil_field	油田
+
+oil_paint	油漆
+
+oil_painting	油画
+
+oil_palm	油棕
+
+oil_platform	石油平台
+
+oil_refinery	炼油厂
+
+oil_rig	石油钻机
+
+oil_sand	油砂
+
+oil_well	油井
+
+old	旧
+
+old_boy	老男孩
+
+old_guard	老警卫
+
+old_man	老人
+
+old_time	过去
+
+olive	橄榄
+
+olive_oil	橄榄油
+
+olive_tree	橄榄树
+
+oliver	奥利弗
+
+ongoing	不断的
+
+onion	洋葱
+
+only_child	唯一的孩子
+
+only_daughter	唯一的女儿
+
+only_son	独生子
+
+open	打开
+
+open_air	露天
+
+open_book	打开书
+
+open_cluster	开放集群
+
+open_game	开放游戏
+
+open_house	打开房门
+
+open_letter	打开信封
+
+open_market	公开市场
+
+open_source	开源
+
+open_system	开放系统
+
+open_water	开水
+
+opener	揭幕战
+
+opening	开盘
+
+opening_argument	开场辩论
+
+opening_batsman	击球手
+
+opening_ceremony	开幕式
+
+opening_speech	开场白
+
+opening_statement	开幕词
+
+opera	歌剧
+
+opera_house	歌剧院
+
+opera_singer	歌剧演唱家
+
+operating_expense	运营开支
+
+operating_loss	经营亏损
+
+operating_room	手术室
+
+operating_system	操作系统
+
+operating_theatre	手术室
+
+operation	手术
+
+operative	手术
+
+operator	操作者
+
+opinion	意见
+
+opinion_poll	民意调查
+
+opium	鸦片
+
+opponent	对手
+
+opportunity	机会
+
+opportunity_cost	机会成本
+
+opposite	相反
+
+opposition	反对
+
+optimism	乐观
+
+option	选项
+
+oracle	神谕
+
+oral	口服
+
+orange	橙子
+
+orange_juice	橙汁
+
+orbit	轨道
+
+orchestra	乐队
+
+ordeal	考验
+
+order	订购
+
+ordering	排序
+
+ordinary	普通
+
+ore	矿石
+
+ore_body	矿体
+
+organ	器官
+
+organic	有机
+
+organic_chemistry	有机化学
+
+organic_compound	有机化合物
+
+organic_farming	有机耕作
+
+organic_growth	有机增长
+
+organic_law	组织法
+
+organic_matter	有机物
+
+organisation	组织
+
+organised_crime	有组织犯罪
+
+organism	生物
+
+organization	组织
+
+organized_crime	有组织犯罪
+
+organizer	组织者
+
+organizing	组织
+
+oriental	东方的
+
+orientation	取向
+
+origin	起源
+
+original	原版的
+
+orthodox_jews	东正教犹太人
+
+other	其他
+
+otto	玫瑰油
+
+ottoman	奥斯曼帝国
+
+ounce	盎司
+
+ouster	夺取
+
+outbreak	暴发
+
+outcome	结果
+
+outer	外
+
+outer_space	外太空
+
+outfielder	外野手
+
+outfit	配备
+
+outgoing	传出
+
+outlet	出口
+
+outline	大纲
+
+outlook	外表
+
+outpost	前哨
+
+output	产量
+
+output_device	输出设备
+
+outrage	暴行
+
+outreach	推广
+
+outside	外
+
+outskirts	郊区
+
+oval	椭圆
+
+oven	烤箱
+
+overall	总体
+
+overhaul	翻修
+
+overhead	高架
+
+overhead_kick	头顶踢
+
+overhead_line	架空线
+
+overnight	过夜
+
+overseas_territory	海外领土
+
+oversight	疏忽
+
+overthrow	推翻
+
+overtime	随着时间的推移
+
+overview	概观
+
+owner	所有者
+
+ownership	所有权
+
+ownership_equity	所有权权益
+
+oxford	牛津
+
+oxygen	氧
+
+oxygen_demand	需氧量
+
+oxygen_gas	氧气
+
+oxygen_tank	氧气罐
+
+oxygen_therapy	氧气疗法
+
+pace	步伐
+
+pack	包
+
+pack_animal	打包动物
+
+pack_horse	包马
+
+pack_ice	装冰块
+
+package	包
+
+package_deal	一揽子协议
+
+package_film	包装膜
+
+packaging	打包
+
+packing	填料
+
+packing_plant	包装厂
+
+pact	协议
+
+pad	垫
+
+pad_thai	泰式炒河粉
+
+page	页
+
+pageant	盛会
+
+pain	疼痛
+
+pain_killer	止痛药
+
+pain_threshold	疼痛阈值
+
+paint	涂料
+
+painted_lady	彩绘的女士
+
+painter	画家
+
+painting	绘画
+
+pair	对
+
+pair_programming	配对编程
+
+pal	朋友
+
+palace	宫
+
+pale	苍白
+
+palm	棕榈
+
+palm_oil	棕榈油
+
+palm_sugar	棕榈糖
+
+palm_tree	棕榈树
+
+palm_wine	棕榈酒
+
+palmer	帕尔默
+
+pan	泛
+
+pandemic	流感大流行
+
+panel	面板
+
+panel_discussion	小组讨论会
+
+panic	恐慌
+
+panic_attack	惊恐发作
+
+panic_buying	抢购
+
+panic_room	恐慌室
+
+pants	裤子
+
+paper	纸
+
+paper_clip	回形针
+
+paper_cut	剪纸
+
+paper_flower	纸花
+
+paper_mill	造纸厂
+
+paper_money	纸币
+
+paper_tape	纸胶带
+
+paper_tiger	纸老虎
+
+paper_trail	纸迹
+
+paperwork	证件
+
+par	平价
+
+para	对
+
+parade	游行
+
+parade_ground	阅兵场
+
+paradise	天堂
+
+parallel	平行
+
+parallel_universe	平行宇宙
+
+paramilitary	准军事
+
+pardon	赦免
+
+parent	亲
+
+parent_company	母公司
+
+parish	教区
+
+parish_church	教区教堂
+
+park	公园
+
+parker	帕克
+
+parking	停车处
+
+parking_garage	停车库
+
+parking_lot	停车场
+
+parking_meter	停车收费表
+
+parking_space	停车位
+
+parking_ticket	停车票
+
+parliament	议会
+
+parma	帕尔马
+
+parole	言语
+
+parole_board	假释委员会
+
+parole_officer	假释人员
+
+part	部分
+
+partial	局部
+
+participant	参加者
+
+participation	参与
+
+particular	特定
+
+partisan	党派
+
+partner	伙伴
+
+partnership	合伙
+
+party	派对
+
+party_bus	派对巴士
+
+party_favor	政党恩宠
+
+party_game	派对游戏
+
+party_girl	派对女郎
+
+party_line	派对线
+
+party_politics	政党政治
+
+party_school	党校
+
+party_state	党国
+
+party_whip	派对鞭
+
+pass	通过
+
+passage	通道
+
+passageway	通道
+
+passenger	乘客
+
+passenger_car	乘用车
+
+passenger_ship	客船
+
+passenger_train	旅客列车
+
+passing	通过
+
+passion	情
+
+passion_fruit	百香果
+
+passion_play	激情游戏
+
+passionate	多情
+
+passive	被动
+
+passport	护照
+
+past	过去
+
+pasta	意大利面条
+
+pastor	牧师
+
+pat	拍
+
+patch	补丁
+
+patent	专利
+
+patent_medicine	专利药
+
+path	路径
+
+path_length	路径长度
+
+pathway	路
+
+patience	忍耐
+
+patient	患者
+
+patriarch	家长
+
+patriot	爱国者
+
+patrol	巡逻
+
+patrol_car	巡逻车
+
+patron	顾客
+
+patron_saint	守护神
+
+pattern	图案
+
+pattern_language	模式语言
+
+pattern_matching	模式匹配
+
+paul	保罗
+
+pause	暂停
+
+pavilion	亭
+
+pay	工资
+
+pay_day	发薪日
+
+pay_dirt	财源
+
+pay_television	付费电视
+
+payer	付款人
+
+payment	付款
+
+payment_service	付款服务
+
+payroll	工资表
+
+peace	和平
+
+peace_dividend	和平红利
+
+peace_offering	和平奉献
+
+peace_process	和平进程
+
+peace_sign	和平标志
+
+peace_treaty	和平条约
+
+peacekeeping	维
+
+peak	峰
+
+peak_flow	峰值流量
+
+peak_hour	高峰时刻
+
+peak_oil	峰值油
+
+peak_season	旺季
+
+pearl	珍珠
+
+peer	窥视
+
+peer_pressure	同辈压力
+
+peer_review	同行评审
+
+pen	钢笔
+
+pen_drive	笔式驱动器
+
+pen_name	笔名
+
+penalty	罚款
+
+penalty_area	禁区
+
+penalty_box	罚款箱
+
+penalty_corner	罚角
+
+penalty_goal	罚球
+
+penalty_kick	罚球
+
+penalty_phase	惩罚阶段
+
+penalty_shootout	点球大战
+
+penalty_spot	罚款点
+
+penalty_try	罚款尝试
+
+pence	便士
+
+peninsula	半岛
+
+penny	一分钱
+
+pension	养老金
+
+pension_fund	养老保险基金
+
+pentagon	五角大楼
+
+peoples	人们
+
+pepper	胡椒
+
+perceiver	知觉
+
+percent	百分
+
+percentage	百分比
+
+percentage_point	百分点
+
+percentage_rate	百分比率
+
+perception	知觉
+
+perennial	多年生
+
+perfect_game	完美的游戏
+
+perfect_storm	完美风暴
+
+performance	性能
+
+performance_art	表演艺术
+
+performance_management	绩效管理
+
+performance_metric	绩效指标
+
+performer	演员
+
+performing_art	表演艺术
+
+perimeter	周长
+
+period	期
+
+period_piece	时期片
+
+permanent	常驻
+
+permission	允许
+
+permit	允许
+
+perpetrator	肇事者
+
+perry	佩里
+
+persecution	迫害
+
+person	人
+
+personal	个人
+
+personal_assistant	私人助理
+
+personal_computer	个人电脑
+
+personal_injury	人身伤害
+
+personal_life	个人生活
+
+personal_name	个人名字
+
+personal_property	私人财产
+
+personal_trainer	私人教练
+
+personal_union	个人联盟
+
+personality	个性
+
+personality_disorder	人格障碍
+
+personnel	人员
+
+persons	人
+
+perspective	透视
+
+peso	比索
+
+pet	宠物
+
+pet_insurance	宠物保险
+
+pet_project	宠物项目
+
+pet_shop	宠物商店
+
+peter	彼得
+
+petition	请愿
+
+petrol	汽油
+
+petrol_bomb	汽油弹
+
+petrol_station	加油站
+
+petroleum	石油
+
+petty_cash	小钱
+
+petty_officer	士官
+
+pharmaceutical	制药
+
+pharmacy	药店
+
+phase	相
+
+phase_space	相空间
+
+phase_transition	相变
+
+phenomenon	现象
+
+philharmonic	交响
+
+philosopher	哲学家
+
+philosophy	哲学
+
+phoenix	凤凰
+
+phone	电话
+
+phone_book	电话簿
+
+phone_booth	电话亭
+
+phone_box	电话亭
+
+phone_call	电话
+
+phone_card	电话卡
+
+phone_line	电话线
+
+phone_number	电话号码
+
+phone_sex	电话性爱
+
+photo	照片
+
+photo_essay	摄影文章
+
+photo_finish	照片完成
+
+photo_opportunity	拍照机会
+
+photo_shoot	拍照片
+
+photograph	照片
+
+photographer	摄影师
+
+photography	摄影
+
+phrase	短语
+
+physical	物理
+
+physical_education	体育
+
+physical_law	物理定律
+
+physical_quantity	物理量
+
+physical_science	物理科学
+
+physical_system	物理系统
+
+physician	医师
+
+physicist	物理学家
+
+physics	物理
+
+pianist	钢琴家
+
+piano	钢琴
+
+piano_player	钢琴家
+
+piano_roll	钢琴卷
+
+piazza	广场
+
+pick	挑
+
+picking	选择
+
+pickup	拾起
+
+pickup_truck	皮卡车
+
+picture	图片
+
+picture_book	图画书
+
+pie	馅饼
+
+pie_chart	饼形图
+
+piece	片
+
+pier	码头
+
+pig	猪
+
+pig_iron	生铁
+
+pile	桩
+
+pilgrimage	朝圣
+
+pill	丸
+
+pilot	飞行员
+
+pilot_hole	导向孔
+
+pilot_plant	试验工厂
+
+pilot_project	试点项目
+
+pilot_whale	领航鲸
+
+pin	销
+
+pinch	捏
+
+pine	松树
+
+pine_tree	松树
+
+pink	粉
+
+pioneer	先锋
+
+pioneering	创举
+
+pipe	管
+
+pipe_bomb	管炸弹
+
+pipe_dream	白日梦
+
+pipeline	管道
+
+piracy	海盗行为
+
+pirate	海盗
+
+pirate_radio	海盗广播
+
+pirate_ship	海盗船
+
+pistol	手枪
+
+pit	坑
+
+pit_bull	斗牛犬
+
+pit_lane	维修通道
+
+pit_stop	进站
+
+pitch	沥青
+
+pitch_count	音高计数
+
+pitch_invasion	音调入侵
+
+pitched_battle	激战
+
+pitcher	投手
+
+pitcher_plant	猪笼草
+
+pitching	铺地石
+
+pizza	比萨
+
+pizza_box	披萨盒
+
+place_name	地名
+
+placement	放置
+
+placing	配售
+
+plague	瘟疫
+
+plain	川
+
+plan	计划
+
+plan_a	计划一个
+
+plane	平面
+
+planet	行星
+
+planner	规划人员
+
+planning	规划
+
+planning_permission	规划许可
+
+plant	厂
+
+plant_disease	植物病害
+
+plant_hormone	植物激素
+
+plantation	种植园
+
+planting	种植
+
+plaque	牌匾
+
+plastic	塑料
+
+plastic_art	造型艺术
+
+plastic_bag	塑料袋
+
+plastic_explosive	塑料炸药
+
+plastic_surgeon	整形外科医生
+
+plastic_surgery	整容手术
+
+plate	盘子
+
+plate_appearance	板外观
+
+plate_glass	平板玻璃
+
+plateau	高原
+
+platform	平台
+
+platform_game	平台游戏
+
+platform_shoe	厚底鞋
+
+platinum	铂
+
+platinum_group	铂族
+
+play	玩
+
+player	播放机
+
+player_character	玩家角色
+
+player_piano	弹钢琴
+
+playing	播放
+
+playing_card	纸牌
+
+playing_field	运动场
+
+playoff	挑拨
+
+playwright	剧作家
+
+plaza	广场
+
+plea	恳求
+
+plea_deal	辩诉交易
+
+pleasant	愉快
+
+pleasure	乐趣
+
+pleasure_boat	游船
+
+pledge	保证
+
+plight	困境
+
+plot	情节
+
+plot_device	绘图设备
+
+plot_hole	绘图孔
+
+plot_twist	剧情转折
+
+plotting	绘制
+
+plug	插头
+
+plunge	跳水
+
+plunging	暴跌
+
+plus	加
+
+plutonium	钚
+
+pneumonia	肺炎
+
+pocket	口袋
+
+pocket_money	零用钱
+
+pocket_veto	口袋否决权
+
+pocket_watch	怀表
+
+podium	讲台
+
+poem	诗
+
+poet	诗人
+
+poetry	诗歌
+
+poetry_slam	诗歌大满贯
+
+point	点
+
+point_bar	点吧
+
+point_break	点断
+
+point_cloud	点云
+
+point_guard	控球后卫
+
+point_man	尖兵
+
+point_source	点源
+
+pointing	指点
+
+poison	毒
+
+poisoning	中毒
+
+poker	扑克
+
+poker_face	扑克脸
+
+polar_star	极星
+
+pole	极
+
+pole_position	杆位
+
+pole_star	极星
+
+police	警察
+
+police_baton	警棍
+
+police_box	岗亭
+
+police_car	警车
+
+police_chief	警察局长
+
+police_department	警察署
+
+police_dog	警犬
+
+police_force	警察
+
+police_line	警察线
+
+police_officer	警官
+
+police_power	警察权力
+
+police_service	警察局
+
+police_state	警察局
+
+police_station	警察局
+
+policeman	警察
+
+policemen	警察
+
+policy	政策
+
+policy_institute	政策研究所
+
+policy_maker	政策制定者
+
+polish	抛光
+
+political	政治
+
+political_economy	政治经济
+
+political_party	政治党派
+
+political_science	政治学
+
+political_scientist	政治科学家
+
+political_system	政治体系
+
+politician	政治家
+
+politics	政治
+
+polity	政体
+
+poll	轮询
+
+poll_tax	人头税
+
+polling	轮询
+
+polling_place	投票站
+
+polling_station	投票站
+
+pollution	污染
+
+polo	马球
+
+pond	池塘
+
+pool	池
+
+pool_hall	台球厅
+
+pool_party	泳池派对
+
+pool_table	台球桌
+
+poor	较差的
+
+pop	流行的
+
+pop_art	流行艺术
+
+pop_culture	流行文化
+
+pop_group	流行组合
+
+pop_music	流行音乐
+
+pop_musician	流行音乐家
+
+pop_punk	流行朋克
+
+pop_rock	流行摇滚
+
+pop_star	明星
+
+pope	教皇
+
+populace	民众
+
+popular_assembly	大众集会
+
+popular_culture	流行文化
+
+popular_music	流行音乐
+
+popular_science	科普
+
+popularity	声望
+
+population	人口
+
+population_density	人口密度
+
+populist	民粹主义
+
+populous	人口稠密
+
+pork	猪肉
+
+pornography	色情
+
+port	港口
+
+port_city	港口城市
+
+port_wine	波特酒
+
+portable	手提
+
+portable_computer	便携式计算机
+
+portal	门户
+
+porter	搬运工
+
+portfolio	投资组合
+
+portion	一部分
+
+portland	波特兰
+
+portrait	肖像
+
+portrayal	画像
+
+pose	提出
+
+position	位置
+
+position_paper	立场文件
+
+positive	正
+
+possession	所有权
+
+possibility	可能性
+
+possible	可能
+
+post	岗位
+
+post_box	邮政信箱
+
+post_card	明信片
+
+post_office	邮政局
+
+poster	海报
+
+poster_boy	海报男孩
+
+poster_child	海报的孩子
+
+poster_girl	海报女郎
+
+posting	发帖
+
+postseason	季后赛
+
+pot	锅
+
+pot_plant	盆栽
+
+pot_shot	锅射
+
+potato	土豆
+
+potato_head	土豆头
+
+potential	潜在
+
+potter	制陶工人
+
+pottery	陶器
+
+poultry	家禽
+
+pound	磅
+
+pound_cake	重磅蛋糕
+
+pound_sterling	英镑
+
+pour	倾
+
+poverty	贫穷
+
+poverty_line	贫困线
+
+powder	粉末
+
+powder_blue	粉蓝色
+
+power	功率
+
+power_balance	力量平衡
+
+power_base	电源底座
+
+power_broker	电力经纪人
+
+power_cut	停电
+
+power_factor	功率因数
+
+power_hitter	力量击球手
+
+power_hour	电力小时
+
+power_law	幂律
+
+power_line	电源线
+
+power_plant	发电站
+
+power_play	权力发挥
+
+power_point	微软幻灯片软件
+
+power_politics	权力政治
+
+power_pop	强力弹出
+
+power_set	功率设定
+
+power_sharing	权力分享
+
+power_source	能量源
+
+power_station	发电厂
+
+power_steering	动力转向
+
+power_strip	电源板
+
+power_suit	动力服
+
+power_supply	电源供应
+
+power_surge	电涌
+
+power_tool	电动工具
+
+power_user	超级用户
+
+power_vacuum	功率真空
+
+powerhouse	发电厂
+
+practical	实际的
+
+practical_nurse	实习护士
+
+practice	实践
+
+prairie	草原
+
+praise	赞美
+
+pratt	普拉特
+
+prayer	祷告
+
+prayer_book	祈祷书
+
+praying	祈祷
+
+precedent	先例
+
+precious	珍贵
+
+precipitation	沉淀
+
+precision	精确
+
+predecessor	前任
+
+prediction	预测
+
+prediction_market	预测市场
+
+prefecture	州
+
+preference	偏爱
+
+preferred	首选
+
+pregnancy	怀孕
+
+pregnancy_test	怀孕测试
+
+preliminary	初步
+
+premier	总理
+
+premiere	首映
+
+premiership	英超
+
+premise	前提
+
+premises	房地
+
+premium	额外费用
+
+preparation	制备
+
+prescription	处方
+
+prescription_drug	处方类药物
+
+preseason	季前赛
+
+presence	存在
+
+present	当下
+
+presentation	介绍
+
+presentation_software	演示软件
+
+presenter	主持人
+
+preservation	保存
+
+preserve	保留
+
+presidency	总统任期
+
+president	主席
+
+presidential_palace	总统府
+
+press	按
+
+press_agency	新闻社
+
+press_agent	新闻代理
+
+press_box	新闻框
+
+press_card	新闻卡
+
+press_conference	新闻发布会
+
+press_corps	新闻团
+
+press_kit	新闻资料袋
+
+press_office	新闻办公室
+
+press_pool	新闻池
+
+press_release	新闻稿
+
+press_time	新闻时间
+
+pressing	紧迫
+
+pressure	压力
+
+pressure_group	压力团体
+
+pressure_point	压力点
+
+pressure_vessel	压力容器
+
+prestige	声望
+
+pretty	漂亮
+
+pretty_boy	漂亮男孩
+
+prevention	预防
+
+preventive	预防
+
+preview	预习
+
+prey	猎物
+
+price	价钱
+
+price_index	价格指数
+
+price_level	价格水平
+
+price_list	价格表
+
+price_point	价格点
+
+price_stability	价格稳定
+
+price_tag	价格标签
+
+pricing	价钱
+
+pride	自豪
+
+priest	牧师
+
+primary	主
+
+primary_election	初选
+
+primary_school	小学
+
+primary_source	主要资源
+
+prime	主要
+
+prime_directive	首要指令
+
+prime_minister	总理
+
+prime_number	质数
+
+prime_time	黄金时间
+
+primitive	原始
+
+prince	王子
+
+princess	公主
+
+princess_cut	公主剪
+
+principal	主要
+
+principal_photography	主要摄影
+
+principle	原理
+
+print	打印
+
+printing	印花
+
+printing_house	印刷厂
+
+printing_press	印刷机
+
+prior	先
+
+priority	优先
+
+prison	监狱
+
+prison_cell	牢房
+
+prison_gang	监狱帮派
+
+prison_guard	狱警
+
+prisoner	囚犯
+
+prisoner_of_war	战俘
+
+privacy	隐私
+
+privacy_policy	隐私政策
+
+private	私人的
+
+private_detective	私家侦探
+
+private_eye	私家侦探
+
+private_investigator	私家侦探
+
+private_school	私立学校
+
+private_sector	私营部门
+
+privatization	私有化
+
+privilege	特权
+
+prize	奖
+
+pro	亲
+
+pro_wrestling	职业摔跤
+
+probability	可能性
+
+probability_measure	概率测度
+
+probability_theory	概率论
+
+probation	缓刑
+
+probation_officer	缓刑官
+
+probe	探测
+
+problem	问题
+
+problem_child	问题少年
+
+procedure	程序
+
+proceeding	诉讼
+
+proceeds	收益
+
+process	处理
+
+processing	处理
+
+procession	游行
+
+processor	处理器
+
+procurement	采购
+
+produce	生产
+
+producer	制片人
+
+product	产品
+
+product_placement	物品陈设
+
+production	生产
+
+production_model	生产模型
+
+production_record	生产记录
+
+production_value	产值
+
+production_values	生产价值
+
+productivity	生产率
+
+profession	职业
+
+professional	专业的
+
+professional_wrestling	职业摔跤
+
+professor	教授
+
+profile	轮廓
+
+profit	利润
+
+profit_margin	利润率
+
+profit_sharing	利润分享
+
+profit_taking	获利回吐
+
+profit_warning	盈利警告
+
+profitability	盈利能力
+
+profound	深刻
+
+program	程序
+
+program_guide	节目指南
+
+programme	程序
+
+programmer	程序员
+
+programming	程序设计
+
+programming_language	程式语言
+
+progress	进展
+
+progress_bar	进度条
+
+progressive	进步
+
+progressive_rock	前卫摇滚
+
+prohibition	禁令
+
+project	项目
+
+project_engineer	项目工程师
+
+project_management	项目管理
+
+project_manager	专案经理
+
+projectile	抛射物
+
+projection	投影
+
+proliferation	增殖
+
+prominence	突出物
+
+promise	诺言
+
+promised_land	乐土（上帝允许给亚伯拉罕的地方
+
+promoter	启动
+
+promotion	提升
+
+prompt	提示
+
+proof	证明
+
+proof_system	证明系统
+
+proofreader	校对
+
+prop	支柱
+
+propaganda	宣传
+
+proper_name	正确的名称
+
+property	属性
+
+property_law	财产法
+
+property_tax	财产税
+
+prophet	预言家
+
+proportion	比例
+
+proposal	提案
+
+proposition	主张
+
+prosecution	检察官
+
+prosecutor	原告
+
+prospect	展望
+
+prosperity	繁荣
+
+prostate	前列腺
+
+prostitution	卖淫
+
+protected_area	保护区
+
+protection	保护
+
+protein	蛋白
+
+protein_complex	蛋白质复合物
+
+protein_domain	蛋白质结构域
+
+protein_shake	高蛋白饮品
+
+protest	抗议
+
+protesters	抗议者
+
+protests	抗议
+
+protocol	协议
+
+prototype	原型
+
+providence	普罗维登斯
+
+provider	提供商
+
+province	省
+
+provincial	省级
+
+provincial_capital	省会
+
+proving_ground	试验场，试验场所
+
+provision	规定
+
+provisional	临时
+
+provocative	挑衅
+
+proximity	接近
+
+psychiatrist	心理医生
+
+psychologist	心理学家
+
+psychology	心理学
+
+pub	酒馆
+
+public	上市
+
+public_access	公共访问
+
+public_authority	公共权力
+
+public_domain	公共区域
+
+public_enemy	公敌
+
+public_figure	人士
+
+public_finance	公共财政
+
+public_health	公共卫生
+
+public_holiday	公共假期
+
+public_house	公共场所
+
+public_housing	公共居所
+
+public_intellectual	公共知识分子
+
+public_interest	公共利益
+
+public_key	公钥
+
+public_law	公共法
+
+public_library	公共图书馆
+
+public_life	公众生活
+
+public_opinion	舆论
+
+public_policy	公共政策
+
+public_record	公开记录
+
+public_school	公立学校
+
+public_sector	公共部门
+
+public_servant	公务员
+
+public_service	公共服务
+
+public_transport	公共交通
+
+publication	出版物
+
+publicity	公开
+
+publisher	出版者
+
+publishing	出版
+
+publishing_house	出版社
+
+puck	冰球
+
+pull	拉
+
+pullout	撤退
+
+pulp	纸浆
+
+pulp_magazine	纸浆杂志
+
+pulse	脉冲
+
+pump	泵
+
+pump_room	泵房
+
+punch	冲床
+
+punch_bowl	汤碗
+
+punch_card	打卡
+
+punch_line	妙处
+
+punch_list	遗留问题清单
+
+punishment	惩罚
+
+punk	朋克
+
+punk_music	朋克音乐
+
+punk_rock	朋克摇滚
+
+pupil	瞳孔
+
+purchase	采购
+
+purchase_order	采购订单
+
+purchase_price	购买价格
+
+purchasing_power	购买力
+
+pure_air	纯净的空气
+
+purple	紫色
+
+purple_heart	紫心勋章
+
+purpose	目的
+
+purse	钱包
+
+pursuit	追求
+
+push	推
+
+push_poll	推投票
+
+put	放
+
+putt	推杆
+
+puzzle	难题
+
+pyramid	金字塔
+
+quake	地震
+
+qualification	合格
+
+qualifier	预选赛
+
+quality	质量
+
+quality_control	质量控制
+
+quality_time	宝贵时光
+
+quantity	数量
+
+quantum	量子
+
+quantum_computer	量子计算机
+
+quantum_number	量子数
+
+quantum_state	量子态
+
+quantum_theory	量子理论
+
+quarantine	隔离
+
+quarter	25美分硬币
+
+quarter_day	季度
+
+quarter_final	四分之一决赛
+
+quarter_horse	四分之一马
+
+quarter_note	四分音符
+
+quarterback	四分卫
+
+quarterfinal	四分之一决赛
+
+quarterly	季刊
+
+quartet	四重奏
+
+queen	女王
+
+queen_bee	女王蜂
+
+queen_mother	母后
+
+quest	寻求
+
+question	题
+
+question_mark	问号
+
+question_period	问题期
+
+questioning	疑问
+
+quick	快
+
+quiet	安静
+
+quota	配额
+
+quote	引用
+
+rabbi	拉比
+
+rabbit	兔子
+
+race	种族
+
+race_car	赛车
+
+race_card	竞赛卡
+
+race_condition	比赛条件
+
+race_meeting	比赛会议
+
+race_queen	种族女王
+
+race_track	赛道
+
+racer	赛车
+
+racetrack	跑马场
+
+raceway	滚道
+
+racing	赛跑
+
+racing_car	赛车
+
+racism	种族主义
+
+racist	种族主义者
+
+radar	雷达
+
+radar_gun	雷达炮
+
+radar_image	雷达影像
+
+radiation	辐射
+
+radiation_pressure	辐射压力
+
+radiation_therapy	放射治疗
+
+radical	基
+
+radio	无线电
+
+radio_clock	无线电时钟
+
+radio_collar	无线电项圈
+
+radio_control	无线电控制
+
+radio_drama	广播剧
+
+radio_frequency	无线电频率
+
+radio_jockey	无线电骑师
+
+radio_silence	无线电沉默
+
+radio_source	无线电源
+
+radio_station	广播电台
+
+radio_telescope	射电望远镜
+
+radio_tower	无线电塔
+
+radio_wave	无线电波
+
+rage	愤怒
+
+rah	RAH
+
+raid	袭击
+
+rail	轨
+
+rail_car	轨道车
+
+rail_track	铁路
+
+rail_transport	铁路交通
+
+rail_vehicle	轨道车辆
+
+rail_yard	铁路货场
+
+railroad	铁路
+
+railroad_car	有轨电车
+
+railroad_station	火车站
+
+railroad_tie	铁路领带
+
+railroad_track	铁轨
+
+railway	铁路
+
+railway_line	铁路线
+
+railway_station	火车站
+
+railway_track	铁路轨道
+
+railway_train	铁路火车
+
+rain	雨
+
+rain_cloud	雨云
+
+rain_delay	大雨延迟
+
+rain_forest	雨林
+
+rain_man	雨人
+
+rain_shadow	雨影
+
+rain_tree	雨树
+
+rainbow	彩虹
+
+rainbow_bridge	彩虹桥
+
+rainbow_coalition	彩虹联盟
+
+rainbow_party	彩虹派对
+
+rainbow_table	彩虹桌
+
+rainfall	雨量
+
+rainy_day	下雨天
+
+raise	提高
+
+raising	提高
+
+raja	拉贾
+
+rally	团结
+
+ram	内存
+
+ran	跑
+
+ranch	牧场
+
+rand	兰特
+
+random	随机
+
+random_access	随机访问
+
+randy	兰迪
+
+range	范围
+
+ranger	游侠
+
+rank	秩
+
+ranking	排行
+
+ransom	赎金
+
+rap	敲击
+
+rap_music	说唱
+
+rape	强奸
+
+rape_culture	强奸文化
+
+rapid	快速
+
+rapid_transit	快速运输
+
+rapper	说唱歌手
+
+rare_earth	稀土
+
+rat	鼠
+
+rat_king	鼠王
+
+rat_race	老鼠赛跑
+
+rate	率
+
+ratification	批准
+
+rating	评分
+
+ratio	比
+
+rational	合理的
+
+raw	生的
+
+raw_material	原材料
+
+ray	射线
+
+ray_gun	射线枪
+
+reach	达到
+
+reaction	反应
+
+reaction_engine	反应引擎
+
+reaction_mechanism	反应机理
+
+reaction_mixture	反应混合物
+
+reaction_time	反应时间
+
+reactor	反应堆
+
+read	读
+
+reader	读者
+
+readiness	准备就绪
+
+reading	读
+
+reading_frame	阅读框
+
+reading_room	阅览室
+
+real	真实
+
+real_capital	实际资本
+
+real_estate	房地产
+
+real_life	现实生活
+
+real_number	实数
+
+real_property	房地产
+
+real_time	即时的
+
+real_world	真实世界
+
+reality	现实
+
+reality_check	现实检查
+
+reality_show	真人秀
+
+reality_television	真人秀
+
+realm	领域
+
+rear	后
+
+rear_admiral	后海军上将
+
+rear_window	后窗
+
+reason	原因
+
+rebel	反叛
+
+rebellion	暴动
+
+rebound	篮板球
+
+rebuild	重建
+
+recall	召回
+
+receiver	接收器
+
+reception	招待会
+
+reception_center	接待中心
+
+reception_desk	接待处
+
+recess	凹槽
+
+recession	不景气
+
+recipe	食谱
+
+recipient	接受者
+
+recognition	承认
+
+recommendation	建议
+
+reconciliation	和解
+
+reconnaissance	侦察
+
+reconstruction	重建
+
+record	记录
+
+record_chart	记录图
+
+record_deal	记录交易
+
+record_label	记录标签
+
+record_player	记录播放器
+
+recording	记录
+
+recording_artist	录音艺术家
+
+recount	叙事
+
+recovery	复苏
+
+recovery_position	恢复位置
+
+recreation	娱乐
+
+recreational_drug	休闲毒品
+
+recruit	招
+
+recruitment	招聘
+
+recycling	回收
+
+red	红色
+
+red_cap	红帽
+
+red_car	红车
+
+red_carpet	红地毯
+
+red_coat	红色外套
+
+red_deer	红鹿
+
+red_dog	红色的狗
+
+red_flag	红色的标志
+
+red_fox	红狐
+
+red_giant	红巨人
+
+red_guard	红卫兵
+
+red_hair	红发
+
+red_hot	炽热
+
+red_light	红灯
+
+red_line	红线
+
+red_lion	红狮子
+
+red_maple	红枫树
+
+red_meat	红肉
+
+red_mercury	红汞
+
+red_pepper	辣椒
+
+red_state	红色状态
+
+red_wine	红酒
+
+reduction	减少
+
+ree	稀土元素
+
+reed	芦苇
+
+reef	礁
+
+referee	裁判
+
+reference	参考
+
+reference_book	参考书
+
+reference_implementation	参考实施
+
+reference_list	参考文献列表
+
+reference_point	参照点
+
+reference_work	参考工作
+
+referendum	公投
+
+refinery	炼油厂
+
+reflection	反射
+
+reform	改革
+
+reformer	改革者
+
+reformist	改革者
+
+refrain	副歌
+
+refuge	避难所
+
+refugee	难民
+
+refugee_camp	难民营
+
+refusal	拒绝
+
+refuse	垃圾
+
+regard	看待
+
+regime	政权
+
+regime_change	政权更迭
+
+regiment	团
+
+region	区域
+
+region_code	地区代码
+
+regional	区域性
+
+register	寄存器
+
+register_office	登记处
+
+registered_mail	挂号信
+
+registered_nurse	注册护士
+
+registration	注册
+
+regret	后悔
+
+regular	定期
+
+regulation	规
+
+regulator	调节器
+
+rehabilitation	复原
+
+reign	统治
+
+rein	缰绳
+
+rejection	拒绝
+
+rejection_letter	拒绝信
+
+rejects	拒绝
+
+relation	关系
+
+relationship	关系
+
+relative	相对的
+
+relay	中继
+
+relay_race	接力赛
+
+release	发布
+
+release_candidate	发布候选
+
+releases	发布
+
+relegation	保级
+
+relegation_zone	保级区
+
+reliability	可靠性
+
+reliance	依赖
+
+relief	浮雕
+
+relief_agency	救济机构
+
+relief_map	浮雕图
+
+relief_pitcher	浮雕投手
+
+relief_worker	救援人员
+
+reliever	投手
+
+religion	宗教
+
+religious	宗教
+
+religious_education	宗教教育
+
+religious_leader	宗教领袖
+
+religious_order	宗教秩序
+
+reluctance	不情愿
+
+remain	留
+
+remainder	余
+
+remains	遗迹
+
+remake	翻拍
+
+remark	备注
+
+remedy	补救
+
+reminder	提醒
+
+reminiscent	让人联想起
+
+remote	远程
+
+remote_control	遥控
+
+removal	切除
+
+renaissance	再生
+
+renaissance_man	文艺复兴时期的人
+
+renewable	可再生
+
+renewable_energy	再生能源
+
+renewal	复兴
+
+reno	里诺
+
+renovation	装修
+
+rent	出租
+
+rental	出租
+
+reorganization	重组
+
+repair	修理
+
+repeal	废除
+
+repeat	重复
+
+replacement	替代
+
+replay	重播
+
+reply	回复
+
+report	报告
+
+report_card	报告卡
+
+reporter	记者
+
+reporting	报告
+
+representation	表示
+
+representative	代表
+
+representative_democracy	代议制民主
+
+repression	抑制
+
+reproductive	生殖
+
+reproductive_health	生殖健康
+
+republic	共和国
+
+republican	共和党人
+
+reputation	声誉
+
+request	请求
+
+requirement	需求
+
+rescue	拯救
+
+rescue_dog	救援犬
+
+rescue_mission	救援任务
+
+rescuer	施救
+
+research	研究
+
+research_paper	研究论文
+
+researcher	研究员
+
+resentment	怨恨
+
+reservation	保留
+
+reserve	保留
+
+reserve_currency	储备货币
+
+reservoir	池
+
+residence	住宅
+
+residence_permit	居留许可证
+
+residency	住院医师
+
+resident	居民
+
+resignation	辞职
+
+resistance	抵抗性
+
+resistant	耐
+
+resolution	解析度
+
+resolve	解决
+
+resort	采取
+
+resorts	度假村
+
+resource	资源
+
+respect	尊重
+
+respond	响应
+
+respondent	回答者
+
+response	响应
+
+response_time	响应时间
+
+responsibility	责任
+
+rest	休息
+
+rest_area	休息区
+
+rest_home	休息室
+
+rest_mass	静止质量
+
+restart	重新开始
+
+restaurant	餐厅
+
+resting	休息
+
+restoration	恢复
+
+restore	恢复
+
+restraint	克制
+
+restriction	限制
+
+restructuring	重组
+
+result	结果
+
+resume	恢复
+
+resumption	恢复
+
+retail	零售
+
+retailer	零售商
+
+retaliation	报复
+
+retirement	退休
+
+retirement_home	退休之家
+
+retreat	撤退
+
+return	返回
+
+return_pass	回程证
+
+return_spring	复位弹簧
+
+return_ticket	往返票
+
+reunification	重新统一
+
+reunion	团圆
+
+reveal	揭示
+
+revelation	启示
+
+revenge	复仇
+
+revenue	收入
+
+reversal	翻转
+
+reverse	相反
+
+review	评论
+
+reviewer	评论家
+
+revision	调整
+
+revival	复兴
+
+revolt	反叛
+
+revolution	革命
+
+revolutionary	革命的
+
+reward	奖励
+
+rhetoric	修辞
+
+rhythm	韵律
+
+rhythm_guitar	节奏吉他
+
+rhythm_method	节奏法
+
+rhythm_section	节奏部分
+
+ribbon	带
+
+rice	白饭
+
+rice_ball	饭团
+
+rice_cake	年糕
+
+rice_flour	米粉
+
+rice_milk	米浆
+
+rice_paper	米纸
+
+rice_rat	稻鼠
+
+rice_wine	米酒
+
+rick	干草堆
+
+ride	骑
+
+rider	骑士
+
+ridge	岭
+
+riding	骑术
+
+rifle	步枪
+
+rifle_range	步枪射程
+
+rift	裂痕
+
+rift_valley	裂谷
+
+rig	操纵
+
+right	对
+
+right_bank	右岸
+
+right_fielder	正确的守场员
+
+right_whale	右鲸
+
+right_wing	右翼
+
+rim	轮缘
+
+ring	环
+
+ring_finger	无名指
+
+ring_leader	领队
+
+ring_road	环路
+
+ring_tone	铃声
+
+ringgit	令吉
+
+riot	暴动
+
+riot_gear	防暴装备
+
+riot_police	防暴警察
+
+rioting	骚乱
+
+riots	暴动
+
+rise	上升
+
+rising	升起
+
+rising_star	后起之秀
+
+risk	风险
+
+risk_appetite	风险偏好
+
+risk_assessment	风险评估
+
+risk_management	风险管理
+
+risk_tolerance	风险承受能力
+
+ritual	仪式
+
+ritual_abuse	礼节性虐待
+
+rival	对手
+
+rivalry	对抗
+
+river	河
+
+river_bank	河岸
+
+river_basin	流域
+
+river_bed	河床
+
+river_god	河神
+
+river_rat	河鼠
+
+riverside	河边
+
+road	路
+
+road_accident	车祸
+
+road_agent	道路代理
+
+road_car	公路车
+
+road_film	路膜
+
+road_game	公路游戏
+
+road_map	路线图
+
+road_movie	公路电影
+
+road_race	公路赛
+
+road_racing	公路赛车
+
+road_rage	路怒
+
+road_sign	路标
+
+road_train	公路列车
+
+road_trip	公路旅行
+
+road_warrior	勇士之路
+
+road_work	修路
+
+roadmap	路线图
+
+roadside	路边
+
+roadside_bomb	路边炸弹
+
+robbery	抢劫
+
+robin	知更鸟
+
+robot	机器人
+
+roc	鹏
+
+rock	岩石
+
+rock_band	摇滚乐队
+
+rock_bottom	最低点
+
+rock_candy	冰糖
+
+rock_climbing	攀岩
+
+rock_crystal	水晶
+
+rock_face	岩石表面
+
+rock_group	摇滚乐队
+
+rock_music	摇滚音乐
+
+rock_salt	岩盐
+
+rock_shelter	岩石掩体
+
+rock_star	摇滚明星
+
+rock_steady	稳如泰山
+
+rocket	火箭
+
+rocket_car	火箭车
+
+rocket_engine	火箭发动机
+
+rocket_motor	火箭发动机
+
+rocket_science	火箭科学
+
+rocket_scientist	火箭科学家
+
+rocket_ship	火箭飞船
+
+rocket_stage	火箭舞台
+
+rod	竿
+
+rod_cell	杆状细胞
+
+rode	骑着车
+
+rodham	希拉里
+
+rogue	流氓
+
+role	角色
+
+role_model	榜样
+
+role_player	角色扮演者
+
+roll	滚
+
+roll_call	点名
+
+roller	滚筒
+
+roller_hockey	滚球曲棍球
+
+rolling_stock	机车车辆
+
+rolling_stone	滚石
+
+romance	浪漫
+
+romano	罗马诺
+
+romantic	浪漫
+
+romantic_comedy	爱情喜剧
+
+roof	屋顶
+
+rookie	新秀
+
+room	房间
+
+room_service	客房服务
+
+room_temperature	室内温度
+
+root	根
+
+root_beer	生啤酒
+
+root_canal	牙根
+
+root_cause	根本原因
+
+root_hair	根发
+
+root_word	词根
+
+rope	绳
+
+rosa	罗莎
+
+rose	玫瑰
+
+rose_garden	玫瑰花园
+
+rose_gold	玫瑰金
+
+rose_oil	玫瑰油
+
+rose_water	玫瑰水
+
+rose_window	玫瑰窗
+
+roster	名册
+
+rotation	回转
+
+rotation_period	轮换期
+
+rouge	胭脂
+
+rough	粗
+
+rough_trade	毛坯贸易
+
+round	回合
+
+round_robin	轮巡
+
+round_table	圆桌会议
+
+round_top	圆顶
+
+round_trip	往返
+
+roundup	围捕
+
+route	路线
+
+routine	常规
+
+rover	流浪者
+
+row	行
+
+row_house	排屋
+
+royal	王室的
+
+royal_blue	宝蓝色
+
+royal_family	王室
+
+royal_household	王室
+
+royal_tennis	皇家网球
+
+royalty	王权
+
+rubber	橡胶
+
+rubber_band	橡皮筋
+
+rubber_bullet	橡胶子弹
+
+rubber_match	橡胶火柴
+
+rubber_tree	橡胶树
+
+rubbish	垃圾
+
+rubble	瓦砾
+
+rubin	鲁宾
+
+ruby	红宝石
+
+rudd	鲢鱼
+
+rudy	鲁迪
+
+rugby	橄榄球
+
+rugby_football	橄榄球
+
+rugby_league	橄榄球联盟
+
+rugby_player	橄榄球运动员
+
+rugby_union	橄榄球联合会
+
+ruin	废墟
+
+rule	规则
+
+rule_book	规则书
+
+ruler	统治者
+
+rulers	统治者
+
+ruling	裁决
+
+run	跑
+
+run_chase	追逐
+
+run_out	用完
+
+run_rate	运行速度
+
+run_time	运行
+
+runaway	逃跑
+
+runner	跑步者
+
+running	赛跑
+
+running_man	奔跑者
+
+running_mate	跑步伴侣
+
+running_shoe	跑鞋
+
+runoff	径流
+
+runway	跑道
+
+runway_model	跑道模型
+
+rupiah	印尼盾
+
+rush	赶
+
+rush_hour	高峰时间
+
+ruth	怜悯
+
+ryder	莱德
+
+sabotage	破坏
+
+sack	袋
+
+sacrifice	牺牲
+
+sacrifice_fly	牺牲苍蝇
+
+safe	安全
+
+safe_harbor	避风港
+
+safe_mode	安全模式
+
+safeguard	保障
+
+safer	更安全
+
+safety	安全
+
+safety_belt	安全带
+
+safety_car	安全车
+
+safety_glass	安全玻璃
+
+safety_helmet	安全帽
+
+safety_net	安全网
+
+safety_pin	安全别针
+
+saga	冒险故事
+
+sail	帆
+
+sailing	帆船
+
+sailing_ship	帆船
+
+sailing_vessel	帆船
+
+sailor	水手
+
+saint	圣
+
+sake	清酒
+
+salad	沙拉
+
+salad_bar	沙拉台
+
+salary	薪水
+
+salary_cap	工资上限
+
+sale	拍卖
+
+sale_price	销售价格
+
+salesman	推销员
+
+sally	出击
+
+salmon	三文鱼
+
+salt	盐
+
+salt_dome	盐穹顶
+
+salt_flat	盐平
+
+salt_marsh	盐沼
+
+salt_mine	盐矿
+
+salt_pan	盐田
+
+salt_water	盐水
+
+salvage	打捞
+
+salvation	救恩
+
+sam	SAM
+
+sample	样品
+
+sample_mean	样本平均值
+
+sample_space	样本空间
+
+sampling	采样
+
+san	SAN
+
+sanctuary	避难所
+
+sand	砂
+
+sand_bar	沙洲
+
+sand_dollar	沙钱
+
+sand_martin	沙马丁
+
+sand_storm	沙尘暴
+
+sandwich	三明治
+
+sanitation	卫生
+
+sat	SAT
+
+satellite	卫星
+
+satellite_campus	卫星校园
+
+satellite_dish	卫星天线
+
+satellite_navigation	卫星导航
+
+satellite_phone	卫星电话
+
+satisfaction	满足
+
+sauce	酱
+
+savage	野蛮人
+
+save	救
+
+saving	保存
+
+saving_grace	救命之恩
+
+savings	储
+
+savings_account	储蓄账户
+
+savings_bank	储蓄银行
+
+saw	锯
+
+say	说
+
+saying	话
+
+scale	规模
+
+scale_model	比例模型
+
+scan	扫描
+
+scandal	丑闻
+
+scare	吓
+
+scenario	脚本
+
+scene	现场
+
+scenic	名胜
+
+schedule	时间表
+
+scheme	方案
+
+scholar	学者
+
+scholarship	奖学金
+
+school	学校
+
+school_band	学校乐队
+
+school_board	学校董事会
+
+school_book	教科书
+
+school_bus	校车
+
+school_class	学校课
+
+school_mate	同学
+
+school_run	办学
+
+school_shooting	学校射击
+
+school_trip	校园旅行
+
+school_uniform	校服
+
+school_year	学年
+
+science	科学
+
+science_center	科学中心
+
+science_centre	科学中心
+
+science_fair	科学公正
+
+science_fiction	科幻小说
+
+science_park	科学园
+
+scientific_method	科学的方法
+
+scientific_name	科学名称
+
+scientific_research	科学研究
+
+scientist	科学家
+
+scope	范围
+
+score	得分
+
+score_sheet	评分表
+
+scoreboard	记分牌
+
+scorer	记分员
+
+scoring	得分
+
+scotia	斯科舍省
+
+scout	侦察
+
+scouting	侦察
+
+scrap	废料
+
+scratch	刮
+
+screen	屏幕
+
+screen_capture	屏幕截图
+
+screen_door	屏门
+
+screen_name	屏幕名称
+
+screen_printing	丝网印刷
+
+screen_reader	屏幕阅读器
+
+screen_test	屏幕测试
+
+screen_time	检测时间
+
+screen_wall	屏风墙
+
+screening	筛查
+
+screening_room	放映室
+
+screenplay	剧本
+
+screens	屏幕
+
+screenwriter	编剧
+
+script	脚本
+
+script_editor	脚本编辑器
+
+scrutiny	审查
+
+sculptor	雕塑家
+
+sculpture	雕塑
+
+sea	海
+
+sea_anchor	海锚
+
+sea_bass	鲈鱼
+
+sea_bed	海床
+
+sea_bird	海鸟
+
+sea_change	海变
+
+sea_cow	海牛
+
+sea_devil	海魔
+
+sea_dog	海狗
+
+sea_dragon	海龙
+
+sea_eagle	海鹰
+
+sea_horse	海马
+
+sea_ice	海冰
+
+sea_king	海王
+
+sea_lane	海路
+
+sea_level	海平面
+
+sea_lion	海狮
+
+sea_monster	海怪
+
+sea_mouse	海鼠
+
+sea_salt	海盐
+
+sea_snail	海蜗牛
+
+sea_snake	海蛇
+
+sea_spider	海蜘蛛
+
+sea_star	海星
+
+sea_trial	海试
+
+sea_vegetable	海菜
+
+sea_wall	海堤
+
+sea_water	海水
+
+sea_wolf	海狼
+
+seafood	海鲜
+
+seal	密封
+
+seal_script	印章脚本
+
+search	搜索
+
+search_box	搜索框
+
+search_engine	搜索引擎
+
+search_party	搜索队
+
+search_term	搜索词
+
+search_warrant	搜查令
+
+searching	搜索
+
+seashore	海滨
+
+seaside	海滨
+
+season	季节
+
+season_finale	季节结局
+
+season_ticket	季票
+
+seat	座位
+
+seat_belt	安全带
+
+seating	休息
+
+sec	秒
+
+second	第二
+
+second_baseman	二垒手
+
+second_coming	第二次来
+
+second_home	第二个家
+
+second_lieutenant	少尉
+
+second_name	第二个名字
+
+second_person	第二人称
+
+secondary	次要
+
+secondary_school	中学
+
+secondary_structure	二级结构
+
+secrecy	保密
+
+secret	秘密
+
+secret_agent	密探
+
+secret_police	秘密警察
+
+secret_service	私人服务
+
+secret_society	秘密社会
+
+secretariat	秘书处
+
+secretary	秘书
+
+secretary_bird	秘书鸟
+
+secretary_general	秘书长
+
+sect	教派
+
+sectarian	宗派
+
+section	部分
+
+sector	扇形
+
+security	安全
+
+security_blanket	安全毯
+
+security_camera	监视器
+
+security_community	安全社区
+
+security_deposit	保证金
+
+security_guard	警卫
+
+security_hole	安全孔
+
+security_interest	安全利益
+
+security_procedure	安全程序
+
+security_theater	安全剧院
+
+sedan	四门轿车
+
+see	看到
+
+seed	种子
+
+seed_cake	种子蛋糕
+
+seed_coat	种皮
+
+seed_money	种子钱
+
+seed_plant	种子植物
+
+segment	分割
+
+seizure	发作
+
+selection	选择
+
+self_control	自我控制
+
+sell	卖
+
+seller	卖家
+
+selling	销售
+
+selling_point	卖点
+
+selling_price	售价
+
+semi	半
+
+semiconductor	半导体
+
+semifinal	半决赛
+
+seminar	研讨会
+
+seminary	修院
+
+sen	森
+
+senate	参议院
+
+senator	参议员
+
+send	发送
+
+senior	前辈
+
+senior_citizen	老年人
+
+sensation	感觉
+
+sense	感
+
+sense_organ	感觉器官
+
+sensitive	敏感
+
+sensitivity	灵敏度
+
+sent	发送
+
+sentence	句子
+
+sentencing	宣判
+
+sentiment	情绪
+
+separate	分离
+
+separation	分割
+
+separatist	分裂
+
+sequel	续集
+
+sequence	序列
+
+sergeant	军士
+
+sergeant_major	军士长
+
+serial	串行
+
+serial_killer	连环杀手
+
+serial_port	串行端口
+
+series	系列
+
+series_circuit	串联电路
+
+series_finale	系列结局
+
+servant	仆人
+
+serve	服务
+
+server	服务器
+
+service	服务
+
+service_agreement	服务协议
+
+service_area	服务区
+
+service_charge	服务费
+
+service_dog	服务犬
+
+service_game	服务游戏
+
+service_industry	服务业
+
+service_line	服务专线
+
+service_mark	服务标记
+
+service_station	服务站
+
+serviceman	军人
+
+services	服务
+
+serving	服务
+
+session	会议
+
+session_musician	会议音乐家
+
+set	组
+
+set_list	设置列表
+
+set_piece	固定形式
+
+set_point	设定点
+
+set_theory	集合论
+
+setback	挫折
+
+setting	设置
+
+settle	解决
+
+settlement	沉降
+
+settlement_agreement	和解协议
+
+settler	定居者
+
+settling	解决
+
+seven	七
+
+sewage	污水
+
+sex	性别
+
+sex_act	性行为
+
+sex_aid	性帮助
+
+sex_appeal	情趣
+
+sex_bomb	性炸弹
+
+sex_cell	性细胞
+
+sex_change	性别变化
+
+sex_comedy	性喜剧
+
+sex_drive	性欲
+
+sex_education	性教育
+
+sex_life	性生活
+
+sex_object	性对象
+
+sex_organ	性器官
+
+sex_partner	性伴侣
+
+sex_party	性爱派对
+
+sex_position	性别姿势
+
+sex_ratio	性别比例
+
+sex_scene	性爱场面
+
+sex_shop	性用品店
+
+sex_slave	性奴隶
+
+sex_symbol	性别符号
+
+sex_tape	性爱录像带
+
+sex_therapy	性治疗
+
+sex_tourism	性旅游
+
+sex_toy	性玩具
+
+sex_work	性工作
+
+sex_worker	性工作者
+
+sexual	有性
+
+sexual_act	性行为
+
+sexual_assault	性侵犯
+
+sexual_orientation	性取向
+
+sexuality	性欲
+
+shade	阴凉处
+
+shadow	阴影
+
+shadow_banking	影子银行
+
+shadow_government	影子政府
+
+shadow_minister	影子大臣
+
+shadow_play	皮影戏
+
+shaft	轴
+
+shah	沙阿
+
+shake	抖动
+
+shallow	浅
+
+shame	耻辱
+
+shanghai	上海
+
+shape	形状
+
+share	分享
+
+shared_service	共享服务
+
+shareholder	股东
+
+sharif	谢里夫
+
+shark	鲨鱼
+
+shark_attack	鲨鱼袭击
+
+sharp	尖锐
+
+shaw	肖
+
+shed	棚子
+
+sheep	羊
+
+sheer	绝对
+
+sheet	片
+
+sheet_metal	钣金
+
+sheet_music	乐谱
+
+sheik	酋长
+
+sheikh	酋长
+
+shelf	架
+
+shelf_life	保质期
+
+shell	贝壳
+
+shell_game	外壳游戏
+
+shell_script	外壳脚本
+
+shell_shock	外壳震动
+
+shelling	炮轰
+
+shelter	庇护
+
+shepherd	牧羊人
+
+sheriff	郡治安官
+
+shield	屏蔽
+
+shield_law	盾构法
+
+shift	转移
+
+shift_key	Shift键
+
+shifting	移
+
+shin	胫
+
+shine	闪耀
+
+ship	船
+
+ship_rat	船鼠
+
+shipment	装船
+
+shipping	运输
+
+shipping_company	航运公司
+
+shirt	衬衫
+
+shock	休克
+
+shock_site	冲击部位
+
+shock_therapy	休克疗法
+
+shock_troop	冲锋队
+
+shock_wave	激波
+
+shoe	鞋子
+
+shoe_box	鞋盒
+
+shoe_shop	鞋店
+
+shoe_tree	鞋tree
+
+shook	震撼
+
+shoot	射击
+
+shooter	射手
+
+shooting	射击
+
+shooting_gallery	射击场
+
+shooting_guard	得分后卫
+
+shooting_range	射击范围
+
+shooting_star	流星
+
+shootout	枪战
+
+shop	店
+
+shop_assistant	售货员
+
+shop_floor	车间
+
+shop_window	商店橱窗
+
+shopping	购物
+
+shopping_bag	购物包
+
+shopping_basket	购物篮
+
+shopping_cart	购物车
+
+shopping_center	购物中心
+
+shopping_centre	购物中心
+
+shopping_list	购物清单
+
+shopping_mall	购物中心
+
+shore	岸
+
+short	短
+
+short_circuit	短路
+
+short_form	简写
+
+short_sale	卖空
+
+short_story	短篇故事
+
+short_title	简称
+
+shortage	短缺
+
+shorter	短
+
+shortfall	缺口
+
+shortstop	游击手
+
+shot	射击
+
+shot_clock	射击时钟
+
+shot_glass	酒杯
+
+shot_put	铅球
+
+shot_tower	射击塔
+
+shoulder	肩
+
+shoulder_bag	单肩包
+
+shoulder_joint	肩关节
+
+shouting	叫喊
+
+show	节目
+
+show_globe	显示地球
+
+show_jumper	显示跳线
+
+show_trial	显示审判
+
+showcase	橱窗
+
+showdown	摊牌
+
+shower	淋浴
+
+shower_head	花洒头
+
+showing	展示
+
+shrimp	虾
+
+shrine	神社
+
+shrink	收缩
+
+shut	关闭
+
+shutdown	关掉
+
+shutout	停业
+
+shuttle	穿梭
+
+shuttle_bus	机场摆渡车
+
+shuttle_diplomacy	穿梭外交
+
+shy	害羞
+
+sibling	兄弟
+
+sick	生病
+
+sickness	疾病
+
+side	侧
+
+side_chain	侧链
+
+side_dish	小菜
+
+side_effect	副作用
+
+side_issue	附带问题
+
+side_order	副订单
+
+side_show	边秀
+
+side_street	小街
+
+side_wall	侧墙
+
+sideline	副业
+
+sidelines	场边
+
+sides	双方
+
+siege	围城
+
+siege_engine	攻城器
+
+siege_warfare	攻城战
+
+siege_weapon	攻城武器
+
+siemens	西门子
+
+sierra	内华达
+
+sight	视力
+
+sign	标志
+
+sign_language	标志语言
+
+signal	信号
+
+signal_box	信号盒
+
+signaling	发信号
+
+signature	签名
+
+significance	意义
+
+significant	重大
+
+signing	签约
+
+signing_bonus	签约奖金
+
+silence	安静
+
+silent	无声
+
+silent_film	默片
+
+silicon	硅
+
+silicon_chip	硅片
+
+silk	丝
+
+silly	愚蠢
+
+silva	席尔瓦
+
+silver	银
+
+silver_age	银器时代
+
+silver_ball	银球
+
+silver_bullet	银子弹
+
+silver_dollar	银圆
+
+silver_fox	银狐
+
+silver_lining	一线希望
+
+silver_medal	银牌
+
+silver_medalist	银牌得主
+
+silver_mine	银矿
+
+silver_screen	银幕
+
+simon	西蒙
+
+simple	简单
+
+sin	罪
+
+sin_bin	罪斌
+
+sing	唱
+
+singer	歌手
+
+singers	歌手
+
+singing	唱歌
+
+singing_bowl	唱歌碗
+
+singing_voice	歌声
+
+single	单
+
+sink	下沉
+
+sinking	下沉
+
+sir	先生
+
+sister	妹妹
+
+sister_city	姊妹城市
+
+sister_company	姊妹公司
+
+sister_ship	姊妹船
+
+sit	坐
+
+sitcom	情景喜剧
+
+site	现场
+
+site_map	网站地图
+
+sitting	坐在
+
+situation	情况
+
+situation_comedy	情景喜剧
+
+six	六
+
+sixth_form	第六形式
+
+sixth_grade	六年级
+
+sixth_sense	第六感
+
+size	尺寸
+
+skate	滑冰
+
+skate_park	滑板公园
+
+skating	溜冰
+
+skepticism	怀疑论
+
+sketch	草图
+
+ski	滑雪
+
+ski_jump	跳台滑雪
+
+ski_jumping	跳台滑雪
+
+ski_lift	滑雪缆车
+
+ski_resort	滑雪胜地
+
+skiing	滑雪
+
+skill	技能
+
+skill_set	技能
+
+skin	皮肤
+
+skin_cancer	皮肤癌
+
+skin_color	肤色
+
+skin_colour	肤色
+
+skin_effect	皮肤效果
+
+skin_tag	皮肤标签
+
+skip	跳跃
+
+skipper	船长
+
+skull	头骨
+
+sky	天空
+
+slain	被杀
+
+slalom	激流回旋
+
+slam	猛撞
+
+slap	拍击
+
+slash	削减
+
+slate	石板
+
+slaughter	屠宰
+
+slave	奴隶
+
+slave_labour	奴工
+
+slave_trade	奴隶买卖
+
+slavery	奴隶制度
+
+slaying	杀害
+
+sleep	睡觉
+
+sleep_disorder	睡眠障碍
+
+sleep_schedule	睡眠时间表
+
+sleeping	睡眠
+
+slice	切片
+
+slick	华而不实的
+
+slide	滑动
+
+slide_guitar	滑吉他
+
+slide_rule	计算尺
+
+slide_show	幻灯片放映
+
+sliding	滑动
+
+slim	瘦
+
+slip	滑
+
+slogan	口号
+
+slope	坡
+
+slot	插槽
+
+slot_machine	老虎机
+
+slow	慢
+
+slow_food	慢食
+
+slow_motion	慢动作
+
+slowdown	慢一点
+
+slowing	减缓
+
+slump	暴跌
+
+small	小
+
+small_ball	小球
+
+small_business	小本生意
+
+small_heath	小健康
+
+small_town	小镇
+
+smart	聪明
+
+smart_card	智能卡
+
+smell	闻
+
+smell_test	气味测试
+
+smile	微笑
+
+smiling	微笑
+
+smith	工匠
+
+smoke	抽烟
+
+smoke_alarm	烟雾报警器
+
+smoke_point	冒烟点
+
+smoke_ring	烟圈
+
+smoke_screen	烟幕
+
+smoke_signal	烟雾信号
+
+smoke_test	冒烟测试
+
+smoking	抽烟
+
+smoking_car	吸烟车
+
+smoking_gun	吸烟枪
+
+smoking_room	吸烟室
+
+smooth	光滑
+
+smuggling	走私
+
+snail	蜗牛
+
+snake	蛇
+
+snake_oil	蛇油
+
+snap	卡
+
+snap_shot	快照
+
+sniper	狙击兵
+
+snow	雪
+
+snow_cover	雪盖
+
+snow_day	下雪天
+
+snow_globe	雪球
+
+soap	肥皂
+
+soap_opera	肥皂剧
+
+soaring	冲天
+
+soccer	足球
+
+soccer_ball	足球
+
+soccer_field	足球场
+
+soccer_mom	足球妈妈
+
+soccer_player	足球运动员
+
+social	社会
+
+social_capital	社会资本
+
+social_class	社会阶层
+
+social_conservative	社会保守
+
+social_contract	社会契约
+
+social_control	社会控制
+
+social_credit	社会信用
+
+social_democracy	社会民主
+
+social_democrat	社会民主主义者
+
+social_engineering	社会工程学
+
+social_group	社交群
+
+social_life	社会生活
+
+social_media	社交媒体
+
+social_network	社交网络
+
+social_networking	社交网络
+
+social_psychology	社会心理学
+
+social_responsibility	社会责任感
+
+social_science	社会科学
+
+social_scientist	社会科学家
+
+social_security	社会保障
+
+social_work	社会工作
+
+social_worker	社会工作者
+
+socialism	社会主义
+
+socialist	社会主义的
+
+society	社会
+
+sociology	社会学
+
+sodium	钠
+
+soft_drink	汽水
+
+soft_rock	软岩
+
+softball	垒球
+
+software	软件
+
+software_architect	软件架构师
+
+software_architecture	软件架构
+
+software_development	软件开发
+
+software_engine	软件引擎
+
+software_engineer	软件工程师
+
+software_engineering	软件工程
+
+software_framework	软件框架
+
+software_house	软件公司
+
+software_package	软件包
+
+soil	泥
+
+soil_conservation	水土保持
+
+soil_science	土壤科学
+
+soil_scientist	土壤科学家
+
+solar	太阳能
+
+solar_calendar	阳历
+
+solar_cell	太阳能电池
+
+solar_energy	太阳能
+
+solar_panel	太阳能板
+
+solar_radiation	太阳辐射
+
+solar_time	太阳时间
+
+solar_year	太阳年
+
+soldier	士兵
+
+sole	唯一
+
+solid	固体
+
+solidarity	团结
+
+solo	独奏
+
+solo_album	个人专辑
+
+solo_concert	独奏音乐会
+
+solution	解
+
+solutions	解决方案
+
+somerset	萨默塞特
+
+son	儿子
+
+song	歌曲
+
+songwriter	作曲家
+
+sony	索尼
+
+sophomore	二年级
+
+sore	疮
+
+sorry	抱歉
+
+sort	分类
+
+soul	灵魂
+
+soul_food	灵魂食品
+
+soul_mate	灵魂伴侣
+
+soul_music	灵魂音乐
+
+sound	声音
+
+sound_bite	咬一口
+
+sound_effect	音效
+
+sound_engineer	音响工程师
+
+sound_stage	声场
+
+sound_system	音响系统
+
+sound_wave	声波
+
+sounding	听起来
+
+soundtrack	声带
+
+soup	汤
+
+sour	酸
+
+source	资源
+
+source_code	源代码
+
+source_control	源代码控制
+
+source_language	源语言
+
+source_text	源文本
+
+south	南
+
+south_africans	南非人
+
+south_pole	南极
+
+southeast	东南
+
+southwest	西南
+
+sovereign	君主
+
+sovereignty	主权
+
+soviet	苏联
+
+sox	短袜
+
+spa	温泉
+
+space	空间
+
+space_age	太空时代
+
+space_alien	太空外星人
+
+space_blanket	太空毯
+
+space_debris	空间碎片
+
+space_environment	空间环境
+
+space_exploration	太空探索
+
+space_flight	航天
+
+space_frame	空间框架
+
+space_group	空间群
+
+space_heating	空间供暖
+
+space_junk	宇宙垃圾
+
+space_mission	太空任务
+
+space_opera	太空歌剧
+
+space_probe	太空探测器
+
+space_race	太空竞赛
+
+space_research	空间研究
+
+space_rock	太空摇滚
+
+space_rocket	宇宙火箭
+
+space_satellite	卫星
+
+space_science	太空科学
+
+space_ship	太空飞船
+
+space_shuttle	航天飞机
+
+space_station	空间站
+
+space_suit	太空服
+
+space_technology	太空技术
+
+space_tourism	太空旅游
+
+space_travel	太空旅行
+
+space_vehicle	航天器
+
+space_walk	太空漫步
+
+space_weather	太空天气
+
+spacecraft	宇宙飞船
+
+span	跨度
+
+spare	备用
+
+spark	火花
+
+spate	泛滥
+
+speak	说话
+
+speaker	扬声器
+
+speaking	请讲
+
+speaking_clock	讲钟
+
+special	特别
+
+special_agent	特务
+
+special_effect	特殊效果
+
+special_school	特殊学校
+
+specialist	专家
+
+specialty	专业
+
+species	种类
+
+species_name	物种名称
+
+specific	具体
+
+specific_name	具体名称
+
+spectacular	壮观
+
+spectator	观众
+
+specter	幽灵
+
+spectrum	光谱
+
+speculation	推测
+
+speech	言语
+
+speech_act	言语行为
+
+speech_balloon	语音气球
+
+speech_community	言语社区
+
+speech_disorder	语言障碍
+
+speech_recognition	语音识别
+
+speed	速度
+
+speed_boat	快艇
+
+speed_camera	测速照相机
+
+speed_limit	速度极限
+
+speed_queen	速度女王
+
+speed_skating	速度滑冰
+
+speed_trap	汽车超速监视区
+
+speeding	超速
+
+speedway	高速公路
+
+spell	拼写
+
+spelling	拼字
+
+spencer	斯宾塞
+
+spend	花
+
+spending_money	花钱
+
+spending_spree	消费热潮
+
+sphere	球
+
+spider	蜘蛛
+
+spike	穗
+
+spill	洒
+
+spin	纺
+
+spin_doctor	旋转医生
+
+spinner	微调
+
+spinning	纺织
+
+spiral	螺旋
+
+spirit	精神
+
+spirits	酒
+
+spiritual	精神
+
+spiritual_leader	精神领袖
+
+spite	尽管
+
+spitzer	斯皮策
+
+split	分裂
+
+split_decision	分割决定
+
+split_screen	分屏
+
+splitting	分裂
+
+spoke	辐
+
+spokesman	发言人
+
+spokesperson	发言人
+
+spokeswoman	发言人
+
+sponsor	赞助
+
+sponsors	赞助商
+
+sponsorship	赞助
+
+sport	运动
+
+sport_jacket	运动外套
+
+sportsman	运动员
+
+spot	点
+
+spot_check	突击检查
+
+spot_kick	踢踢
+
+spot_market	现货市场
+
+spot_price	现货价格
+
+spotlight	聚光灯
+
+spouse	伴侣
+
+spray	喷雾
+
+spread	传播
+
+spree	大礼包
+
+spring	弹簧
+
+spring_break	春假
+
+spring_cleaning	春季大扫除
+
+spring_constant	弹簧常数
+
+spring_festival	春节
+
+spring_fever	春季伤风
+
+spring_green	春天绿色
+
+spring_onion	葱
+
+spring_roll	春卷
+
+spring_training	春季培训
+
+spring_water	泉水
+
+sprint	短跑
+
+spur	骨刺
+
+spy	间谍
+
+spy_ring	间谍圈
+
+spy_satellite	间谍卫星
+
+spying	间谍
+
+squad	队
+
+squad_car	班车
+
+squadron	队
+
+square	广场
+
+square_dance	广场舞
+
+square_foot	平方英尺
+
+square_inch	平方英寸
+
+square_matrix	方阵
+
+square_meter	平方米
+
+square_mile	平方英里
+
+squeeze	挤
+
+stability	稳定性
+
+stable	稳定
+
+stack	堆
+
+stadium	体育场
+
+staff	员工
+
+staff_officer	参谋
+
+staff_sergeant	军士
+
+stage	阶段
+
+stage_direction	舞台方向
+
+stage_diving	潜水阶段
+
+stage_manager	舞台监督
+
+stage_name	艺名
+
+stage_race	舞台比赛
+
+staging	分期
+
+staging_area	暂存区
+
+stairs	楼梯
+
+stake	赌注
+
+stalemate	僵持
+
+stamp	邮票
+
+stamp_duty	印花税
+
+stance	姿态
+
+stand	支架
+
+standard	标准
+
+standard_language	标准语言
+
+standard_time	标准时间
+
+standing	常设
+
+standing_army	常备军
+
+standing_committee	常务委员会
+
+standing_order	长期订单
+
+standing_stone	立石
+
+standing_wave	驻波
+
+standoff	对峙
+
+staple	钉书针
+
+star	星
+
+star_chamber	星室
+
+star_chart	星图
+
+star_cluster	星团
+
+star_sign	星号
+
+star_system	星系
+
+starring	主演
+
+start	开始
+
+starter	起动机
+
+state	州
+
+state_capital	州首都
+
+state_flower	州花
+
+state_house	州议会大厦
+
+state_machine	状态机
+
+state_ownership	国家所有权
+
+state_pattern	状态模式
+
+state_school	公立学校
+
+state_secret	国家机密
+
+state_space	状态空间
+
+statement	声明
+
+statesman	政治家
+
+station	站
+
+station_house	车站房
+
+station_wagon	旅行车
+
+statistic	统计
+
+statistical_analysis	统计分析
+
+statistics	统计
+
+statue	雕像
+
+status	状态
+
+status_conference	状态会议
+
+status_quo	现状
+
+status_symbol	身份的象征
+
+statute	法令
+
+statute_book	法典
+
+statute_law	制定法
+
+stay	留
+
+staying_power	持久力
+
+stead	代替
+
+steal	偷
+
+stealing	偷窃行为
+
+steam	蒸汽
+
+steam_engine	蒸汽机
+
+steam_power	蒸汽动力
+
+steam_room	蒸汽房
+
+steam_ship	蒸汽船
+
+steam_train	蒸汽火车
+
+steel	钢
+
+steel_guitar	钢吉他
+
+steel_wheel	钢轮
+
+steep	陡
+
+steer	驾驶
+
+steering	操舵
+
+stem	干
+
+stem_cell	干细胞
+
+step	步
+
+step_change	阶跃变化
+
+step_function	阶跃函数
+
+sterling	英镑
+
+sterling_silver	纯银
+
+stern	严肃
+
+steven	史蒂芬
+
+stick	棒
+
+stick_figure	简笔画
+
+stick_shift	变速杆
+
+sticking_point	关键
+
+stiff	僵硬
+
+still	仍然
+
+stimulus	刺激物
+
+stimulus_package	刺激方案
+
+sting	刺
+
+stint	限制
+
+stir	搅拌
+
+stirring	搅拌
+
+stock	股票
+
+stock_car	库存车
+
+stock_character	股票字符
+
+stock_company	股票公司
+
+stock_exchange	股票交易
+
+stock_market	股市
+
+stock_symbol	股票代号
+
+stockbroker	股票经纪人
+
+stockholder	股东
+
+stocks	个股
+
+stoke	斯托克
+
+stole	偷了
+
+stomach	胃
+
+stomach_cancer	胃癌
+
+stomach_flu	急性肠胃炎
+
+stone	石
+
+stone_fruit	核果
+
+stone_soup	石头汤
+
+stop	停
+
+stop_motion	定格
+
+stop_sign	停止标志
+
+stop_word	停用词
+
+stopping	停止
+
+storage	存储
+
+storage_device	储存设备
+
+storage_medium	储存介质
+
+store	商店
+
+store_brand	店铺品牌
+
+storm	风暴
+
+storm_cloud	暴风云
+
+storm_drain	暴风雨
+
+storm_surge	风暴潮
+
+storm_tide	风暴潮
+
+story	故事
+
+story_arc	故事弧
+
+story_editor	故事编辑
+
+straight	直行
+
+straight_edge	直边
+
+strain	应变
+
+strait	海峡
+
+stranger	陌生人
+
+strategic_management	战略管理
+
+strategist	战略家
+
+strategy	战略
+
+strategy_game	策略游戏
+
+strategy_pattern	策略模式
+
+straw	稻草
+
+straw_man	稻草人
+
+straw_poll	稻草民意调查
+
+streak	条纹
+
+stream	流
+
+street	街
+
+street_address	街道地址
+
+street_art	街头艺术
+
+street_artist	街头艺人
+
+street_clothes	街头服装
+
+street_credibility	街头信誉
+
+street_dance	街舞
+
+street_fighter	街头霸王
+
+street_food	街头食品
+
+street_hockey	曲棍球
+
+street_light	路灯
+
+street_market	街边市场
+
+street_name	街道名称
+
+street_party	街头派对
+
+street_racing	街头赛车
+
+street_railway	街头铁路
+
+strength	强度
+
+strength_training	力量训练
+
+strengthening	强化
+
+stress	强调
+
+stress_ball	压力球
+
+stress_test	压力测试
+
+stretch	伸展
+
+stretch_mark	妊娠纹
+
+strife	争吵
+
+strike	罢工
+
+strike_bowler	罢工常礼帽
+
+strike_force	打击力量
+
+strike_partner	罢工伙伴
+
+strike_zone	打击区
+
+striker	前锋
+
+string	串
+
+string_band	弦乐队
+
+string_cheese	芝士条
+
+string_ensemble	弦乐合奏
+
+string_instrument	弦乐器
+
+string_orchestra	弦乐团
+
+string_quartet	弦乐四重奏
+
+string_theory	弦理论
+
+strip	跳闸
+
+strip_club	脱衣舞俱乐部
+
+strip_joint	带状接头
+
+strip_mall	脱衣舞厅
+
+strip_mine	露天矿
+
+stroke	行程
+
+strong_interaction	强烈的互动
+
+stronghold	据点
+
+structure	结构体
+
+struggle	斗争
+
+stuck	卡住
+
+student	学生
+
+student_body	学生身体
+
+studio	工作室
+
+studio_album	录音室专辑
+
+study	研究
+
+stuff	东西
+
+stupid	笨
+
+style	样式
+
+style_guide	时尚指南
+
+style_sheet	样式表
+
+sub	子
+
+subcommittee	小组委员会
+
+subject	学科
+
+submarine	潜艇
+
+subprime	次贷
+
+subscriber	订户
+
+subsidiary	副
+
+subsidy	补贴
+
+substance	物质
+
+substance_abuse	滥用药物
+
+substitute	替代
+
+subtropical	亚热带
+
+suburb	市郊
+
+suburbs	郊区
+
+subway	地铁
+
+success	成功
+
+success_story	成功的故事
+
+succession	演替
+
+successor	接班人
+
+sudden	突然
+
+sudden_death	猝死
+
+suffering	痛苦
+
+sugar	糖
+
+sugar_alcohol	糖醇
+
+sugar_bowl	糖罐
+
+sugar_candy	糖糖
+
+sugar_mill	糖厂
+
+sugar_substitute	糖替代品
+
+sugar_water	糖水
+
+suggestion	建议
+
+suggestion_box	建议箱
+
+suicide	自杀
+
+suicide_bomber	自杀式炸弹袭击者
+
+suicide_bombing	自杀炸弹
+
+suicide_door	自杀门
+
+suicide_note	自杀笔记
+
+suicide_pact	自杀契约
+
+suicide_victim	自杀受害者
+
+suicide_watch	自杀表
+
+suit	适合
+
+suite	套房
+
+sultan	苏丹
+
+sum	和
+
+summary	摘要
+
+summary_judgment	简易判决
+
+summer	夏天
+
+summer_camp	夏令营
+
+summer_cottage	夏季别墅
+
+summer_house	避暑别墅
+
+summer_resort	避暑胜地
+
+summer_school	暑期班
+
+summer_stock	夏季股票
+
+summer_time	夏令时
+
+summit	首脑
+
+sun	太阳
+
+sun_bear	太阳熊
+
+sun_dog	太阳狗
+
+sun_hat	太阳帽
+
+sunk_cost	沉没成本
+
+sunny	晴朗
+
+sunset	日落
+
+sunshine	阳光
+
+super	超
+
+super_heavyweight	超级重量级
+
+superintendent	所长
+
+superior	优越
+
+superior_court	上级法院
+
+supermarket	超级市场
+
+superstar	超级明星
+
+supervision	监督
+
+supervisor	监
+
+supplement	补充
+
+supplier	供应商
+
+supply	供应
+
+supply_chain	供应链
+
+supply_depot	补给站
+
+supply_line	供应线
+
+supply_side	供应方
+
+supply_teacher	补给老师
+
+support	支持
+
+support_act	支持法
+
+support_group	支援团队
+
+supporter	支持者
+
+supreme_being	至高无上
+
+supreme_court	最高法院
+
+surf	冲浪
+
+surface	表面
+
+surface_area	表面积
+
+surface_runoff	地表径流
+
+surface_ship	水面舰艇
+
+surface_tension	表面张力
+
+surface_water	地表水
+
+surge	浪涌
+
+surgeon	外科医生
+
+surgery	手术
+
+surname	姓
+
+surplus	剩余
+
+surplus_value	剩余价值
+
+surprise	惊
+
+surrender	投降
+
+surrey	萨里
+
+surrounding	周围
+
+surveillance	监控
+
+surveillance_camera	监控摄像头
+
+survey	调查
+
+surveys	调查
+
+survival	生存
+
+survival_horror	生存恐怖
+
+survivor	幸存者
+
+suspect	疑似
+
+suspension	悬挂
+
+suspension_bridge	吊桥
+
+suspicion	怀疑
+
+sustainable_development	可持续发展
+
+swan	天鹅
+
+swan_song	绝唱
+
+swap	交换
+
+swat	扑打
+
+sway	摇摆
+
+sweat	流汗
+
+sweep	扫
+
+sweeping	笼统的
+
+sweet	甜
+
+sweet_bread	甜面包
+
+sweet_william	甜蜜的威廉
+
+swift	迅速
+
+swift_boat	快艇
+
+swim	游泳
+
+swimmer	游泳者
+
+swimming	游泳的
+
+swimming_pool	游泳池
+
+swine	猪
+
+swine_flu	猪流感
+
+swing	摇摆
+
+swing_bridge	吊桥
+
+swing_state	摇摆状态
+
+swing_vote	摇摆投票
+
+swing_voter	摇摆选民
+
+swinging	摆荡
+
+switch	开关
+
+switch_hitter	开关击球手
+
+switching	交换
+
+sword	剑
+
+symbol	符号
+
+symbolic_link	符号链接
+
+sympathy	同情
+
+symphony	交响乐
+
+symphony_orchestra	交响乐团
+
+synagogue	会堂
+
+syndicate	辛迪加
+
+syndrome	综合征
+
+synthetic	合成的
+
+system	系统
+
+system_architecture	系统架构
+
+system_software	系统软件
+
+table	表
+
+table_cloth	台布
+
+table_mountain	桌山
+
+table_salt	食盐
+
+table_talk	座谈会
+
+table_tennis	乒乓球
+
+table_wine	餐酒
+
+tabloid	小报
+
+tackle	滑车
+
+tactic	战术
+
+tactics	策略
+
+tag	标签
+
+tag_line	标语
+
+tag_team	标签小组
+
+tail	尾巴
+
+tail_call	尾声
+
+tail_end	尾部
+
+take	采取
+
+takeover	接管
+
+takeover_bid	收购要约
+
+taking	服用
+
+tale	故事
+
+talent	天赋
+
+talk	谈论
+
+talk_radio	谈话广播
+
+talk_show	脱口秀
+
+talking	说
+
+talking_head	说话的头
+
+talking_point	谈话要点
+
+tall_ship	高大的船舶
+
+tally	相符
+
+tan	黄褐色
+
+tang	唐
+
+tank	罐
+
+tank_engine	坦克发动机
+
+tank_top	背心
+
+tanker	油船
+
+tanker_aircraft	油轮飞机
+
+tap	龙头
+
+tap_dance	踢踏舞
+
+tap_water	自来水
+
+tape	胶带
+
+tape_deck	胶带座
+
+tape_delay	磁带延迟
+
+tape_drive	磁带机
+
+tape_library	磁带库
+
+tape_measure	卷尺
+
+target	目标
+
+target_audience	目标观众
+
+target_cell	靶细胞
+
+target_group	目标组
+
+target_language	目标语言
+
+target_market	目标市场
+
+tariff	关税
+
+task	任务
+
+task_force	专案组
+
+tass	塔斯社
+
+taste	味道
+
+tax	税
+
+tax_assessment	纳税评估
+
+tax_break	减税
+
+tax_collector	收税员
+
+tax_haven	避税天堂
+
+tax_incentive	税收激励
+
+tax_rate	税率
+
+tax_reduction	减税
+
+tax_return	退税
+
+tax_revenue	税收
+
+tax_shelter	避税所
+
+tax_stamp	税票
+
+taxation	税收
+
+taxes	税
+
+taxi	出租车
+
+taxi_driver	出租车司机
+
+taxpayer	纳税人
+
+tea	茶
+
+tea_bag	茶包
+
+tea_ceremony	敬茶礼仪
+
+tea_house	茶馆
+
+tea_leaf	茶叶
+
+tea_party	茶会
+
+tea_room	茶室
+
+tea_set	茶具
+
+tea_shop	茶馆
+
+tea_tree	茶树
+
+teacher	老师
+
+teaching	教学
+
+teaching_hospital	教学医院
+
+teachings	教导
+
+team	球队
+
+team_player	有团队精神的人
+
+team_pursuit	团队追求
+
+team_sport	团队运动
+
+teammate	队友
+
+tear	眼泪
+
+teaspoon	茶匙
+
+tech	高科技
+
+tech_support	技术支持
+
+technical	技术
+
+technical_analysis	技术分析
+
+technical_support	技术支援
+
+technical_term	技术术语
+
+technique	技术
+
+technology	技术
+
+technology_transfer	技术转让
+
+ted	摊晒
+
+tee	开球
+
+teen	青少年
+
+teenage	青少年
+
+teenager	青少年
+
+tel	联系电话
+
+telecom	电信
+
+telecommunications	电信
+
+telegram	电报
+
+telegraph	电报
+
+telegraph_line	电报线
+
+telephone	电话
+
+telephone_book	电话簿
+
+telephone_booth	电话亭
+
+telephone_box	电话亭
+
+telephone_call	打电话
+
+telephone_conference	电话会议
+
+telephone_exchange	电话交换
+
+telephone_line	电话线
+
+telephone_number	电话号码
+
+telephone_operator	电话接线员
+
+telephone_pole	电线杆
+
+telescope	望远镜
+
+television	电视
+
+television_channel	电视频道
+
+television_network	电视网
+
+television_personality	电视人物
+
+television_program	电视节目
+
+television_series	电视连续剧
+
+television_set	电视机
+
+television_station	电视台
+
+tell	告诉
+
+telling	告诉
+
+temperature	温度
+
+temple	寺庙
+
+temporary	临时
+
+ten	十
+
+tendency	趋势
+
+tender	投标
+
+tennis	网球
+
+tennis_ball	网球
+
+tennis_club	网球俱乐部
+
+tennis_court	网球场
+
+tennis_elbow	网球肘
+
+tennis_player	网球选手
+
+tennis_shoe	网球鞋
+
+tenor	男高音
+
+tense	紧张
+
+tension	张力
+
+tent	帐篷
+
+tentative	试验
+
+tenth_century	十世纪
+
+tenth_grade	十年级
+
+tenure	保有
+
+term	术语
+
+term_limit	期限
+
+term_paper	学期论文
+
+terminal	终奌站
+
+termination	终止
+
+terminology	术语
+
+terminus	总站
+
+terrain	地形
+
+territorial	领土的
+
+territory	领土
+
+terror	恐怖
+
+terror_bird	恐怖鸟
+
+terrorism	恐怖主义
+
+terrorist	恐怖分子
+
+terrorists	恐怖分子
+
+terry	特里
+
+test	测试
+
+test_bed	试验台
+
+test_bench	试验台
+
+test_card	测试卡
+
+test_case	测试用例
+
+test_drive	试驾
+
+test_firing	试射
+
+test_paper	试卷
+
+test_pattern	测试图案
+
+test_site	测试地点
+
+test_tube	试管
+
+testament	遗嘱
+
+testimony	见证
+
+testing	测试
+
+texas	德州
+
+text	文本
+
+text_adventure	文字冒险
+
+text_box	文本框
+
+text_editor	文本编辑器
+
+text_file	文本文件
+
+text_link	文字连结
+
+text_message	短信
+
+textile	纺织品
+
+thank	谢谢
+
+thanks	谢谢
+
+thanksgiving	感恩
+
+the_thing	事情
+
+theater	剧院
+
+theatre	剧院
+
+theatrical	戏剧
+
+theatrical_film	戏剧电影
+
+theft	盗窃
+
+theme	主题
+
+theme_park	主题公园
+
+theme_song	主题曲
+
+theology	神学
+
+theorem	定理
+
+theorist	理论家
+
+theory	理论
+
+therapy	治疗
+
+thermal	热
+
+thermal_energy	热能
+
+thesis	论文
+
+thick	厚
+
+thieves	盗贼
+
+thigh	大腿
+
+thin	瘦
+
+thin_air	稀薄的空气
+
+thing	事情
+
+think	认为
+
+think_tank	智囊团
+
+thinking	思维
+
+third_baseman	三垒手
+
+third_class	第三类
+
+third_eye	第三只眼睛
+
+third_man	第三人
+
+third_party	第三方
+
+third_way	第三路
+
+third_world	第三世界
+
+thirty	三十
+
+thought	思想
+
+thought_experiment	思想实验
+
+thought_police	思想警察
+
+thought_process	思考过程
+
+threat	威胁
+
+three	三
+
+threshold	阈
+
+thriller	惊悚片
+
+throat	喉
+
+throne	王座
+
+throne_room	金銮殿
+
+throw	扔
+
+thrower	运动员
+
+thrust	推力
+
+thumb	拇指
+
+thumb_drive	拇指驱动器
+
+thunder	雷
+
+thunder_god	雷电之神
+
+ticket	票
+
+ticket_machine	售票机
+
+ticket_office	售票处
+
+tide	浪潮
+
+tide_mill	潮汐磨
+
+tie	领带
+
+tie_rod	拉杆
+
+tier	一线
+
+tiger	虎
+
+tiger_bread	老虎面包
+
+tiger_economy	老虎经济
+
+tiger_moth	虎蛾
+
+tiger_team	老虎队
+
+tight_end	紧端
+
+tightening	紧缩
+
+till	直到
+
+timber	木材
+
+time	时间
+
+time_ball	时间球
+
+time_bill	时间表
+
+time_bomb	定时炸弹
+
+time_clock	时钟
+
+time_code	时间码
+
+time_delay	时间延迟
+
+time_deposit	定期存款
+
+time_difference	时间差异
+
+time_frame	大体时间
+
+time_horizon	时间范围
+
+time_interval	时间间隔
+
+time_limit	时限
+
+time_line	时间线
+
+time_machine	时间机器
+
+time_management	时间管理
+
+time_preference	时间偏好
+
+time_scale	时间尺度
+
+time_series	时间序列
+
+time_sheet	时间表
+
+time_signal	时间信号
+
+time_signature	拍号
+
+time_slot	时隙
+
+time_standard	时间标准
+
+time_table	时间表
+
+time_travel	时间旅行
+
+time_trial	计时赛
+
+time_work	兼职工作
+
+time_zone	时区
+
+timeline	时间线
+
+timetable	时间表
+
+timing	定时
+
+timing_belt	同步带
+
+timothy	蒂莫西
+
+tin	锡
+
+tin_can	锡罐
+
+tin_man	锡人
+
+tip	小费
+
+tip_sheet	小费表
+
+tire	累
+
+tissue	组织
+
+tissue_culture	组织培养
+
+tissue_engineering	组织工程
+
+tissue_paper	卫生纸
+
+title	标题
+
+title_character	标题字符
+
+title_page	封面
+
+title_track	标题轨道
+
+tobacco	烟草
+
+tobacco_pipe	烟斗
+
+today	今天
+
+todd	托德
+
+toe	脚趾
+
+toilet	厕所
+
+toilet_paper	卫生纸
+
+toilet_seat	马桶座圈
+
+toilet_training	厕所训练
+
+toledo	托莱多
+
+tolerance	公差
+
+toll	收费
+
+toll_booth	收费站
+
+toll_bridge	收费桥
+
+toll_plaza	收费广场
+
+toll_road	收费路
+
+tom	汤姆
+
+tomato	番茄
+
+tomb	墓
+
+tommy	汤米
+
+tomorrow	明天
+
+ton	吨
+
+tone_poem	口气诗
+
+tone_scale	音阶
+
+tongue	舌
+
+tonight	今晚
+
+tony	托尼
+
+tool	工具
+
+top	最佳
+
+top_gear	最高档
+
+top_gun	壮志凌云
+
+topic	话题
+
+topic_sentence	主题句
+
+topping	配料
+
+torch	火炬
+
+tornado	龙卷风
+
+torpedo	鱼雷
+
+torture	拷打
+
+toss	折腾
+
+total	总
+
+total_war	全面战争
+
+touch	触摸
+
+touch_football	足球
+
+touch_panel	触控面板
+
+touch_screen	触摸屏
+
+touchdown	接地
+
+tough	强硬
+
+tour	游览
+
+tour_bus	旅游巴士
+
+tour_guide	导游
+
+tour_match	巡回赛
+
+tour_operator	旅行社
+
+touring_car	旅游车
+
+touring_company	旅游公司
+
+touring_side	巡回演出
+
+tourism	旅游
+
+tourist	游客
+
+tourist_office	旅游办事处
+
+tourist_trap	游客陷阱
+
+tourist_visa	旅游签证
+
+tournament	比赛
+
+tower	塔
+
+town	镇
+
+town_car	市政车
+
+town_clerk	镇务员
+
+town_hall	市政厅
+
+town_house	联排别墅
+
+town_planning	城市规划
+
+town_square	城镇广场
+
+township	乡
+
+toy	玩具
+
+toy_shop	玩具店
+
+toy_soldier	玩具士兵
+
+trace	跟踪
+
+trace_element	微量元素
+
+track	跟踪
+
+track_bike	履带车
+
+track_cycling	赛道骑行
+
+track_lighting	轨道照明
+
+track_record	跟踪记录
+
+trade	贸易
+
+trade_balance	贸易平衡
+
+trade_card	贸易卡
+
+trade_deal	贸易交易
+
+trade_deficit	贸易赤字
+
+trade_dispute	贸易纠纷
+
+trade_dress	商业着装
+
+trade_fair	交易会
+
+trade_magazine	商业杂志
+
+trade_mark	商标
+
+trade_name	商品名
+
+trade_route	商路
+
+trade_secret	商业秘密
+
+trade_show	贸易展览会
+
+trade_surplus	贸易顺差
+
+trade_union	贸易同盟
+
+trade_war	贸易战
+
+trade_wind	季风
+
+trademark	商标
+
+trader	商人
+
+trading_card	贸易卡
+
+trading_floor	交易大厅
+
+trading_partner	贸易伙伴
+
+trading_post	交易站
+
+tradition	传统
+
+traditional_art	传统艺术
+
+traffic	交通
+
+traffic_circle	交通圈
+
+traffic_jam	交通阻塞
+
+traffic_light	红绿灯
+
+traffic_sign	交通标志
+
+traffic_signal	交通信号灯
+
+traffic_ticket	交通票
+
+traffic_violation	交通违规
+
+trafficking	贩卖
+
+tragedy	悲剧
+
+tragic	悲惨
+
+trail	落后
+
+trailer	预告片
+
+trailer_park	拖车停车场
+
+trailer_truck	拖车
+
+trails	步道
+
+train	培养
+
+train_station	火车站
+
+train_track	火车轨道
+
+train_wreck	火车失事
+
+trainer	训练者
+
+training	训练
+
+training_wheel	训练轮
+
+trans_fat	反式脂肪
+
+trans_woman	跨女人
+
+transaction	交易
+
+transaction_data	交易数据
+
+transfer	传递
+
+transfer_agent	转移代理
+
+transfer_function	转换功能
+
+transfer_list	转会名单
+
+transfer_payment	转移支付
+
+transfer_rate	传输速率
+
+transfer_window	转移窗口
+
+transform	转变
+
+transformation	转型
+
+transgression	愆
+
+transit	过境
+
+transition	过渡
+
+transition_metal	过渡金属
+
+transition_state	过渡态
+
+transition_temperature	转变温度
+
+transition_zone	过渡带
+
+translate	翻译
+
+translation	翻译
+
+translator	翻译者
+
+transmission	传输
+
+transmission_line	传输线
+
+transmission_medium	传输介质
+
+transparency	透明度
+
+transplant	移植
+
+transport	运输
+
+transport_ship	运输船
+
+transportation	运输
+
+trap	陷阱
+
+trap_door	活板门
+
+trash	垃圾
+
+trash_can	垃圾箱
+
+trauma	外伤
+
+travel	旅行
+
+travel_agency	旅行社
+
+travel_agent	旅行社
+
+travel_document	旅行证件
+
+traveler	旅客
+
+traveling	旅行
+
+travelling	旅行
+
+treason	叛逆
+
+treasure	宝藏
+
+treasurer	出纳员
+
+treasury	金库
+
+treat	对待
+
+treatment	治疗
+
+treaty	条约
+
+tree	树
+
+tree_farm	林场
+
+tree_house	树屋
+
+tree_line	树线
+
+tree_ring	年轮
+
+tree_stand	树架
+
+tree_trunk	树干
+
+trek	跋涉
+
+trend	趋势
+
+trend_line	趋势线
+
+tri	三
+
+trial	审讯
+
+trial_balance	试用余额
+
+trial_balloon	试用气球
+
+trial_run	试运行
+
+triangle	三角形
+
+tribal	部落的
+
+tribe	部落
+
+tribunal	法庭
+
+tribune	论坛
+
+tributary	支流
+
+tribute	贡
+
+tribute_band	致敬乐队
+
+trick	特技
+
+trigger	触发
+
+triggering	触发
+
+trilogy	三部曲
+
+trim	修剪
+
+trinity	三位一体
+
+trio	三人
+
+trip	旅
+
+trip_hop	跳跳
+
+triple	三倍
+
+triple_crown	三冠王
+
+tripoli	的黎波里
+
+triumph	胜利
+
+troop	部队
+
+trophy	杯
+
+trophy_wife	贵族夫人
+
+tropical	热带
+
+tropical_cyclone	热带气旋
+
+tropical_depression	热带低气压
+
+tropical_disease	热带病
+
+tropical_storm	热带风暴
+
+trouble	麻烦
+
+trouble_maker	麻烦制造者
+
+trouble_spot	麻烦点
+
+troy_ounce	金衡盎司
+
+troy_weight	金衡重量
+
+truce	休战
+
+truck	卡车
+
+truck_driver	卡车司机
+
+truck_stop	卡车停靠站
+
+true	真正
+
+trump	王牌
+
+trump_card	王牌
+
+trunk	树干
+
+trust	信任
+
+trust_fund	信托基金
+
+trust_territory	信任领地
+
+trustee	受托人
+
+truth	真相
+
+truth_drug	真药
+
+truth_function	真函数
+
+truth_table	真值表
+
+truth_value	真值
+
+try	尝试
+
+tsunami	海啸
+
+tube	管
+
+tube_well	管井
+
+tuberculosis	结核
+
+tucker	塔克
+
+tuition	学费
+
+tumor	瘤
+
+tuna	金枪鱼
+
+tune	调
+
+tung	桐油
+
+tung_oil	桐油
+
+tunnel	隧道
+
+tunnel_broker	隧道经纪人
+
+tunnel_vision	管视角
+
+turf	草皮
+
+turf_war	地盘战争
+
+turkey	火鸡
+
+turmoil	动荡
+
+turn	转
+
+turnaround	回转
+
+turner	车工
+
+turning	车削
+
+turning_point	转折点
+
+turnout	结果发现
+
+turnover	周转
+
+twelve	十二
+
+twenty	二十
+
+twin	双胞胎
+
+twist	捻
+
+twitter	推特
+
+two	二
+
+tycoon	巨头
+
+type	类型
+
+type_species	类型种类
+
+type_system	类型系统
+
+typhoon	台风
+
+ugly	丑陋
+
+ulster	阿尔斯特
+
+ultimate	最终
+
+ultra	超
+
+umbrella	雨伞
+
+umbrella_body	伞身
+
+umbrella_company	伞公司
+
+umbrella_organisation	伞组织
+
+umbrella_organization	伞组织
+
+umbrella_term	总称
+
+umpire	裁判
+
+uncertainty	不确定
+
+uncertainty_principle	不确定性原则
+
+uncle	叔叔
+
+unconscious	无意识
+
+undercover	秘密
+
+undergraduate	大学本科
+
+underground	地下
+
+underneath	下
+
+undersecretary	副国务卿
+
+understanding	理解
+
+undertaking	承诺
+
+underwater	水下
+
+underway	进行
+
+unemployed	失业的
+
+unemployment	失业
+
+unemployment_benefit	失业补助
+
+unemployment_insurance	失业保险
+
+unification	统一
+
+uniform	制服
+
+union	联盟
+
+union_job	工会工作
+
+unique	独特
+
+unit	单元
+
+unit_circle	单位圆
+
+unit_cost	单位成本
+
+unit_fraction	单位分数
+
+unit_operation	单元操作
+
+unit_price	单价
+
+unit_test	单元测试
+
+unit_testing	单元测试
+
+unit_vector	单位向量
+
+unity	统一
+
+universal	普遍
+
+universe	宇宙
+
+university	大学
+
+unknown	未知
+
+unrest	动荡
+
+upbeat	乐观
+
+update	更新
+
+upgrade	升级
+
+upheaval	动荡
+
+upper	上
+
+upper_chamber	上室
+
+upper_class	上流
+
+upper_house	上议院
+
+uprising	起义
+
+upset	烦乱
+
+upside	上边
+
+uranium	铀
+
+urban_exploration	城市探索
+
+urban_legend	都市传奇
+
+urban_planning	城市规划
+
+urge	敦促
+
+urgency	急
+
+usage	用法
+
+use	采用
+
+use_case	用例
+
+user	用户
+
+user_agent	用户代理
+
+user_experience	用户体验
+
+user_group	用户组
+
+user_name	用户名
+
+utility	效用
+
+utility_function	实用功能
+
+utility_knife	工具刀
+
+utility_man	实用人
+
+utility_player	效用播放器
+
+utility_pole	电线杆
+
+utility_program	实用程序
+
+vacation	假期
+
+vacation_day	假期
+
+vacation_home	度假屋
+
+vacationer	游客
+
+vaccine	疫苗
+
+vacuum	真空
+
+vacuum_energy	真空能
+
+vague	模糊
+
+vale	谷
+
+valencia	瓦伦西亚
+
+valentine	情人节
+
+valet	代客
+
+valley	谷
+
+valley_fever	谷热
+
+valley_girl	山谷女孩
+
+valuable	有价值
+
+value	值
+
+value_judgment	价值判断
+
+value_proposition	价值主张
+
+value_system	价值体系
+
+value_theory	价值理论
+
+values	值
+
+valve	阀
+
+vampire	吸血鬼
+
+van	面包车
+
+vanguard	前锋
+
+variable	变量
+
+variant	变种
+
+variation	变异
+
+variations	变化
+
+variety	品种
+
+variety_show	综艺节目
+
+variety_store	杂货店
+
+vary	变化
+
+vault	拱顶
+
+vector	向量
+
+vector_field	向量场
+
+vector_space	向量空间
+
+vegetable	蔬菜
+
+vegetable_oil	植物油
+
+vegetation	植被
+
+vehicle	车辆
+
+velocity	速度
+
+venture	冒险
+
+venture_capital	风险投资
+
+venue	会场
+
+venus	金星
+
+vera	维拉
+
+verbal	口头
+
+verdict	判决书
+
+verge	边缘
+
+verification	验证
+
+verse	诗
+
+version	版
+
+vertebrate	脊椎动物
+
+vertical	垂直
+
+vessel	容器
+
+veteran	老将
+
+veterinary	兽医
+
+veto	否决
+
+via	通过
+
+vice	副
+
+vice_admiral	副海军上将
+
+vice_chairman	副主席
+
+vice_director	副导演
+
+vice_presidency	副总统
+
+vice_president	副总统
+
+vice_squad	副班长
+
+vicinity	附近
+
+victim	受害者
+
+victor	胜利者
+
+victoria	维多利亚
+
+victory	胜利
+
+victory_garden	胜利花园
+
+victory_lane	胜利车道
+
+victory_lap	胜利圈
+
+video	视频
+
+video_camera	摄像机
+
+video_card	显卡
+
+video_chat	视讯通讯
+
+video_conference	视频会议
+
+video_game	电子游戏
+
+video_jockey	视频骑师
+
+video_journalist	视频记者
+
+video_nasty	视频讨厌
+
+video_recording	视频录制
+
+video_referee	视频裁判
+
+videotape	录影带
+
+view	视图
+
+view_camera	查看相机
+
+view_model	查看模型
+
+viewer	观众
+
+viewing	观看
+
+villa	别墅
+
+village	村
+
+village_green	乡村绿色
+
+village_hall	村公所
+
+vincent	文森特
+
+vintage	酿酒
+
+vinyl	乙烯基
+
+vinyl_record	黑胶唱片
+
+violation	违反
+
+violence	暴力
+
+violin	小提琴
+
+virgin	处女
+
+virtual	虚拟
+
+virtual_machine	虚拟机
+
+virtual_reality	虚拟现实
+
+virtue	美德
+
+virus	病毒
+
+visa	签证
+
+visibility	能见度
+
+vision	视力
+
+vision_quest	视觉追求
+
+vision_statement	愿景陈述
+
+visit	访问
+
+visitor	游客
+
+visitor_pattern	访客模式
+
+vista	远景
+
+visual	视觉
+
+visual_art	视觉艺术
+
+visual_artist	视觉艺术家
+
+visual_novel	视觉小说
+
+vitamin	维他命
+
+vitamin_a	维生素A
+
+vocal	声音的
+
+vocalist	歌手
+
+voice	语音
+
+voice_actor	配音演员
+
+voice_mail	语音信箱
+
+voice_message	语音留言
+
+voice_recognition	语音识别
+
+voice_talent	声音人才
+
+voice_vote	语音投票
+
+void	空虚
+
+voivodeship	省
+
+vol	第一卷
+
+volatility	挥发性
+
+volcano	火山
+
+volley	齐射
+
+volleyball	排球
+
+volume	体积
+
+volumes	卷
+
+voluntary	自主性
+
+volunteer	志愿者
+
+vote	投票
+
+vote_buying	投票购买
+
+voter	选民
+
+voting	表决
+
+voting_booth	投票亭
+
+voting_machine	投票机
+
+voting_station	投票站
+
+voting_system	投票系统
+
+voyage	航程
+
+wade	涉
+
+wage	工资
+
+wagon	车皮
+
+wah	华
+
+wait	等待
+
+waiter	服务员
+
+waiting	等候
+
+wake	唤醒
+
+walk	步行
+
+walker	助步车
+
+walking	步行
+
+wall	壁
+
+wall_clock	挂钟
+
+wang	旺
+
+want	想
+
+wanting	希望
+
+war	战争
+
+war_bride	战争新娘
+
+war_cemetery	战争公墓
+
+war_chest	战争基金
+
+war_child	战争孩子
+
+war_crime	战争罪
+
+war_criminal	战犯
+
+war_cry	战争的呐喊
+
+war_dance	战舞
+
+war_dog	战犬
+
+war_game	战争游戏
+
+war_grave	战争坟墓
+
+war_machine	战争机器
+
+war_paint	战争涂料
+
+war_party	战争党
+
+war_room	作战室
+
+war_story	战争故事
+
+war_time	战时
+
+war_veteran	退伍军人
+
+war_widow	战争遗id
+
+war_zone	战区
+
+ward	病房
+
+warehouse	仓库
+
+warehouse_club	仓库俱乐部
+
+warfare	战
+
+warlord	军阀
+
+warm	暖
+
+warming	变暖
+
+warner	华纳
+
+warning	警告
+
+warning_track	警告轨道
+
+warrant	保证
+
+warrant_officer	准尉
+
+warren	养兔场
+
+warring	交战
+
+warrior	战士
+
+warsaw	华沙
+
+wartime	战时
+
+wash	洗
+
+washing	洗涤
+
+waste	浪费
+
+waste_pipe	废水管
+
+waste_product	废品
+
+watch	看
+
+watch_list	观察清单
+
+watchdog	看家狗
+
+water	水
+
+water_balloon	水气球
+
+water_bath	水浴
+
+water_bomber	水上轰炸机
+
+water_bottle	水壶
+
+water_buffalo	水牛
+
+water_cannon	水炮
+
+water_clock	水钟
+
+water_column	水柱
+
+water_content	含水量
+
+water_cycle	水循环
+
+water_dog	水狗
+
+water_feature	水景
+
+water_fountain	饮水机
+
+water_frame	水框
+
+water_gate	水闸
+
+water_glass	水玻璃
+
+water_gun	水枪
+
+water_hole	水坑
+
+water_horse	水马
+
+water_ice	冰水
+
+water_jet	水射流
+
+water_level	水位
+
+water_line	水线
+
+water_main	水管
+
+water_meter	水表
+
+water_monitor	水监控器
+
+water_park	水上乐园
+
+water_pipe	水管
+
+water_police	水警
+
+water_pollution	水污染
+
+water_polo	水球
+
+water_power	水动力
+
+water_sign	水象星座
+
+water_skiing	滑水
+
+water_slide	水上滑梯
+
+water_sport	水上运动
+
+water_table	地下水位
+
+water_tap	水龙头
+
+water_taxi	水上出租车
+
+water_tower	水塔
+
+water_wheel	水车
+
+waterfront	滨水
+
+wave	波
+
+wave_function	波动函数
+
+wave_power	波功率
+
+way	方式
+
+way_station	客运站
+
+weakening	弱化
+
+weakness	弱点
+
+wealth	财富
+
+wealthy	富裕
+
+weapon	武器
+
+weaponry	武器
+
+wear	穿
+
+wearing	穿着
+
+weather	天气
+
+weather_balloon	气象气球
+
+weather_forecast	天气预报
+
+weather_front	天气锋
+
+weather_map	天气图
+
+weather_report	天气预报
+
+weaver	韦弗
+
+web	卷筒纸
+
+web_address	网址
+
+web_application	Web应用程序
+
+web_browser	网页浏览器
+
+web_content	网页内容
+
+web_design	网页设计
+
+web_designer	网页设计师
+
+web_developer	Web开发人员
+
+web_feed	网络供稿
+
+web_hosting	虚拟主机
+
+web_page	网页
+
+web_provider	网络提供商
+
+web_server	网络服务器
+
+web_services	网页服务
+
+web_site	网站
+
+web_television	网络电视
+
+webber	韦伯
+
+weber	韦伯
+
+website	网站
+
+webster	韦伯斯特
+
+wedding	婚礼
+
+wedding_breakfast	婚礼早餐
+
+wedding_cake	结婚蛋糕
+
+wedding_dress	婚纱
+
+wedding_party	婚礼派对
+
+wedding_ring	结婚戒指
+
+week	周
+
+weekday	平日
+
+weekend	周末
+
+weekend_warrior	周末战士
+
+weekly	每周
+
+weight	重量
+
+weight_gain	体重增加
+
+weight_lifting	举重
+
+weight_loss	减肥
+
+weight_training	重量训练
+
+weird	奇怪的
+
+welch	韦尔奇
+
+welcome	欢迎
+
+weld	焊接
+
+welfare	福利
+
+welfare_state	福利国家
+
+well	好
+
+well_being	幸福感
+
+wellington	惠灵顿
+
+wen	文
+
+wendy	温迪
+
+went	去
+
+west	西方
+
+western	西
+
+western_hemisphere	西半球
+
+western_world	西方世界
+
+wet	湿
+
+whale	鲸
+
+whale_oil	鲸油
+
+whaling	捕鲸
+
+whaling_station	捕鲸站
+
+wheat	小麦
+
+wheat_bread	小麦面包
+
+wheel	轮
+
+wheelchair	轮椅
+
+whereabouts	下落
+
+whip	鞭子
+
+whistle	哨
+
+white	白色
+
+white_bear	白熊
+
+white_boy	白人男孩
+
+white_bread	白面包
+
+white_chocolate	白巧克力
+
+white_elephant	白象
+
+white_flag	白旗
+
+white_gold	白金
+
+white_hat	白帽
+
+white_hole	白洞
+
+white_horse	白马
+
+white_knight	白骑士
+
+white_lady	白人女士
+
+white_light	白光
+
+white_man	白人
+
+white_noise	白噪声
+
+white_oak	白橡树
+
+white_paper	白皮书
+
+white_shark	大白鲨
+
+white_space	空格
+
+white_tea	白茶
+
+white_tie	白领带
+
+white_trash	白色垃圾
+
+white_water	白水
+
+white_wedding	白色婚礼
+
+white_wine	白酒
+
+whitewater	白水
+
+whole	整个
+
+whole_food	整个食物
+
+wholesale	批发
+
+wicket	便门
+
+wide	宽
+
+wide_receiver	宽接收器
+
+widening	加宽
+
+widow	寡妇
+
+width	宽度
+
+wife	妻子
+
+wigan	维冈
+
+wild	野生
+
+wild_animal	野生动物
+
+wild_card	通配符
+
+wild_cherry	野樱桃
+
+wild_child	野孩子
+
+wild_horse	野马
+
+wild_rice	野米
+
+wild_river	野河
+
+wild_turkey	野火鸡
+
+wilderness	荒野
+
+wildlife	野生动物
+
+wildlife_reserve	野生动物保护区
+
+will_power	将力量
+
+willie	威利
+
+willingness	愿意
+
+win	赢得
+
+wind	风
+
+wind_farm	风电场
+
+wind_instrument	管乐器
+
+wind_power	风力
+
+wind_speed	风速
+
+wind_storm	暴风雨
+
+wind_tunnel	风洞
+
+winding	曲折
+
+window	窗口
+
+window_box	开窗盒
+
+window_frame	窗框
+
+window_manager	窗口管理器
+
+window_seat	靠窗的座位
+
+window_treatment	窗帘
+
+wine	葡萄酒
+
+wine_bar	酒吧
+
+wine_bottle	酒瓶
+
+wine_glass	红酒杯
+
+wine_list	酒单
+
+wing	翅膀
+
+winger	边锋
+
+winner	优胜者
+
+winning	胜利
+
+winning_streak	连胜
+
+winnings	奖金
+
+winter	冬季
+
+winter_break	寒假
+
+winter_coat	冬衣
+
+winter_sport	冬季运动
+
+winter_storm	冬季风暴
+
+wipe	擦拭
+
+wire	线
+
+wire_fraud	电汇欺诈
+
+wire_transfer	电汇
+
+wireless	无线
+
+wireless_network	无线网络
+
+wireless_operator	无线运营商
+
+wisdom	智慧
+
+wise	明智的
+
+wish	希望
+
+wish_list	愿望清单
+
+witch	巫婆
+
+withdrawal	退出
+
+witness	见证人
+
+witness_box	见证框
+
+witness_protection	证人保护
+
+witness_stand	证人席
+
+wolf	狼
+
+wolf_pack	狼群
+
+woman	女人
+
+womanhood	女大十八变
+
+women	妇女
+
+wonder	奇迹
+
+wong	弘
+
+woo	求爱
+
+wood	木
+
+wood_chip	木片
+
+wood_duck	木鸭
+
+wood_flour	木粉
+
+woodland	林地
+
+woodward	伍德沃德
+
+woody	木本
+
+wool	羊毛
+
+word	字
+
+word_count	字数
+
+word_game	文字游戏
+
+word_list	单词表
+
+word_order	词序
+
+word_play	文字游戏
+
+word_problem	字问题
+
+word_processing	字处理
+
+word_processor	文字处理器
+
+word_search	单词搜索
+
+work	工作
+
+work_camp	工作营
+
+work_experience	工作经验
+
+work_function	工作功能
+
+work_order	工作指示
+
+work_permit	工作准证
+
+work_song	工作歌
+
+work_station	工作站
+
+work_surface	工作台
+
+worker	工人
+
+worker_bee	工蜂
+
+workforce	劳动力
+
+working	工作的
+
+working_capital	营运资金
+
+working_class	工人阶级
+
+working_group	工作小组
+
+working_title	工作头衔
+
+workman	工人
+
+workplace	职场
+
+workshop	作坊
+
+workweek	每周工作时间
+
+world	世界
+
+world_champion	世界冠军
+
+world_cup	世界杯
+
+world_leader	世界领袖
+
+world_line	世界线
+
+world_music	世界音乐
+
+world_order	世界秩序
+
+world_peace	世界和平
+
+world_power	世界大国
+
+world_record	世界纪录
+
+world_religion	世界宗教
+
+world_view	世界观
+
+world_war	世界大战
+
+worn	磨损的
+
+worry	担心
+
+worsening	恶化
+
+worship	崇拜
+
+worth	价值
+
+worthy	值得
+
+wound	伤口
+
+wounded	负伤
+
+wounding	伤人
+
+wrap	包裹
+
+wreck	破坏
+
+wreckage	残骸
+
+wrestler	摔跤手
+
+wrestling	摔角
+
+wright	赖特
+
+wrist	腕
+
+wrist_band	腕带
+
+wrist_shot	手腕射击
+
+write	写
+
+writer	作家
+
+writing	写作
+
+wrong	错误
+
+wrongdoer	坏人
+
+wrongdoing	坏事
+
+x_factor	x因子
+
+yacht	游艇
+
+yah	严
+
+yahoo	雅虎
+
+yang	阳
+
+yard	码
+
+yard_sale	院子出售
+
+year	年
+
+year_mark	年标记
+
+yearly	每年
+
+yellow	黄色
+
+yellow_fever	黄热病
+
+yellow_jersey	黄色球衣
+
+yen	日元
+
+yes	是
+
+yesterday	昨天
+
+yield	让
+
+yield_curve	收益曲线
+
+yields	产量
+
+yorker	纽约客
+
+young	年轻
+
+young_adult	年轻的成年人
+
+young_gun	年轻的枪
+
+young_lady	年轻女子
+
+young_man	年轻人
+
+young_money	年轻的钱
+
+youth	青年
+
+youth_club	青年俱乐部
+
+youtube	YouTube的
+
+yuan	元
+
+yuri	尤里
+
+zaire	扎伊尔
+
+zambian	赞比亚
+
+zero	零
+
+zero_point	零点
+
+zero_tolerance	零容忍
+
+zimbabwe	津巴布韦
+
+zimbabwean	津巴布韦
+
+zone	区
+
+zone_defense	防区
+
+zoo	动物园
+

@@ -1,0 +1,11 @@
+all_types.txt - all ultra-fine types
+chinese_types.txt - chinese tranlation of all
+types_en2cn.txt - en and cn of all
+
+crowd_mentions.json - crowd sourced mention file from ultra fine dataset
+crowd_types.txt - 2500 crowd labeled types
+distant_types.txt - other 7500 distant labeled types
+
+general_types.txt - 9 general types
+figer_types.txt - 121 figer types
+ultra_fine_types.txt - other 10k ultra-fine types

@@ -1,0 +1,926 @@
+{"sentence": "一节课的时间真心感动了李开复感动", "mention_spans": [[11, 14, "李开复", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "回复支持，赞成，哈哈米八吴够历史要的陈小奥丁丁我爱小肥肥一族大头仔大家团结一致，誓要去台湾饮喜酒，由包机，团结的力量大", "mention_spans": [[18, 21, "陈小奥", "B-PER.NAM", "golden_horse"], [43, 45, "台湾", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "三毛说我唯一锲而不舍，愿意以自己的生命去努力的，只不过是保守我个人的心怀意念，在我有生之日，做一个真诚的人，不放弃对生活的热爱和执着，在有限的时空里，过无限广", "mention_spans": [[0, 2, "三毛", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "星期天的早晨七点学车，驾校太给力", "mention_spans": [[11, 13, "驾校", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "发表了博文小学美术新课标的反思学习新学期开学有两个多月了，在这段时间的教学计划、教案的撰写工作中，让我对小学美术新课程标准有了进一步的认识", "mention_spans": [[5, 7, "小学", "B-ORG.NOM", "golden_horse"], [52, 54, "小学", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "我们现在所用的教材，根据儿童心理特点以及", "mention_spans": [[12, 14, "儿童", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "哈哈哈哈哈哈镰刀刮腋毛哈哈哈哈哈哈我的朋友是个呆哈哈哈哈哈哈哈哈哈哈哈哈哈十万个冷笑话官网你这个不孝子哈哈哈哈哈萬萬哈哈哈哈哈哈哈杰克波比哈哈哈狼心狗肺猪肾哈哈哈哈哈哈哈胡唠哈哈哈哈哈哈哈哈哈柯震倲哈哈哈哈哈哈哈", "mention_spans": [[19, 21, "朋友", "B-PER.NOM", "golden_horse"], [48, 51, "不孝子", "B-PER.NOM", "golden_horse"], [65, 67, "杰克", "B-PER.NAM", "golden_horse"], [67, 69, "波比", "B-PER.NAM", "golden_horse"], [96, 99, "柯震倲", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "延参法师品味人生如同走进一片山水，静静的呼吸，安静的欣赏，这就是生活", "mention_spans": [[0, 2, "延参", "B-PER.NAM", "golden_horse"], [2, 4, "法师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "叶赟葆：全球时尚财运滚滚而来钱", "mention_spans": [[0, 3, "叶赟葆", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我要去我要去花心花心花心耶分手大师贵仔邓超四大名捕围观话筒转发邓超贴吧微博号外话筒望周知", "mention_spans": [[19, 21, "邓超", "B-PER.NAM", "golden_horse"], [31, 33, "邓超", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "邓超四大名捕", "mention_spans": [[0, 2, "邓超", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "曾小贤终于跟一菲表白了哈哈鼓掌", "mention_spans": [[0, 3, "曾小贤", "B-PER.NAM", "golden_horse"], [6, 8, "一菲", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "太看重感情的人就是这样容易满足更容易受伤；总有一种被忽视的感觉；付出的远远超过得到的；很固执，习惯冷战；在别人面前笑得很开心，一个人的时候却很漠落；陌生人前很安静，朋友面前胡闹；坐在电脑前，不知道做什么，却又不想关掉它；不喜欢等待，却总是等待；经常不经意的发呆", "mention_spans": [[82, 84, "朋友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民我们也这样照吧啊啊啊哈哈哈哈真好玩", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "日中午，宋同志抵达汉口站转动车回家", "mention_spans": [[4, 7, "宋同志", "B-PER.NOM", "golden_horse"], [9, 12, "汉口站", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "不知道這樣做是否值得，但是就是不忍心這樣就離開，我不想用自己的快樂去換取別人的痛苦，女人大概是心軟的，這絕對是真的", "mention_spans": [[42, 44, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民是不是很有爱啊疯狂世界我爱你你会说话", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我刚更新了微博客户端冬季版，信息流新增地点卡片；新增喜欢功能，轻松表达你的态度；支持显示悄悄关注分组和发给我的定向分组；支持屏蔽通知；周边的人、周边的微博支持筛选；会员还支持微博置顶和更多会员皮肤哦下载地址：", "mention_spans": [[82, 84, "会员", "B-PER.NOM", "golden_horse"], [94, 96, "会员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "这个事真不好笑，我真不知道再怎么面对孝感了魔君六世御疯飞行伤心啊厂花脑残饭占着茅坑不拉屎的都给偶滚远一点，近距离接触的机会不给粉丝给路人，主办方在搞毛", "mention_spans": [[18, 20, "孝感", "B-PER.NAM", "golden_horse"], [21, 25, "魔君六世", "B-PER.NOM", "golden_horse"], [63, 65, "粉丝", "B-PER.NOM", "golden_horse"], [66, 68, "路人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "之前踩坤哥抬轿拼盘演唱会也就罢了，今天居然把幺蛾子的极品行径搞到我大坤哥面前去了，见过不专业的，没见过那么不专业的", "mention_spans": [[3, 5, "坤哥", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "嘻嘻女孩纸们随时算算量量哦", "mention_spans": [[2, 6, "女孩纸们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "水足两栖的背后，中国足球人必须耐得住寂寞水足两栖赛会制，又是主场，确有理论出线可能，但不能指望底子已相当薄弱的中国女足一步登天，打好基础再说吧，只有做好普及才有提高可能，喧嚣水足两栖李霄鹏也尽力了", "mention_spans": [[8, 10, "中国", "B-GPE.NAM", "golden_horse"], [55, 57, "中国", "B-GPE.NAM", "golden_horse"], [91, 94, "李霄鹏", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我的美少女昨晚開始作動，而家剛入院，姑娘話未係時候可以生住，要再等一等，然後就可以生下我的美少少女拉，希望母女平安，一切順利愛你愛你瀛速熊文辉瘦鬼香蕉佬靓靓肥师奶我在", "mention_spans": [[3, 5, "少女", "B-PER.NOM", "golden_horse"], [18, 20, "姑娘", "B-PER.NOM", "golden_horse"], [47, 49, "少女", "B-PER.NOM", "golden_horse"], [53, 54, "母", "B-PER.NOM", "golden_horse"], [54, 55, "女", "B-PER.NOM", "golden_horse"], [68, 71, "熊文辉", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "谈判即将开始，三座大山已经在向我招手了奥特曼来干杯我在", "mention_spans": [[7, 11, "三座大山", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "酷啊，我明天一定要去小特，我们来啦哈哈丫头哒哒", "mention_spans": [[10, 12, "小特", "B-LOC.NAM", "golden_horse"], [19, 21, "丫头", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "废除恶法王巍废除恶法谢文荣剑全国网民的抗议终于迫使张家川县公安局中止其恶性执法，释放被拘的无罪少年，但由此引发的质疑和", "mention_spans": [[4, 6, "王巍", "B-PER.NAM", "golden_horse"], [10, 13, "谢文荣", "B-PER.NAM", "golden_horse"], [14, 16, "全国", "B-GPE.NOM", "golden_horse"], [16, 18, "网民", "B-PER.NOM", "golden_horse"], [25, 29, "张家川县", "B-GPE.NAM", "golden_horse"], [29, 32, "公安局", "B-ORG.NAM", "golden_horse"], [47, 49, "少年", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "萌萌不是马哎哟小脸红红的", "mention_spans": [[0, 2, "萌萌", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "愤怒的小老师蒋军晶这个设计诗很多人喜欢", "mention_spans": [[3, 6, "小老师", "B-PER.NOM", "golden_horse"], [6, 9, "蒋军晶", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "平洲玉器街想要腹肌与瘦身，请看下图哈哈", "mention_spans": [[0, 5, "平洲玉器街", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "旅游攻略巴黎性博物馆位于红磨坊附近，是巴黎唯一一家日夜开放的博物馆，这里生动展示了人类性文化发展的历史和各种文化类型的人对性审美体验的艺术表达", "mention_spans": [[4, 6, "巴黎", "B-GPE.NAM", "golden_horse"], [6, 10, "性博物馆", "B-ORG.NAM", "golden_horse"], [12, 15, "红磨坊", "B-LOC.NAM", "golden_horse"], [19, 21, "巴黎", "B-GPE.NAM", "golden_horse"], [30, 33, "博物馆", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "唯爱欣钟爱刘米兩個都愛，真的好難選", "mention_spans": [[2, 5, "欣钟爱", "B-PER.NAM", "golden_horse"], [5, 7, "刘米", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "夜深人静的时候总会有很多的想法，基本都是消极的、悲观的，如果一不小心以文字的形势展现出来，第二天自己看了都会难为情，万一再不巧和好友抒发一下，那就更不幸了，万众瞩目的好像还是昨天，可是的最后个月已经过了天还是天了，晚安吧〜", "mention_spans": [[64, 66, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "北京油品升级至国五标准汽柴油每升涨分钱左右国家发改委月日发布通知，宣布对油品质量升级实行加价政策，国内大多数地区汽柴油每升涨幅或超过元", "mention_spans": [[0, 2, "北京", "B-GPE.NAM", "golden_horse"], [21, 23, "国家", "B-GPE.NOM", "golden_horse"], [23, 26, "发改委", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "根据发改委发布通知，北京地区此次从国四升级至国五上涨幅度仅为元吨，即号汽油和号柴油每升均涨约分钱", "mention_spans": [[2, 5, "发改委", "B-ORG.NAM", "golden_horse"], [10, 12, "北京", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "骗子真多南京人社局不是我们的号码", "mention_spans": [[4, 6, "南京", "B-GPE.NAM", "golden_horse"], [6, 9, "人社局", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "����美如姐的沉香阁美如的小日子亲亲", "mention_spans": [[2, 5, "美如姐", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我们家爱你爱你丫头哒哒夏至不再来谷梦瑶闷死的鱼我在", "mention_spans": [[16, 19, "谷梦瑶", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "绍兴鲁讯：请问一箱饮用水多少瓶", "mention_spans": [[0, 2, "绍兴", "B-GPE.NAM", "golden_horse"], [2, 4, "鲁讯", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "哈哈哈，笑到了赵小晚一定要戳他微博看半天才明白怎么回事哈哈哈哈哈哈哈哈哈", "mention_spans": [[7, 10, "赵小晚", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "威武南京零距离最牛毕业证威武", "mention_spans": [[2, 4, "南京", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "如果我是男的该多好，叫我一个女的负担那么多，我负担不起", "mention_spans": [[4, 6, "男的", "B-PER.NOM", "golden_horse"], [14, 16, "女的", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我参加了投票流行音乐风向榜第期投票投给张杰逆战", "mention_spans": [[19, 21, "张杰", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民哈哈哈艺术系女流氓哈哈小新啊～小新～～蜡笔小新専属", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"], [11, 14, "女流氓", "B-PER.NOM", "golden_horse"], [16, 18, "小新", "B-PER.NAM", "golden_horse"], [20, 22, "小新", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "山西有个万荣县，人好滑稽，喜讲笑话", "mention_spans": [[0, 2, "山西", "B-GPE.NAM", "golden_horse"], [4, 7, "万荣县", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "有个万荣人搭汽车，汽车没等他，开走了", "mention_spans": [[2, 4, "万荣", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "回家听宝贝讲幼儿园的事，虽然不怎么连贯，不过我还是了解了她在幼儿园的一天，今天表现真的挺好", "mention_spans": [[3, 5, "宝贝", "B-PER.NOM", "golden_horse"], [6, 9, "幼儿园", "B-ORG.NOM", "golden_horse"], [30, 33, "幼儿园", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "新浪微博客户端全新升级信息流图片加载速度提升；发布器支持多张图片一键分享；新增、浪小花表情", "mention_spans": [[0, 2, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "穷鼠还有一个名字忧游有情人内容如名字一般连我都要为小攻同志三番四次出轨心惊加郁闷，为小受同学死缠烂打的坚贞不渝赶脚汗颜", "mention_spans": [[25, 27, "小攻", "B-PER.NAM", "golden_horse"], [27, 29, "同志", "B-PER.NOM", "golden_horse"], [42, 44, "小受", "B-PER.NAM", "golden_horse"], [44, 46, "同学", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "发表了一篇转载博文转载龙门石窟潜溪寺", "mention_spans": [[11, 15, "龙门石窟", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "我公司经营下的项目是一个真实高效透明的网络兼职平台", "mention_spans": [[1, 3, "公司", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "花开公司竭诚欢迎您", "mention_spans": [[0, 4, "花开公司", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "一转眼我家宝宝出生一星期了", "mention_spans": [[5, 7, "宝宝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "林日曦姗日曦，哥，新婚快乐呀", "mention_spans": [[0, 3, "林日曦", "B-PER.NAM", "golden_horse"], [3, 6, "姗日曦", "B-PER.NAM", "golden_horse"], [7, 8, "哥", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "魵子弹言子瑜妈妈儿童节最好的礼物这是一个年轻妈妈花了很长时间搜遍全网总结出的防拐秘籍", "mention_spans": [[6, 8, "妈妈", "B-PER.NOM", "golden_horse"], [22, 24, "妈妈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "还是长发的妹子漂亮单翅小妖希望早日康复内掌柜人称兔娘子很喜欢两任的扮演者，第二任更是从一开始的吐槽变得越来越喜欢，甚至因为的死去而开始不喜欢叔", "mention_spans": [[5, 7, "妹子", "B-PER.NOM", "golden_horse"], [19, 22, "内掌柜", "B-PER.NOM", "golden_horse"], [24, 27, "兔娘子", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "希望妹子能够一切安好，转一个", "mention_spans": [[2, 4, "妹子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "每周五晚守候在电视前等待我是歌手今天的开场太震撼了，虽感受不到现场气氛的魔力����但我已经被音乐⚡触电了⚡", "mention_spans": [[14, 16, "歌手", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "牛叉第五大道超小朋友分享自土豆网音乐", "mention_spans": [[7, 10, "小朋友", "B-PER.NOM", "golden_horse"], [13, 16, "土豆网", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "你怎么这么不老实，你让为娘奈你何", "mention_spans": [[12, 13, "娘", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "再这么折磨我，等你爹回来我要加倍讨回", "mention_spans": [[9, 10, "爹", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我在西堤牛排上海虹口龙之梦店：同学小聚∩∩哈哈", "mention_spans": [[2, 4, "西堤", "B-LOC.NAM", "golden_horse"], [6, 8, "上海", "B-GPE.NAM", "golden_horse"], [8, 14, "虹口龙之梦店", "B-LOC.NAM", "golden_horse"], [15, 17, "同学", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "余承东在台湾的记者会有多位记者参加，超过篇正面报导，充分证明了的实力", "mention_spans": [[0, 3, "余承东", "B-PER.NAM", "golden_horse"], [4, 6, "台湾", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "我们率先推出寸以上的大屏智能手机，不只是想先人一步开拓市场，还希望更多人知道，华为，没有不可能", "mention_spans": [[39, 41, "华为", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民我也要吃斤刚刚好呢肉包纸", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我在麦当劳西湖银泰店拍了照片：和亲爱的云在麦当劳小聚", "mention_spans": [[2, 5, "麦当劳", "B-ORG.NAM", "golden_horse"], [5, 7, "西湖", "B-LOC.NAM", "golden_horse"], [7, 10, "银泰店", "B-LOC.NAM", "golden_horse"], [19, 20, "云", "B-PER.NAM", "golden_horse"], [21, 24, "麦当劳", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "妈妈让我知道什么是爱什么是幸福我愿用一生为妈妈活着丫头让我懂得什么是幸运我愿用一生去守护", "mention_spans": [[0, 2, "妈妈", "B-PER.NOM", "golden_horse"], [21, 23, "妈妈", "B-PER.NOM", "golden_horse"], [25, 27, "丫头", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "心心心一九九七哈哈哈哈哈哈岁生日快乐没品卧槽你们够了岁生日快乐小敏敏啧啧，果然是得意地笑碧华哈哈哈，暴露了", "mention_spans": [[31, 34, "小敏敏", "B-PER.NAM", "golden_horse"], [44, 46, "碧华", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "自定义个人封面；音、视频直接播放；好友圈—好友消息不错过；支持屏蔽广告微博；广场音乐、电影、美食等频道升级", "mention_spans": [[17, 19, "好友", "B-PER.NOM", "golden_horse"], [21, 23, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "棒偷笑偷笑偷笑花心花心花心这首歌很好听我真是被做作的朴灿烈和笑死了", "mention_spans": [[26, 29, "朴灿烈", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "普罗旺斯的薰衣草，我想带着你一起去看", "mention_spans": [[0, 4, "普罗旺斯", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "丫头哒哒哈哈，吃货就是你拉哈哈哈哈", "mention_spans": [[0, 2, "丫头", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "近排吃太多KFC了'搞到我上火了'嘴里长个洞'好痛好痛'再也不敢吃太多啦[泪][泪][泪][泪][泪]", "mention_spans": [[5, 8, "KFC", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "哈哈，，，，这张我老妈看了，都无语了丫头哒哒夏至不再来我的犬马你的淡饭我在", "mention_spans": [[9, 11, "老妈", "B-PER.NOM", "golden_horse"], [18, 20, "丫头", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "吃惊泰迪吃惊冰凌灬小顽童丶真有吃惊进场要工作证不过阵容只是邀请名单最终能接受邀请来录制的阵容目前不确定我估计来不了有成员在日本有活动丶奥特曼加油看冰凌灬小顽童丶我正在核实可靠性", "mention_spans": [[9, 12, "小顽童", "B-PER.NOM", "golden_horse"], [61, 63, "日本", "B-GPE.NAM", "golden_horse"], [76, 79, "小顽童", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "这也有点太不可思议了吃惊丶冰凌灬小顽童丶", "mention_spans": [[16, 19, "小顽童", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我已成为微博准会员，刚刚获得了准会员专属勋章，八种特权免费享开通会员，更多特权，等你体验", "mention_spans": [[6, 9, "准会员", "B-PER.NOM", "golden_horse"], [15, 18, "准会员", "B-PER.NOM", "golden_horse"], [32, 34, "会员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "今天是感恩节，想了想，我要感恩的人是如此的多，用夸张的手法说多到只要在我生命中出现过的都是感谢父母养育了我，感谢老师教育了我，感谢闺蜜陪伴了我感谢对我好的人，也同样感谢伤害过我的人，让我变的更加坚强千千万万句感谢，送给可爱的你们爱你我在", "mention_spans": [[47, 49, "父母", "B-PER.NOM", "golden_horse"], [56, 58, "老师", "B-PER.NOM", "golden_horse"], [65, 67, "闺蜜", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我正在使用“好友定位-一呼百”，它可以免费和好友共享位置信息，你也试试看吧", "mention_spans": [[6, 8, "好友", "B-PER.NOM", "golden_horse"], [22, 24, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "iPhone版下载：http://t.cn/aoRTqWAndro1i1d1版下载：http://t.cn/aYlhxK或在手机电子市场中搜索“好友定位”，并下载安装", "mention_spans": [[69, 71, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "自定义个人封面；音、视频直接播放；好友圈—好友消息不错过；支持屏蔽广告微博；广场音乐、电影、美食等频道升级", "mention_spans": [[17, 19, "好友", "B-PER.NOM", "golden_horse"], [21, 23, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "《三国名将》进军安卓关注转发捧走iPadmini抱走女神不管我们的距离有多遥远，关怀你的好活动的心永不变", "mention_spans": [[3, 5, "名将", "B-PER.NOM", "golden_horse"], [26, 28, "女神", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "中国人的勇敢表现在：先上，不行再撤下来", "mention_spans": [[0, 2, "中国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "改革开放、股市、互联网、任命官员、油价、球场换人无不遵循这一原则", "mention_spans": [[14, 16, "官员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "中秋节快乐，爸爸妈妈想你们了", "mention_spans": [[6, 8, "爸爸", "B-PER.NOM", "golden_horse"], [8, 10, "妈妈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "赴约，一定要精心打扮，否则同事或上司会以为你不尊重他", "mention_spans": [[13, 15, "同事", "B-PER.NOM", "golden_horse"], [16, 18, "上司", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "什么时候都饿的人陈雨奇葩的世界你俩谁来", "mention_spans": [[8, 10, "陈雨", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "穿着拖鞋坐在图书馆前面瞎看~有着急回宿舍的、有小情侣散步的、有悲催的骑自行车回华兴的~~回到宿舍这个点吃巧乐兹", "mention_spans": [[6, 9, "图书馆", "B-ORG.NOM", "golden_horse"], [18, 20, "宿舍", "B-LOC.NOM", "golden_horse"], [39, 41, "华兴", "B-GPE.NAM", "golden_horse"], [46, 48, "宿舍", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "夏天慢慢来临讨厌油腻腻的水乳霜的朋友们看过来", "mention_spans": [[16, 19, "朋友们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "上大学真的会改变人好多，现在我对于各种事情各种心机都是一种淡然的态度，也不觉得那些爱奉承拍马屁的人有多猥琐", "mention_spans": [[1, 3, "大学", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "闺蜜头像可以搞起来", "mention_spans": [[0, 2, "闺蜜", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "高速公路收费怎么漏了呢", "mention_spans": [[0, 4, "高速公路", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "hello，小伙伴们你们还好么~~~上个现货吧，从英国直邮过来的Korres沐浴啫喱，好基友瓜分完还有柠檬的2个和玫瑰的2个，昨天用那个日本玫瑰洗完香喷喷的~有喜欢的就收走吧http://t.cn/8s4L5RX", "mention_spans": [[6, 10, "小伙伴们", "B-PER.NOM", "golden_horse"], [25, 27, "英国", "B-GPE.NAM", "golden_horse"], [32, 38, "Korres", "B-ORG.NAM", "golden_horse"], [44, 46, "基友", "B-PER.NOM", "golden_horse"], [68, 70, "日本", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "感谢所有准时短信的孩纸们感谢辛苦早起的邻居感谢素不相识的陌生人我们生活中的所有精彩惊喜都是身边人的赐予", "mention_spans": [[9, 12, "孩纸们", "B-PER.NOM", "golden_horse"], [19, 21, "邻居", "B-PER.NOM", "golden_horse"], [28, 31, "陌生人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "生活真的有好多不期而遇、就像我今天中午吃的包子、晚上妈妈又做的包子", "mention_spans": [[26, 28, "妈妈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "祝你们的微博越办越好，粉丝越来越多", "mention_spans": [[11, 13, "粉丝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "你的反应可能跟不上了】各位亲爱的玩家，如果你已年过24岁，那么你在玩《星际争霸2》时反应力可能就不如比你年轻的朋友了", "mention_spans": [[16, 18, "玩家", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "加拿大的两位心理学家和一位统计学家合作，分析了3305名16岁到44岁《星际争霸2》玩家的表现，发现与年龄相关的反应速度下降是从24岁开始", "mention_spans": [[0, 3, "加拿大", "B-GPE.NAM", "golden_horse"], [6, 10, "心理学家", "B-PER.NOM", "golden_horse"], [13, 17, "统计学家", "B-PER.NOM", "golden_horse"], [42, 44, "玩家", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "5.爱笑的女孩子，运气都不会太差", "mention_spans": [[5, 8, "女孩子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "丽江，丽江，什么时候才可以去", "mention_spans": [[0, 2, "丽江", "B-GPE.NAM", "golden_horse"], [3, 5, "丽江", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "6：真心朋友少了，酒肉朋友多了", "mention_spans": [[2, 4, "真心", "B-PER.NOM", "golden_horse"], [4, 6, "朋友", "B-PER.NOM", "golden_horse"], [9, 13, "酒肉朋友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "只是我的顽娃，让我小惊一下，感受一下韩国医疗，服务很好，医疗不错，价格不菲", "mention_spans": [[4, 6, "顽娃", "B-PER.NOM", "golden_horse"], [18, 20, "韩国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "医院回来的路上下着雨，老侯一打车，居然是双倍起步价的车，导游小姐说这是优秀司机，开十年出租无事故，政府规定", "mention_spans": [[0, 2, "医院", "B-ORG.NOM", "golden_horse"], [11, 13, "老侯", "B-PER.NAM", "golden_horse"], [28, 30, "导游", "B-PER.NOM", "golden_horse"], [35, 39, "优秀司机", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "明天有一场大考，想到台下坐着的头头们，再想想自己做好的准备，我觉得我会表现的很牛逼", "mention_spans": [[15, 18, "头头们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【悟智乐园】悟智乐园位于台南市安南区，园内游乐设施水陆兼备，水上乐园的清凉设施金银岛，是结合童话梦境的消暑良方", "mention_spans": [[1, 5, "悟智乐园", "B-LOC.NAM", "golden_horse"], [6, 10, "悟智乐园", "B-LOC.NAM", "golden_horse"], [12, 15, "台南市", "B-GPE.NAM", "golden_horse"], [15, 18, "安南区", "B-GPE.NAM", "golden_horse"], [39, 42, "金银岛", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "另外，斥资千万由美国引进的亚洲第一座激光科技表演馆，还有创造声光特效并深具教育性生动馆及三度空间立体电影，更是提升欢乐层次、令人惊奇的影因设施享受，而不断更新舞台表演", "mention_spans": [[8, 10, "美国", "B-GPE.NAM", "golden_horse"], [13, 15, "亚洲", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "天翼年欢惠三星Note3大派送希望幸运女神眷顾我.☆地址：http://t.cn/8kMdoPy", "mention_spans": [[5, 7, "三星", "B-ORG.NAM", "golden_horse"], [19, 21, "女神", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "大雪中的清晨，在被窝里矫情的流着眼泪看完樱木和流川的最后一球", "mention_spans": [[20, 22, "樱木", "B-PER.NAM", "golden_horse"], [23, 25, "流川", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "美女玩家邀你到中游玩格子RPG总送好东西，期待好运", "mention_spans": [[0, 2, "美女", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "丫头哒哒夢想家林志穎歲的", "mention_spans": [[7, 10, "林志穎", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "宇哥，你真是了解宅女的好宅男啊", "mention_spans": [[0, 2, "宇哥", "B-PER.NAM", "golden_horse"], [8, 10, "宅女", "B-PER.NOM", "golden_horse"], [12, 14, "宅男", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【新明珠与你一起“愚”乐】参与活动赢取华为时尚大屏只能手机", "mention_spans": [[1, 4, "新明珠", "B-ORG.NAM", "golden_horse"], [19, 21, "华为", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "饿得嗷嗷叫的俩人儿'前面还有一百多位'就为了等您啊'外婆'快喊我吃饭吧", "mention_spans": [[6, 9, "俩人儿", "B-PER.NOM", "golden_horse"], [26, 28, "外婆", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "坚定了自己的步伐，就不要轻言放弃，记住，自信的女子最美丽", "mention_spans": [[23, 25, "女子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "6岁小侄女很兴奋的和我说，这首歌很好听的很好听的，[晕]顿时我就这样了“爱的相反我在这里:http://t.cn/8sJnF6T", "mention_spans": [[2, 3, "小", "B-PER.NOM", "golden_horse"], [3, 5, "侄女", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "Qgr7A打造全网最高性价比文胸，蕾丝刺绣性感超薄文胸套装透明女士内衣文胸http://t.cn/8sm5gf3", "mention_spans": [[31, 33, "女士", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "想和名人明星社会贤达一起谈天论地", "mention_spans": [[2, 4, "名人", "B-PER.NOM", "golden_horse"], [4, 6, "明星", "B-PER.NOM", "golden_horse"], [6, 10, "社会贤达", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "和我弟玩这个玩得不亦乐乎，孩纸们还知道这是啥么", "mention_spans": [[1, 3, "我弟", "B-PER.NOM", "golden_horse"], [13, 16, "孩纸们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我懂你的心泪曾若彤苦逼青年杨素晗知道没", "mention_spans": [[6, 9, "曾若彤", "B-PER.NAM", "golden_horse"], [9, 13, "苦逼青年", "B-PER.NOM", "golden_horse"], [13, 16, "杨素晗", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "----普希金（俄罗斯）", "mention_spans": [[4, 7, "普希金", "B-PER.NAM", "golden_horse"], [8, 11, "俄罗斯", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "解解声音好甜害羞不过说实话，视频上面解解和周觅牵手的时候，包括唱歌的时候，笑的不是很多啊，而且看解解的手应该能看出这手牵的好尴尬挖鼻屎挖鼻屎挖鼻屎", "mention_spans": [[18, 20, "解解", "B-PER.NAM", "golden_horse"], [21, 23, "周觅", "B-PER.NAM", "golden_horse"], [48, 50, "解解", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "明显宾哥比我更需要好吧", "mention_spans": [[2, 4, "宾哥", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "下了飞机看她拎的袋子是韩国乐天购物的我天脸变成那样安检也能过", "mention_spans": [[11, 13, "韩国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "哈哈一定是青岛接太多从韩国回来的人了哈哈～http://t.cn/RhUFrmW", "mention_spans": [[5, 7, "青岛", "B-GPE.NAM", "golden_horse"], [11, 13, "韩国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "今日李炜因工作行程再次赶赴机场，在遭遇一连串堵车后最终与航班擦肩而过", "mention_spans": [[2, 4, "李炜", "B-PER.NAM", "golden_horse"], [13, 15, "机场", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "#SM新女团#我想明白了，这个女团现在很受关注原因是主唱涩琪和圭贤、伯贤的新闻，还有取消函数一周的行程，对于这件事我保持中立，但我还是支持这个女团支持所有团体", "mention_spans": [[1, 6, "SM新女团", "B-ORG.NAM", "golden_horse"], [15, 17, "女团", "B-ORG.NOM", "golden_horse"], [28, 30, "涩琪", "B-PER.NAM", "golden_horse"], [31, 33, "圭贤", "B-PER.NAM", "golden_horse"], [34, 36, "伯贤", "B-PER.NAM", "golden_horse"], [71, 73, "女团", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "公车上，母亲抱着双耳都带着助听器的宝宝，一遍遍的教他说着大汽车，孩子每一次含糊的发声，都会得到母亲的赞美", "mention_spans": [[4, 6, "母亲", "B-PER.NOM", "golden_horse"], [17, 19, "宝宝", "B-PER.NOM", "golden_horse"], [32, 34, "孩子", "B-PER.NOM", "golden_horse"], [47, 49, "母亲", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "每个孩子都是一个天使，折翼来到人间，每个母亲都会守护着自己的小天使，陪着他们适应这个需要行走的世界", "mention_spans": [[2, 4, "孩子", "B-PER.NOM", "golden_horse"], [8, 10, "天使", "B-PER.NOM", "golden_horse"], [20, 22, "母亲", "B-PER.NOM", "golden_horse"], [30, 33, "小天使", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "什么时候都饿的人陈雨奇葩的世界你俩谁来", "mention_spans": [[8, 10, "陈雨", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "什么时候都饿的人陈雨奇葩的世界", "mention_spans": [[8, 10, "陈雨", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "好活动呀，给力的商家;;地址：http://t.cn/8sp6M4x", "mention_spans": [[8, 10, "商家", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "腾讯联想联合发起电脑清理日，赢188Q币因为生活是平淡的，所以我们需要去用生活中创意的点滴来记录浪漫的瞬间，享受生活的快乐", "mention_spans": [[0, 2, "腾讯", "B-ORG.NAM", "golden_horse"], [2, 4, "联想", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "某日在米线店吃饭上得很慢很饿，终于按耐不住拍桌咆哮之，本来是想说再不上米线我就把桌子掀了", "mention_spans": [[3, 6, "米线店", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "老师：一个鸡蛋去碰另一个鸡蛋，谁碎了", "mention_spans": [[0, 2, "老师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "一同学小声：心碎了", "mention_spans": [[1, 3, "同学", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "老师：谁的心碎了", "mention_spans": [[0, 2, "老师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "同学：母鸡的心碎了", "mention_spans": [[0, 2, "同学", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "如果天猫是阿滋猫的话，那格格巫呢", "mention_spans": [[2, 4, "天猫", "B-ORG.NAM", "golden_horse"], [5, 8, "阿滋猫", "B-PER.NAM", "golden_horse"], [12, 15, "格格巫", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "蓝精灵上了天猫", "mention_spans": [[0, 3, "蓝精灵", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "源于香丽源店已上线，爱颜系列产品上市", "mention_spans": [[2, 6, "香丽源店", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "8元成为钻石会员，还送98元面膜一盒", "mention_spans": [[4, 8, "钻石会员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我在外婆家(虹口龙之梦店)", "mention_spans": [[2, 5, "外婆家", "B-LOC.NAM", "golden_horse"], [6, 12, "虹口龙之梦店", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "视频科比乔丹经典动作对比谁才是终结者分享自新浪视频", "mention_spans": [[2, 4, "科比", "B-PER.NAM", "golden_horse"], [4, 6, "乔丹", "B-PER.NAM", "golden_horse"], [21, 23, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "情人节快到了，我对月老说：我希望和我喜欢的人永远在一起", "mention_spans": [[9, 11, "月老", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "月老说：只能四天.我说好：春天夏天秋天冬天", "mention_spans": [[0, 2, "月老", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "月老说：只能三天", "mention_spans": [[0, 2, "月老", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "月老说：只能两天.我说：白天黑天", "mention_spans": [[0, 2, "月老", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "月老说：就一天.我说好：月老茫然问：要哪一天", "mention_spans": [[0, 2, "月老", "B-PER.NOM", "golden_horse"], [12, 14, "月老", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "过马路，朋友没注意红灯直往前走", "mention_spans": [[4, 6, "朋友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "自定义背景、封面；音、视频直接播放；好友圈好友消息不错过；信息流滑动速度提升；支持屏蔽广告微博；广场音乐、电影、美食等频道升级", "mention_spans": [[18, 20, "好友", "B-PER.NOM", "golden_horse"], [21, 23, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "感谢所有准时短信的孩纸们感谢辛苦早起的邻居感谢素不相识的陌生人我们生活中的所有精彩惊喜都是身边人的赐予", "mention_spans": [[9, 12, "孩纸们", "B-PER.NOM", "golden_horse"], [19, 21, "邻居", "B-PER.NOM", "golden_horse"], [28, 31, "陌生人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我刚更新了#微博客户端夏日版#，全新推出微博好友列表、手机通讯录找好友、摇一摇互粉、微博表态、兴趣社区等众多功能", "mention_spans": [[22, 24, "好友", "B-PER.NOM", "golden_horse"], [33, 35, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "庆百度书城上线，转发赢豪礼这么好的活动一定要来参加[花心]......地址：http://t.cn/Rvvpbin", "mention_spans": [[1, 3, "百度", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民哈哈美女日记她睁开眼，昨夜的醉意已经褪去", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"], [7, 9, "美女", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "周六来给子阳庆生，届时直播子阳吃蛇肉", "mention_spans": [[4, 6, "子阳", "B-PER.NAM", "golden_horse"], [13, 15, "子阳", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "埃蒙斯，加油", "mention_spans": [[0, 3, "埃蒙斯", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "【男子让狗吃掉自己生殖器因巫医称此举可致富】据英国《每日邮报》3月31日报道，巫医告诉马拉维男子查曼基尼·祖鲁（ChamangeniZ1u1l1u1），失去某个身体器官可令其致富", "mention_spans": [[1, 3, "男子", "B-PER.NOM", "golden_horse"], [13, 15, "巫医", "B-PER.NOM", "golden_horse"], [23, 25, "英国", "B-GPE.NAM", "golden_horse"], [26, 30, "每日邮报", "B-ORG.NAM", "golden_horse"], [39, 41, "巫医", "B-PER.NOM", "golden_horse"], [43, 46, "马拉维", "B-GPE.NAM", "golden_horse"], [46, 48, "男子", "B-PER.NOM", "golden_horse"], [48, 55, "查曼基尼·祖鲁", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "祖鲁裸体进入丛林接受鬣狗袭击，被吃掉三个脚趾和生殖器", "mention_spans": [[0, 2, "祖鲁", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "祖鲁目前正在马拉维边境附近的赞比亚Chadiza医院中接受治疗", "mention_spans": [[0, 2, "祖鲁", "B-PER.NAM", "golden_horse"], [6, 9, "马拉维", "B-GPE.NAM", "golden_horse"], [14, 17, "赞比亚", "B-GPE.NAM", "golden_horse"], [24, 26, "医院", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民经典爱情日记每天分享懒人私房菜，轻松学习做饭技巧，尝遍各种美食", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "为了去晓庄看炸桥喂也为了方便明天上课，今晚就暂住在小姨家啦，我弟给我讲各种历史的故事和典故，小小年纪懂的好多，给个赞爱你", "mention_spans": [[3, 5, "晓庄", "B-LOC.NAM", "golden_horse"], [25, 28, "小姨家", "B-LOC.NOM", "golden_horse"], [30, 32, "我弟", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "雯子小菇凉长肉的猪猪咸蛋超人笑一笑苦逼青年杨素晗梦中星语改个掉名字累的一笔是不是想到我了呢", "mention_spans": [[0, 2, "雯子", "B-PER.NAM", "golden_horse"], [2, 5, "小菇凉", "B-PER.NOM", "golden_horse"], [8, 14, "猪猪咸蛋超人", "B-PER.NAM", "golden_horse"], [17, 21, "苦逼青年", "B-PER.NOM", "golden_horse"], [21, 24, "杨素晗", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "推特上看的，统计数据：从2000年至今，刘翔共参与48次国际跨栏比赛，获得冠军36次，亚军6次，季军3次，因伤退出两次", "mention_spans": [[20, 22, "刘翔", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "但是某些人就只听说过雅典、北京、伦敦的这三次", "mention_spans": [[10, 12, "雅典", "B-GPE.NAM", "golden_horse"], [13, 15, "北京", "B-GPE.NAM", "golden_horse"], [16, 18, "伦敦", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "男人知道你爱他就不会开口说爱你了，因为他处于上风；男人只有自信心不够的时候，才会对女人说“我爱你”", "mention_spans": [[0, 2, "男人", "B-PER.NOM", "golden_horse"], [25, 27, "男人", "B-PER.NOM", "golden_horse"], [41, 43, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "想把一个男人留在身边，就要让他知道，你随时可以离开他", "mention_spans": [[4, 6, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "一个人自以为刻骨铭心的回忆，别人早已已经忘记了；唯一可以强横地霸占一个男人的回忆的，就是活得更好", "mention_spans": [[35, 37, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "亚马逊官方微信包裹跟踪服务上线我用心转微博，期待好运", "mention_spans": [[0, 3, "亚马逊", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "【苏州：欢乐闹元宵】2月12日消息，丘综改定销房小区和泰家园内一片欢快热闹的景象", "mention_spans": [[1, 3, "苏州", "B-GPE.NAM", "golden_horse"], [18, 20, "丘综", "B-GPE.NAM", "golden_horse"], [24, 26, "小区", "B-LOC.NOM", "golden_horse"], [26, 30, "和泰家园", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "即将到来的马年元宵节是虎丘综改工程涉迁居民入住和泰家园后的首个元宵节，让入住新家园的居民过上一个喜庆祥和的传统佳节，社区特意邀请了已经入住的居民和尚在外面过渡即将入住的居民欢聚一堂，老少同乐闹元宵", "mention_spans": [[23, 27, "和泰家园", "B-LOC.NAM", "golden_horse"], [38, 41, "新家园", "B-LOC.NOM", "golden_horse"], [70, 72, "居民", "B-PER.NOM", "golden_horse"], [84, 86, "居民", "B-PER.NOM", "golden_horse"], [91, 92, "老", "B-PER.NOM", "golden_horse"], [92, 93, "少", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "自己的亲人也有这样被帮助的经历我只是觉得这些常见的新闻从来没怎么在新闻中出现反而是一些偶然出现的恶劣事件被媒体各种渲染，说实话这是我瞧不起媒体的原因——BY鸡蛋炒饭-R", "mention_spans": [[3, 5, "亲人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "感恩大回馈，孟小帅沈阳店专属活动http://t.cn/Rhnxj3A", "mention_spans": [[6, 12, "孟小帅沈阳店", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民我也要吃斤刚刚好呢肉包纸", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "这货竟然是肉包纸太萌了吧伦家都不舍得吃啦喜欢吃，就关注吃货都在这里勾搭吧", "mention_spans": [[27, 29, "吃货", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "国安老球迷辣笔小辛令人尊敬的老先生，同时，同意右侧观点", "mention_spans": [[0, 2, "国安", "B-ORG.NAM", "golden_horse"], [2, 5, "老球迷", "B-PER.NOM", "golden_horse"], [5, 9, "辣笔小辛", "B-PER.NAM", "golden_horse"], [14, 17, "老先生", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "北晚小赢家这是真球迷，不是那些喜欢搞狭隘的地方主义，所谓的死忠们", "mention_spans": [[8, 10, "球迷", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "对，输给一个女人，的成绩", "mention_spans": [[6, 8, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我第一反应竟然是强烈的想回家泪想我们一起在嘉鱼个时候了", "mention_spans": [[21, 23, "嘉鱼", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "有好多好多的话想对你说李巾凡想要瘦瘦瘦成李帆我是想切开云朵的心", "mention_spans": [[11, 14, "李巾凡", "B-PER.NAM", "golden_horse"], [20, 22, "李帆", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "三十年前，老爹带我来这里开会，今天打了个颠倒", "mention_spans": [[5, 7, "老爹", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "人生如戏，导演是自己蜡烛", "mention_spans": [[5, 7, "导演", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "最热时尚榜女人不坏，男人不爱，一个男女必看的微博花心", "mention_spans": [[5, 7, "女人", "B-PER.NOM", "golden_horse"], [10, 12, "男人", "B-PER.NOM", "golden_horse"], [17, 18, "男", "B-PER.NOM", "golden_horse"], [18, 19, "女", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我参与了南都深圳读本发起的投票涨薪最慢十大行业，有你吗", "mention_spans": [[4, 6, "南都", "B-GPE.NAM", "golden_horse"], [6, 8, "深圳", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "一切表明素质，道德决定一切央视新闻海豚走了海豚送医后，由于呛水严重于昨晚点死亡", "mention_spans": [[13, 17, "央视新闻", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "曾若彤璐骑单车的少年要考驾照驰鸣天下苦逼青年杨素晗不屑与你装霄", "mention_spans": [[0, 3, "曾若彤", "B-PER.NAM", "golden_horse"], [18, 22, "苦逼青年", "B-PER.NOM", "golden_horse"], [22, 25, "杨素晗", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "程仁田达晨创投汗戴湧哈哈", "mention_spans": [[0, 3, "程仁田", "B-PER.NAM", "golden_horse"], [3, 6, "达晨创", "B-PER.NAM", "golden_horse"], [7, 10, "汗戴湧", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "倩萍小姐胡小亭转闲置还有天就开奖啦小亭会专程去深圳为你们寄奖品大家加油转发哦", "mention_spans": [[0, 2, "倩萍", "B-PER.NAM", "golden_horse"], [2, 4, "小姐", "B-PER.NOM", "golden_horse"], [4, 7, "胡小亭", "B-PER.NAM", "golden_horse"], [17, 19, "小亭", "B-PER.NAM", "golden_horse"], [23, 25, "深圳", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "美得呀〜顾天池苦逼青年杨素晗旻日记肖立伟嘻嘻嘻嘻嘻嘻美啊", "mention_spans": [[4, 7, "顾天池", "B-PER.NAM", "golden_horse"], [7, 11, "苦逼青年", "B-PER.NOM", "golden_horse"], [11, 14, "杨素晗", "B-PER.NAM", "golden_horse"], [17, 20, "肖立伟", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "乘机撇下熊孩子们出去玩哈哈哈哈哈哈赞啊赞啊凡先生今天，和为了给哥哥们加油去了伦敦", "mention_spans": [[31, 34, "哥哥们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "左右拿什么拯救你我的右脑京大蠢左右还真是平衡啊米曹米羔九九号大展见卧槽郁川月百年夜行重置子宫野霜曜一帆开门我来送水了有妹子了不起啊冯基杂碎跪下左右右脑都快开发完了左脑还没开始实", "mention_spans": [[59, 61, "妹子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "那什么拯救你，大宝冒小疯瑞舍去老师羊羊思绪跑了调咩咩咩噗", "mention_spans": [[15, 17, "老师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "＝真的是妹子进汉子出", "mention_spans": [[4, 6, "妹子", "B-PER.NOM", "golden_horse"], [7, 9, "汉子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "滴滴溜儿溜小连韩非子小海快看快看魅色妹子进，汉子归", "mention_spans": [[7, 10, "韩非子", "B-PER.NAM", "golden_horse"], [18, 20, "妹子", "B-PER.NOM", "golden_horse"], [22, 24, "汉子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "欧美时尚热门榜心谢耳朵", "mention_spans": [[0, 1, "欧", "B-GPE.NAM", "golden_horse"], [1, 2, "美", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民流哈子了", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "看完了，心真的疼斯罗布莱特泪伤不起人与动物以及动物之间的情真意切，悲伤于永久的分离天上人间", "mention_spans": [[8, 13, "斯罗布莱特", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我就是激动雯子小菇凉至于嘛，不久赞了你一下嘛转发苦逼青年杨素晗回复雯子小菇凉主要你夸我我太激动了爱你爱你爱你雯子小菇凉回复苦逼青年杨素晗骗你干吗，真心电到了，越来越有范了，以后跟领导你混了阴险", "mention_spans": [[5, 10, "雯子小菇凉", "B-PER.NAM", "golden_horse"], [24, 28, "苦逼青年", "B-PER.NOM", "golden_horse"], [28, 31, "杨素晗", "B-PER.NAM", "golden_horse"], [33, 35, "雯子", "B-PER.NAM", "golden_horse"], [35, 38, "小菇凉", "B-PER.NOM", "golden_horse"], [54, 56, "雯子", "B-PER.NAM", "golden_horse"], [56, 59, "小菇凉", "B-PER.NOM", "golden_horse"], [61, 63, "苦逼", "B-PER.NOM", "golden_horse"], [63, 65, "青年", "B-PER.NOM", "golden_horse"], [65, 68, "杨素晗", "B-PER.NAM", "golden_horse"], [89, 91, "领导", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "华克山庄免税店年末感恩转发微博赢取圣诞好礼笑哈哈朋友不必很多，知心就好；牵挂不必很多，动情就好；地址：", "mention_spans": [[0, 4, "华克山庄", "B-LOC.NAM", "golden_horse"], [4, 7, "免税店", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "新浪微博客户端版全新发布你有多久没旅行了", "mention_spans": [[0, 2, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "网友问怀孕两个月可不可以玩手机", "mention_spans": [[0, 2, "网友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "一次别玩太久，注意休息来自热门应用妈妈问答，详细内容", "mention_spans": [[17, 19, "妈妈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "看见前女友和她的新欢走在一起的时候，已经无处可躲了，只好硬着头皮上去打招呼哎呀，好久不见，你儿子都这么高了", "mention_spans": [[2, 5, "前女友", "B-PER.NOM", "golden_horse"], [8, 10, "新欢", "B-PER.NOM", "golden_horse"], [46, 48, "儿子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "亲们，该结婚的都滚去结婚了噢耶啦啦啦啦周康康康康要幺女", "mention_spans": [[19, 24, "周康康康康", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "哪里的死畜牲大便君人越来越冷漠大家都有老的一天是有因果轮回的宋灵姣夹夹夹生是天生畜生怒天气热了怎么办", "mention_spans": [[30, 33, "宋灵姣", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "小小丸子童鞋转发微博", "mention_spans": [[0, 4, "小小丸子", "B-PER.NAM", "golden_horse"], [4, 6, "童鞋", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "来学校的第一件事就是吃喝赌只能暗叹堕落啊", "mention_spans": [[1, 3, "学校", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "发表了博文：踏青偶记踏青偶记闷闷不乐，便开车奔老远的那座山去，求散散心，呼吸点儿新鲜空气", "mention_spans": [[26, 29, "那座山", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "新版微博客户端，好听，好看，更好玩自定义个人封面；音、视频直接播放；好友圈好友消息不错过；支持屏蔽广告微博；广场音乐、电影、美食等频道升级", "mention_spans": [[34, 36, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "对科鲁兹说：万能微博元团购百万助购金活动，参与转发活动就可赢取万元助购传播奖，还有万元助购大奖我的朋友们快来参加吧", "mention_spans": [[1, 4, "科鲁兹", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我正在申请微博达人，微博达人不仅拥有专属的身份标识，炫酷的微博达人勋章，还可以结识更多跟你有共同兴趣爱好的朋友，获得更多粉丝，拥有更多知己，更可优先享受新浪微博各种线上线下达人活动带来的生活便利和优惠", "mention_spans": [[53, 55, "朋友", "B-PER.NOM", "golden_horse"], [60, 62, "粉丝", "B-PER.NOM", "golden_horse"], [76, 78, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "于丹经典语录：你是我的单项选择，其他的都是错误答案", "mention_spans": [[0, 2, "于丹", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "麻烦各位同学好友投上你神圣的一票：嘻嘻微博投票：第三届文明班级英语，我爱你", "mention_spans": [[4, 6, "同学", "B-PER.NOM", "golden_horse"], [6, 8, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我运动我美丽女人节，我想对你说京东晒·幸福关注广禾堂月子餐官方微博，玩游戏位准妈咪好友，赢免费游台湾我信赖的食品品牌我最喜爱的京东商城品牌春天来了淘宝女装海量新品，你最爱什么风格", "mention_spans": [[6, 8, "女人", "B-PER.NOM", "golden_horse"], [38, 41, "准妈咪", "B-PER.NOM", "golden_horse"], [41, 43, "好友", "B-PER.NOM", "golden_horse"], [63, 67, "京东商城", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "汗会不会跟内购一样上不去回头再来个已售罄黑线流浪艺术家明天会不会冷场啊，全世界都在观望刘强东搬个板凳坐在国美、苏宁店里，享受着空调暖气，走走路锻炼身体还可以赚钱退休后干什么", "mention_spans": [[43, 46, "刘强东", "B-PER.NAM", "golden_horse"], [52, 54, "国美", "B-ORG.NAM", "golden_horse"], [55, 57, "苏宁", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "到京东做价格情报员", "mention_spans": [[1, 3, "京东", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "从化资讯网注意", "mention_spans": [[0, 5, "从化资讯网", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "怒我妈感冒的时候经常吃宁财神凉茶，我", "mention_spans": [[2, 3, "妈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "花心花心花心其实是个爱疯的妞宝宝要仔细开启学霸模式还是易昭蹲坑宋宋宋开启放假模式美人鱼宋院长开启学霸模式一起来玩捉迷藏吧小伙伴们有木有兴趣来嗨皮一下哈哈哈哈哈哈", "mention_spans": [[13, 16, "妞宝宝", "B-PER.NAM", "golden_horse"], [21, 23, "学霸", "B-PER.NOM", "golden_horse"], [27, 29, "易昭", "B-PER.NAM", "golden_horse"], [43, 46, "宋院长", "B-PER.NAM", "golden_horse"], [48, 50, "学霸", "B-PER.NOM", "golden_horse"], [60, 64, "小伙伴们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "想在老家让厨艺好的姑妈开家私房菜馆，接待来荔波旅游的游客，让他们尝到当地的美食，但是不知道会不会有生意，来荔波旅游的盆友们怎么样", "mention_spans": [[9, 11, "姑妈", "B-PER.NOM", "golden_horse"], [21, 23, "荔波", "B-GPE.NAM", "golden_horse"], [53, 55, "荔波", "B-GPE.NAM", "golden_horse"], [58, 61, "盆友们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "育儿小贴士腹泻的孩子要吃些什么呢", "mention_spans": [[8, 10, "孩子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "继续喂养，母乳喂养儿继续喂母乳喂养，母乳不会加重腹泻", "mention_spans": [[5, 10, "母乳喂养儿", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "非母乳喂养儿喂米汤、面汤、稀释奶等", "mention_spans": [[0, 6, "非母乳喂养儿", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "未成年者禁止进入不是我们减不了肥，而是敌人太过强大", "mention_spans": [[0, 4, "未成年者", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "新浪微博四周年丫头哒哒你非带我认识新浪微博，夏至不再来你帮我弄好的新浪微博，徐爱强你是我最早认识的微友哈哈哈哈我在", "mention_spans": [[0, 2, "新浪", "B-ORG.NAM", "golden_horse"], [7, 9, "丫头", "B-PER.NOM", "golden_horse"], [17, 19, "新浪", "B-ORG.NAM", "golden_horse"], [33, 35, "新浪", "B-ORG.NAM", "golden_horse"], [38, 41, "徐爱强", "B-PER.NAM", "golden_horse"], [49, 51, "微友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "丫头哒哒哈哈，吃货就是你拉哈哈哈哈", "mention_spans": [[0, 2, "丫头", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我参与了华广汽车学院团学实践部发起的投票•第六届汽车文化节之车王争霸赛，我投给了酱油王这个选项", "mention_spans": [[4, 15, "华广汽车学院团学实践部", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "不是像，而是就是陵猫猫哈哈蔷薇女主播陵猫猫这么像你呢，哈哈", "mention_spans": [[15, 18, "女主播", "B-PER.NOM", "golden_horse"], [18, 21, "陵猫猫", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "特百惠山楂小姐相亲记很棒的活动，奖品我很喜欢，感谢小编为粉丝们争取这么好的活动，期待可以收获一份惊喜地址：", "mention_spans": [[5, 7, "小姐", "B-PER.NOM", "golden_horse"], [25, 27, "小编", "B-PER.NOM", "golden_horse"], [28, 31, "粉丝们", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "祝粉丝多多，人气旺旺，我顺便也沾沾你的喜气", "mention_spans": [[1, 3, "粉丝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我参与了美薇婷的投票大家认为生男孩好还是女孩好，我投给了女孩，你也快来表态吧", "mention_spans": [[15, 17, "男孩", "B-PER.NOM", "golden_horse"], [20, 22, "女孩", "B-PER.NOM", "golden_horse"], [28, 30, "女孩", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "成人礼成人礼", "mention_spans": [[0, 2, "成人", "B-PER.NOM", "golden_horse"], [3, 5, "成人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "大师兄〜〜〜〜璐温人意", "mention_spans": [[0, 3, "大师兄", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "月号，上午杭州走起", "mention_spans": [[5, 7, "杭州", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "和我弟玩这个玩得不亦乐乎，孩纸们还知道这是啥么", "mention_spans": [[1, 3, "我弟", "B-PER.NOM", "golden_horse"], [13, 16, "孩纸们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我早就知道了包嘉俊周苏飘在水里的蛋炒饭那一抹容颜的老去", "mention_spans": [[6, 9, "包嘉俊", "B-PER.NAM", "golden_horse"], [9, 12, "周苏飘", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "诗焱被骗了", "mention_spans": [[0, 2, "诗焱", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "昆凌和锦荣在一起无语了", "mention_spans": [[0, 2, "昆凌", "B-PER.NAM", "golden_horse"], [3, 5, "锦荣", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民什么意思啊", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "对南海杨知明说：补充上问：最多可减免班主任工作年限年我的理解：副高评审班主任年限为年，信息技术等学科可减免，但最起码有年班主任是不是这样的意思", "mention_spans": [[1, 3, "南海", "B-GPE.NAM", "golden_horse"], [3, 6, "杨知明", "B-PER.NAM", "golden_horse"], [18, 21, "班主任", "B-PER.NOM", "golden_horse"], [35, 38, "班主任", "B-PER.NOM", "golden_horse"], [60, 63, "班主任", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我懂你的心泪曾若彤苦逼青年杨素晗知道没", "mention_spans": [[6, 9, "曾若彤", "B-PER.NAM", "golden_horse"], [9, 13, "苦逼青年", "B-PER.NOM", "golden_horse"], [13, 16, "杨素晗", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "分享歌曲，萧亚轩类似爱情我在这里", "mention_spans": [[5, 8, "萧亚轩", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "哈哈，，，，这张我老妈看了，都无语了丫头哒哒夏至不再来我的犬马你的淡饭我在", "mention_spans": [[9, 11, "老妈", "B-PER.NOM", "golden_horse"], [18, 20, "丫头", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "温人意今天就深有体会好吗毛先森家的江小姐", "mention_spans": [[12, 15, "毛先森", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我的朋友们你们快点老去吧，我想看看你们的孩子", "mention_spans": [[2, 5, "朋友们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "滨江森林公园之花朵篇单反没电，用拍的，没想到效果出奇好鼓掌我在", "mention_spans": [[0, 6, "滨江森林公园", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "在山路之上，有一汽车驶近，路过寺庙门旁，见一小和尚高举回头是岸横幅，大喊：施主看这里车内一年轻人隔窗笑骂：傻逼瞬间飞驰转弯而去", "mention_spans": [[15, 17, "寺庙", "B-LOC.NOM", "golden_horse"], [22, 25, "小和尚", "B-PER.NOM", "golden_horse"], [37, 39, "施主", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "当晚，禅房内，小和尚对住持说：师父，是不是还是直接写前方桥梁已断好一些", "mention_spans": [[7, 10, "小和尚", "B-PER.NOM", "golden_horse"], [11, 13, "住持", "B-PER.NOM", "golden_horse"], [15, 17, "师父", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "成都电信到底有没的时间观念哦，一托再托，日妈我们时间就不是时间哇，等了你两天啥子速度", "mention_spans": [[0, 2, "成都", "B-GPE.NAM", "golden_horse"], [2, 4, "电信", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "成都电信智慧生活", "mention_spans": [[0, 2, "成都", "B-GPE.NAM", "golden_horse"], [2, 4, "电信", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "小编辛苦了，好活动，我来参加了，期待中奖我们相信的爱情游手好闲拼搏的幸福", "mention_spans": [[0, 2, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "是妇女的转宇宙花应俏妞泰雅小馨", "mention_spans": [[1, 3, "妇女", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "假行僧老巩站台有风险，辟谣需谨慎退休的方进玉哈哈说了多少次，官府辟谣要慎重，有人就是不听", "mention_spans": [[19, 22, "方进玉", "B-PER.NAM", "golden_horse"], [30, 32, "官府", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "我已成为微博准会员，刚刚获得了准会员专属勋章，八种特权免费享开通会员，更多特权，等你体验", "mention_spans": [[6, 9, "准会员", "B-PER.NOM", "golden_horse"], [15, 18, "准会员", "B-PER.NOM", "golden_horse"], [32, 34, "会员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "对，自豪感是没有错，然而一个过于主观的想法是没有多大意义的，可是，要搞清楚，这种隆重所衬托出的繁华的背后是怎样的情景，一个国家以民为本，那么誰可以告诉我，还有什么可以比人民的利益更重要的", "mention_spans": [[61, 63, "国家", "B-GPE.NOM", "golden_horse"], [64, 65, "民", "B-PER.NOM", "golden_horse"], [84, 86, "人民", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民每天懂点风水学手机充电的时候千万不要接打电话会爆炸的关爱自己，关爱家人转敬请关注安卓精选", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"], [38, 40, "家人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "美丽俊逸的阿拉伯马美国的阿拉伯马分享自土豆网科技", "mention_spans": [[5, 8, "阿拉伯", "B-GPE.NAM", "golden_horse"], [9, 11, "美国", "B-GPE.NAM", "golden_horse"], [12, 16, "阿拉伯马", "B-GPE.NAM", "golden_horse"], [19, 22, "土豆网", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "周末在闽江旁发现一不明生物", "mention_spans": [[3, 5, "闽江", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "点解可以咁得意林小柑最愛", "mention_spans": [[7, 10, "林小柑", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我也觉得只有你，会想我花心花心花心花心小的妈咪无时无刻都在想你爱你爱你爱你暗英小英转发微博", "mention_spans": [[21, 23, "妈咪", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "老太太说：当你不去旅行，不去冒险，不去谈一场恋爱，不去尝试没试过的生活，只是每天挂着，刷着微博，逛着淘宝，干着我岁都能做的事情你要青春有毛线用", "mention_spans": [[0, 3, "老太太", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "能遇见就很幸福，段林希你要始终相信你就是最棒的，记得答应过自己的事情，我知道你知道自己最想要的是什么，我们和你一起加油", "mention_spans": [[8, 11, "段林希", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "路飞耳可木木三林大小姐的零食罐", "mention_spans": [[0, 2, "路飞", "B-PER.NAM", "golden_horse"], [9, 11, "小姐", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "帮朋友接新娘刚回来，回家第一件事红包全部上交，这一点我表示很满意，做得不错爱你我在", "mention_spans": [[1, 3, "朋友", "B-PER.NOM", "golden_horse"], [4, 6, "新娘", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "女人最美的时候之一：拿着手机看信息不知不觉笑了的时候", "mention_spans": [[0, 2, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "精选星爷经典作品精彩混剪威武", "mention_spans": [[2, 4, "星爷", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "花开半夏看了很心疼，能不能不要这么虐心啊泪泪泪，真的很好看，期待如画和如风在一起林申我在", "mention_spans": [[32, 34, "如画", "B-PER.NAM", "golden_horse"], [35, 37, "如风", "B-PER.NAM", "golden_horse"], [40, 42, "林申", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "您的好友为您推荐一款流量管理的软件：流量咔咔", "mention_spans": [[2, 4, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "祝协会各位姐妹有各样的红哈", "mention_spans": [[5, 7, "姐妹", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我好像经常就是这样，明明不想让妈妈生气，却又烦她的唠叨做鬼脸", "mention_spans": [[15, 17, "妈妈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "女人一定要对自己好一点", "mention_spans": [[0, 2, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "一旦累死了，就别的女人花你的钱，住你的房，睡你的老公，还打你的孩子", "mention_spans": [[9, 11, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "酷酷傲娇的喵小咪支持下，帮的转发啤酒酱核桃小姐讷讷大龄非文艺女青年之邵小敏金牛寵愛摩羯我不是杨天宁难道你是", "mention_spans": [[21, 23, "小姐", "B-PER.NOM", "golden_horse"], [30, 33, "女青年", "B-PER.NOM", "golden_horse"], [34, 37, "邵小敏", "B-PER.NAM", "golden_horse"], [46, 49, "杨天宁", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "普通青年，文艺青年，二逼青年，你是哪一种", "mention_spans": [[0, 4, "普通青年", "B-PER.NOM", "golden_horse"], [5, 9, "文艺青年", "B-PER.NOM", "golden_horse"], [10, 14, "二逼青年", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "经鉴定，青梅枯萎竹马老去我依然有你你是卖萌青年，不只是我这么说，系统可都认证了的哦你们身边是不是也潜伏着各种二逼苦逼青年呢", "mention_spans": [[19, 23, "卖萌青年", "B-PER.NOM", "golden_horse"], [54, 60, "二逼苦逼青年", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "今儿成人礼了骑单车的少年要考驾照璐", "mention_spans": [[2, 4, "成人", "B-PER.NOM", "golden_horse"], [10, 12, "少年", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "老爸找到我扔的小鱼缸对我说：你不养小鱼了", "mention_spans": [[0, 2, "老爸", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我说：不养了老爸说：那留的吧、我养个小王八哈哈哈哈带着微博去旅行笑死我了", "mention_spans": [[6, 8, "老爸", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民哈哈哈哈笑死了以后我们监考也这样吧超级实用小百科老师您这是要赶尽杀绝吗", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"], [29, 31, "老师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "不转会很难过得意谢谢谢谢谢谢谢谢雪莹笑哈哈追美剧学英语本世纪最让人纠结的纹身他不纹，那么小的点会被人笑吧", "mention_spans": [[16, 18, "雪莹", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民一句脑残签名当马里奥大叔得了极品装备之后", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"], [12, 15, "马里奥", "B-PER.NAM", "golden_horse"], [15, 17, "大叔", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "微博有奖活动中心请活动官方解释沟通一下是不是存在什么误会请诚心对待支持你们的网友期待回复", "mention_spans": [[38, 40, "网友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "这样的女人少之又少", "mention_spans": [[3, 5, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "今天是感恩节，想了想，我要感恩的人是如此的多，用夸张的手法说多到只要在我生命中出现过的都是感谢父母养育了我，感谢老师教育了我，感谢闺蜜陪伴了我感谢对我好的人，也同样感谢伤害过我的人，让我变的更加坚强千千万万句感谢，送给可爱的你们爱你我在", "mention_spans": [[47, 49, "父母", "B-PER.NOM", "golden_horse"], [56, 58, "老师", "B-PER.NOM", "golden_horse"], [65, 67, "闺蜜", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "小圆子蓓蓓飛飛飛飛飛飛菲圆咕隆咚赵小姐同策何萍王麦宝心存善焉支持我支持雅漾，请到正大雅漾专柜体验雅雅带给您的从健康到美丽心", "mention_spans": [[16, 19, "赵小姐", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "有点能理解当年小平的决策了", "mention_spans": [[7, 9, "小平", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "中午金钱豹自助，服务、菜品都越来越差了", "mention_spans": [[2, 5, "金钱豹", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "新的感悟，加油赞给你的公益之路爱你爱你爱你赞心月亮琪琪贝一", "mention_spans": [[25, 27, "琪琪", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "他剪个头从头到尾都没说过一句话，我要是理发师绝对瞎乱剪", "mention_spans": [[19, 22, "理发师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "希望他早日开通新浪微博，趁现在肚子还能摸的动", "mention_spans": [[7, 9, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "啦啦啦，哈哈阿里山休园，上不了", "mention_spans": [[6, 11, "阿里山休园", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "冰激凌好像浦东大的路都毁了", "mention_spans": [[5, 7, "浦东", "B-GPE.NAM", "golden_horse"], [7, 10, "大的路", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "窝窝名品汇臭美妞の福利专场绚丽登场我来捧场", "mention_spans": [[5, 8, "臭美妞", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民一日一囧可好玩了哈哈哈哈", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "越来越没有过年的气氛，特别看见那些卖不出去的烟花爆竹，我就脚得有股淡淡的忧伤〜，虽然昨天群发了微信祝大家新年快乐，这里和我家胖胖再次煽情的祝福下〜今年收到的最有创意祝福是，有人祝我早生贵女，我勒个去", "mention_spans": [[62, 64, "胖胖", "B-PER.NAM", "golden_horse"], [93, 94, "女", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "幸好我们一家人都不在绵阳噢", "mention_spans": [[10, 12, "绵阳", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "数学老师这么多作业请问你是疯了吗抓狂抓狂抓狂抓狂抓狂", "mention_spans": [[0, 4, "数学老师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "这个世界从此少了个急功近利的贪官，多了个平心静气的画家书法家又何尝不是一件善事呢", "mention_spans": [[14, 16, "贪官", "B-PER.NOM", "golden_horse"], [25, 27, "画家", "B-PER.NOM", "golden_horse"], [27, 30, "书法家", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我在看新闻多名前高官狱中书画作品展出高清：多名前高官狱中书画作品展出来自腾讯新闻客户端", "mention_spans": [[8, 10, "高官", "B-PER.NOM", "golden_horse"], [24, 26, "高官", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "麻痹这才是男盆友肿肿不要让我在等十八年了，你快出现好不好", "mention_spans": [[5, 8, "男盆友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "疯子黄转发微博", "mention_spans": [[0, 3, "疯子黄", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我参与了投票您对铁道部处理温州动车追尾事故处理的满意吗", "mention_spans": [[8, 11, "铁道部", "B-ORG.NAM", "golden_horse"], [13, 15, "温州", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "海飞丝实力宝贝最美最有激情的实力宝贝，果断给她投票希望在中国赛上可以见到她的身影你们都支持哪位宝贝", "mention_spans": [[28, 30, "中国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "偷微薄者死安东尼写给不二的情书我想带着不二，来一场说走就走的旅行", "mention_spans": [[5, 8, "安东尼", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "你猜对了，哥真的回办公室了", "mention_spans": [[5, 6, "哥", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "郁花若没去现场的都遭不住了，现场的你们还活着么李宇春演唱会你豆苗妈哈雷很配春拉哄", "mention_spans": [[0, 3, "郁花若", "B-PER.NAM", "golden_horse"], [23, 26, "李宇春", "B-PER.NAM", "golden_horse"], [33, 35, "哈雷", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我正说今天没啥吐槽点，结果我操的哪个傻货偷老子笔记本还连老子复印资料一起偷妈的有病吧块的笔记本你都看得上你家死了人没钱买纸要撕老子笔记本当纸钱吧妈了个比的", "mention_spans": [[21, 23, "老子", "B-PER.NOM", "golden_horse"], [28, 30, "老子", "B-PER.NOM", "golden_horse"], [63, 65, "老子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "哈哈撒比啊我了个榴莲少女陈伊琼夏邦都好像在你那儿看到过", "mention_spans": [[2, 4, "撒比", "B-PER.NOM", "golden_horse"], [12, 15, "陈伊琼", "B-PER.NAM", "golden_horse"], [15, 17, "夏邦", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "弗里曼高龄啊从肖生克到现在", "mention_spans": [[0, 3, "弗里曼", "B-PER.NAM", "golden_horse"], [7, 10, "肖生克", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我受不了装傻的人，我是狮子座苏歆我受不了我自己，我是双子座我受不了沒有常識的人，我是水瓶座", "mention_spans": [[14, 16, "苏歆", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "定安今天月日天气：大到暴雨，℃℃，东北风级，空气质量：较好分享自微心情", "mention_spans": [[0, 2, "定安", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "罗拉所有机锁：按西门子恢复出厂设置：西门子乱文回中文：西门子软件版本：左键爱立信老机回英语：爱立信新机回英语：按左键右键", "mention_spans": [[0, 2, "罗拉", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "坐公交，车上有一女，上来一男，此男笨手笨脚，将那女的脚踩了一下，女说：有病啊，再踩让你断子绝孙", "mention_spans": [[8, 9, "女", "B-PER.NOM", "golden_horse"], [13, 14, "男", "B-PER.NOM", "golden_horse"], [16, 17, "男", "B-PER.NOM", "golden_horse"], [24, 26, "女的", "B-PER.NOM", "golden_horse"], [32, 33, "女", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "男说：再骂我让你子孙满堂", "mention_spans": [[0, 1, "男", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "王巍这与任志强讲不给穷人盖房子是一个路数吗怒头条新闻转发微博", "mention_spans": [[0, 2, "王巍", "B-PER.NAM", "golden_horse"], [4, 7, "任志强", "B-PER.NAM", "golden_horse"], [10, 12, "穷人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "今天实在有点忙碌哦，一家单位要送个饺子，一个人又做又送的有点团团转啦，送晚了希望见谅哦因为大家的时间段都差不多，所以高峰时期如果能自提的最好来盛世天城自提哦，希望大家的支持和理解啦爱你爱你爱你", "mention_spans": [[12, 14, "单位", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "武汉学院心理咨询中心预祝广播台演出活动圆满成功", "mention_spans": [[0, 10, "武汉学院心理咨询中心", "B-ORG.NAM", "golden_horse"], [12, 15, "广播台", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "世事难料泪司机走好蜡烛宝宝走好蜡烛百度第二司机泪泪泪泪泪泪伤心伤心伤心伤心伤心伤心蜡烛蜡烛蜡烛蜡烛蜡烛蜡烛", "mention_spans": [[5, 7, "司机", "B-PER.NOM", "golden_horse"], [11, 13, "宝宝", "B-PER.NOM", "golden_horse"], [21, 23, "司机", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民送给十二星座的封信扑克牌不为人知的知识", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "删我微博的系统管理员就是整天泡粪池的死猪明天怎么穿人生就像愤怒的小鸟，当你失败的时候总会有几只猪在笑", "mention_spans": [[5, 10, "系统管理员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "来看刚才上线点赞了几张照片，博君随意翻了下，看正数第三张关于这个小孩，发照片的人艾特了一个账号，看了下这个账号就是照片中小孩的吧，再翻一翻，啊哟小孩和以及妞麻有很多合照，也关注了但是没有关注", "mention_spans": [[72, 74, "小孩", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "神秘的汤玉婷邢凯舟依克希尔女性乐园海贼王漫画全集最后给的健康忠告一定要看", "mention_spans": [[3, 6, "汤玉婷", "B-PER.NAM", "golden_horse"], [6, 9, "邢凯舟", "B-PER.NAM", "golden_horse"], [13, 15, "女性", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "唱头发也是那么帅气丶巨能盖如如你是我女神", "mention_spans": [[13, 15, "如如", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "一定要记住了微博搞笑排行榜种可能会致流产，致宝宝变傻的食物", "mention_spans": [[22, 24, "宝宝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "骂死丫寒羽良麻麻排山倒海青崖白鹿君曝光遥遥的异想快来曝光色狼啦啦啦黄小阳必须曝光", "mention_spans": [[3, 6, "寒羽良", "B-PER.NAM", "golden_horse"], [33, 36, "黄小阳", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "世界美景集超喜欢张爱玲的文字爱你", "mention_spans": [[8, 11, "张爱玲", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "有道理一句窝心话男人拖得起，你拖不起", "mention_spans": [[8, 10, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "国家助学金可以做为校长的零花钱什么社会呀", "mention_spans": [[9, 11, "校长", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "都说女人是水做的，看来我真是太缺水啦兰芝水润指数才分，要尽快展开补水行动了，你也来测试一下，你们的分数会比我高吗", "mention_spans": [[2, 4, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我刚更新了微博客户端夏日版，全新推出微博好友列表、手机通讯录找好友、摇一摇互粉、微博表态、兴趣社区等众多功能", "mention_spans": [[20, 22, "好友", "B-PER.NOM", "golden_horse"], [31, 33, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "走你年月日，我高贵的双足首次接触这矜持的大地，当时我在微博船票点，炷香之后，小姐和微博位置小位子也来到了同一个地方，哎呀这些死忠粉真是太烦人小位子，跪下，走你", "mention_spans": [[38, 40, "小姐", "B-PER.NOM", "golden_horse"], [62, 65, "死忠粉", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "所有的约瑟都是伟大的", "mention_spans": [[3, 5, "约瑟", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "找回的新浪密码啦耶∩∩哈哈耶耶", "mention_spans": [[3, 5, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "阿爸欧妈喝早茶肚子已经咕噜咕噜我在这里", "mention_spans": [[0, 2, "阿爸", "B-PER.NOM", "golden_horse"], [2, 4, "欧妈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "祝大卖哦阳光百货阳光西餐厅阿宝他娘管窥蠡测孙", "mention_spans": [[4, 8, "阳光百货", "B-ORG.NAM", "golden_horse"], [8, 13, "阳光西餐厅", "B-ORG.NAM", "golden_horse"], [13, 15, "阿宝", "B-PER.NAM", "golden_horse"], [15, 17, "他娘", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "假如我出现在小学的毕业典礼", "mention_spans": [[6, 8, "小学", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "突然梦醒在初中的三班", "mention_spans": [[5, 7, "初中", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "下午整个大组基本都整合到我所在的办公室，结果就是隔着个挡板坐俩领导谨言慎行", "mention_spans": [[16, 19, "办公室", "B-LOC.NAM", "golden_horse"], [31, 33, "领导", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "许扬医师最近空气污染严重，秋冬润喉茶又大显身手了", "mention_spans": [[0, 2, "许扬", "B-PER.NAM", "golden_horse"], [2, 4, "医师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "美的冰箱苏宁易购国庆狂欢转发赢地址：", "mention_spans": [[4, 8, "苏宁易购", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "不是第一蛮挖鼻屎璐回忆再美也不属于我苦逼青年杨素晗毛先森家的江小姐", "mention_spans": [[18, 22, "苦逼青年", "B-PER.NOM", "golden_horse"], [22, 25, "杨素晗", "B-PER.NAM", "golden_horse"], [25, 28, "毛先森", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "翎墨千里华风一日尽呵呵不不子所以狐狸叔说，对白羊女那么粗糙的生物，表白至少有胜算惨绿王子很苦逼来来来冷水樱不不子洋葱大白羊的妹子们你威武雄壮", "mention_spans": [[16, 19, "狐狸叔", "B-PER.NAM", "golden_horse"], [22, 25, "白羊女", "B-PER.NOM", "golden_horse"], [42, 44, "王子", "B-PER.NOM", "golden_horse"], [62, 65, "妹子们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "女人啊大概也只有在挑衣服的时候意志力比较顽强不合心意不罢休噢格子大人是格格巫宝贝儿你歇会儿再找我就先睡了下班", "mention_spans": [[0, 2, "女人", "B-PER.NOM", "golden_horse"], [35, 38, "格格巫", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "此萌男身高，体重", "mention_spans": [[1, 3, "萌男", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "西南广厦设计师，射手座♐", "mention_spans": [[0, 4, "西南广厦", "B-ORG.NAM", "golden_horse"], [4, 7, "设计师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "喜欢萌妹纸，那种大眼睛，皮肤白，会油画，可以萌软可以汉纸", "mention_spans": [[2, 5, "萌妹纸", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "儿子迫不及待一大早到达实验幼儿园，见到圣诞老人，好开心哟，我们也跟着受到感染", "mention_spans": [[0, 2, "儿子", "B-PER.NOM", "golden_horse"], [13, 16, "幼儿园", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "妈妈们节日快乐丫曾若彤爱你爱你爱你", "mention_spans": [[0, 3, "妈妈们", "B-PER.NOM", "golden_horse"], [8, 11, "曾若彤", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "抽到吧吴小公民的微博鼓掌鼓掌", "mention_spans": [[3, 5, "吴小", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "国资小新央企自主研发高科技产品，在抗震救灾中发挥独特作用", "mention_spans": [[4, 6, "央企", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "女人好似鸡蛋，外面很硬，里面很清纯，内心很黄男人好似芒果，外面很黄，里面更黄", "mention_spans": [[0, 2, "女人", "B-PER.NOM", "golden_horse"], [22, 24, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "今天才与妈妈分别，觉得很失落", "mention_spans": [[4, 6, "妈妈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "失望失望敏敏大侠女郎慢慢地，你开始长大，每一次挥手作别，都将我们与父母之间的距离拉远", "mention_spans": [[4, 6, "敏敏", "B-PER.NAM", "golden_horse"], [6, 8, "大侠", "B-PER.NOM", "golden_horse"], [8, 10, "女郎", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "终于知道什么叫做万绿丛中一点红了挖鼻屎挖鼻屎挖鼻屎风景好美鼓掌鼓掌鼓掌还有那一对对拍婚纱照的准新人鼓掌鼓掌鼓掌鼓掌", "mention_spans": [[46, 49, "准新人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "她和现任男友交往时，她会吃醋", "mention_spans": [[2, 4, "现任", "B-PER.NOM", "golden_horse"], [4, 6, "男友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "可是，当她看到前男友为他女朋友写个签时，她也会心痛", "mention_spans": [[7, 10, "前男友", "B-PER.NOM", "golden_horse"], [12, 15, "女朋友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "看到暗恋自己很久的男生已有了女朋友时，她会心酸", "mention_spans": [[9, 11, "男生", "B-PER.NOM", "golden_horse"], [14, 17, "女朋友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "赶紧回来把，妹子，这有人很想你～进退皆是冷敷衍急寻", "mention_spans": [[6, 8, "妹子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "资金流向截止年月日，黔源电力收于元，流入资金万，流出资金万，净流入万，其中主力净流入为万", "mention_spans": [[10, 14, "黔源电力", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "我也觉得雷明挖鼻屎我也觉得不公平", "mention_spans": [[4, 6, "雷明", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民流哈喇子了", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "新浪微博客户端全新升级信息流图片加载速度提升；发布器支持多张图片一键分享；新增、浪小花表情", "mention_spans": [[0, 2, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民哈哈美女日记她睁开眼，昨夜的醉意已经褪去", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"], [7, 9, "美女", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "张歆艺太难啦泪泪泪哈哈哈哈", "mention_spans": [[0, 3, "张歆艺", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "只有亲身经历的人才能够体会时尚女性没有什么能够真正感同身受", "mention_spans": [[15, 17, "女性", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "走你年月日，我有了第一条微博足迹，当时我在微博船票点，炷香之后，微博位置小位子也来到了同一个地方，这就是猿粪啊，宝尼你说呢", "mention_spans": [[56, 58, "宝尼", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "裸婚时代刘易阳说：细节打败爱情原来是真的，今天我的爱情也被现实生活所打败，而且伤得很彻底思考", "mention_spans": [[4, 7, "刘易阳", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我刚更新了微博客户端冬季版信息流全面支持赞；新增精彩密友功能，支持发布密友微博、查看密友圈、添加密友；优化发布器，支持显示当前帐号昵称；支持手势返回前页", "mention_spans": [[26, 28, "密友", "B-PER.NOM", "golden_horse"], [35, 37, "密友", "B-PER.NOM", "golden_horse"], [42, 44, "密友", "B-PER.NOM", "golden_horse"], [48, 50, "密友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "今天，阳历农历，我们家的小公主出生了，斤，多么的可爱啊，小姑爱死你了亲亲亲亲我在", "mention_spans": [[12, 15, "小公主", "B-PER.NOM", "golden_horse"], [28, 30, "小姑", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "联通沃门户携手乐影网双重回馈您影票、手机感恩大礼支持一下感觉挺不错的地址：", "mention_spans": [[0, 5, "联通沃门户", "B-ORG.NAM", "golden_horse"], [7, 10, "乐影网", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "明天据说有«消失的子弹»媒体场也是娜娜拍狗头真的是昭君有没人要来看啊围观", "mention_spans": [[25, 27, "昭君", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "回复雅痞迷彩人偷笑读书的时候，只要用这种全套的蓝黑红，我怀念一下当初的感觉害羞雅痞迷彩人范老师批作业咯", "mention_spans": [[44, 47, "范老师", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "对美英说：哦", "mention_spans": [[1, 3, "美英", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "谭莉的方向，从到米阿谭不温油我在", "mention_spans": [[0, 2, "谭莉", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民好恐怖啊啊啊啊啊啊", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "晋祠很值得一来，现在才明白真正的风水宝地啊", "mention_spans": [[0, 2, "晋祠", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民好恐怖啊啊啊啊啊啊我们去办护照吧", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "今天我弟也不知道什么情况，居然怎么认真，都不知道我在偷拍、、不好意思我在", "mention_spans": [[2, 4, "我弟", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "今天比赛上场特紧张，这个第五名就像砸我头上的，嘿嘿，比赛前厚着脸皮拉着顾老师合了好几张嘿嘿嘿嘿驰鸣天下顾天池", "mention_spans": [[35, 38, "顾老师", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "在本条微博下留言的粉丝，你们都能收到新浪微博发出的大红包哦", "mention_spans": [[18, 20, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "冯景瑞这个确实牛逼呀这是俄罗斯的战术专业毕业的张珂铭是火狼帮帮主李园园是小帅哥李思佚心有所属任俊霖吴待桥到底是哪一座桥利村丶超超外号小纯洁强烈要求我校加开这门课程", "mention_spans": [[0, 3, "冯景瑞", "B-PER.NAM", "golden_horse"], [12, 15, "俄罗斯", "B-GPE.NAM", "golden_horse"], [23, 26, "张珂铭", "B-PER.NAM", "golden_horse"], [30, 32, "帮主", "B-PER.NOM", "golden_horse"], [32, 35, "李园园", "B-PER.NAM", "golden_horse"], [36, 39, "小帅哥", "B-PER.NOM", "golden_horse"], [39, 42, "李思佚", "B-PER.NAM", "golden_horse"], [46, 49, "任俊霖", "B-PER.NAM", "golden_horse"], [49, 52, "吴待桥", "B-PER.NAM", "golden_horse"], [62, 64, "超超", "B-PER.NAM", "golden_horse"], [66, 69, "小纯洁", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民哈哈哈哈全球最热门视频转发微博", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "东莞广播电视台想领煮饭神器回家的童鞋，转起吧笑哈哈", "mention_spans": [[0, 2, "东莞", "B-GPE.NAM", "golden_horse"], [2, 7, "广播电视台", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "呃···在广西先·挖鼻屎", "mention_spans": [[5, 7, "广西", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "新浪微博客户端升级了信息流图片加载速度提升；发布器支持多张图片一键分享；新增、浪小花表情", "mention_spans": [[0, 2, "新浪", "B-ORG.NAM", "golden_horse"], [36, 38, "新增", "B-PER.NAM", "golden_horse"], [39, 42, "浪小花", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "致我的大学时光", "mention_spans": [[3, 5, "大学", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "十二星座喝高了后白羊奔向目标猎物借酒调情、金牛胡乱高歌、双子发酒疯乱咬人、巨蟹边哭边骂、狮子变成大八婆、处女躲进厕所人间蒸发、天秤话多露本性、天蝎吐真言、射手唠叨争吵没完没了、魔羯借酒壮胆划拳助兴、水瓶不付帐走人、双鱼倒头大睡", "mention_spans": [[49, 51, "八婆", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "听电影新片榜衣帽间定制姑娘们住么", "mention_spans": [[11, 14, "姑娘们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "超级笑星当你能转的时候就不要放弃转，活动太过短暂，今天放弃了明天就不一定能参加小编我说得对的话就奖励我吧地址：", "mention_spans": [[39, 41, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "米泉今天月日天气：雾转晴，℃℃，微风≤级，空气质量：一般分享自微心情", "mention_spans": [[0, 2, "米泉", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "明天台风神马的过境应该很刺激吧长这么大要见到台风了，好紧张好怕怕耶王王可暨南学生报广州会停课吗许愿华工记者团摄影部奥特曼五山的孩子们，准备好迎接暴风雨了吗", "mention_spans": [[36, 41, "暨南学生报", "B-ORG.NAM", "golden_horse"], [41, 43, "广州", "B-GPE.NAM", "golden_horse"], [49, 57, "华工记者团摄影部", "B-ORG.NAM", "golden_horse"], [63, 66, "孩子们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "华农微新闻华师头条暨南学生报华工微博协会华工资讯", "mention_spans": [[0, 5, "华农微新闻", "B-ORG.NAM", "golden_horse"], [5, 9, "华师头条", "B-ORG.NAM", "golden_horse"], [9, 14, "暨南学生报", "B-ORG.NAM", "golden_horse"], [14, 20, "华工微博协会", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "陈阿土过岗扎三瓶，大夫不留情", "mention_spans": [[0, 3, "陈阿土", "B-PER.NAM", "golden_horse"], [9, 11, "大夫", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "哇我和韩佳人的穿衣风格相似度竟然是重庆校园跳蚤市场德国迷你宝贝亲子育儿小帖士你们感受一下", "mention_spans": [[3, 6, "韩佳人", "B-PER.NAM", "golden_horse"], [17, 19, "重庆", "B-GPE.NAM", "golden_horse"], [19, 21, "校园", "B-ORG.NOM", "golden_horse"], [21, 25, "跳蚤市场", "B-ORG.NOM", "golden_horse"], [25, 27, "德国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民经典爱情日记每天分享懒人私房菜，轻松学习做饭技巧，尝遍各种美食", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "有梦才有未来王晶老师：年轻的生命总是那样执着的光彩绽放湘潭大学生联盟校傲江湖网刘掌门", "mention_spans": [[6, 8, "王晶", "B-PER.NAM", "golden_horse"], [8, 10, "老师", "B-PER.NOM", "golden_horse"], [27, 34, "湘潭大学生联盟", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "庙里面住的还舒服吧，祝早日荣升方丈大湿", "mention_spans": [[15, 17, "方丈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "新浪微博客户端全新升级信息流图片加载速度提升；发布器支持多张图片一键分享；新增、浪小花表情", "mention_spans": [[0, 2, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "雯子小菇凉长肉的猪猪咸蛋超人笑一笑苦逼青年杨素晗梦中星语改个掉名字累的一笔是不是想到我了呢", "mention_spans": [[0, 2, "雯子", "B-PER.NAM", "golden_horse"], [2, 5, "小菇凉", "B-PER.NOM", "golden_horse"], [8, 14, "猪猪咸蛋超人", "B-PER.NAM", "golden_horse"], [17, 21, "苦逼青年", "B-PER.NOM", "golden_horse"], [21, 24, "杨素晗", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "韩流台韩国行李敏镐欧巴，这是你追漂亮的惯用伎俩吗", "mention_spans": [[3, 5, "韩国", "B-GPE.NAM", "golden_horse"], [6, 9, "李敏镐", "B-PER.NAM", "golden_horse"], [9, 11, "欧巴", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "全部都好开心哈哈哈小玲心你地全部都要开开心心希望姐姐每日都开开心心贼迷张治成舒华姐姐清老头子", "mention_spans": [[9, 11, "小玲", "B-PER.NAM", "golden_horse"], [24, 26, "姐姐", "B-PER.NOM", "golden_horse"], [35, 38, "张治成", "B-PER.NAM", "golden_horse"], [38, 40, "舒华", "B-PER.NAM", "golden_horse"], [40, 42, "姐姐", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "对于春节，有过好多想法，比如去一直想去没去的城市，比如到他家给他个惊喜，比如就呆在出租屋里买一大堆吃的闭门半个月，，结果还是决定回家，虽然我都不知道我住哪，但我会回去，若不回，更可怜", "mention_spans": [[41, 44, "出租屋", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "阳光又想起当年那个学姐告诉我们的一句话生活其实很可爱，你要做的就是好好去爱它", "mention_spans": [[9, 11, "学姐", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "懒美人日记轻松熊小煎饼，学习啦", "mention_spans": [[0, 3, "懒美人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "和大小姐跳舞那位是新男主么", "mention_spans": [[1, 4, "大小姐", "B-PER.NOM", "golden_horse"], [9, 12, "新男主", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "三姓不是家奴任志强赵晓此时无声胜有声", "mention_spans": [[6, 9, "任志强", "B-PER.NAM", "golden_horse"], [9, 11, "赵晓", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "下次要早点休息哦～维尼～晚安", "mention_spans": [[9, 11, "维尼", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "撞色衣领内里设计，让你的青春更飞扬，独特的字立领设计，更显男人硬朗气质", "mention_spans": [[29, 31, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民哈哈哈啊哈哈哈笑话伤不起吃惊", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "谁知道在那里有几个是真正的台湾商户和台湾美食", "mention_spans": [[13, 15, "台湾", "B-GPE.NAM", "golden_horse"], [18, 20, "台湾", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "赵子龙足球京剧与伟州相声不出我所料，好东西到中国就完蛋简单幸福的滕桓八爷乱弹七世", "mention_spans": [[0, 3, "赵子龙", "B-PER.NAM", "golden_horse"], [8, 10, "伟州", "B-GPE.NAM", "golden_horse"], [22, 24, "中国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "琴是你吗我们爱讲冷笑话都说上海男人是好男人，我信了", "mention_spans": [[0, 1, "琴", "B-PER.NAM", "golden_horse"], [13, 15, "上海", "B-GPE.NAM", "golden_horse"], [15, 17, "男人", "B-PER.NOM", "golden_horse"], [19, 21, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "支持同同刘同，我发现我就缺少这样的精神泪泪", "mention_spans": [[4, 6, "刘同", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "干蛋的没有杂工了，我们自己就得当杂工了泪泪", "mention_spans": [[5, 7, "杂工", "B-PER.NOM", "golden_horse"], [16, 18, "杂工", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "笑哈哈大力支持来了，希望好运，希望我能够等到博主的青睐，能够得到这份礼物，我会感恩滴", "mention_spans": [[22, 24, "博主", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "排解心灵寂寞的方法、找点事做当你全神贯注于自己最喜爱的事情时，就不会再叹惜寂寞无奈；、找个朋友将你的喜恶，感情与他们分享；、回归自然走进大自然，驱走所有闷气；、工作适量；、血脉相投父母双亲、兄弟姐妹是你最好的倾诉对象；、助人为乐；、活力之泉运动", "mention_spans": [[45, 47, "朋友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "天气不美丽，只能在宿舍待着了，郁闷～我在", "mention_spans": [[9, 11, "宿舍", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "慕仪九：一本书一句话一段情节操碎一地的辩论赛啊哈哈", "mention_spans": [[0, 3, "慕仪九", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "丫头哒哒夢想家林志穎歲的", "mention_spans": [[7, 10, "林志穎", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "曾经有过一项有趣的实验，在不良少年的食物里面增加钙质，可以减少他们的攻击性和破坏性，因此可见钙具有安定情绪的作用，缓和燥热脾气不好均有效果", "mention_spans": [[13, 17, "不良少年", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "在新婚之夜他看着自己美丽的新娘，他抱她在怀亲吻她每寸肌肤，她觉得自己是最幸福的女人，他贴在她耳边轻声耳语：三年过去了，你还是这么完美", "mention_spans": [[39, 41, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "妹子买果汁的时候特地去超市买了电子称说要及时给我反馈", "mention_spans": [[0, 2, "妹子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "信琦哥得苗条吧", "mention_spans": [[0, 3, "信琦哥", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "雪瑞儿君笑哈哈余哈哈哈，最近被窝君对我纠缠不清让我难舍难分", "mention_spans": [[0, 2, "雪瑞", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "已进入休克状态泪泪泪泪泪泪粉红色蝴蝶节嘉欣就系嘉欣", "mention_spans": [[19, 21, "嘉欣", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "突然看了以前中学贴吧，看了些帖子，好怀念啊啊晚安明天睡醒的时候能回到上中学的某个早晨，走进班级发现自己喜欢的女生还在", "mention_spans": [[35, 37, "中学", "B-ORG.NOM", "golden_horse"], [54, 56, "女生", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "丫头哒哒亲爱的，我中于找到妙处了这几个家具只用了一个小时不到夏至不再来哈哈哈哈，姐妹我聪明吧鼓掌鼓掌", "mention_spans": [[0, 2, "丫头", "B-PER.NOM", "golden_horse"], [4, 7, "亲爱的", "B-PER.NOM", "golden_horse"], [40, 42, "姐妹", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "陈芭芭她爹爹其可夫李毅吧滚出贴吧不发表意见，大家看看其可夫，帮忙转一下，很客观", "mention_spans": [[0, 3, "陈芭芭", "B-PER.NAM", "golden_horse"], [9, 11, "李毅", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "喜欢中国好声音里张赫宣以及卓义峰演唱的无言，很偏爱这种声音沙哑的演绎", "mention_spans": [[2, 4, "中国", "B-GPE.NAM", "golden_horse"], [8, 11, "张赫宣", "B-PER.NAM", "golden_horse"], [13, 16, "卓义峰", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "午盘播报新黄浦最新价：，，资金流向净流量：万元；开盘：，，最高：，最低：，成交：手万元，换手率：", "mention_spans": [[5, 7, "黄浦", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "这个圈子的男生娘炮透了好嘛", "mention_spans": [[5, 7, "男生", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "你们这样的男生这里稀缺好嘛", "mention_spans": [[5, 7, "男生", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "蔡老蛋露露爱跳舞晰拼命的王王王先生王小贱王毛毛", "mention_spans": [[0, 3, "蔡老蛋", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "弱女孩送孕妇被杀续：孕妇每天被围观遭医生辱骂分享自今日头条", "mention_spans": [[1, 3, "女孩", "B-PER.NOM", "golden_horse"], [4, 6, "孕妇", "B-PER.NOM", "golden_horse"], [10, 12, "孕妇", "B-PER.NOM", "golden_horse"], [18, 20, "医生", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "霄贤不屑与你装苦逼青年杨素晗", "mention_spans": [[0, 2, "霄贤", "B-PER.NAM", "golden_horse"], [7, 11, "苦逼青年", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "打算去店里找舟哥，刚坐上车就有些后悔了，还是难受，车里不透气，恶心，想吐", "mention_spans": [[6, 8, "舟哥", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "土豪朋友去海南还不忘记捎上点特产寄给兄弟我��，何德何能非常感谢，兄弟我会好好享用的～哈哈哈", "mention_spans": [[2, 4, "朋友", "B-PER.NOM", "golden_horse"], [5, 7, "海南", "B-GPE.NAM", "golden_horse"], [18, 20, "兄弟", "B-PER.NOM", "golden_horse"], [33, 35, "兄弟", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "给女孩的一段话爱自己，爱森活森活小物", "mention_spans": [[1, 3, "女孩", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "号，因为是我妹生日", "mention_spans": [[5, 7, "我妹", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "新浪微博客户端全新升级信息流图片加载速度提升；发布器支持多张图片一键分享；新增、浪小花表情", "mention_spans": [[0, 2, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "感谢兔兔，感谢圆圆，感谢佳佳", "mention_spans": [[2, 4, "兔兔", "B-PER.NAM", "golden_horse"], [7, 9, "圆圆", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "美得不得了功夫胖胖小阿布这儿有鼓风亲眼见证三，这么多细节呢，真是去晚了，和前两次不同的喜欢，八角号流程卡，我会留好功夫胖胖小阿布月婚礼滴大片紫玉山庄梦幻水岸忙碌了两个月，一切都好完美好值得这儿有鼓风张拓赵赵的花圃移动美术馆", "mention_spans": [[70, 74, "紫玉山庄", "B-LOC.NAM", "golden_horse"], [74, 78, "梦幻水岸", "B-LOC.NAM", "golden_horse"], [99, 101, "张拓", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "两个男人追一个女人，用情浅的那个先放弃两个女人追一个男人，用情深的那个先放弃", "mention_spans": [[2, 4, "男人", "B-PER.NOM", "golden_horse"], [7, 9, "女人", "B-PER.NOM", "golden_horse"], [21, 23, "女人", "B-PER.NOM", "golden_horse"], [26, 28, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民这是个°的坡吗", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "时尚奇趣馆转发微博", "mention_spans": [[0, 5, "时尚奇趣馆", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "三俩好友，有几个珍惜的人，平时绊绊嘴，最后还在一起疯闹，这就是我要的生活但是很怕陪我到最后的不是你们", "mention_spans": [[2, 4, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "＂基于兴趣上的创造不能被忽略＂，孩子的勇气令大人们汗颜洪晃转发微博", "mention_spans": [[16, 18, "孩子", "B-PER.NOM", "golden_horse"], [22, 25, "大人们", "B-PER.NOM", "golden_horse"], [27, 29, "洪晃", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民我要把你的头像设置成这个哈哈哈哈", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "天哪，点之前，我马上就睡实用心理学天啊，整过容的女人老了脸会塌成那样的太可怕了衰童鞋们顺便预测下，韩国整容会塌么", "mention_spans": [[24, 26, "女人", "B-PER.NOM", "golden_horse"], [40, 43, "童鞋们", "B-PER.NOM", "golden_horse"], [49, 51, "韩国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "对，输给一个女人，的成绩", "mention_spans": [[6, 8, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "百变人气偶像孙坚首张EP《公主驾到》第二波深情主打《你若安好便是晴天》正式发布", "mention_spans": [[6, 8, "孙坚", "B-PER.NAM", "golden_horse"], [13, 15, "公主", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "这首歌曲与孙坚的第一首主打《公主驾到》清新朗朗上口的曲风大为不同", "mention_spans": [[5, 7, "孙坚", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "他可以是在酷暑里给你清凉的冰淇淋男孩，也可以是在深夜寂静的夜里用歌声带给你里给你慰藉的王子", "mention_spans": [[16, 18, "男孩", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#寻找金秀贤#好运降临啊.~~!!!地址：http://t.cn/8snnlE3", "mention_spans": [[3, 6, "金秀贤", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "新浪微博客户端升级了信息流图片加载速度提升；发布器支持多张图片一键分享；新增、浪小花表情", "mention_spans": [[0, 2, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "观看视频，了解更多我在全新微博客户端，我为雅安祈福", "mention_spans": [[21, 23, "雅安", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "乌克兰当地小镇的爱之隧道，一到春天两旁的树木一片葱绿，架起了一座绿色的“拱桥”", "mention_spans": [[0, 3, "乌克兰", "B-GPE.NAM", "golden_horse"], [36, 38, "拱桥", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "最好的朋友之间，除非他穷的吃不了饭了，否则最好不要有经济往来", "mention_spans": [[3, 5, "朋友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "说家里的长辈在韩国去世了", "mention_spans": [[4, 6, "长辈", "B-PER.NOM", "golden_horse"], [7, 9, "韩国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "爷爷祝您一路走好", "mention_spans": [[0, 2, "爷爷", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "悲伤悲伤悲伤还有姥姥也在韩国这次一定要想办法把姥姥从韩国接回来", "mention_spans": [[8, 10, "姥姥", "B-PER.NOM", "golden_horse"], [12, 14, "韩国", "B-GPE.NAM", "golden_horse"], [23, 25, "姥姥", "B-PER.NOM", "golden_horse"], [26, 28, "韩国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "有木有觉得在微博上不敢吐槽工作，不能宣泄情感，就连关心朋友都力不从心，本以为通过微博连接了世界，没想到却与最亲密的人愈发疏远如果你真的关心我，就加我为密友", "mention_spans": [[27, 29, "朋友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我正在使用由新浪微博官方推出的密友手机客户端，赶快来一起玩吧", "mention_spans": [[6, 8, "新浪", "B-ORG.NAM", "golden_horse"], [15, 17, "密友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我也好想来分析一下：看微博是更新的，解解是转发的，所以说按照正常的流程，二哥应该先是看的，但是截图显示是先看解解转发周觅渊博但二哥木有关注周觅啊的那条，这说明什么", "mention_spans": [[36, 38, "二哥", "B-PER.NOM", "golden_horse"], [54, 56, "解解", "B-PER.NAM", "golden_horse"], [58, 60, "周觅", "B-PER.NAM", "golden_horse"], [63, 65, "二哥", "B-PER.NOM", "golden_horse"], [69, 71, "周觅", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "挖鼻屎挖鼻屎挖鼻屎你们看懂了么宋茜汗汗汗", "mention_spans": [[15, 17, "宋茜", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "额滴神呐......明天要把这些从深圳搬回杭州，累死我吧[泪]", "mention_spans": [[17, 19, "深圳", "B-GPE.NAM", "golden_horse"], [21, 23, "杭州", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "北京，就快暂时说再见了", "mention_spans": [[0, 2, "北京", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "#搜房会员独享优惠#感谢岁月让一只友谊的船，让我们找到了落帆的愿望，感谢小编微博的活动，让我找到了互动交友的家园；[给力]地址：http://t.cn/8kUaqGk", "mention_spans": [[3, 5, "会员", "B-PER.NOM", "golden_horse"], [54, 56, "家园", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "#京东厨卫节#买烟机灶具绝对的选择老板电器(来自http://t.cn/8FdFy2D)", "mention_spans": [[1, 3, "京东", "B-ORG.NAM", "golden_horse"], [17, 21, "老板电器", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "都躲郊区来了你们还追来", "mention_spans": [[2, 4, "郊区", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "泪泪泪泪我在鑫江希尔顿逸林酒店", "mention_spans": [[6, 8, "鑫江", "B-GPE.NAM", "golden_horse"], [8, 11, "希尔顿", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "哪个男生，我骑车去把他腿撞断", "mention_spans": [[2, 4, "男生", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "这次考试最大的意外是碰到了以前学校教我们的老师，他先认出我的，15年没见过了，好开心", "mention_spans": [[15, 17, "学校", "B-ORG.NOM", "golden_horse"], [21, 23, "老师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "记得他是大学毕业到我们学校任课的，很帅，有才气，在学校的活动中，弹吉他唱，北方的狼，迷倒一大片女生，只是一年后，他读研离开了", "mention_spans": [[4, 6, "大学", "B-ORG.NOM", "golden_horse"], [11, 13, "学校", "B-ORG.NOM", "golden_horse"], [25, 27, "学校", "B-ORG.NOM", "golden_horse"], [47, 49, "女生", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "如今他的依然有成熟男人的风采", "mention_spans": [[7, 11, "成熟男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "哈哈哈哈哈哈镰刀刮腋毛哈哈哈哈哈哈我的朋友是个呆哈哈哈哈哈哈哈哈哈哈哈哈哈十万个冷笑话官网你这个不孝子哈哈哈哈哈萬萬哈哈哈哈哈哈哈杰克波比哈哈哈哈哈狼心狗肺猪肾哈哈哈哈哈哈哈胡唠哈哈哈哈哈哈哈哈哈柯震倲哈哈哈哈哈哈哈", "mention_spans": [[19, 21, "朋友", "B-PER.NOM", "golden_horse"], [48, 51, "不孝子", "B-PER.NOM", "golden_horse"], [98, 101, "柯震倲", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "看见前女友和她的新欢走在一起的时候，已经无处可躲了，只好硬着头皮上去打招呼哎呀，好久不见，你儿子都这么高了", "mention_spans": [[2, 5, "前女友", "B-PER.NOM", "golden_horse"], [8, 10, "新欢", "B-PER.NOM", "golden_horse"], [46, 48, "儿子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "睡觉我在青岛鑫江希尔顿逸林酒店", "mention_spans": [[4, 6, "青岛", "B-GPE.NAM", "golden_horse"], [6, 8, "鑫江", "B-GPE.NAM", "golden_horse"], [8, 11, "希尔顿", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "#2013厦门购物节#祝小编天天开心，也祝贵博粉丝多到爆，越来越红火，感谢小编不断将惊喜带给大家，虔诚许愿，期待一份美好，希望微博人气越来越高", "mention_spans": [[5, 7, "厦门", "B-GPE.NAM", "golden_horse"], [12, 14, "小编", "B-PER.NOM", "golden_horse"], [23, 25, "粉丝", "B-PER.NOM", "golden_horse"], [37, 39, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#落跑甜心单寒飞##陈翔##问妈妈好吗#一直觉得，陈翔活得像一幅写意山水画，从第一次在舞台上看到花瓣洒落，他静默独立的站在舞台上开始", "mention_spans": [[10, 12, "陈翔", "B-PER.NAM", "golden_horse"], [15, 17, "妈妈", "B-PER.NOM", "golden_horse"], [25, 27, "陈翔", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "媒体揭秘360产品黑匣子：工蜂般盗取个人隐私信息", "mention_spans": [[4, 9, "360产品", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "哪里的死畜牲大便君人越来越冷漠大家都有老的一天是有因果轮回的宋灵姣夹夹夹生是天生畜生怒天气热了怎么办", "mention_spans": [[30, 33, "宋灵姣", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "小小丸子童鞋转发微博", "mention_spans": [[0, 4, "小小丸子", "B-PER.NAM", "golden_horse"], [4, 6, "童鞋", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "生日粗卡啊蛋糕蛋糕蛋糕坐等更推更博偷笑一颗只为等尼萌萌的心生日快乐大家晚安，晚安，小妹晚安小妹生日快乐", "mention_spans": [[24, 27, "尼萌萌", "B-PER.NAM", "golden_horse"], [41, 43, "小妹", "B-PER.NOM", "golden_horse"], [45, 47, "小妹", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "這樣時尚又帥氣，你們説東哥hold著如何呢", "mention_spans": [[11, 13, "東哥", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我总是在想，我的记忆是不是活在长街的那头，而我的年轮死在长街的这头", "mention_spans": [[15, 17, "长街", "B-LOC.NAM", "golden_horse"], [28, 30, "长街", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "迅雷看看观影团年末送雷鸟手机", "mention_spans": [[0, 2, "迅雷", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "郑多燕减肥舞腹部减肥健身操-视频-在线观看-播客-品善网http://t.cn/zHgkNbH", "mention_spans": [[0, 3, "郑多燕", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "接受中醫藥緣雜誌訪問，帶埋個仔出鏡", "mention_spans": [[2, 8, "中醫藥緣雜誌", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "同志们，去香港读研好不好", "mention_spans": [[5, 7, "香港", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "#影讯排排坐#奉俊昊执导的《雪国列车》今日曝光了首款中文海报和新版中文预告片，展现出强烈的科幻未来感及令人血脉喷张的视觉效果", "mention_spans": [[7, 10, "奉俊昊", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "据悉，影片有望年后引进中国内地", "mention_spans": [[11, 13, "中国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "[花心]宜家的姐妹照越正", "mention_spans": [[7, 9, "姐妹", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我參加了年度藝人大賞票選之，田喜碧，誰是你心目中年度最佳藝人呢", "mention_spans": [[5, 12, "度藝人大賞票選", "B-ORG.NAM", "golden_horse"], [14, 17, "田喜碧", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "快投下你神聖的一票參加票選有機會獲包及入場劵與偶像同歡喔新浪女人新浪台灣娛樂投票網址：", "mention_spans": [[23, 25, "偶像", "B-PER.NOM", "golden_horse"], [28, 30, "新浪", "B-ORG.NAM", "golden_horse"], [30, 32, "女人", "B-PER.NOM", "golden_horse"], [32, 34, "新浪", "B-ORG.NAM", "golden_horse"], [34, 36, "台灣", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "北京太阳宫足球场董育真是的菲菲堂真的可怜", "mention_spans": [[0, 2, "北京", "B-GPE.NAM", "golden_horse"], [2, 8, "太阳宫足球场", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "有个熊孩子拿牙签搓破了眼睛，希望平安无事[蜡烛]", "mention_spans": [[2, 5, "熊孩子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "国安老球迷辣笔小辛令人尊敬的老先生，同时，同意右侧观点", "mention_spans": [[0, 2, "国安", "B-ORG.NAM", "golden_horse"], [2, 5, "老球迷", "B-PER.NOM", "golden_horse"], [5, 9, "辣笔小辛", "B-PER.NAM", "golden_horse"], [14, 17, "老先生", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "北晚小赢家这是真球迷，不是那些喜欢搞狭隘的地方主义，所谓的死忠们", "mention_spans": [[2, 5, "小赢家", "B-PER.NOM", "golden_horse"], [7, 10, "真球迷", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "今晚听到泽哥的声音，感觉回到以前", "mention_spans": [[4, 6, "泽哥", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "【火炉吐鲁番】吐鲁番的别称是火洲（古属交河），因气候炎热而得名", "mention_spans": [[3, 6, "吐鲁番", "B-GPE.NAM", "golden_horse"], [7, 10, "吐鲁番", "B-LOC.NAM", "golden_horse"], [14, 16, "火洲", "B-LOC.NAM", "golden_horse"], [19, 21, "交河", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "唐代边塞诗人岑参诗：“暮投交河城，火山赤崔巍", "mention_spans": [[6, 8, "岑参", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "吐鲁番的夏天是出名的热，8月基本上每天的气温都在42摄氏度以上，火焰山的地面温度可以达到80至90摄氏度，有“沙窝煮鸡蛋”之说", "mention_spans": [[0, 3, "吐鲁番", "B-GPE.NAM", "golden_horse"], [32, 35, "火焰山", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "2】，我投给了\"人鱼陈晓敏\"这个选项", "mention_spans": [[10, 13, "陈晓敏", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "很好至少可以保证偶们可怜的球迷满腔热忱却被泼了一身冷水的情况再次发生", "mention_spans": [[13, 15, "球迷", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "台灣好＂食＂味", "mention_spans": [[0, 2, "台灣", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "紅燒豚筋麵+超大杯多多綠這就是我愛台灣的原因之一", "mention_spans": [[17, 19, "台灣", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "我刚更新了新浪微博正式版客户端，新增五套彩色主题，给你不一样的体验；查看周边微博，随时发现身边的新鲜事；修复版在部分机型上的黑屏问题", "mention_spans": [[5, 7, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "#钟汉良#", "mention_spans": [[1, 4, "钟汉良", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "[good][good][good]意大利斑马与驴发生“爱情”产下“斑驴”……", "mention_spans": [[18, 21, "意大利", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "《美日等国高价进口中国非转基因大豆：既吃又做药》http://t.cn/8kKIZUa", "mention_spans": [[1, 2, "美", "B-GPE.NAM", "golden_horse"], [2, 3, "日", "B-GPE.NAM", "golden_horse"], [9, 11, "中国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "《美女列车长2》画面上相比前作并有很大的改进，在场景方面也要比前作增加许多，从迈阿密海滩到大峡谷，从纽约市道纳什维尔，从阿拉斯加到幽灵鬼怪之地，丰富多样的场景能让人体验到更多的美国本土风情", "mention_spans": [[1, 3, "美女", "B-PER.NOM", "golden_horse"], [39, 44, "迈阿密海滩", "B-GPE.NAM", "golden_horse"], [45, 48, "大峡谷", "B-LOC.NOM", "golden_horse"], [50, 53, "纽约市", "B-GPE.NAM", "golden_horse"], [54, 58, "纳什维尔", "B-GPE.NAM", "golden_horse"], [60, 64, "阿拉斯加", "B-GPE.NAM", "golden_horse"], [65, 71, "幽灵鬼怪之地", "B-LOC.NOM", "golden_horse"], [88, 90, "美国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "陈雨奇葩的世界什么时候都饿的人两位高富帅玩完又来簋街吃饭", "mention_spans": [[0, 2, "陈雨", "B-PER.NAM", "golden_horse"], [17, 20, "高富帅", "B-PER.NOM", "golden_horse"], [24, 26, "簋街", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "不知道這樣做是否值得，但是就是不忍心這樣就離開，我不想用自己的快樂去換取別人的痛苦，女人大概是心軟的，這絕對是真的", "mention_spans": [[42, 44, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "解解声音好甜害羞不过说实话，视频上面解解和周觅牵手的时候，包括唱歌的时候，笑的不是很多啊，而且看解解的手应该能看出这手牵的好尴尬挖鼻屎挖鼻屎挖鼻屎", "mention_spans": [[18, 20, "解解", "B-PER.NAM", "golden_horse"], [21, 23, "周觅", "B-PER.NAM", "golden_horse"], [48, 50, "解解", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "】微博iPhone客户端新版发布，全面支持苹果iOS7系统，完美演绎简约设计风格；优化VoiceOver语音辅助功能，无障碍获取信息", "mention_spans": [[21, 23, "苹果", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "【西藏美景】拿任何一位倾国美女来比羊湖都是失败的，因为它的每一笔线条都太柔美，以至于照片几近于失真", "mention_spans": [[13, 15, "美女", "B-PER.NOM", "golden_horse"], [17, 19, "羊湖", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "我的大姨妈噢，肚子忒痛了[泪流满面][泪流满面][泪流满面]", "mention_spans": [[2, 5, "大姨妈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "第一次认真地看足球赛，终于恒大赢了中国足球雄起赞赞赞太棒了耶耶耶我在", "mention_spans": [[13, 15, "恒大", "B-ORG.NAM", "golden_horse"], [17, 19, "中国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "丽江束河古镇，我住的宾馆", "mention_spans": [[0, 2, "丽江", "B-LOC.NAM", "golden_horse"], [2, 6, "束河古镇", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "领导也是人，也是有私心与一般人的弱点，有感情因素，倘只停留在干活层面不交流，那么领导会觉得既然公事公办，那么公司已经为你的工作成果支付了工资与成本，又何必谈其他的", "mention_spans": [[0, 2, "领导", "B-PER.NOM", "golden_horse"], [40, 42, "领导", "B-PER.NOM", "golden_horse"], [54, 56, "公司", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "很不爽的吻戏啊啊啊啊啊啊啊怒怒泪泪泪男演员ㅠㅠㅠㅠㅠㅠ爪机新壁纸换起来", "mention_spans": [[18, 21, "男演员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "胡劳斯昨儿生日快乐九班孩子是不是格外可爱胡劳斯快来爱九班吧依依", "mention_spans": [[0, 3, "胡劳斯", "B-PER.NAM", "golden_horse"], [9, 11, "九班", "B-ORG.NAM", "golden_horse"], [11, 13, "孩子", "B-PER.NOM", "golden_horse"], [20, 23, "胡劳斯", "B-PER.NAM", "golden_horse"], [26, 28, "九班", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "最适合我的英文名是【amy】，涵义是最心爱的人，可爱的", "mention_spans": [[10, 13, "amy", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "建行，招行温州分行10%的不良贷款差不多算次贷危机了", "mention_spans": [[0, 2, "建行", "B-ORG.NAM", "golden_horse"], [3, 5, "招行", "B-ORG.NAM", "golden_horse"], [5, 7, "温州", "B-GPE.NAM", "golden_horse"], [7, 9, "分行", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "【老北京炸酱面】作为北京最富特色的小吃，跟大家分享作法：1、把老抽和黄酱倒入一个大碗内，然后加入150毫升清水用筷子慢慢调匀；京葱切成碎末备用2、炒锅内倒入比炒菜更多的油烧热，油热后放入京葱末翻炒半分钟后倒入肉末一起翻炒至变色脱生，然后倒入调匀的黄酱用最小火慢慢翻炒78分钟即可", "mention_spans": [[2, 4, "北京", "B-GPE.NAM", "golden_horse"], [10, 12, "北京", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "//动漫时尚街:Q版李润成~~可不可以不要这么帅这么Q#城市猎人#-原文地址：http://t.cn/adQ1S3", "mention_spans": [[2, 7, "动漫时尚街", "B-ORG.NAM", "golden_horse"], [10, 13, "李润成", "B-PER.NAM", "golden_horse"], [30, 32, "猎人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我在台湾人道素菜：黑美人奶茶味道很浓郁蛋挞超好吃已经被窝消灭了http://t.cn/zlt9Tt3", "mention_spans": [[2, 4, "台湾", "B-GPE.NAM", "golden_horse"], [9, 12, "黑美人", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "新浪微博客户端3.5.1全新升级", "mention_spans": [[0, 2, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "我的家长哈尔滨不知道是咋回事，就要不好好修桥，要不修完就塌，要不修一半发现图纸看错了，留一半桥在那儿杵着，等谁跳水去呢", "mention_spans": [[4, 7, "哈尔滨", "B-GPE.NAM", "golden_horse"], [21, 22, "桥", "B-LOC.NOM", "golden_horse"], [46, 47, "桥", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "哈哈哈哈哈哈吃布丁的维尼熊没兴趣，起来，我不厚道的笑了宋晚晚起开哈哈", "mention_spans": [[10, 13, "维尼熊", "B-PER.NAM", "golden_horse"], [27, 30, "宋晚晚", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我现在在努力的拍摄继承者们中～～～，韩国的天气变的很冷中国的怎么样啊", "mention_spans": [[18, 20, "韩国", "B-GPE.NAM", "golden_horse"], [27, 29, "中国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "7月28日，吉林永吉县道口上几节火车货车车厢被洪水冲倒，另有数节车厢被洪水从几百米外的火车站内冲出来的，横在路上", "mention_spans": [[6, 8, "吉林", "B-GPE.NAM", "golden_horse"], [8, 11, "永吉县", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "7月28日凌晨，吉林省永吉县遭遇自有水文气象纪录以来从未遇到过的特大降雨，全县受灾人口约15万人，已发现13具遇难者遗体，另有6人失踪", "mention_spans": [[8, 11, "吉林省", "B-GPE.NAM", "golden_horse"], [11, 14, "永吉县", "B-GPE.NAM", "golden_horse"], [37, 39, "全县", "B-GPE.NOM", "golden_horse"]]}
+{"sentence": "发表了一篇转载博文《[转载]穿梭潼关古城的古与今》-http://t.cn/zQb8WWp", "mention_spans": [[16, 20, "潼关古城", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "我刚更新了微博客户端冬季版信息流全面支持赞；新增精彩密友功能，支持发布密友微博、查看密友圈、添加密友；优化发布器，支持显示当前帐号昵称；支持手势返回前页", "mention_spans": [[42, 44, "密友", "B-PER.NOM", "golden_horse"], [48, 50, "密友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "南越王墓博物馆，不错", "mention_spans": [[0, 7, "南越王墓博物馆", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "咸阳北发往各县区的长途汽车安全带大部分都坏掉了", "mention_spans": [[0, 2, "咸阳", "B-GPE.NAM", "golden_horse"], [6, 8, "县区", "B-GPE.NOM", "golden_horse"]]}
+{"sentence": "【韩寒经典语录】如果现在这个时代能出全才，那便是应试教育的幸运和这个时代的不幸", "mention_spans": [[1, 3, "韩寒", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "酷啊，我明天一定要去小特，我们来啦哈哈丫头哒哒", "mention_spans": [[10, 12, "小特", "B-LOC.NAM", "golden_horse"], [19, 21, "丫头", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【职场菜鸟十大标志】1、只会踏踏实实地做具体的工作；2、不会踏踏实实地工作；、瞧不起上司；4、崇拜上司；5、容易被激发、被感动、被忽悠；6、甘当云梯默默无闻；7、习惯忍让；8、锋芒毕露；9、排斥关系；10、知无不言言无不真", "mention_spans": [[42, 44, "上司", "B-PER.NOM", "golden_horse"], [49, 51, "上司", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#鹏诺心语#", "mention_spans": [[1, 3, "鹏诺", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "“庖丁解牛”这个故事想必大家都不陌生：厨师在分割一头壮牛之前，前期潜心钻研牛体构造，把屠刀在磨刀石上反复打磨锋利，然后深吸一口气，目测下刀的基准尺寸，再用手找准下刀的部位，工作中要想获得高效率，工作前细致周到的准备是必不可少的", "mention_spans": [[19, 21, "厨师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "略微长版的灰色T恤，以可爱的娃娃logo为亮点，搭配上粉红色的蓬蓬薄纱裙，真是甜美到不行，不规则的裙摆随风飘曳，露出的修长小腿在视觉上修长了下半身", "mention_spans": [[11, 14, "可爱的", "B-PER.NOM", "golden_horse"], [14, 16, "娃娃", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "姐是傻、但也没有傻到这份上吧", "mention_spans": [[0, 1, "姐", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "你纯洁你漂亮你资本够大、那也请你搞清楚状况吧、贱人、姐累的、搞出那么多事干嘛", "mention_spans": [[26, 27, "姐", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "不知道姐正在努力学习哦", "mention_spans": [[3, 4, "姐", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "你这种见谁都想艹上一脚的孩子、木有出息啊、姐就不陪你瞎折腾了、不对", "mention_spans": [[12, 14, "孩子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "快乐大本营游韩国的时候", "mention_spans": [[0, 5, "快乐大本营", "B-ORG.NAM", "golden_horse"], [6, 8, "韩国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "那么在你需要帮助的时候，那些正直友善的同事往往可以起到不可低估的作用", "mention_spans": [[14, 21, "正直友善的同事", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "文艺公司员工状态：旅游自拍晒福利；普通公司员工状态：老板请客下午茶；二逼公司员工状态：一脸苦逼在加班", "mention_spans": [[0, 4, "文艺公司", "B-ORG.NOM", "golden_horse"], [4, 6, "员工", "B-PER.NOM", "golden_horse"], [17, 21, "普通公司", "B-ORG.NOM", "golden_horse"], [21, 23, "员工", "B-PER.NOM", "golden_horse"], [26, 28, "老板", "B-PER.NOM", "golden_horse"], [36, 38, "公司", "B-ORG.NOM", "golden_horse"], [38, 40, "员工", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "小胖子你口味好重", "mention_spans": [[0, 3, "小胖子", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "-----因为爱情不是感动，你不是他心目中的理想伴侣，即使一时接受你，将来碰上他心仪的那一位，一样会离开你", "mention_spans": [[22, 26, "理想伴侣", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "一个男人说没有时间，只是对你没有时间而已", "mention_spans": [[2, 4, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "一个男人说不想结婚，只是不想和你结婚而已", "mention_spans": [[2, 4, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "一个男人不是不喜欢谈情说爱，只是因为你不是那个对的人而已", "mention_spans": [[2, 4, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#社会新闻#【重庆8旬老人春节露宿女儿家门外4天3夜】1月26日，幺儿媳按之前签订的协议，将何爷爷送到小女儿家赡养，不料小女却不接纳，无奈老人只好在小女儿家门口楼道上睡了4天3晚", "mention_spans": [[9, 13, "8旬老人", "B-PER.NOM", "golden_horse"], [17, 19, "女儿", "B-PER.NOM", "golden_horse"], [33, 36, "幺儿媳", "B-PER.NOM", "golden_horse"], [46, 49, "何爷爷", "B-PER.NAM", "golden_horse"], [51, 54, "小女儿", "B-PER.NOM", "golden_horse"], [60, 62, "小女", "B-PER.NOM", "golden_horse"], [69, 71, "老人", "B-PER.NOM", "golden_horse"], [74, 77, "小女儿", "B-PER.NOM", "golden_horse"], [77, 82, "家门口楼道", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "令人寒心的是目前几个子女都不愿去接父亲回家", "mention_spans": [[10, 12, "子女", "B-PER.NOM", "golden_horse"], [17, 19, "父亲", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "昨日，浸水社区居委会主任杜长其透露，他们已将老人送往通惠医院安置", "mention_spans": [[3, 7, "浸水社区", "B-ORG.NAM", "golden_horse"], [7, 10, "居委会", "B-ORG.NAM", "golden_horse"], [10, 12, "主任", "B-PER.NOM", "golden_horse"], [12, 15, "杜长其", "B-PER.NAM", "golden_horse"], [22, 24, "老人", "B-PER.NOM", "golden_horse"], [26, 30, "通惠医院", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "【跟孩子聊天也是个技术活（四）】不要“否定”，只要“同理”", "mention_spans": [[2, 4, "孩子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "大人跟孩子聊天，很容易发生的一个状况，就是大人常常喜欢否定孩子的感受", "mention_spans": [[0, 2, "大人", "B-PER.NOM", "golden_horse"], [3, 5, "孩子", "B-PER.NOM", "golden_horse"], [21, 23, "大人", "B-PER.NOM", "golden_horse"], [29, 31, "孩子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "当孩子说“自然课无聊死了”的时候，比较好的方式是回答：“喔，自然课很无聊啊，你可以告诉我是什么让你觉得很无聊吗", "mention_spans": [[1, 3, "孩子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我想说我不是怕累我是真的不习惯，我在三河一中累的跟神经病似的的时候我也能活的好好的可是现在真的很不习惯有一种想快都快不起来的感觉", "mention_spans": [[18, 22, "三河一中", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "自定义个人封面；音、视频直接播放；好友圈—好友消息不错过；支持屏蔽广告微博；广场音乐、电影、美食等频道升级", "mention_spans": [[17, 19, "好友", "B-PER.NOM", "golden_horse"], [21, 23, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【为他人着想激发创造力】美国《个性和社会心理期刊》上的一项新研究显示：当人们为其他人考虑或工作时，会用一种更加抽象、范围更广的方式进行思考，从而开创了新的创意路径", "mention_spans": [[12, 14, "美国", "B-GPE.NAM", "golden_horse"], [15, 24, "个性和社会心理期刊", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "今天我看到有人出售孔雀，还说可以吃，这个做个解释，泸州的警察们可知道", "mention_spans": [[25, 27, "泸州", "B-GPE.NAM", "golden_horse"], [28, 31, "警察们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "发现田馥甄的『还是要幸福』很好听，推荐大家，特别是疲惫的时候，有一股宛如清泉的声音，很赞", "mention_spans": [[2, 5, "田馥甄", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "1545年4月28日，朝鲜将军、民族英雄李舜臣诞生", "mention_spans": [[11, 13, "朝鲜", "B-GPE.NAM", "golden_horse"], [16, 20, "民族英雄", "B-PER.NOM", "golden_horse"], [20, 23, "李舜臣", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "直至在1598年11月19日在露梁海战中壮烈殉国，他都以从不动摇的爱国心和超凡的战略战术以及超越生死的英雄气概，取得了23战全胜的辉煌战果，成功地捍卫了祖国和民族的安全与尊严", "mention_spans": [[15, 17, "露梁", "B-GPE.NAM", "golden_horse"], [76, 78, "祖国", "B-GPE.NOM", "golden_horse"]]}
+{"sentence": "在他死后被授予了“忠武公”的称号", "mention_spans": [[9, 12, "忠武公", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "独孤求败算什么", "mention_spans": [[0, 4, "独孤求败", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "东方不败算什么", "mention_spans": [[0, 4, "东方不败", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "额，浪浪，你太绝了哈哈哈哈丫头哒哒看看你的手机，反正我的是这个", "mention_spans": [[2, 4, "浪浪", "B-PER.NAM", "golden_horse"], [13, 15, "丫头", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我受不了装傻的人，我是狮子座苏歆我受不了我自己，我是双子座我受不了沒有常識的人，我是水瓶座", "mention_spans": [[14, 16, "苏歆", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "#微博桌面#1.3Beta升级了哦~~你现在可以在桌面上加关注、管理粉丝了；且重要信息有气泡提醒，更加醒目；截图功能也全新出场，能涂鸦写字划框框；本期还全面支持微博主站的各种表情，让你尽情表达自己；另外增加了提取对话消息的快捷键；怎么样", "mention_spans": [[34, 36, "粉丝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "5.22到国美购海尔，有补贴才更high!好活动呀，给力的商家，必须支持，希望以后多多办活动跟我们互动哈[花心]..地址：http://t.cn/Rvwo4Yh", "mention_spans": [[5, 7, "国美", "B-ORG.NAM", "golden_horse"], [29, 31, "商家", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "亲爱的，我太喜欢这个了亲亲我能再矫情点不当我看到这个时，我高兴的不知道怎么好了，不知所措啊要不是公共场合，我真想给你一个我的香吻爱你，哈哈嘻嘻嘻嘻丫头哒哒我在", "mention_spans": [[73, 75, "丫头", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【金陵图书馆南京白局宣讲会】http://t.cn/zQqJ7lx我们的南京白局深受小朋友的欢迎哦易学易懂从小做起都来传承我们南京的独特世界非遗吧", "mention_spans": [[1, 3, "金陵", "B-GPE.NAM", "golden_horse"], [3, 6, "图书馆", "B-ORG.NAM", "golden_horse"], [6, 10, "南京白局", "B-GPE.NAM", "golden_horse"], [36, 40, "南京白局", "B-GPE.NAM", "golden_horse"], [42, 45, "小朋友", "B-PER.NOM", "golden_horse"], [63, 65, "南京", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "[灌水表情]——看到薛英杰的博文《挚中必固》有感而发的评论", "mention_spans": [[10, 13, "薛英杰", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我通过360手机卫士举报了11条垃圾短信，获得了\"反垃圾义士LV3\"的头衔~[得瑟]人人为我，我为人人", "mention_spans": [[3, 6, "360", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "只爱原味心心心我是莉莉我爱魏晨呆阿呆是真汉子啊巴扎嘿原味最好吃橘子是橘不是菊薯片擼包包害羞看誰誰都是薯片擼包包我喜歡你這口味宅腐集中营自觉举手", "mention_spans": [[9, 11, "莉莉", "B-PER.NAM", "golden_horse"], [13, 15, "魏晨", "B-PER.NAM", "golden_horse"], [16, 18, "阿呆", "B-PER.NAM", "golden_horse"], [19, 22, "真汉子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "视频科比乔丹经典动作对比谁才是终结者分享自新浪视频", "mention_spans": [[2, 4, "科比", "B-PER.NAM", "golden_horse"], [4, 6, "乔丹", "B-PER.NAM", "golden_horse"], [21, 23, "新浪", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我在你隔壁宿舍哈哈哈，本来想要去探访一下何主席的，没想到何主席不在，老实交代", "mention_spans": [[5, 7, "宿舍", "B-LOC.NOM", "golden_horse"], [28, 31, "何主席", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我们家爱你爱你丫头哒哒夏至不再来谷梦瑶闷死的鱼我在", "mention_spans": [[7, 9, "丫头", "B-PER.NOM", "golden_horse"], [16, 19, "谷梦瑶", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "东西大道被包围了，", "mention_spans": [[0, 4, "东西大道", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "假如我出现在小学的毕业典礼", "mention_spans": [[6, 8, "小学", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "突然梦醒在初中的三班", "mention_spans": [[5, 7, "初中", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "感谢粉丝们的热情参与，今后小E会带给朋友们更有趣、更惊喜的活动哦~[爱你]", "mention_spans": [[2, 5, "粉丝们", "B-PER.NOM", "golden_horse"], [18, 21, "朋友们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "哈哈哈，笑到了赵小晚一定要戳他微博看半天才明白怎么回事哈哈哈哈哈哈哈哈哈", "mention_spans": [[7, 10, "赵小晚", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "——林燕妮《最大诱惑》", "mention_spans": [[2, 5, "林燕妮", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "虽说女孩子爱上一个男孩子的先决条件不见得是金钱，但是男孩子要追到心仪的女孩子难免要花钱，而且是花上不少的钱，如今小学生都喊着做中国的比尔．盖茨，可见金钱的魅力，女孩鬼精似的，看看追她们要多少钱", "mention_spans": [[2, 5, "女孩子", "B-PER.NOM", "golden_horse"], [9, 12, "男孩子", "B-PER.NOM", "golden_horse"], [26, 29, "男孩子", "B-PER.NOM", "golden_horse"], [35, 38, "女孩子", "B-PER.NOM", "golden_horse"], [56, 59, "小学生", "B-PER.NOM", "golden_horse"], [63, 65, "中国", "B-GPE.NAM", "golden_horse"], [66, 71, "比尔．盖茨", "B-PER.NAM", "golden_horse"], [80, 82, "女孩", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "现在的自己还在感冒又想起姥姥做得疙瘩汤妈妈的努力自己的运气有了机会在异国读高中喉咙疼着在家呆着啃着一股子不争气但多想喝一口姥姥做的汤可是能做的还是好好看书吧明天无论如何得去学校啊太阳", "mention_spans": [[12, 14, "姥姥", "B-PER.NOM", "golden_horse"], [19, 21, "妈妈", "B-PER.NOM", "golden_horse"], [34, 36, "异国", "B-GPE.NOM", "golden_horse"], [37, 39, "高中", "B-ORG.NOM", "golden_horse"], [61, 63, "姥姥", "B-PER.NOM", "golden_horse"], [86, 88, "学校", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "让尜彩虹好好给你过生日", "mention_spans": [[1, 4, "尜彩虹", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "小狮子问母狮子：“妈妈，幸福在哪里", "mention_spans": [[9, 11, "妈妈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "哩部老爷机后生唔识玩，只适合老野玩[泪][泪][泪]", "mention_spans": [[14, 16, "老野", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "抽到吧吴小公民的微博鼓掌鼓掌", "mention_spans": [[5, 7, "公民", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "收件人木有拿到东西关我什么事", "mention_spans": [[0, 3, "收件人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "有些人不是离开了就能不爱了，不是不见了就能忘记了，不是放手了就能不痛了，我徹底离开了那个有你在的城市，不再经过那个曾经一起走过的路口，甚至有一段时间徹底断了你的消息，卻在最后的最后，发现自己还是爱…这才明白，原來，爱情不是离得开，就能不爱的", "mention_spans": [[48, 50, "城市", "B-GPE.NOM", "golden_horse"], [64, 66, "路口", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "哎哟我去老干妈哈哈哈哈哈哈泰翻快粗来泪泪泪一又二分之一的夏天百度贴吧尼坤蒋劲夫独家专访一又二分之一的夏天剧组", "mention_spans": [[36, 39, "蒋劲夫", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "只有当你行走在那里，呼吸着牧区的空气，看着那样的天与地，你才会明白牧人的心胸醇厚宽广的道理，才会明白草原白酒的醇美，才能听得懂蒙古人的歌", "mention_spans": [[63, 66, "蒙古人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "宁波海曙苗芳清颜美容工作室回复黎雅思亲，去之前可以预约下呢黎雅思那我已经做到了抱抱宁波海曙苗芳清颜美容工作室回复黎雅思亲，只要转发微博关注我们个好友就可以了", "mention_spans": [[0, 4, "宁波海曙", "B-GPE.NAM", "golden_horse"], [4, 13, "苗芳清颜美容工作室", "B-ORG.NAM", "golden_horse"], [15, 18, "黎雅思", "B-PER.NAM", "golden_horse"], [29, 32, "黎雅思", "B-PER.NAM", "golden_horse"], [41, 45, "宁波海曙", "B-ORG.NAM", "golden_horse"], [45, 54, "苗芳清颜美容工作室", "B-ORG.NAM", "golden_horse"], [56, 59, "黎雅思", "B-PER.NAM", "golden_horse"], [72, 74, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "等有资格结婚了我要嫁给一个很平易近人的男人他没有大大的啤酒肚没有地中海似的大光头没有鸡毛蒜皮都计较的小心眼也没有莫名其妙就爆发的坏脾气他要喜欢运动充满男子气他要喜欢唱歌就算走调让我哭笑不得他要捧着我的脸说娶到你真是我的福气（转）", "mention_spans": [[19, 21, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我刚刚参与了\"建行送金接龙热抢\"活动，一起来排队吧", "mention_spans": [[7, 9, "建行", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "我也觉得雷明挖鼻屎我也觉得不公平", "mention_spans": [[4, 6, "雷明", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "[礼花]【喜-报】：你的帐号己被后台筛选为当日双禮之星的用戶，速登入：【http://t.cn/aOvJiz】査收[礼物]←Uq1", "mention_spans": [[28, 30, "用戶", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#黄埔分享#【商场三流】1、“一流企业家做人不做事，二流企业家做人又做事，三流企业家不做人只做事", "mention_spans": [[1, 3, "黄埔", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "”2、“一流商人是精明加厚道，二流商人是精明加精明，三流商人是厚道加厚道", "mention_spans": [[6, 8, "商人", "B-PER.NOM", "golden_horse"], [17, 19, "商人", "B-PER.NOM", "golden_horse"], [28, 30, "商人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "张馨予推荐减肥美容的柠檬水杯上架拉", "mention_spans": [[0, 3, "张馨予", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "说句实在的：希望我能当你们孩子的干妈", "mention_spans": [[13, 15, "孩子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "室内设计师之路|我们坚持一条不寻常的路，创新环保人性", "mention_spans": [[0, 5, "室内设计师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "_室内设计师之路http://t.cn/zO9c2WT", "mention_spans": [[1, 6, "室内设计师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "yes茶餐厅加V啦转发送iPadmini好想呀，支持", "mention_spans": [[3, 6, "茶餐厅", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "今天，阳历农历，我们家的小公主出生了，斤，多么的可爱啊，小姑爱死你了亲亲亲亲我在", "mention_spans": [[12, 15, "小公主", "B-PER.NOM", "golden_horse"], [28, 30, "小姑", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "在厦门吃港式晚茶", "mention_spans": [[1, 3, "厦门", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "[落叶]电话开通第二张信用卡中，...‘廖先生，您的这两张卡是共享的一个总额度", "mention_spans": [[20, 23, "廖先生", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "’‘也就是说要是我给一张卡女友，她刷了总额度的55%，我就只能刷总额度的45%了", "mention_spans": [[13, 15, "女友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "’‘信用卡仅限本人使用，请勿将卡交给您的家人或朋友", "mention_spans": [[20, 22, "家人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "通过微盘下载了微盘考试资料分享的大学英语六级考前最后二十天冲刺，推荐给大家", "mention_spans": [[16, 18, "大学", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "从来都不是幸运的人，但是我会努力的转发，努力的参加活动，增加幸运的机会，希望天道酬勤，老天爷可以看到我的付出和努力陆陆大顺[ppb欢迎欢迎]地址：http://t.cn/8kWW2pI", "mention_spans": [[43, 46, "老天爷", "B-PER.NOM", "golden_horse"], [57, 59, "陆陆", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "游泳考试终于告于段落✌旱鸭子也有翻身做主人的时候要感谢的人好多好多最开心的是今天在广州小卖部偶遇昌叔居然还记得我真的好感动每每回去培训部总有满满的回忆依然清晰✨", "mention_spans": [[19, 21, "主人", "B-PER.NOM", "golden_horse"], [41, 43, "广州", "B-GPE.NAM", "golden_horse"], [48, 50, "昌叔", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "#2014许冠杰上海演唱会0元抢票活动#[笑哈哈]大力支持来了，希望好运，希望我能够等到博主的青睐，能够得到这份礼物，我会感恩滴", "mention_spans": [[5, 8, "许冠杰", "B-PER.NAM", "golden_horse"], [8, 10, "上海", "B-GPE.NAM", "golden_horse"], [44, 46, "博主", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "老师给我多少分，我祝老师活多少岁", "mention_spans": [[0, 2, "老师", "B-PER.NOM", "golden_horse"], [10, 12, "老师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "危害健康的行为：1.晚上12点后睡觉；2.不吃早餐；3.每天对着电脑10小时以上；4.手机24小时开机；5.吸烟；6.不定期检查身体；7.饮酒过量；8.长时间呆在室内；9.与人无良好沟通；10.缺乏锻炼；11.总是上夜班，日夜颠倒；12.不卸妆睡觉；13.临睡前吃的很饱", "mention_spans": [[81, 83, "室内", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "小李，你说打扫厕所可以净化心灵，你说的这是真的吗", "mention_spans": [[0, 2, "小李", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "人生能有几回这样的冲动、说自己真没用，如果不把握这次机会自我反省，做出改变，这一辈子剩下的日子我不过是躺在坟墓里给自己身上撒土罢了", "mention_spans": [[53, 55, "坟墓", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "詹姆斯11，lbj11黑红，全新原盒国内公司货，码数齐全", "mention_spans": [[0, 3, "詹姆斯", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "他剪个头从头到尾都没说过一句话，我要是理发师绝对瞎乱剪", "mention_spans": [[19, 22, "理发师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "希望他早日开通新浪微博，趁现在肚子还能摸的动", "mention_spans": [[7, 9, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "#酷派K1为快乐而生#好活动实在是很多，导致让我迷失了双眼，今晚的努力，就是为了让我家也能乐一乐~!~!地址：http://t.cn/8sx6u2x", "mention_spans": [[41, 43, "我家", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "北京，就是背景", "mention_spans": [[0, 2, "北京", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "上海，就是商海", "mention_spans": [[0, 2, "上海", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "老公，就是劳工", "mention_spans": [[0, 2, "老公", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "男人，就是难人", "mention_spans": [[0, 2, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "俩个富二代在为晚上的活动找姑娘", "mention_spans": [[2, 5, "富二代", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我这穷人情何以堪", "mention_spans": [[2, 4, "穷人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "陈雨奇葩的世界什么时候都饿的人", "mention_spans": [[0, 2, "陈雨", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我们并不同班，可是她们班的宿舍已经排满了，没地儿了，正好我们寝室还有一个空床位，就这样我们成了室友", "mention_spans": [[13, 15, "宿舍", "B-LOC.NOM", "golden_horse"], [30, 32, "寝室", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "今年终于回家过年了，几年没有见爸爸妈妈了，他们又老了很多呀", "mention_spans": [[15, 19, "爸爸妈妈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "为了去晓庄看炸桥喂也为了方便明天上课，今晚就暂住在小姨家啦，我弟给我讲各种历史的故事和典故，小小年纪懂的好多，给个赞爱你", "mention_spans": [[3, 5, "晓庄", "B-LOC.NAM", "golden_horse"], [25, 27, "小姨", "B-PER.NOM", "golden_horse"], [30, 32, "我弟", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "哥哥你要一辈子幸福···", "mention_spans": [[0, 2, "哥哥", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "关注绿色家园，品冠与E12http://t.cn/8kdKtmn", "mention_spans": [[7, 9, "品冠", "B-PER.NAM", "golden_horse"], [10, 13, "E12", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "女人只要管好自己已经很了不起，干吗要去管男人呢", "mention_spans": [[0, 2, "女人", "B-PER.NOM", "golden_horse"], [20, 22, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "听话的男人不用管，不听话的男人，要管也管不到，对你好的男人不用管，对你不好的男人，不会让你管，爱你的男人不用管，不爱你的，轮不到你管", "mention_spans": [[3, 5, "男人", "B-PER.NOM", "golden_horse"], [13, 15, "男人", "B-PER.NOM", "golden_horse"], [27, 29, "男人", "B-PER.NOM", "golden_horse"], [38, 40, "男人", "B-PER.NOM", "golden_horse"], [50, 52, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我记得我的初恋因为第一次喜欢可惜那个男孩子又是在打赌幼稚的让我变的成熟", "mention_spans": [[5, 7, "初恋", "B-PER.NOM", "golden_horse"], [18, 21, "男孩子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "宁波这意思是爆表了么~完全测不出了...", "mention_spans": [[0, 2, "宁波", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "#赢取价值899元空气净化机，格瑞卫康神秘新品有奖征名#祝愿活动越办越好~~!~!地址：http://t.cn/8s9hxXj", "mention_spans": [[15, 19, "格瑞卫康", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "黑色短裤中和了荧光黄背心的突兀，蕾丝边增添几分女人味", "mention_spans": [[23, 25, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我刚更新了#微博客户端冬季版#，1.信息流新增地点卡片；2.新增喜欢功能，轻松表达你的态度；3.支持显示悄悄关注分组和发给我的定向分组；4.支持屏蔽通知；5.周边的人、周边的微博支持筛选；6.会员还支持微博置顶和更多会员皮肤哦", "mention_spans": [[96, 98, "会员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#寻找最美丰台人#长辛店街道光明里社区居民王宝义，让小小板报成为助人为乐的宣传平台", "mention_spans": [[5, 7, "丰台", "B-GPE.NAM", "golden_horse"], [9, 14, "长辛店街道", "B-LOC.NAM", "golden_horse"], [14, 19, "光明里社区", "B-LOC.NAM", "golden_horse"], [19, 21, "居民", "B-PER.NOM", "golden_horse"], [21, 24, "王宝义", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "板报设在小区门口，挨着早市，人来人往，为了把板报搞得有声有色，他坚持两周出一期，从国家大事、文件精神，街道、社区工作安排、通知及辖区内好人好事，到生活常识，四季养生，每一期很受欢迎", "mention_spans": [[4, 6, "小区", "B-LOC.NOM", "golden_horse"], [51, 53, "街道", "B-LOC.NOM", "golden_horse"], [54, 56, "社区", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "#牛进城了#5.1三天玩转朝阳公园“牛进城了”，赢三元超级礼包", "mention_spans": [[13, 17, "朝阳公园", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "新浪微博四周年丫头哒哒你非带我认识新浪微博，夏至不再来你帮我弄好的新浪微博，徐爱强你是我最早认识的微友哈哈哈哈我在", "mention_spans": [[0, 2, "新浪", "B-ORG.NAM", "golden_horse"], [7, 9, "丫头", "B-PER.NOM", "golden_horse"], [17, 19, "新浪", "B-ORG.NAM", "golden_horse"], [33, 35, "新浪", "B-ORG.NAM", "golden_horse"], [38, 41, "徐爱强", "B-PER.NAM", "golden_horse"], [49, 51, "微友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#与爱奇艺一起庆生#积极的转发评论，帮助小编吸引更多的粉丝，虽然我粉丝不多，但是我也很努力呢地址：http://t.cn/8sTVqDN", "mention_spans": [[2, 5, "爱奇艺", "B-ORG.NAM", "golden_horse"], [20, 22, "小编", "B-PER.NOM", "golden_horse"], [27, 29, "粉丝", "B-PER.NOM", "golden_horse"], [33, 35, "粉丝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "跟我爸并排躺在霞关码头大广场上海风吹的真心冷两屌丝[哈哈][哈哈][哈哈]", "mention_spans": [[1, 3, "我爸", "B-PER.NOM", "golden_horse"], [7, 14, "霞关码头大广场", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "新版微博客户端，好听，好看，更好玩自定义个人封面；音、视频直接播放；好友圈好友消息不错过；支持屏蔽广告微博；广场音乐、电影、美食等频道升级", "mention_spans": [[34, 36, "好友", "B-PER.NOM", "golden_horse"], [37, 39, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【快速切换的多用USB数据线】三个接口也都是电子设备常用的，苹果，安卓，还有个大的，可以彼此之间进行旋转切换到自己所需要的那个，尺寸是5.5英寸，可以方便的夹在自己的包上或者是放在包中，就像一根笔一样", "mention_spans": [[30, 32, "苹果", "B-ORG.NAM", "golden_horse"], [33, 35, "安卓", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "自定义个人封面；音、视频直接播放；好友圈—好友消息不错过；支持屏蔽广告微博；广场音乐、电影、美食等频道升级", "mention_spans": [[17, 19, "好友", "B-PER.NOM", "golden_horse"], [21, 23, "好友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "丫头哒哒亲爱的，我中于找到妙处了这几个家具只用了一个小时不到夏至不再来哈哈哈哈，姐妹我聪明吧鼓掌鼓掌", "mention_spans": [[40, 42, "姐妹", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "高富帅就是不一样", "mention_spans": [[0, 3, "高富帅", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "玩完还要来簋街吃饭", "mention_spans": [[5, 7, "簋街", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "什么时候都饿的人陈雨奇葩的世界你俩事真正的富二代", "mention_spans": [[8, 10, "陈雨", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "准确的找出你为何而高兴，新朋友的聚会邀请函，拥挤地铁上的一个座位，并且对它的来源表示感谢", "mention_spans": [[12, 15, "新朋友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "姐只想默默地点上一根烟", "mention_spans": [[0, 1, "姐", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "好心帮助摔倒老人却被当成肇事者，现在大家还敢做好事吗", "mention_spans": [[6, 8, "老人", "B-PER.NOM", "golden_horse"], [12, 15, "肇事者", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "当有老人摔倒在你面前：1-会扶起老人；2-围观；3-绕道走", "mention_spans": [[2, 4, "老人", "B-PER.NOM", "golden_horse"], [16, 18, "老人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我刚更新了#微博客户端冬季版#1.信息流全面支持赞；2.新增精彩密友功能，支持发布密友微博、查看密友圈、添加密友；3.优化发布器，支持显示当前帐号昵称；4.支持手势返回前页", "mention_spans": [[32, 34, "密友", "B-PER.NOM", "golden_horse"], [41, 43, "密友", "B-PER.NOM", "golden_horse"], [48, 50, "密友", "B-PER.NOM", "golden_horse"], [54, 56, "密友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "新浪微博客户端升级了", "mention_spans": [[0, 2, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "http://t.cn/zTozVas我在全新微博客户端3.5.0，我为雅安祈福", "mention_spans": [[36, 38, "雅安", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "辣妈中的元宝太滑了，相对明道这类型不错，人又帅[太开心][太开心]我在:http://t.cn/z8QOhPK", "mention_spans": [[0, 2, "辣妈", "B-PER.NOM", "golden_horse"], [12, 14, "明道", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我愿化作石桥任五百年风吹五百年日晒五百年雨林只求从石桥上走过", "mention_spans": [[4, 6, "石桥", "B-LOC.NOM", "golden_horse"], [25, 27, "石桥", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "紫程彩妆造型跟妆服务——紫程彩妆培训，长期提供新娘跟妆小秘书，由国家高级资深专业彩妆造型师跟妆，绝对物超所值，包您满意", "mention_spans": [[23, 25, "新娘", "B-PER.NOM", "golden_horse"], [27, 30, "小秘书", "B-PER.NOM", "golden_horse"], [32, 34, "国家", "B-GPE.NOM", "golden_horse"], [42, 45, "造型师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "面对考试月，同学们将要开启怎样的模式", "mention_spans": [[6, 9, "同学们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "老妈生病了[感冒]终于体会到不能离开老妈这一天都没得饭吃[悲伤][熊猫]", "mention_spans": [[0, 2, "老妈", "B-PER.NOM", "golden_horse"], [18, 20, "老妈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "25公斤的女人已经out了", "mention_spans": [[5, 7, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "俄罗斯美女已经瘦到了20公斤，女人伤不起啊", "mention_spans": [[0, 3, "俄罗斯", "B-GPE.NAM", "golden_horse"], [3, 5, "美女", "B-PER.NOM", "golden_horse"], [15, 17, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "「新浪上海」", "mention_spans": [[1, 3, "新浪", "B-ORG.NAM", "golden_horse"], [3, 5, "上海", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "我已成为微博准会员，刚刚获得了【准会员】专属勋章，八种特权免费享", "mention_spans": [[6, 9, "准会员", "B-PER.NOM", "golden_horse"], [16, 19, "准会员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "开通会员http://t.cn/zjcSGi4，更多特权，等你体验", "mention_spans": [[2, 4, "会员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#联想VIBEUI，给你更好的智能手机体验#我是小V，用智慧的小光芒点亮我的生活；我是小V，70台手机我们尽情分享；我是小V，今天我们一起上头条", "mention_spans": [[43, 45, "小V", "B-PER.NAM", "golden_horse"], [60, 62, "小V", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "关注水星家纺官方微博#赢水星宝贝#支持一下感觉挺不错的[花心]......地址：http://t.cn/8sr1Mtj", "mention_spans": [[2, 6, "水星家纺", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "我的阿超先生终于又有动静了只求这次能多几首歌", "mention_spans": [[2, 6, "阿超先生", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "说家里的长辈在韩国去世了", "mention_spans": [[4, 6, "长辈", "B-PER.NOM", "golden_horse"], [7, 9, "韩国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "爷爷祝您一路走好", "mention_spans": [[0, 2, "爷爷", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "悲伤悲伤悲伤还有姥姥也在韩国这次一定要想办法把姥姥从韩国接回来", "mention_spans": [[8, 10, "姥姥", "B-PER.NOM", "golden_horse"], [12, 14, "韩国", "B-GPE.NAM", "golden_horse"], [23, 25, "姥姥", "B-PER.NOM", "golden_horse"], [26, 28, "韩国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "#寻找中国传统美食之旅#感谢小编不断将惊喜带给所有喜欢你的粉丝，祝小编开心每一天", "mention_spans": [[3, 5, "中国", "B-GPE.NAM", "golden_horse"], [14, 16, "小编", "B-PER.NOM", "golden_horse"], [29, 31, "粉丝", "B-PER.NOM", "golden_horse"], [33, 35, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "曾若彤璐骑单车的少年要考驾照驰鸣天下苦逼青年杨素晗不屑与你装霄", "mention_spans": [[0, 3, "曾若彤", "B-PER.NAM", "golden_horse"], [8, 10, "少年", "B-PER.NOM", "golden_horse"], [18, 22, "苦逼青年", "B-PER.NOM", "golden_horse"], [22, 25, "杨素晗", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "有木有觉得在微博上不敢吐槽工作，不能宣泄情感，就连关心朋友都力不从心，本以为通过微博连接了世界，没想到却与最亲密的人愈发疏远如果你真的关心我，就加我为密友", "mention_spans": [[27, 29, "朋友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我正在使用由新浪微博官方推出的密友手机客户端，赶快来一起玩吧", "mention_spans": [[6, 8, "新浪", "B-ORG.NAM", "golden_horse"], [15, 17, "密友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "今天辰辰会亲妈妈了，纪念一下[哈哈]", "mention_spans": [[2, 4, "辰辰", "B-PER.NAM", "golden_horse"], [6, 8, "妈妈", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "加入好特会有啥好处", "mention_spans": [[2, 5, "好特会", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "不是我的粉丝我不告诉你", "mention_spans": [[4, 6, "粉丝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "就只能先悄悄地透露给你一个哦：新浪微博用户来了还能免费获得专属的抽大奖的机会，大家也来试试运气呗", "mention_spans": [[15, 17, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "乐天粉丝大回馈第二弹转发送iPhone5s我爱生活，爱时尚，来支持了~~!~!地址：http://t.cn/8seOFW9", "mention_spans": [[2, 4, "粉丝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民流哈子了", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我就是激动雯子小菇凉至于嘛，不久赞了你一下嘛转发苦逼青年杨素晗回复雯子小菇凉主要你夸我我太激动了爱你爱你爱你雯子小菇凉回复苦逼青年杨素晗骗你干吗，真心电到了，越来越有范了，以后跟领导你混了阴险", "mention_spans": [[5, 7, "雯子", "B-PER.NAM", "golden_horse"], [7, 10, "小菇凉", "B-PER.NOM", "golden_horse"], [24, 28, "苦逼青年", "B-PER.NOM", "golden_horse"], [28, 31, "杨素晗", "B-PER.NAM", "golden_horse"], [33, 35, "雯子", "B-PER.NAM", "golden_horse"], [35, 38, "小菇凉", "B-PER.NOM", "golden_horse"], [54, 56, "雯子", "B-PER.NAM", "golden_horse"], [56, 59, "小菇凉", "B-PER.NOM", "golden_horse"], [61, 65, "苦逼青年", "B-PER.NOM", "golden_horse"], [65, 68, "杨素晗", "B-PER.NAM", "golden_horse"], [89, 91, "领导", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "发表了博文小学美术新课标的反思学习新学期开学有两个多月了，在这段时间的教学计划、教案的撰写工作中，让我对小学美术新课程标准有了进一步的认识", "mention_spans": [[5, 7, "小学", "B-ORG.NOM", "golden_horse"], [52, 54, "小学", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "我们现在所用的教材，根据儿童心理特点以及", "mention_spans": [[12, 14, "儿童", "B-PER.NOM", "golden_horse"], [14, 17, "心理特", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "萌动巴西世界杯我动大奖等你拿嘻嘻好活动，加油了各位，快来参加吧，不知道会不会中奖.地址：http://t.cn/RvmWFa2", "mention_spans": [[2, 4, "巴西", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "#剑网3逐鹿中原#誓师大典今日开启，海量惊喜礼品送出：企鹅萌宠回馈全民，制作人亲笔签名绝密设定集亮相，更有给力新装备新挂件等你来拿", "mention_spans": [[36, 39, "制作人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "｡◕‿◕｡｡◕‿◕｡｡◕‿◕｡#曺圭贤#", "mention_spans": [[16, 19, "曺圭贤", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "设计师擅长以镜面延伸视野长度的手法，运用在中间跳接黑镜的书房隔间墙上", "mention_spans": [[0, 3, "设计师", "B-PER.NOM", "golden_horse"], [28, 30, "书房", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "设计师在客餐厅间设计可360度旋转地3D超薄LED电视，满足餐厅也需视听享受的要求", "mention_spans": [[0, 3, "设计师", "B-PER.NOM", "golden_horse"], [4, 8, "客餐厅间", "B-LOC.NOM", "golden_horse"], [30, 32, "餐厅", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "新浪微博客户端升级了信息流图片加载速度提升；发布器支持多张图片一键分享；新增、浪小花表情", "mention_spans": [[0, 2, "新浪", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "观看视频，了解更多我在全新微博客户端，我为雅安祈福", "mention_spans": [[21, 23, "雅安", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "我问女儿：“宝贝你听，什么东西响", "mention_spans": [[2, 4, "女儿", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "”女儿一脸不以为然：“洗衣服的微波炉", "mention_spans": [[1, 3, "女儿", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【心语】人的心情会传染给他人，心理学家把它形象地叫做“波纹效应”", "mention_spans": [[15, 19, "心理学家", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#致悦驾期全国型动#很棒的活动，奖品我很喜欢，感谢小编为粉丝们争取这么好的活动，期待可以收获一份惊喜", "mention_spans": [[1, 5, "致悦驾期", "B-ORG.NAM", "golden_horse"], [25, 27, "小编", "B-PER.NOM", "golden_horse"], [28, 31, "粉丝们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "生日粗卡啊蛋糕蛋糕蛋糕坐等更推更博偷笑一颗只为等尼萌萌的心生日快乐大家晚安，晚安，小妹晚安小妹生日快乐", "mention_spans": [[41, 43, "小妹", "B-PER.NOM", "golden_horse"], [45, 47, "小妹", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "如果突然有个人出现在你面前，告诉你他是20年后你的儿子，马上就要回去未来了，你还有问一个问题的时间，你会问什[生病]么", "mention_spans": [[25, 27, "儿子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "棒偷笑偷笑偷笑花心花心花心这首歌很好听我真是被做作的朴灿烈和笑死了", "mention_spans": [[26, 29, "朴灿烈", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "愿看到这条微博的朋友都能欢欢喜喜过大年，开开心心每一天", "mention_spans": [[8, 10, "朋友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "感谢小编为我们奉献这么精彩的活动[礼物].~~!!!地址：http://t.cn/8sRmla3", "mention_spans": [[2, 4, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我在这陌生的城市，寻找你的背影", "mention_spans": [[6, 8, "城市", "B-GPE.NOM", "golden_horse"]]}
+{"sentence": "林书豪力压勒布朗获东部周最佳----顺理成章", "mention_spans": [[0, 3, "林书豪", "B-PER.NAM", "golden_horse"], [5, 8, "勒布朗", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我刚更新了#微博客户端冬季版#，1.信息流新增地点卡片；2.新增悄悄关注分组；3.增加发给我的定向微博分组；4.全新广场：支持综合搜索，增加应用管理；5.会员支持微博置顶哦", "mention_spans": [[77, 79, "会员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "积极的转发评论，帮助小编吸引更多的粉丝，虽然我粉丝不多，但是我也很努力呢/地址：http://t.cn/8sFCm5n", "mention_spans": [[10, 12, "小编", "B-PER.NOM", "golden_horse"], [17, 19, "粉丝", "B-PER.NOM", "golden_horse"], [23, 25, "粉丝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#为林志玲姐姐打气赢手机#有奖转发地址：http://t.cn/8ssjFNz", "mention_spans": [[2, 5, "林志玲", "B-PER.NAM", "golden_horse"], [5, 7, "姐姐", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【诺基亚平板2520售499美元】10月22日，诺基亚发布了平板电脑Lumia2520，售价499美元，采用10.1英寸1920×1080屏幕、高通骁龙800处理器、WindowsRT操作系统、2GBRAM和32GBROM，搭载200万和670万像素双摄像头，支持StoryTeller1功能，能够把用户的地理位置信息、图像和视频进行整合，支持LTE", "mention_spans": [[1, 4, "诺基亚", "B-ORG.NAM", "golden_horse"], [24, 27, "诺基亚", "B-ORG.NAM", "golden_horse"], [72, 74, "高通", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "“小二，有什么上好的酒菜全部给大爷上来，否则，看我不取你狗命", "mention_spans": [[1, 3, "小二", "B-PER.NOM", "golden_horse"], [15, 17, "大爷", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "”然后小二就被杀了……因为他就上了一盘上好的韭菜", "mention_spans": [[3, 5, "小二", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我刚更新了新浪微博iPhone客户端v2.9.1，推荐你也一起来体验http://t.cn/hKkeW新增五套彩色主题、增加夜间模式、支持点击导航按键“首页”和“消息”刷新内容、登录界面语言切换功能、还有GIF图片标识哦，快快更新吧", "mention_spans": [[5, 7, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "天哪，点之前，我马上就睡实用心理学天啊，整过容的女人老了脸会塌成那样的太可怕了衰童鞋们顺便预测下，韩国整容会塌么", "mention_spans": [[24, 26, "女人", "B-PER.NOM", "golden_horse"], [40, 43, "童鞋们", "B-PER.NOM", "golden_horse"], [49, 51, "韩国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "未成年者禁止进入不是我们减不了肥，而是敌人太过强大", "mention_spans": [[0, 4, "未成年者", "B-PER.NOM", "golden_horse"], [19, 21, "敌人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "老同学推荐我“五一”去千岛湖洲际度假酒店，曰：湖光山影，美食仙境", "mention_spans": [[0, 3, "老同学", "B-PER.NOM", "golden_horse"], [11, 14, "千岛湖", "B-LOC.NAM", "golden_horse"], [14, 20, "洲际度假酒店", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "长图转自网上，据说是爱好摄影的驴友所拍", "mention_spans": [[15, 17, "驴友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "什么时候都饿的人陈雨奇葩的世界", "mention_spans": [[8, 10, "陈雨", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "#白云山复方丹参母亲节让爱回家#白云山复方丹参母亲节让爱回家地址：http://t.cn/8seOeLE", "mention_spans": [[1, 4, "白云山", "B-LOC.NAM", "golden_horse"], [8, 10, "母亲", "B-PER.NOM", "golden_horse"], [16, 19, "白云山", "B-LOC.NAM", "golden_horse"], [23, 25, "母亲", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "成人礼成人礼", "mention_spans": [[0, 2, "成人", "B-PER.NOM", "golden_horse"], [3, 5, "成人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "大师兄〜〜〜〜璐温人意", "mention_spans": [[0, 3, "大师兄", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#北京工美为国安加油#好活动HOLD不住了，积极来参与，鼎力支持活动，每一次转发都是幸福的传递，每一次收获都是努力的结果，怀着感恩与饱满的热情来转发", "mention_spans": [[1, 3, "北京", "B-GPE.NAM", "golden_horse"], [3, 5, "工美", "B-ORG.NAM", "golden_horse"], [6, 8, "国安", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "回复雯子小菇凉主要你夸我我太激动了爱你爱你爱你雯子小菇凉回复苦逼青年杨素晗骗你干吗，真心电到了，越来越有范了，以后跟领导你混了阴险", "mention_spans": [[2, 4, "雯子", "B-PER.NAM", "golden_horse"], [4, 7, "小菇凉", "B-PER.NOM", "golden_horse"], [23, 25, "雯子", "B-PER.NAM", "golden_horse"], [25, 28, "小菇凉", "B-PER.NOM", "golden_horse"], [30, 34, "苦逼青年", "B-PER.NOM", "golden_horse"], [34, 37, "杨素晗", "B-PER.NAM", "golden_horse"], [58, 60, "领导", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民什么意思啊", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "【2011年是好莱坞大片集体爆发】加勒比海盗4，速度与激情5，变形金刚3，蜘蛛侠4，国家宝藏3，哈利波特7，碟中碟4，功夫熊猫2，专扁衰仔，灵魂战车2，福尔摩斯2，全民超人2，碟影重重4，纳尼亚传奇3，电子争霸2，天际浩劫，宿醉2，机械师，蝙蝠侠前传3，蓝精灵，钢铁苍穹，鼠来宝3", "mention_spans": [[7, 10, "好莱坞", "B-LOC.NAM", "golden_horse"], [17, 20, "加勒比", "B-GPE.NAM", "golden_horse"], [20, 22, "海盗", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "即便是打造最最简单的妆容，彩妆师也不会跳过眼线这一步", "mention_spans": [[13, 16, "彩妆师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "陈雨奇葩的世界什么时候都饿的人两位高富帅玩完又来簋街吃饭", "mention_spans": [[0, 2, "陈雨", "B-PER.NAM", "golden_horse"], [17, 20, "高富帅", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【哈尔滨“婴儿安全岛”投用】地约53平方米，造价30万元，内有换气扇、小床、保温箱、延时报警装置等——这间粉色的“婴儿安全岛”于1月8日正式在哈市启用，位于哈尔滨大街的哈市儿童福利院大门口南侧，门口和屋顶设有卡通形象的婴儿安全岛指示标志", "mention_spans": [[1, 4, "哈尔滨", "B-GPE.NAM", "golden_horse"], [5, 7, "婴儿", "B-PER.NOM", "golden_horse"], [7, 10, "安全岛", "B-LOC.NAM", "golden_horse"], [57, 59, "婴儿", "B-PER.NOM", "golden_horse"], [59, 62, "安全岛", "B-LOC.NAM", "golden_horse"], [71, 73, "哈市", "B-GPE.NAM", "golden_horse"], [78, 81, "哈尔滨", "B-GPE.NAM", "golden_horse"], [81, 83, "大街", "B-LOC.NOM", "golden_horse"], [84, 86, "哈市", "B-GPE.NAM", "golden_horse"], [86, 91, "儿童福利院", "B-ORG.NAM", "golden_horse"], [91, 96, "大门口南侧", "B-LOC.NOM", "golden_horse"], [97, 99, "门口", "B-LOC.NOM", "golden_horse"], [100, 102, "屋顶", "B-LOC.NOM", "golden_horse"], [109, 111, "婴儿", "B-PER.NOM", "golden_horse"], [111, 114, "安全岛", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "温人意今天就深有体会好吗毛先森家的江小姐", "mention_spans": [[0, 3, "温人意", "B-PER.NAM", "golden_horse"], [12, 15, "毛先森", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "】芜湖公交车有免费WIFI啦…http://t.cn/zH3oZb2", "mention_spans": [[1, 3, "芜湖", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "【做魅力女人】1、善于发现生活里的美", "mention_spans": [[4, 6, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "8、离开任何一个男人，都会活得很好", "mention_spans": [[8, 10, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我刚刚参加了#美团霸王餐#活动，中奖就可以免费去上海小南国吃霸王餐啦", "mention_spans": [[24, 26, "上海", "B-GPE.NAM", "golden_horse"], [26, 29, "小南国", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "同时祝愿小编工作顺利事事顺心，因为有我的祝福", "mention_spans": [[4, 6, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "姐姐今天终于解放了，哈哈哈哈，今晚不醉不归", "mention_spans": [[0, 2, "姐姐", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "用一颗平常心来对待每一个活动，以一份真诚来打动小编的内心", "mention_spans": [[23, 25, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "或许我不是最幸运的那个粉丝，但我一定是最用心的哦", "mention_spans": [[11, 13, "粉丝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "在此祝福小编工作顺利，我会一直支持你们的活动的~", "mention_spans": [[4, 6, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民每天懂点风水学手机充电的时候千万不要接打电话会爆炸的关爱自己，关爱家人转敬请关注安卓精选", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"], [38, 40, "家人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "肯德基的楚味鸡翅，我吃出了周黑鸭的味道[汗][汗]", "mention_spans": [[0, 3, "肯德基", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "别反抗了...你斗不过姐姐们的..哈哈哈啊哈...", "mention_spans": [[11, 14, "姐姐们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "第一次认真地看足球赛，终于恒大赢了中国足球雄起赞赞赞太棒了耶耶耶我在", "mention_spans": [[13, 15, "恒大", "B-ORG.NAM", "golden_horse"], [17, 19, "中国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "我也觉得只有你，会想我花心花心花心花心小的妈咪无时无刻都在想你爱你爱你爱你暗英小英转发微博", "mention_spans": [[21, 23, "妈咪", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#掌阅iReader阅读分享#人生旅途中，我们总是疲惫不堪，读读这本《豪门霸爱：龙少的甜心妻》吧", "mention_spans": [[40, 42, "龙少", "B-PER.NAM", "golden_horse"], [43, 46, "甜心妻", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "2.国足：必胜", "mention_spans": [[2, 4, "国足", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "3.老师：同学们不要睡了", "mention_spans": [[2, 4, "老师", "B-PER.NOM", "golden_horse"], [5, 8, "同学们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "4.病人：医生，您轻点儿", "mention_spans": [[2, 4, "病人", "B-PER.NOM", "golden_horse"], [5, 7, "医生", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "5.女人：不要嘛", "mention_spans": [[2, 4, "女人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "6.父母：孩子，不要闹了7.罪犯：我是冤枉的啊", "mention_spans": [[2, 4, "父母", "B-PER.NOM", "golden_horse"], [5, 7, "孩子", "B-PER.NOM", "golden_horse"], [14, 16, "罪犯", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "8，烟盒上的那句“吸烟有害健康”10，“上帝会保佑你的”11.分手时：“对不起”", "mention_spans": [[20, 22, "上帝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民全球最热门视频呃，期待下一篇", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "很不爽的吻戏啊啊啊啊啊啊啊怒怒泪泪泪男演员ㅠㅠㅠㅠㅠㅠ爪机新壁纸换起来", "mention_spans": [[18, 21, "男演员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "胡劳斯昨儿生日快乐九班孩子是不是格外可爱胡劳斯快来爱九班吧依依", "mention_spans": [[0, 3, "胡劳斯", "B-PER.NAM", "golden_horse"], [9, 11, "九班", "B-ORG.NAM", "golden_horse"], [11, 13, "孩子", "B-PER.NOM", "golden_horse"], [20, 23, "胡劳斯", "B-PER.NAM", "golden_horse"], [26, 28, "九班", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "#寻找金秀贤#[笑哈哈]朋友不必很多，知心就好；牵挂不必很多，动情就好.~~!!!地址：http://t.cn/8snnlE3", "mention_spans": [[3, 6, "金秀贤", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "教爸妈玩微博今报送智能手机·第二季谢谢主办方提供如此好礼", "mention_spans": [[1, 3, "爸妈", "B-PER.NOM", "golden_horse"], [19, 22, "主办方", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民哈哈哈啊哈哈哈笑话伤不起吃惊", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "睡觉了，原本是跟猪猪的同学一起回去又发生变故，火车票高铁都已售罄，NND我又订的机票，国庆都没什么打折的八号八点多的票，还得在武汉住一晚，酒店也都满了，哎，早点睡吧明天再说我在:http://t.cn/zRLdKAb", "mention_spans": [[8, 10, "猪猪", "B-PER.NAM", "golden_horse"], [11, 13, "同学", "B-PER.NOM", "golden_horse"], [63, 65, "武汉", "B-GPE.NAM", "golden_horse"], [69, 71, "酒店", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "小和尚救蚂蚁:古时有位道高德重的僧人，静坐入定后，看见寺里一个小和尚，再过七天就要死了，因此便打发他回家看看父母，并告诉他到第八天再回寺里来，意思是让他死在自己家中", "mention_spans": [[0, 3, "小和尚", "B-PER.NOM", "golden_horse"], [16, 18, "僧人", "B-PER.NOM", "golden_horse"], [27, 28, "寺", "B-LOC.NOM", "golden_horse"], [31, 34, "小和尚", "B-PER.NOM", "golden_horse"], [54, 56, "父母", "B-PER.NOM", "golden_horse"], [67, 68, "寺", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "这小和尚到了限定的日子，果然回来了.", "mention_spans": [[1, 4, "小和尚", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "[赞啊]回娘家的感觉~[羞嗒嗒]都是贤妻良母的典范~[好棒][推荐]虾sycL_Ting--榆荚-瑜", "mention_spans": [[5, 7, "娘家", "B-LOC.NOM", "golden_horse"], [18, 22, "贤妻良母", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "(⊙o⊙)哇[太开心][可怜][兔子][江南style]", "mention_spans": [[20, 22, "江南", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "哈哈哈哈哈哈吃布丁的维尼熊没兴趣，起来，我不厚道的笑了宋晚晚起开哈哈", "mention_spans": [[27, 30, "宋晚晚", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "【被蚊虫叮咬后怎么办】1.蚊虫叮咬后发生的局部红肿疼痛，涂些止痒剂，还可在红肿处擦碘伏；如果家中找不到这些药水时，可以用肥皂水代替2.如果有明显的红肿、破溃出水，可用3％的硼酸水冷敷，以后外涂抗生素软膏", "mention_spans": [[46, 47, "家", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "如是宝宝被蚊虫叮咬应谨慎使用各药膏，以免伤害宝宝稚嫩的皮肤", "mention_spans": [[2, 4, "宝宝", "B-PER.NOM", "golden_horse"], [22, 24, "宝宝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "转发赢取联想平板A1000希望下一个幸运儿就是me地址：http://t.cn/zRirDuO", "mention_spans": [[4, 6, "联想", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "新浪微博客户端升级了", "mention_spans": [[0, 2, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "http://t.cn/zTozVas我在全新微博客户端3.5.0，我为雅安祈福", "mention_spans": [[36, 38, "雅安", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "今儿成人礼了骑单车的少年要考驾照璐", "mention_spans": [[10, 12, "少年", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "泥巴说解解瘦了yanyi表示不服", "mention_spans": [[0, 2, "泥巴", "B-PER.NAM", "golden_horse"], [3, 5, "解解", "B-PER.NAM", "golden_horse"], [7, 12, "yanyi", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "和解解吃素一个月我觉得现在我比她更瘦", "mention_spans": [[1, 3, "解解", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民哈哈哈哈笑死了以后我们监考也这样吧超级实用小百科老师您这是要赶尽杀绝吗", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"], [29, 31, "老师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民一句脑残签名当马里奥大叔得了极品装备之后", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"], [12, 15, "马里奥", "B-PER.NAM", "golden_horse"], [15, 17, "大叔", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民是不是很有爱啊疯狂世界我爱你你会说话", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "复古毛衣是今年的热门单品，白色紧身裤甜美又清新，搭配军绿色工装风大衣和翻毛短靴，既少女又不做作", "mention_spans": [[41, 43, "少女", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "吃惊泰迪吃惊冰凌灬小顽童丶真有吃惊进场要工作证不过阵容只是邀请名单最终能接受邀请来录制的阵容目前不确定我估计来不了有成员在日本有活动丶奥特曼加油看冰凌灬小顽童丶我正在核实可靠性", "mention_spans": [[9, 12, "小顽童", "B-PER.NAM", "golden_horse"], [58, 60, "成员", "B-PER.NOM", "golden_horse"], [61, 63, "日本", "B-GPE.NAM", "golden_horse"], [73, 75, "冰凌", "B-PER.NAM", "golden_horse"], [76, 79, "小顽童", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "这也有点太不可思议了吃惊丶冰凌灬小顽童丶", "mention_spans": [[13, 15, "冰凌", "B-PER.NAM", "golden_horse"], [16, 19, "小顽童", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "#小澳U+家乡之旅——澳洲高宝河谷（GoulburnVal1l1e1y1）#我一直憧憬着壮阔草原上真正的牧场生活，放牛、牧马、挤奶、割草，如果能到高宝河谷牧场去旅行，我想体验蓝天、白云、绿水、牛羊的牧场生活，看看高品质的牛奶到底是怎么诞生的", "mention_spans": [[11, 13, "澳洲", "B-GPE.NAM", "golden_horse"], [13, 17, "高宝河谷", "B-LOC.NAM", "golden_horse"], [69, 73, "高宝河谷", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "今天查不了武汉通余额了，只有明天再来碰碰运气注册武汉通360（http://t.cn/aK5PgH）", "mention_spans": [[5, 7, "武汉", "B-GPE.NAM", "golden_horse"], [24, 26, "武汉", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "【开源汽车】一辆“开源汽车”进入人们的视线，来自意大利OSVehicle的Tabby是全球首部开源汽车", "mention_spans": [[24, 27, "意大利", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "理论上，用户只要购买基础零件，在网上下载说明书和视频，像宜家那样自行组装，就能DIY一辆汽车", "mention_spans": [[4, 6, "用户", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#激情夏日乐购美国#【转发赢话费】激情夏日乐购美国DFS地址：http://t.cn/Rvn01F4", "mention_spans": [[7, 9, "美国", "B-GPE.NAM", "golden_horse"], [23, 25, "美国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "[汽车]全智贤代言韩都衣舍，天猫女装销量第一，http://t.cn/RvHg6Gv", "mention_spans": [[4, 7, "全智贤", "B-PER.NAM", "golden_horse"], [9, 13, "韩都衣舍", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "游戏讲述了一个名叫斯派克的外星人有趣的冒险，它的宇宙飞船被小行星带击毁，它不得不在一颗颗小行星上挣扎，等待前来救援的飞船", "mention_spans": [[9, 12, "斯派克", "B-PER.NAM", "golden_horse"], [13, 16, "外星人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "一年一次[哈哈][笑哈哈]coco小姐最爱的香奈儿香水http://t.cn/a1elzs活动期间【买二送一】[心]支持专柜验货，附带专柜小票[礼物]还支持30无理由退换货[礼物]亲们赶紧抢购吧!抢购地址》》http://t.cn/8sLhMDw", "mention_spans": [[17, 19, "小姐", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#冷兔早餐时间#大学时，男生寝室来了小偷，被大家发现了，一群男生开始追小偷，一哥们跑得特快，就在他快要追到时，这哥们往回一看，就剩他一人，吓得他立刻往回跑", "mention_spans": [[8, 10, "大学", "B-PER.NOM", "golden_horse"], [12, 14, "男生", "B-PER.NOM", "golden_horse"], [14, 16, "寝室", "B-LOC.NOM", "golden_horse"], [18, 20, "小偷", "B-PER.NOM", "golden_horse"], [30, 32, "男生", "B-PER.NOM", "golden_horse"], [35, 37, "小偷", "B-PER.NOM", "golden_horse"], [38, 41, "一哥们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "~【转】各位童鞋早上好~", "mention_spans": [[6, 8, "童鞋", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#章鱼卡吧欢迎您#“章鱼卡吧”里有各种新鲜事儿，你可以同机智的“章小萌”聊聊消费娱乐，还可以认识一大波小伙伴", "mention_spans": [[32, 35, "章小萌", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "[笑哈哈]coco小姐最爱香奈儿香水http://t.cn/a1elzs活动期间【买二送一】[心]机会不多[礼物]亲们赶紧抢购吧!抢购地址》》http://t.cn/8sLhMDw", "mention_spans": [[5, 9, "coco", "B-PER.NAM", "golden_horse"], [9, 11, "小姐", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "转发送红米手机，2000元优惠券+留学讲座奖品非常好，朋友快来，希望幸运女神眷顾我.地址：http://t.cn/8sew76r", "mention_spans": [[27, 29, "朋友", "B-PER.NOM", "golden_horse"], [34, 38, "幸运女神", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "那你一定要来多多支持小编的工作啦!地址：http://t.cn/8sQZnpY", "mention_spans": [[10, 12, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "（回《赵本山金庸李银河是中国成为文化大国的三大障碍", "mention_spans": [[3, 6, "赵本山", "B-PER.NAM", "golden_horse"], [6, 8, "金庸", "B-PER.NAM", "golden_horse"], [8, 11, "李银河", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "再次向飞行少女学习如何过马路", "mention_spans": [[3, 7, "飞行少女", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#表达真我抢票818#杰伦来访，我们怎能不到场", "mention_spans": [[11, 13, "杰伦", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "夫妻相处是一门学问", "mention_spans": [[0, 2, "夫妻", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "女性在结婚后往往会忽略了一个细节", "mention_spans": [[0, 2, "女性", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "男人在外见惯了美女，回家却对这个黄脸婆，时间久了就腻了", "mention_spans": [[0, 2, "男人", "B-PER.NOM", "golden_horse"], [7, 9, "美女", "B-PER.NOM", "golden_horse"], [16, 19, "黄脸婆", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "女人们，还不动起来，好好改变自己在家中的形象了", "mention_spans": [[0, 3, "女人们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "葭麗秀给您的生活添色彩", "mention_spans": [[0, 3, "葭麗秀", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民这是个°的坡吗", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "看来，全校都是她教的啊", "mention_spans": [[3, 5, "全校", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#完美洗护超越期待海尔洗衣机粉丝同城汇南宁站开始报名#有奖转发地址：http://t.cn/8sp6uKH", "mention_spans": [[9, 11, "海尔", "B-ORG.NAM", "golden_horse"], [19, 22, "南宁站", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "#2014徐浩朱元冰夏日签售会#你这么暖怎么能让人不爱呢", "mention_spans": [[5, 7, "徐浩", "B-PER.NAM", "golden_horse"], [7, 10, "朱元冰", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "广州823，SHE演唱会，至尊好座位，內场最前排1排1号，2号连坐", "mention_spans": [[0, 2, "广州", "B-GPE.NAM", "golden_horse"], [6, 9, "SHE", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "两张一起拿送SHE签名一张哦[爱你][爱你]想要的赶紧行动起来", "mention_spans": [[6, 9, "SHE", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "土豪朋友去海南还不忘记捎上点特产寄给兄弟我��，何德何能非常感谢，兄弟我会好好享用的～哈哈哈", "mention_spans": [[5, 7, "海南", "B-GPE.NAM", "golden_horse"], [33, 35, "兄弟", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "后来的每次换位，她都会挑在他的斜对角，朋友经常会说他们有猫腻，她笑而不答", "mention_spans": [[19, 21, "朋友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民送给十二星座的封信扑克牌不为人知的知识", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "只爱原味心心心我是莉莉我爱魏晨呆阿呆是真汉子啊巴扎嘿原味最好吃橘子是橘不是菊薯片擼包包害羞看誰誰都是薯片擼包包我喜歡你這口味宅腐集中营自觉举手", "mention_spans": [[9, 11, "莉莉", "B-PER.NAM", "golden_horse"], [13, 15, "魏晨", "B-PER.NAM", "golden_horse"], [19, 22, "真汉子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "你，一个重要的过客，之所以是过客，因为你未曾为我停留", "mention_spans": [[7, 9, "过客", "B-PER.NOM", "golden_horse"], [14, 16, "过客", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#我想和高晓松谈谈##我想和高晓松谈谈#用心转发，给力支持，祝小编天天开心，工作顺利，微博送暖，果实累累，期待在丰收的季节，得到一份收获http://t.cn/RPtu45H", "mention_spans": [[4, 7, "高晓松", "B-PER.NAM", "golden_horse"], [14, 17, "高晓松", "B-PER.NAM", "golden_horse"], [31, 33, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "亲，以为端午可以带着相机来一场没有负担的旅行，可是物流也太慢了吧，还在广东，端午能赶到江苏吗", "mention_spans": [[35, 37, "广东", "B-GPE.NAM", "golden_horse"], [43, 45, "江苏", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "【吃火锅放点生姜能去火】很多人喜欢吃火锅，可是有的在吃火锅两三天后，常常会出现咽喉、牙龈肿痛，舌尖、口腔溃疡、腹胀痛、腹泻、呕吐，甚至消化道出血等症状，有医学专家称之为火锅综合征", "mention_spans": [[77, 81, "医学专家", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "有道理一句窝心话男人拖得起，你拖不起", "mention_spans": [[8, 10, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "走你年月日，我高贵的双足首次接触这矜持的大地，当时我在微博船票点，炷香之后，小姐和微博位置小位子也来到了同一个地方，哎呀这些死忠粉真是太烦人小位子，跪下，走你", "mention_spans": [[20, 22, "大地", "B-LOC.NAM", "golden_horse"], [29, 32, "船票点", "B-LOC.NAM", "golden_horse"], [38, 40, "小姐", "B-PER.NOM", "golden_horse"], [45, 48, "小位子", "B-PER.NAM", "golden_horse"], [62, 65, "死忠粉", "B-PER.NOM", "golden_horse"], [70, 73, "小位子", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "数学老师这么多作业请问你是疯了吗抓狂抓狂抓狂抓狂抓狂", "mention_spans": [[0, 4, "数学老师", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "你儿子的靓照呢", "mention_spans": [[1, 3, "儿子", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【白领十大最新评判标准】1、月薪2万元以上；2、坚持健身和运动；3、至少有两居室；4、有15万左右代步车；5、有固定的朋友圈子；6、工作不再局限于在办公室完成；7、工作朝九晚五；8、有独特的娱乐方式；9、重视低碳生活；10、有钟爱的时尚品牌", "mention_spans": [[1, 3, "白领", "B-PER.NOM", "golden_horse"], [59, 61, "朋友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "不是第一蛮挖鼻屎璐回忆再美也不属于我苦逼青年杨素晗毛先森家的江小姐", "mention_spans": [[18, 22, "苦逼青年", "B-PER.NOM", "golden_horse"], [22, 25, "杨素晗", "B-PER.NAM", "golden_horse"], [25, 28, "毛先森", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "感谢胡总的亲临，感谢武汉金玉缘的支持，最感谢的还是为这场婚礼秀付出的人儿们", "mention_spans": [[2, 4, "胡总", "B-PER.NAM", "golden_horse"], [10, 12, "武汉", "B-GPE.NAM", "golden_horse"], [12, 15, "金玉缘", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "三不斗：不与君子斗名，不与小人斗利，不与天地斗巧", "mention_spans": [[6, 8, "君子", "B-PER.NOM", "golden_horse"], [13, 15, "小人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "人生的三大悲哀，遇良师不学，遇良友不交，遇良机不握", "mention_spans": [[9, 11, "良师", "B-PER.NOM", "golden_horse"], [15, 17, "良友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我不是什么高富帅，不为谁代言，我是MIUIer，只代表我自己", "mention_spans": [[5, 8, "高富帅", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "希望我们方队能顺利完成任务，朋友们，加油哦", "mention_spans": [[14, 17, "朋友们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "威武南京零距离最牛毕业证威武", "mention_spans": [[2, 4, "南京", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "哎哟我去老干妈哈哈哈哈哈哈泰翻快粗来泪泪泪一又二分之一的夏天百度贴吧尼坤蒋劲夫独家专访一又二分之一的夏天剧组", "mention_spans": [[34, 36, "尼坤", "B-PER.NAM", "golden_horse"], [36, 39, "蒋劲夫", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "[思念牌水饺被检出含有致病菌上海家乐福连夜下架&nbsp;&nbsp;思念公司回应致病菌水饺郑州市展开联合调查]思念牌水饺被检出含有致病菌上海家乐福连夜下架在北京检出可导致肺炎病原菌上海其他超市未接通知暂未跟..http://t.cn/Sv120D", "mention_spans": [[14, 16, "上海", "B-GPE.NAM", "golden_horse"], [16, 19, "家乐福", "B-ORG.NAM", "golden_horse"], [35, 39, "思念公司", "B-ORG.NAM", "golden_horse"], [46, 49, "郑州市", "B-GPE.NAM", "golden_horse"], [69, 71, "上海", "B-GPE.NAM", "golden_horse"], [71, 74, "家乐福", "B-ORG.NAM", "golden_horse"], [79, 81, "北京", "B-GPE.NAM", "golden_horse"], [91, 93, "上海", "B-GPE.NAM", "golden_horse"], [95, 97, "超市", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "关注“国丹官方微信”马上有惊喜更有豪华大礼等你拿路过不错过带走啦...地址：http://t.cn/8sfiZu6", "mention_spans": [[3, 5, "国丹", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "#电信狂欢月#电信517，湖南网厅四折", "mention_spans": [[1, 3, "电信", "B-ORG.NAM", "golden_horse"], [7, 9, "电信", "B-ORG.NAM", "golden_horse"], [13, 15, "湖南", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "能在一起喝酒的人，可以是敌人；但能在一起喝茶的人，一定是朋友", "mention_spans": [[12, 14, "敌人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "童星未珉★星卷台灣首站♪開通新浪微博，歡迎大家多多加關注[good]http://t.cn/zO5WEMX", "mention_spans": [[7, 9, "台灣", "B-GPE.NAM", "golden_horse"], [14, 16, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "心心心泰迪正感动着，前线一嗓子吼起宋茜你是我的瞬间笑喷哈哈泰迪宋茜姐姐的声音好甜泪泪宋茜、宋茜、宋茜、宋茜、宋茜", "mention_spans": [[17, 19, "宋茜", "B-PER.NAM", "golden_horse"], [31, 33, "宋茜", "B-PER.NAM", "golden_horse"], [33, 35, "姐姐", "B-PER.NOM", "golden_horse"], [42, 44, "宋茜", "B-PER.NAM", "golden_horse"], [45, 47, "宋茜", "B-PER.NAM", "golden_horse"], [48, 50, "宋茜", "B-PER.NAM", "golden_horse"], [51, 53, "宋茜", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "#文明河南#感谢小编为我们奉献这么精彩的活动", "mention_spans": [[3, 5, "河南", "B-GPE.NAM", "golden_horse"], [8, 10, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我也好想来分析一下：看微博是更新的，解解是转发的，所以说按照正常的流程，二哥应该先是看的，但是截图显示是先看解解转发周觅渊博但二哥木有关注周觅啊的那条，这说明什么", "mention_spans": [[18, 20, "解解", "B-PER.NAM", "golden_horse"], [54, 56, "解解", "B-PER.NAM", "golden_horse"], [58, 60, "周觅", "B-PER.NAM", "golden_horse"], [63, 65, "二哥", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "挖鼻屎挖鼻屎挖鼻屎你们看懂了么宋茜汗汗汗", "mention_spans": [[15, 17, "宋茜", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "一个聪明的女人，不会妄[雪人]图去证明自己的男人坐怀不乱，而是让男人习惯拒绝除自己以外的女人来坐怀；一个聪明的朋友，不会让友人在自己与利益中做选择，而是竭力创造彼此共同的利益；只有愚蠢的人，才去考验别人的人性，然后，两败俱伤", "mention_spans": [[5, 7, "女人", "B-PER.NOM", "golden_horse"], [22, 24, "男人", "B-PER.NOM", "golden_horse"], [32, 34, "男人", "B-PER.NOM", "golden_horse"], [44, 46, "女人", "B-PER.NOM", "golden_horse"], [55, 57, "朋友", "B-PER.NOM", "golden_horse"], [61, 63, "友人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民流哈喇子了", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "新浪微博客户端版全新发布你有多久没旅行了", "mention_spans": [[0, 2, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "总的来说吧男文青都是个情种理工科的大男子主义长得帅的没安全感长得丑的带不出去驼背的有点儿猥琐强壮的有点儿粗鲁太能说的不太靠谱太闷骚的话不投机太主动的感觉花心不主动的懒得搭理喜欢我的我不喜欢我喜欢的不喜欢我#论你为什么不找对象#我在这里:http://t.cn/z8AoWmv", "mention_spans": [[5, 8, "男文青", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "走你年月日，我有了第一条微博足迹，当时我在微博船票点，炷香之后，微博位置小位子也来到了同一个地方，这就是猿粪啊，宝尼你说呢", "mention_spans": [[56, 58, "宝尼", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "茶道易抒，人道难语-阿里巴巴商友圈http://t.cn/RPgLtmM", "mention_spans": [[10, 14, "阿里巴巴", "B-ORG.NAM", "golden_horse"], [14, 16, "商友", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民哈哈哈艺术系女流氓哈哈小新啊～小新～～蜡笔小新専属", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"], [11, 14, "女流氓", "B-PER.NOM", "golden_horse"], [16, 18, "小新", "B-PER.NAM", "golden_horse"], [20, 22, "小新", "B-PER.NAM", "golden_horse"], [24, 28, "蜡笔小新", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "很惭愧，我也是几年前偶然看了一本束星北档案(传记)才知道原来我们还有这么优秀的科学家(学术上和品格上都如此出类拔萃)，他大炮般耿直的脾气和个性，使他不能轻易盲从和臣服于任何权威和政权，所以在历次政治运动中不断倒霉.而这段时间，本是他后半生最可以出成果的黄金时代.个种原因值得我们深思.", "mention_spans": [[16, 19, "束星北", "B-PER.NAM", "golden_horse"], [39, 42, "科学家", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【丝巾垫枕头发不变形】每个女孩都有这种烦恼，好不容易到美容院做好发型后，经过一觉醒来，头发就变形了", "mention_spans": [[13, 15, "女孩", "B-PER.NOM", "golden_horse"], [27, 30, "美容院", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "美的客厅中央空调震撼上市地址：http://t.cn/8srpIGJ", "mention_spans": [[0, 2, "美的", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "要不连家都回不去", "mention_spans": [[3, 4, "家", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "爱美女性都有着包包情结，穿上靓衫，再配上包包一个合适的时尚包袋，就象是画龙点睛的一笔，让穿戴者的气质、风格体现得更加淋漓尽致", "mention_spans": [[2, 4, "女性", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【法国---波城古堡】波城古堡位于法国普罗旺斯省亚耳附近地区的波城莱博镇的古城塞遗迹", "mention_spans": [[1, 3, "法国", "B-GPE.NAM", "golden_horse"], [6, 10, "波城古堡", "B-LOC.NAM", "golden_horse"], [11, 15, "波城古堡", "B-LOC.NAM", "golden_horse"], [17, 19, "法国", "B-GPE.NAM", "golden_horse"], [19, 24, "普罗旺斯省", "B-GPE.NAM", "golden_horse"], [24, 26, "亚耳", "B-GPE.NAM", "golden_horse"], [31, 33, "波城", "B-GPE.NAM", "golden_horse"], [33, 36, "莱博镇", "B-GPE.NAM", "golden_horse"], [37, 40, "古城塞", "B-LOC.NOM", "golden_horse"]]}
+{"sentence": "波城这里曾经是被诗人米斯特拉称为鹫族的英勇的波城一族驻守的城塞，后来经历了无数次战争硝烟的洗礼，于路易13世在位期间毁于战火，现在保留的是当年古堡废墟可供游人参观", "mention_spans": [[0, 2, "波城", "B-GPE.NAM", "golden_horse"], [8, 10, "诗人", "B-PER.NOM", "golden_horse"], [10, 14, "米斯特拉", "B-PER.NAM", "golden_horse"], [16, 18, "鹫族", "B-PER.NAM", "golden_horse"], [22, 26, "波城一族", "B-PER.NAM", "golden_horse"], [29, 31, "城塞", "B-LOC.NOM", "golden_horse"], [49, 54, "路易13世", "B-PER.NAM", "golden_horse"], [77, 79, "游人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民好恐怖啊啊啊啊啊啊", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "我叫赵新民好恐怖啊啊啊啊啊啊我们去办护照吧", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "男人有时的倔强、不听话只是故意的表现，不要去责罚，因为那只是他想要你再多些的关心和说教，假装噘起小嘴，再耐心地说说他，他会很感动地更加爱你", "mention_spans": [[0, 2, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "今天比赛上场特紧张，这个第五名就像砸我头上的，嘿嘿，比赛前厚着脸皮拉着顾老师合了好几张嘿嘿嘿嘿驰鸣天下顾天池", "mention_spans": [[35, 38, "顾老师", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "通过微盘下载了微盘考试资料分享的大学英语六级考前最后二十天冲刺，推荐给大家", "mention_spans": [[16, 18, "大学", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "#有奖转发#缘起台湾-倍思特-母亲节“满满的肉松满满的爱”转发赢IPADmini地址：http://t.cn/8sBElGI", "mention_spans": [[8, 10, "台湾", "B-GPE.NAM", "golden_horse"], [11, 14, "倍思特", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "头戴闪亮皇冠，身披精美模板，吼吼~我已经是微博准会员啦[得瑟]", "mention_spans": [[23, 26, "准会员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "谢谢小编给我们带来这么好的礼物喔~~~希望自己可以打破从来不中奖的命运~~~~幸运女神眷顾我吧", "mention_spans": [[2, 4, "小编", "B-PER.NOM", "golden_horse"], [39, 41, "幸运", "B-PER.NOM", "golden_horse"], [41, 43, "女神", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#漂亮Cgirl#用一颗平常心来对待每一个活动，以一份真诚来打动小编的内心", "mention_spans": [[32, 34, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "或许我不是最幸运的那个粉丝，但我一定是最用心的哦", "mention_spans": [[11, 13, "粉丝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "在此祝福小编工作顺利，我会一直支持你们的活动的~", "mention_spans": [[4, 6, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "妈妈们节日快乐丫曾若彤爱你爱你爱你", "mention_spans": [[0, 2, "妈妈", "B-PER.NOM", "golden_horse"], [8, 11, "曾若彤", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "大连的极重污染天机动车限行，应该对老旧的柴油车起动时冒黑烟的要限行或报废", "mention_spans": [[0, 2, "大连", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "(评论给极重污染天机动车限行_民生资讯_大连新闻网http://t.cn/zRpzbYU)", "mention_spans": [[20, 22, "大连", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "支持来了，小编真是贴心，这么可靠的活动，谢谢", "mention_spans": [[5, 7, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【迅雷感恩回馈—年费会员10元购】喜欢你没道理我要带走你地址：http://t.cn/8sxwRtB", "mention_spans": [[1, 3, "迅雷", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "外星人如果占领地球", "mention_spans": [[0, 3, "外星人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "美国有超人，日本有奥特曼，我们有什么", "mention_spans": [[0, 2, "美国", "B-GPE.NAM", "golden_horse"], [6, 8, "日本", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "据美国8号公开的中华航空的正式申明，可以判断照片中的是真的熊猫", "mention_spans": [[1, 3, "美国", "B-GPE.NAM", "golden_horse"], [8, 12, "中华航空", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "要把这只熊猫从成都移动到美国某动物园，相关人员很是苦恼，放入护笼里的话照顾熊猫比较困难", "mention_spans": [[7, 9, "成都", "B-GPE.NAM", "golden_horse"], [12, 14, "美国", "B-GPE.NAM", "golden_horse"], [15, 18, "动物园", "B-LOC.NOM", "golden_horse"], [21, 23, "人员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "中华航空提供了商务舱，熊猫旁边的人是饲养员", "mention_spans": [[0, 4, "中华航空", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "俩个富二代在为晚上的活动找姑娘", "mention_spans": [[2, 5, "富二代", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "陈雨奇葩的世界什么时候都饿的人", "mention_spans": [[0, 2, "陈雨", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "#双11美团粉丝福利#转发的意义在于拿大奖啊拿大奖", "mention_spans": [[4, 6, "美团", "B-ORG.NAM", "golden_horse"], [6, 8, "粉丝", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "女人的脸不经近看，男人的心不经细看", "mention_spans": [[0, 2, "女人", "B-PER.NOM", "golden_horse"], [9, 11, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "可爱宠物中心半个世纪前的优雅爱你还不懂挑款搭配，就快关注挑款师", "mention_spans": [[2, 6, "宠物中心", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "~亲爱~的“小编”，等着~SHOW~“~奖品~”啦", "mention_spans": [[6, 8, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【加法的奥秘】一个聪明的男人一个聪明的女人=罗曼史；一个聪明的男人一个很笨的女人=怀孕；一个很笨的男人一个聪明的女人=外遇；一个很笨的男人一个很笨的女人=婚姻；一个聪明的老板一个聪明的员工=利润；一个聪明的老板一个很笨的员工=生产；一个很笨的老板一个很笨的员工=加班", "mention_spans": [[12, 14, "男人", "B-PER.NOM", "golden_horse"], [19, 21, "女人", "B-PER.NOM", "golden_horse"], [31, 33, "男人", "B-PER.NOM", "golden_horse"], [38, 40, "女人", "B-PER.NOM", "golden_horse"], [49, 51, "男人", "B-PER.NOM", "golden_horse"], [56, 58, "女人", "B-PER.NOM", "golden_horse"], [67, 69, "男人", "B-PER.NOM", "golden_horse"], [74, 76, "女人", "B-PER.NOM", "golden_horse"], [85, 87, "老板", "B-PER.NOM", "golden_horse"], [92, 94, "员工", "B-PER.NOM", "golden_horse"], [103, 105, "老板", "B-PER.NOM", "golden_horse"], [110, 112, "员工", "B-PER.NOM", "golden_horse"], [121, 123, "老板", "B-PER.NOM", "golden_horse"], [128, 130, "员工", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "阳光又想起当年那个学姐告诉我们的一句话生活其实很可爱，你要做的就是好好去爱它", "mention_spans": [[9, 11, "学姐", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "美得呀〜顾天池苦逼青年杨素晗旻日记肖立伟嘻嘻嘻嘻嘻嘻美啊", "mention_spans": [[4, 7, "顾天池", "B-PER.NAM", "golden_horse"], [7, 11, "苦逼青年", "B-PER.NOM", "golden_horse"], [11, 14, "杨素晗", "B-PER.NAM", "golden_horse"], [17, 20, "肖立伟", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "#美丽中国梦，精彩图书节#彩虹的微笑，微笑带给所有的欢乐，小编的有奖互动带给我们一份惬意，一份温暖", "mention_spans": [[3, 5, "中国", "B-GPE.NAM", "golden_horse"], [29, 31, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "小编要注意多休息，保重身体噢[要礼物]地址：http://t.cn/8kKz2SC", "mention_spans": [[0, 2, "小编", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民哈哈哈哈哈哈哈哈哈哈", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "难道这就是天龙八部里丐帮帮主的“龙椅”么", "mention_spans": [[10, 12, "丐帮", "B-ORG.NAM", "golden_horse"], [12, 14, "帮主", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "[心]美国直邮为白白嫩嫩的皮肤做准备咯款水宝宝系列一直是美国医师推荐的NO1的防晒品连6个月以上的宝宝都可以使用的超级安全温和清爽的防晒品，保护儿童娇嫩敏感肌肤，性质温和，气味芬芳", "mention_spans": [[4, 6, "美国", "B-GPE.NAM", "golden_horse"], [31, 33, "美国", "B-GPE.NAM", "golden_horse"], [33, 35, "医师", "B-PER.NOM", "golden_horse"], [53, 55, "宝宝", "B-PER.NOM", "golden_horse"], [76, 78, "儿童", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "美国原产.170g", "mention_spans": [[0, 2, "美国", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "#日本代购#日本直邮无添加柚子头皮美发精华油，日本原产柚子油含保湿成分，天然原料提取制成，无添加，无硅护发油，具有持久滋润，柔顺光泽，修护干枯毛躁的头发，对于头皮有促进血液循环，头皮，头发都适用", "mention_spans": [[1, 3, "日本", "B-GPE.NAM", "golden_horse"], [6, 8, "日本", "B-GPE.NAM", "golden_horse"], [23, 25, "日本", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "头戴闪亮皇冠，身披精美模板，吼吼~我已经是微博准会员啦[得瑟]", "mention_spans": [[23, 26, "准会员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "【最值得交往的星座】冠军：水瓶座（个性特别，很吸引人，交往起来会有不一样的感受）、亚军：巨蟹座（有种家人的亲切感）、季军：白羊座（真诚，热情，没有心机）【年异性缘最旺星座男女TOP5】第五（双子座）、第四（天秤座）、第三（狮子座）、第二（金牛座）、第一（白羊座）", "mention_spans": [[50, 52, "家人", "B-PER.NOM", "golden_horse"], [85, 87, "男女", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我投给了\"榕湖304欧阳鹭，秦艳凤，韦玮，覃朵莹\"这个选项", "mention_spans": [[5, 7, "榕湖", "B-PER.NAM", "golden_horse"], [10, 13, "欧阳鹭", "B-PER.NAM", "golden_horse"], [14, 17, "秦艳凤", "B-PER.NAM", "golden_horse"], [18, 20, "韦玮", "B-PER.NAM", "golden_horse"], [21, 24, "覃朵莹", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "[花]【台湾胡椒虾】做法：1、修除草虾尖头部位", "mention_spans": [[4, 6, "台湾", "B-GPE.NAM", "golden_horse"]]}
+{"sentence": "关于“打假基金”的事，我怀疑方舟子早在你揭露出来的时候就已经开始着手做假账了，所以要快点了", "mention_spans": [[14, 17, "方舟子", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "偶像，我来了", "mention_spans": [[0, 2, "偶像", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "[偷笑]你喜欢邓紫棋吗", "mention_spans": [[7, 10, "邓紫棋", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "【泰国--安帕瓦水上市场】这是泰国最有趣的午后水上市场，没有浓重的商业气息", "mention_spans": [[1, 3, "泰国", "B-GPE.NAM", "golden_horse"], [5, 12, "安帕瓦水上市场", "B-ORG.NAM", "golden_horse"], [15, 17, "泰国", "B-GPE.NAM", "golden_horse"], [23, 27, "水上市场", "B-ORG.NOM", "golden_horse"]]}
+{"sentence": "在逛安帕瓦水上市场的同时，还可以欣赏到另一大美景", "mention_spans": [[2, 9, "安帕瓦水上市场", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "这年头，无论是做菜的还是做爱的，放心的肉是越来越少了；无论是婴儿[衰]喝的还是成人摸的，放心的奶是越来越少了；无论是家禽下的还是男人挂的，放心的蛋是越来越少了；无论是饲养的还是应招的，放心的鸡是越来越少了", "mention_spans": [[30, 32, "婴儿", "B-PER.NOM", "golden_horse"], [39, 41, "成人", "B-PER.NOM", "golden_horse"], [64, 66, "男人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "方文山打动人心的填词:1.最美的不是下雨天，是曾与你躲过雨的屋檐", "mention_spans": [[0, 3, "方文山", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "这横幅真是奇葩啊，元芳同学，你怎么看", "mention_spans": [[9, 11, "元芳", "B-PER.NAM", "golden_horse"], [11, 13, "同学", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我刚更新了#微博客户端冬季版#，1.信息流新增地点卡片；2.新增喜欢功能，轻松表达你的态度；3.支持显示悄悄关注分组和发给我的定向分组；4.支持屏蔽通知；5.周边的人、周边的微博支持筛选；6.会员还支持微博置顶和更多会员皮肤哦", "mention_spans": [[96, 98, "会员", "B-PER.NOM", "golden_horse"], [108, 110, "会员", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "#红米手机#童鞋们快来哦，迟了就没有", "mention_spans": [[6, 9, "童鞋们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "高富帅就是不一样", "mention_spans": [[0, 3, "高富帅", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "玩完还要来簋街吃饭", "mention_spans": [[5, 7, "簋街", "B-LOC.NAM", "golden_horse"]]}
+{"sentence": "什么时候都饿的人陈雨奇葩的世界你俩事真正的富二代", "mention_spans": [[8, 10, "陈雨", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "人们宽恕美女的一切，哪怕是庸俗", "mention_spans": [[4, 6, "美女", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "智慧是大自然赋予穷孩子们的一种重新平衡，对于丑人来说，智慧并不是合适的补偿品", "mention_spans": [[8, 12, "穷孩子们", "B-PER.NOM", "golden_horse"], [22, 24, "丑人", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "北京太阳宫足球场董育真是的菲菲堂真的可怜", "mention_spans": [[0, 2, "北京", "B-GPE.NAM", "golden_horse"], [2, 8, "太阳宫足球场", "B-LOC.NAM", "golden_horse"], [8, 10, "董育", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "今天为了女神汤唯去看黄金时代，结果中途黑屏了[睡觉]对不住女神的三场床戏啊，一场都没看到[闭嘴]好吧，看不到汤唯女神我就去看思聪老公的林更新吧，那痞子英雄的剧情我也是醉了，小新你对不住我思聪老公的栽培", "mention_spans": [[4, 6, "女神", "B-PER.NOM", "golden_horse"], [6, 8, "汤唯", "B-PER.NAM", "golden_horse"], [29, 31, "女神", "B-PER.NOM", "golden_horse"], [54, 56, "汤唯", "B-PER.NAM", "golden_horse"], [56, 58, "女神", "B-PER.NOM", "golden_horse"], [62, 64, "思聪", "B-PER.NAM", "golden_horse"], [64, 66, "老公", "B-PER.NOM", "golden_horse"], [67, 70, "林更新", "B-PER.NAM", "golden_horse"], [86, 88, "小新", "B-PER.NAM", "golden_horse"], [93, 95, "思聪", "B-PER.NAM", "golden_horse"], [95, 97, "老公", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "千颗心万颗心，祝博主和博友们永远都开心", "mention_spans": [[8, 10, "博主", "B-PER.NOM", "golden_horse"], [11, 14, "博友们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "千份情万份情，祝博主和博友们天天好心情", "mention_spans": [[8, 10, "博主", "B-PER.NOM", "golden_horse"], [11, 14, "博友们", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "——迈克尔·翁达杰《遥望》", "mention_spans": [[2, 9, "迈克尔·翁达杰", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "【新浪微博Android客户端4.0版全新发布】你有多久没旅行了", "mention_spans": [[1, 3, "新浪", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "一切表明素质，道德决定一切央视新闻海豚走了海豚送医后，由于呛水严重于昨晚点死亡", "mention_spans": [[13, 15, "央视", "B-ORG.NAM", "golden_horse"]]}
+{"sentence": "老百姓信赖，身边最美的关怀，最美的祝福送给你们", "mention_spans": [[0, 3, "老百姓", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "感谢兔兔，感谢圆圆，感谢佳佳", "mention_spans": [[2, 4, "兔兔", "B-PER.NAM", "golden_horse"], [7, 9, "圆圆", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "这次缺了小右，期待下次五人帮的大团聚", "mention_spans": [[4, 6, "小右", "B-PER.NAM", "golden_horse"], [11, 14, "五人帮", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "（背着老婆去约会的男士更应该注意）", "mention_spans": [[9, 11, "男士", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "盈讨厌婷，因为她认为是婷抢了泽，盈明里暗里地说婷，欺负她，和她斗，盈的闺蜜问他，你为什么选婷，他说，你也看到了，她心计太重，我是爱她的，但这种女友太危险，闺蜜们明白了，输的是盈自己，输得太惨，自己害了自己，斗到最后，才发现，一直是自己的错，太傻……", "mention_spans": [[0, 1, "盈", "B-PER.NAM", "golden_horse"], [3, 4, "婷", "B-PER.NAM", "golden_horse"], [11, 12, "婷", "B-PER.NAM", "golden_horse"], [14, 15, "泽", "B-PER.NAM", "golden_horse"], [16, 17, "盈", "B-PER.NAM", "golden_horse"], [23, 24, "婷", "B-PER.NAM", "golden_horse"], [33, 34, "盈", "B-PER.NAM", "golden_horse"], [35, 37, "闺蜜", "B-PER.NOM", "golden_horse"], [45, 46, "婷", "B-PER.NAM", "golden_horse"], [71, 73, "女友", "B-PER.NOM", "golden_horse"], [77, 80, "闺蜜们", "B-PER.NOM", "golden_horse"], [87, 88, "盈", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "求博主成全[愛你][悲傷][悲傷][悲傷][悲傷]", "mention_spans": [[1, 3, "博主", "B-PER.NOM", "golden_horse"]]}
+{"sentence": "我叫赵新民我要把你的头像设置成这个哈哈哈哈", "mention_spans": [[2, 5, "赵新民", "B-PER.NAM", "golden_horse"]]}
+{"sentence": "新乡的游行活动今天已经开始了，支持，加油", "mention_spans": [[0, 2, "新乡", "B-GPE.NAM", "golden_horse"]]}

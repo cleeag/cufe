@@ -1,0 +1,563 @@
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<crowd-form onsubmit="return confirm('Do you really want to submit the answer?');">
+    <!-- Bootstrap v3.0.3 -->
+    <meta charset="UTF-8">
+
+    <link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet"/>
+    <section class="container" id="Other"
+             style="margin-bottom: 15px; padding: 10px; font-family: Verdana, Geneva, sans-serif; font-size: 1em;">
+
+        <div class="row col-xs-12 col-md-12"><!-- Instructions -->
+            <div class="panel panel-primary">
+                <div class="panel-heading" style="color: rgb(51, 51, 51);"><span
+                        style="strong;color:white;">Instructions </span><span onclick="myFunction()"
+                                                                              style="text-decoration:underline;color:white;cursor:pointer">[Hide/Show]</span>
+                </div>
+
+                <div id="myDIV">
+                    <div class="panel-body">
+
+
+                        <p style="color: rgb(51, 51, 51);">This task is to infer the "types" of
+                            <mark>highlighted term</mark>
+                            in
+                            the provided sentence.&nbsp;
+                        </p>
+
+                        <p style="color: rgb(51, 51, 51);">For each assignment, there will be a highlighted term for you
+                            to
+                            annotate. Please select or enter two
+                            <b>specific types</b> that it belongs to.
+                        </p>
+                        <p>
+                            The sources of the sentences are various research datasets including news and Weibo text
+                            data.
+                            Sentences are in Simplified Chinese and the types/labels can be either in <b>Chinese or
+                            English</b>.
+                        </p>
+
+
+                        <p style="color: rgb(51, 51, 51);"><strong><em>We provide some examples for the
+                            task:</em></strong></p>
+
+                        <table border="3" cellpadding="5" cellspacing="2"
+                               style="color: rgb(51, 51, 51); font-size: 1em;">
+                            <colgroup>
+                                <col span="1" style="width: 65%;"/>
+                                <col span="1" style="width: 30%;"/>
+                                <col span="1" style="width: 5%;"/>
+                            </colgroup>
+                            <tbody>
+                            <tr>
+                                <td align="center"><strong>Sentence</strong></td>
+                                <td rowspan="1" align="center"><b>Specific Types</b></td>
+                                <td align="center"><b>Error</b></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    电影《画皮II》导演乌尔善、制片人
+                                    <mark>庞洪</mark>
+                                    、出品人郭力以及中央美术学院教授王水泊在中央美术学院美术馆学术报告厅进行了题为《电影“画皮Ⅱ”的思考与回顾》的讲座
+                                </td>
+                                <td><p>1. producer</p>
+                                    <p>2. film maker</p></td>
+                                <td><input  type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    轿车在
+                                    <mark>印度</mark>
+                                    市场上的地位日益重要，而日产阳光能够最大程度上满足消费者对精致、实用及高性价比车型的需要
+                                </td>
+                                <td><p>1. country</p>
+                                    <p>2. location</p></td>
+                                <td><input  type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    农妇满脸丰收喜悦,
+                                    向我们这些分享她劳动成果的城里人连连地说:『你们随便挑哇,
+                                    <mark>咱</mark>
+                                    自家种的,八月十五快到了,买回去全家吃个鲜
+                                </td>
+                                <td><p>1. 农人</p>
+                                    <p>2. woman</p></td>
+                                <td><input  type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    凯基证券分析师Kuo对苹果2012年下半年的“战况”进行了预测，Kuo认为，13英寸的
+                                    <mark>Retina显示屏</mark>
+                                    MacBook Pro以及最新款的MacBook Air对消费者的吸引力非常大
+                                </td>
+                                <td><p>1. screen</p>
+                                    <p>2. 技术</p></td>
+                                <td><input  type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    毛泽东与柳亚子畅游
+                                    <mark>颐和园</mark>
+                                    ，就是其中最为典型的一例
+                                </td>
+                                <td><p>1. garden</p>
+                                    <p>2. 景点</p></td>
+                                <td><input  type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <mark>他</mark>
+                                    说,中国认为,国家不分大小、强弱和贫富,都是国际社会中平等的一员。
+                                    李岚清表示,中国愿意加强与爱沙尼亚在各个领域、特别是经贸领域的友好合作关系。
+                                </td>
+                                <td><p>1. speaker</p>
+                                    <p>2. person</p></td>
+                                <td><input  type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <mark>张南</mark>
+                                    也不好反对，就交出了钥匙
+                                </td>
+                                <td>person</td>
+                                <td><input checked="yes"  type="checkbox"/></td>
+                            </tr>
+                            <tr>
+                                <td>
+
+                                    晚会上当地的华人艺术家们演奏了精彩的中国民乐,田鸣的一首《大中国》和另一首《我爱
+                                    <mark>你</mark>
+                                    中国》将晚会的气氛推向了高潮
+                                </td>
+                                <td>&nbsp;</td>
+                                <td><input checked="yes" type="checkbox"/></td>
+                            </tr>
+                            </tbody>
+                        </table>
+
+                        <p></p>
+
+                        <p>
+                            * We aim to obtain the <b>more specific</b> types for each of the highlighted term. E.g.,
+                            for the first example,
+                            <mark>庞洪</mark>
+                            , please try to annotate it as something like "producer" or "film maker" instead of simply
+                            "person" or
+                            "man."
+                        </p>
+                        <p>
+                            * Types are <strong>inferred</strong> from the context.
+                            Please feel free to make a guess
+                            <strong>according to</strong> the provided context. We encourage you to be
+                            <strong>creative</strong> and construct proper types for the highlighted terms.
+                        </p>
+                        <p>* For the two types of each assignment, it is encouraged to pick types that describe
+                            different
+                            aspects of the highlighted term.</p>
+                        <p>
+                            * If the context doesn't provide enough information, please annotate the highlighted terms
+                            with
+                            more general types such as "person", "object" or "location", etc.
+                        </p>
+
+                        <p style="color: rgb(51, 51, 51);"><strong><em>Annotation details:</em></strong></p>
+
+                        <p style="color: rgb(51, 51, 51);">* In each slot, a dropdown menu will appear as you type. You
+                            can
+                            choose from it or <strong>enter freely</strong> for any types you think is suitable for the
+                            highlighted term.
+                            Here are the <a target="_blank" href="https://cleeag.github.io/files/crowd_types.js">
+                                2500 entity types</a> available. We encourage you to create your own annotation outside
+                            of these 2500 types.
+                        </p>
+
+                        <p>* Please fill-in <b>every</b> slots in the “specific types” with different types unless you check the
+                            <strong>Error</strong> checkbox.</p>
+
+                        <p>
+                            * If the sentence does not provide enough information and you cannot fill in the two slots,
+                            you can leave one or both of them blank and mark the
+                            <strong>Error</strong> checkbox.
+                            Also mark the checkbox if the highlighted term simply doesn't make sense. (last two
+                            examples)
+                        </p>
+                        <p>
+                            * Please
+                            read the sentence carefully and mark the checkbox&nbsp;only when&nbsp;necessary. For each
+                            task with five sentences, we assume no more than two example should be marked as error.&nbsp;
+                        </p>
+
+                        <p style="color: rgb(51, 51, 51);"><strong><em>Common Mistakes:</em></strong></p>
+                        <p>Incorrect types are written in <strong><span style="color:#FF0000;">red</span></strong>,
+                            correct types in <strong><span style="color:#008000;">green</span></strong>.
+                        </p>
+                        <table border="3" cellpadding="5" cellspacing="2"
+                               style="color: rgb(51, 51, 51); font-size: 1em;">
+                            <colgroup>
+                                <col span="1" style="width: 65%;"/>
+                                <col span="1" style="width: 30%;"/>
+                                <col span="1" style="width: 5%;"/>
+                            </colgroup>
+                            <tbody>
+                            <tr>
+                                <td align="center"><strong>Sentence</strong></td>
+                                <td rowspan="1" align="center"><b>Specific Types</b></td>
+                                <td align="center"><b>Error</b></td>
+                            </tr>
+                            <tr>
+                                <td>方形塔楼一统天下的格局已被打破，各种X形、
+                                    <mark>Y形</mark>
+                                    、蝶形等设计方案将使每套住户都有朝阳的房间
+                                </td>
+                                <td><p>1. <span style="color:#008000;">Shape</span></p>
+                                    <p>2. <span style="color:#FF0000;">Y-shape</span></p></td>
+                                <td><input type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">Explanation: Y-shape is not a type
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    世界经济论坛主席
+                                    <mark>施瓦布</mark>
+                                    、总干事斯马加及主任马托在联名签署的唁电中说：“邓小平先生的逝世是你们的巨大损失，为此我们向你们表示同情和沉痛哀悼。
+                                </td>
+                                <td><p>1. <span style="color:#FF0000;">Chairman</span></p>
+                                    <p>2. <span style="color:#FF0000;">主席</span></p></td>
+                                <td><input type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">Explanation: They are the direct translation of each other.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    高女士是
+                                    <mark>法</mark>
+                                    籍华裔画家，在家里举办了个中国画学习班，十多个学员几乎全是老人，有的还是远道而来。
+                                </td>
+                                <td><p>1. <span style="color:#008000;">Country</span></p>
+                                    <p>2. <span style="color:#FF0000;">France</span></p></td>
+                                <td><input type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">Explanation: France is not a type
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>英国选手穆雷对阵瑞士选手
+                                    <mark>瓦林卡</mark>
+                                    ，最终穆雷以2比0的比分轻松击败对手晋级下一轮
+                                </td>
+                                <td><p>1. <span style="color:#008000;">Athlete</span></p>
+                                    <p>2. <span style="color:#FF0000;">Tennis player</span></p></td>
+                                <td><input type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">Explanation: Even though it's clear that 瓦林卡 is an athlete, the fact
+                                    that that he is a tennis player cannot be
+                                    inferred from the context.
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <p style="color: rgb(51, 51, 51);"><span
+                        >The followings&nbsp;</span><strong
+                        ><span style="color: rgb(255, 0, 0);">are not</span></strong><span
+                        >&nbsp;considered as types: Pronouns&nbsp;</span><span
+                        >(i.e., you, them, they, I, it, he, she, self), Quantifying expressions</span><span
+                        >&nbsp;(i.e., all, both, many), Names (i.e., Jon, Mary, George), Adjective or adverb (i.e., ancient, beautiful, religious).</span>
+                        </p>
+                        <p style="color: rgb(51, 51, 51)">Please be careful with your <strong
+                        ><span style="color: rgb(255, 0, 0);">spellings</span></strong> and not to commit typos!! Also
+                            please convert all plurals into their singular forms.</p>
+                        <p>Please don't directly annotate
+                            the <strong><span style="color: rgb(255, 0, 0);">translation</span></strong>
+                            of your the other type for a single assignment. E.g. 1. Person, 2. 人</p>
+                        <br style="margin-bottom:240px;"/>
+                        <p style="color: rgb(51, 51, 51);"><strong><em>Feel free to send questions, and thank you for
+                            your
+                            interest
+                            in the task!</em></strong></p>
+                        &nbsp;<!--
+
+                    <p style="color: rgb(51, 51, 51);"><strong><em>Common Mistakes</em></strong></p>
+                    Here we present some common mistakes.
+                    <strong><span style="color:#008000;">green</span></strong>: <strong>correct</strong>,
+                    <strong><span style="color:#FF0000;">red</span></strong>: <strong>incorrect</strong>.
+
+                    <table border="3" cellpadding="5" cellspacing="2" style="color: rgb(51, 51, 51); font-size: 1em;">
+                        <colgroup>
+                            <col span="1" style="width: 55%;"/>
+                            <col span="1" style="width: 20%;"/>
+                            <col span="1" style="width: 20%;"/>
+                            <col span="1" style="width: 5%;"/>
+                        </colgroup>
+                        <tbody>
+                        <tr>
+                            <td><strong>Sentence</strong></td>
+                            <td><b>General Types</b></td>
+                            <td><b>Specific Types</b></td>
+                            <td><b>Error</b></td>
+                        </tr>
+                        <tr>
+                            <td>He stuck
+                                <mark> his hand</mark>
+                                in among those that were brutally beating Steve and shot him in the chest . ''
+                            </td>
+                            <td><span style="color:#008000;">object</span></td>
+                            <td><span style="color:#FF0000;">finger</span><p></p><span style="color:#008000;">body_part</span></td>
+                            <td><input type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td colspan="5">Explanation: Finger is smaller unit than the hand, so cannot be a type of
+                                hand.&nbsp;
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Lake Salar de Uyuni is covered up with a thin layer of water during
+                                <mark> the rainy season</mark>
+                                and turns into a huge mirror .
+                            </td>
+                            <td><span style="color:#008000;">time</span></td>
+                            <td><span style="color:#008000;">period</span><p></p><span style="color:#FF0000;">difficulty</span></td>
+                            <td><input type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td colspan="5">Explanation: It is difficult to infer rainy season is a difficulty from the
+                                context. Acceptable specific types include period, season.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>``
+                                <mark> I</mark>
+                                would n't make all that much of it , '' said Carter , who has worked as a consultant for
+                                the Rose Bowl , as well as analyzing Los Angeles sites .
+                            </td>
+                            <td><span style="color:#008000;">person</span></td>
+                            <td><span style="color:#008000;">analyst</span><p></p><span style="color:#FF0000;">media</span></td>
+                            <td><input type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td colspan="5">Explanation: While working in the media, here ``I" is a person, which does
+                                not belong to concept media. Other suitable specific types include professional,
+                                consultant, employee.
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+
+                    <p style="color: rgb(51, 51, 51);">&nbsp;</p>
+
+
+                    -->
+                    </div>
+                </div>
+            </div>
+
+
+            <section style="color: rgb(51, 51, 51);">
+                <div style="display:none;">${mention_id_1}${mention_id_2}${mention_id_3}${mention_id_4}${mention_id_5}
+                </div>
+
+                <fieldset>
+                    <table border="3" cellpadding="15" cellspacing="2" style="font-size:1em;">
+                        <colgroup>
+                            <col span="1" style="width: 65%;"/>
+                            <col span="1" style="width: 30%;"/>
+                            <col span="1" style="width: 5%;"/>
+
+                        </colgroup>
+                        <tbody>
+
+                        <tr>
+                            <td align="center"><strong>Sentence</strong></td>
+                            <td rowspan="1" align="center"><b
+                                    style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">Specific
+                                Types</b>
+                            </td>
+                            <td align="center"><b>Error</b></td>
+                        </tr>
+                        <tr>
+                            <td style="font-size: 15px;">${s1}
+                            </td>
+                            <td><input class="form-control" name="FineTypeA0" size="15" type="text"/>
+                                <p></p><input class="form-control" name="FineTypeB0" size="15" type="text"/></td>
+                            <td><input name="NA0" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td style="font-size: 15px;">${s2}
+                            </td>
+                            <td><input class="form-control" name="FineTypeA1" size="15" type="text"/>
+                                <p></p><input class="form-control" name="FineTypeB1" size="15" type="text"/></td>
+                            <td><input name="NA1" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td style="font-size: 15px;">${s3}
+                            </td>
+                            <td><input class="form-control" name="FineTypeA2" size="15" type="text"/>
+                                <p></p><input class="form-control" name="FineTypeB2" size="15" type="text"/></td>
+                            <td><input name="NA2" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td style="font-size: 15px;">${s4}
+                            </td>
+                            <td><input class="form-control" name="FineTypeA3" size="15" type="text"/>
+                                <p></p><input class="form-control" name="FineTypeB3" size="15" type="text"/></td>
+                            <td><input name="NA3" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td style="font-size: 15px;">${s5}
+                            </td>
+                            <td><input class="form-control" name="FineTypeA4" size="15"/>
+                                <p></p><input class="form-control" name="FineTypeB4" size="15"/></td>
+                            <td><input name="NA4" type="checkbox"/></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </fieldset>
+            </section>
+
+
+            <link href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css" rel="stylesheet"/>
+            <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+            <script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+            <script src="https://s3.amazonaws.com/MY89_js/jquery.cookie.js"></script>
+            <script src="https://homes.cs.washington.edu/~eunsol/data/ontology.js"></script>
+            <script src="https://cleeag.github.io/files/crowd_types.js"></script>
+            <script src="https://cleeag.github.io/files/cufe_ontology.js"></script>
+            <script src="https://cleeag.github.io/files/ontology.js"></script>
+
+            <script>
+                function myFunction() {
+                    var x = document.getElementById('myDIV');
+                    // var x = $('myDIV');
+                    if (x.style.display === 'none') {
+                        x.style.display = 'block';
+                    } else {
+                        x.style.display = 'none';
+                    }
+                }
+
+                bars = ["FineTypeA", "FineTypeB"];
+
+                function validate(val) {
+                    var total_na = 0;
+                    rows = 5;
+                    for (var i = 0; i < rows; i++) {
+                        var missing_fine = 0;
+                        var has_text = 0;
+                        for (var k = 0; k < bars.length; k++) {
+                            var value = $("[name='" + bars[k] + i + "']").val();
+                            if (bars[k] == 'FineTypeA' && $.inArray(value, ontology) == -1) missing_fine += 1;
+                            if (bars[k] == 'FineTypeB' && $.inArray(value, ontology) == -1) missing_fine += 1;
+
+                            if (value.length > 0) has_text += 1;
+                        }
+
+                        var fine1_value = $("[name='" + bars[0] + i + "']").val();
+                        var fine2_value = $("[name='" + bars[1] + i + "']").val();
+                        var error_checked = $("[name='NA" + i + "']").is(":checked");
+                        if (error_checked) {
+                            total_na += 1;
+                        }
+                        if (error_checked && has_text == 2) {
+                            alert("Sentence " + (i + 1) + " has error box checked but both specific types were entered. Please uncheck the error box or delete one or both of your input types");
+                            return false;
+                        }
+                        if (!error_checked) {
+                            if (missing_fine > 0) {
+                                alert("Answers of Sentence " + (i + 1) + " has missing input or the input is not in the dropdown menu. Please input a valid type.");
+                                return false;
+                            }
+                            if (fine1_value == fine2_value) {
+                                alert("Sentence " + (i + 1) + " has repeating types. The two specific type must be distinct.");
+                                return false;
+                            }
+                        }
+                    }
+                    if (total_na > 2) {
+                        alert("You have checked more two rows as errors. Please review.");
+                        return false;
+                    }
+                    if (val) alert('Your answers are ready to be submitted.');
+                    return true;
+
+
+                }
+
+            </script>
+
+
+            <script>
+
+                var display_all = function (request, callback) {
+                    var max = 50;
+                    var search_value = request.term.toLowerCase();
+                    var l0 = [[], [], [], [], [], [], [], [], []];
+                    var l1 = [[], [], [], [], [], [], [], [], []];
+                    var l2 = [];
+                    for (var k = 0; k < ontology.length; k++) {
+                        var current_value = ontology[k].toLowerCase();
+                        var splits = current_value.split(" ");
+                        for (var p = 0; p < splits.length; p++) {
+                            if (splits[p] === search_value) {
+                                l0[p].push(current_value);
+                                break;
+                            }
+                            if (splits[p].startsWith(search_value)) {
+                                l1[p].push(current_value);
+                                break;
+                            }
+                        }
+                        if (current_value.includes(search_value)) {
+                            l2.push(current_value);
+                        }
+                    }
+                    // alert(l1)
+                    rv = [];
+                    for (var p = 0; p < l0.length && rv.length < max; p++) {
+                        for (var i = 0; i < l0[p].length && rv.length < max; i++) {
+                            if ($.inArray(l0[p][i], rv) == -1) rv.push(l0[p][i])
+                        }
+                    }
+                    ;
+
+                    for (var p = 0; p < l1.length && rv.length < max; p++) {
+                        for (var i = 0; i < l1[p].length && rv.length < max; i++) {
+                            if ($.inArray(l1[p][i], rv) == -1) rv.push(l1[p][i])
+                        }
+                    }
+                    ;
+
+                    for (var i = 0; i < l2.length && rv.length < max; i++) {
+                        if ($.inArray(l2[i], rv) == -1) rv.push(l2[i])
+                    }
+                    ;
+                    // alert(rv);
+                    // alert(rv.length);
+                    callback(rv);
+                };
+                rows = 5;
+                for (var k = 0; k < bars.length; k++) {
+                    for (var i = 0; i < rows; i++) {
+
+                        $("[name='" + bars[k] + i + "']").autocomplete({
+                            minLength: 0,
+                            source: display_all
+                        });
+                    }
+
+
+                }
+            </script>
+
+        </div>
+    </section>
+    <p style="text-align: center;"><input id="valButton" onclick="return validate(true)" type="button"
+                                          value="Validate"/></p>
+    <p style="text-align: center;"><input id="submitButton" onclick="return validate(false)" type="submit"
+                                          value="Submit"/></p>
+</crowd-form>

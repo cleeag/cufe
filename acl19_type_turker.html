@@ -1,0 +1,421 @@
+<!-- Bootstrap v3.0.3 -->
+<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet"/>
+<section class="container" id="Other"
+         style="margin-bottom: 15px; padding: 10px; font-family: Verdana, Geneva, sans-serif; font-size: 0.9em;">
+    <div class="row col-xs-12 col-md-12"><!-- Instructions -->
+        <div class="panel panel-primary">
+            <div class="panel-heading" style="color: rgb(51, 51, 51);"><span
+                    style="strong;color:white;">Instructions </span><span onclick="myFunction()"
+                                                                          style="text-decoration:underline;color:white;cursor:pointer">[Hide/Show]</span>
+            </div>
+
+            <div id="myDIV">
+                <div class="panel-body">
+                    <p style="color: rgb(51, 51, 51);">The task is to infer type of&nbsp;highlighted text&nbsp;in the
+                        provided sentence.&nbsp;</p>
+
+                    <p style="color: rgb(51, 51, 51);">* For each highlighted text, you should select a single general
+                        type and two specific types.</p>
+
+                    <p style="color: rgb(51, 51, 51);">* Highlighted text can be pronouns (e.g., he, she, it), names
+                        (e.g., Colorado, Seattle Seahawks), or expressions (e.g., multiple groups, government response,
+                        responsibility).&nbsp;</p>
+
+                    <p style="color: rgb(51, 51, 51);">* In the slots, begin typing a word that identifies the slot (for
+                        example, if you think the general type is person, type person).&nbsp; A dropdown will appear
+                        with a number of autocompleted options, please select one.&nbsp;</p>
+
+                    <p style="color: rgb(51, 51, 51); font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">* A&nbsp;<strong>general&nbsp;</strong>type&nbsp;is
+                        a high-level concept&nbsp;such as&nbsp;person, organization, location, event, time, concept and
+                        object.&nbsp;<strong style="font-size: 11.7px;">Specific</strong><span
+                                style="font-size: 11.7px;">&nbsp;types&nbsp;are&nbsp;</span><strong
+                                style="font-size: 11.7px;">inferred</strong><span style="font-size: 11.7px;">&nbsp;from the context. Please feel free to make a guess&nbsp;</span><strong
+                                style="font-size: 11.7px;">BASED ON</strong><span style="font-size: 11.7px;">&nbsp;the context.</span>
+                    </p>
+
+                    <p style="color: rgb(51, 51, 51); font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">*
+                        For each sentence, general type and two specific types must be distinct (i.e., you cannot repeat
+                        person, person, person).</p>
+
+                    <p style="color: rgb(51, 51, 51); font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">
+                        <span style="font-size: 11.7px;">* When the sentence is incomprehensible or you cannot guess types, leave three type&nbsp;columns empty and mark the&nbsp;</span><strong
+                            style="font-size: 11.7px;">Error</strong><span style="font-size: 11.7px;">&nbsp;checkbox.&nbsp;</span>Please
+                        read the sentence carefully and mark the checkbox&nbsp;only when&nbsp;necessary. For each
+                        example with five examples, we assume no more than two example should be marked as error.&nbsp;
+                    </p>
+
+                    <h5>*** Make sure that specific type for each example refers to the&nbsp;<font color="#ff0000"><b>subset</b></font>&nbsp;of
+                        the general type. In the first example, coach and manager is subset of person. ***</h5>
+
+                    <p style="color: rgb(51, 51, 51);"><strong><em>Examples</em></strong>:</p>
+
+                    <table border="3" cellpadding="5" cellspacing="2" style="color: rgb(51, 51, 51); font-size: 1em;">
+                        <colgroup>
+                            <col span="1" style="width: 60%;"/>
+                            <col span="1" style="width: 10%;"/>
+                            <col span="1" style="width: 10%;"/>
+                            <col span="1" style="width: 10%;"/>
+                            <col span="1" style="width: 10%;"/>
+                        </colgroup>
+                        <tbody>
+                        <tr>
+                            <td><strong>Sentence</strong></td>
+                            <td><b>General Types</b></td>
+                            <td colspan="2" rowspan="1"><b
+                                    style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">Specific
+                                Types</b></td>
+                            <td><b>Error</b></td>
+                        </tr>
+                        <tr>
+                            <td>"
+                                <mark>He</mark>
+                                said he would take more time before resubmitting his team for approval."
+                            </td>
+                            <td>person</td>
+                            <td>coach</td>
+                            <td>manager</td>
+                            <td><input name="33" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td>But the Sudanese government has long denied that
+                                <mark>it</mark>
+                                has targeted civilians as part of its military campaign against the rebels.
+                            </td>
+                            <td>organization</td>
+                            <td>government</td>
+                            <td>authority</td>
+                            <td><input name="33" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td>``
+                                <mark>My teacher</mark>
+                                said it was OK for me to use the notes on the test , '' he said .
+                            </td>
+                            <td>person</td>
+                            <td>teacher</td>
+                            <td>instructor</td>
+                            <td><input name="33" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td>The five astronauts returned to Earth about three hours early because
+                                <mark>high winds</mark>
+                                had been predicted at the landing site .
+                            </td>
+                            <td>event</td>
+                            <td>wind</td>
+                            <td>difficulty</td>
+                            <td><input name="33" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td>So , it 's not all that hard to push
+                                <mark>a rope-you just need</mark>
+                                to freeze it first .
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td><input checked="yes" name="33" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td>So when American Brands Inc. decided to sell the unit in 1987 as part of a divestiture
+                                of its food and security industries operations,
+                                <mark>Mr. Watchen</mark>
+                                saw a chance to accomplish several objectives .
+                            </td>
+                            <td>person</td>
+                            <td>professional</td>
+                            <td>businessman</td>
+                            <td><input name="33" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td>At
+                                <mark>a June EC summit</mark>
+                                , Mrs. Thatcher appeared to ease her opposition to full EMS membership.
+                            </td>
+                            <td>event</td>
+                            <td>summit</td>
+                            <td>conference</td>
+                            <td><input name="33" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <mark>It</mark>
+                                allows us to begin talking to a range of people who were connected to the Apollo and its
+                                history.
+                            </td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td>&nbsp;</td>
+                            <td><input checked="yes" type="checkbox"/></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    &nbsp;
+
+                    <p style="color: rgb(51, 51, 51);"><strong><em>Common Mistakes</em></strong></p>
+                    Here we present some common mistakes. Incorrect types are written in <strong><span
+                        style="color:#FF0000;">red</span></strong>, correct types in <strong><span
+                        style="color:#008000;">green</span></strong>.
+
+                    <table border="3" cellpadding="5" cellspacing="2" style="color: rgb(51, 51, 51); font-size: 1em;">
+                        <colgroup>
+                            <col span="1" style="width: 60%;"/>
+                            <col span="1" style="width: 10%;"/>
+                            <col span="1" style="width: 10%;"/>
+                            <col span="1" style="width: 10%;"/>
+                            <col span="1" style="width: 10%;"/>
+                        </colgroup>
+                        <tbody>
+                        <tr>
+                            <td><strong>Sentence</strong></td>
+                            <td><b>General Types</b></td>
+                            <td colspan="2" rowspan="1"><b
+                                    style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">Specific
+                                Types</b></td>
+                            <td><b>Error</b></td>
+                        </tr>
+                        <tr>
+                            <td>He stuck
+                                <mark> his hand</mark>
+                                in among those that were brutally beating Steve and shot him in the chest . ''
+                            </td>
+                            <td><span style="color:#008000;">object</span></td>
+                            <td><span style="color:#FF0000;">finger</span></td>
+                            <td><span style="color:#008000;">body_part</span></td>
+                            <td><input type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td colspan="5">Explanation: Finger is smaller unit than the hand, so cannot be a type of
+                                hand.&nbsp;
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Lake Salar de Uyuni is covered up with a thin layer of water during
+                                <mark> the rainy season</mark>
+                                and turns into a huge mirror .
+                            </td>
+                            <td><span style="color:#008000;">time</span></td>
+                            <td><span style="color:#008000;">period</span></td>
+                            <td><span style="color:#FF0000;">difficulty</span></td>
+                            <td><input type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td colspan="5">Explanation: It is difficult to infer rainy season is a difficulty from the
+                                context. Acceptable specific types include period, season.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>``
+                                <mark> I</mark>
+                                would n't make all that much of it , '' said Carter , who has worked as a consultant for
+                                the Rose Bowl , as well as analyzing Los Angeles sites .
+                            </td>
+                            <td><span style="color:#008000;">person</span></td>
+                            <td><span style="color:#008000;">analyst</span></td>
+                            <td><span style="color:#FF0000;">media</span></td>
+                            <td><input type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td colspan="5">Explanation: While working in the media, here ``I" is a person, which does
+                                not belong to concept media. Other suitable specific types include professional,
+                                consultant, employee.
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+
+                    <p style="color: rgb(51, 51, 51);">&nbsp;</p>
+
+                    <p style="color: rgb(51, 51, 51);"><span
+                            style="font-size: 11.7px;">The followings&nbsp;</span><strong
+                            style="font-size: 11.7px;"><span style="color: rgb(255, 0, 0);">are not</span></strong><span
+                            style="font-size: 11.7px;">&nbsp;considered as types: Pronouns&nbsp;</span><span
+                            style="font-size: 11.7px;">(i.e., you, them, they, I, it, he, she, self), Quantifying expressions</span><span
+                            style="font-size: 11.7px;">&nbsp;(i.e., all, both, many), Names (i.e., Jon, Mary, George), Adjective or adverb (i.e., ancient, beautiful, religious).</span>
+                    </p>
+
+                    <p style="color: rgb(51, 51, 51);"><span
+                            style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">Feel free to send questions, Thanks for your interest in the task!</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <section style="color: rgb(51, 51, 51);">
+            <div style="display:none;">${InputID1}${InputID2}${InputID3}${InputID4}${InputID5}</div>
+
+            <fieldset>
+                <table border="3" cellpadding="5" cellspacing="2" style="font-size:1em;">
+                    <colgroup>
+                        <col span="1" style="width: 55%;"/>
+                        <col span="1" style="width: 15%;"/>
+                        <col span="1" style="width: 15%;"/>
+                        <col span="1" style="width: 15%;"/>
+                        <col span="1" style="width: 5%;"/>
+                    </colgroup>
+                    <tbody>
+                    <tr>
+                        <td><strong>Sentence</strong></td>
+                        <td><b>General Types</b></td>
+                        <td colspan="2" rowspan="1"><b
+                                style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">Specific Types</b>
+                        </td>
+                        <td><b>Error</b></td>
+                    </tr>
+                    <tr>
+                        <td>${S1}</td>
+                        <td><input class="form-control" id="txt1" name="GenType0" size="20" type="text"/></td>
+                        <td><input class="form-control" name="FineTypeA0" size="20" type="text"/></td>
+                        <td><input class="form-control" name="FineTypeB0" size="20" type="text"/></td>
+                        <td><input name="NA0" type="checkbox"/></td>
+                    </tr>
+                    <tr>
+                        <td>${S2}</td>
+                        <td><input class="form-control" id="txt2" name="GenType1" size="20" type="text"/></td>
+                        <td><input class="form-control" name="FineTypeA1" size="20" type="text"/></td>
+                        <td><input class="form-control" name="FineTypeB1" size="20" type="text"/></td>
+                        <td><input name="NA1" type="checkbox"/></td>
+                    </tr>
+                    <tr>
+                        <td>${S3}</td>
+                        <td><input class="form-control" name="GenType2" size="20" type="text"/></td>
+                        <td><input class="form-control" name="FineTypeA2" size="20" type="text"/></td>
+                        <td><input class="form-control" name="FineTypeB2" size="20" type="text"/></td>
+                        <td><input name="NA2" type="checkbox"/></td>
+                    </tr>
+                    <tr>
+                        <td>${S4}</td>
+                        <td><input class="form-control" name="GenType3" size="20" type="text"/></td>
+                        <td><input class="form-control" name="FineTypeA3" size="20" type="text"/></td>
+                        <td><input class="form-control" name="FineTypeB3" size="20" type="text"/></td>
+                        <td><input name="NA3" type="checkbox"/></td>
+                    </tr>
+                    <tr>
+                        <td>${S5}</td>
+                        <td><input class="form-control" name="GenType4" size="20"/></td>
+                        <td><input class="form-control" name="FineTypeA4" size="20"/></td>
+                        <td><input class="form-control" name="FineTypeB4" size="20"/></td>
+                        <td><input name="NA4" type="checkbox"/></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </fieldset>
+        </section>
+    </div>
+</section>
+<link href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css" rel="stylesheet"/>
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+<script src="https://s3.amazonaws.com/MY89_js/jquery.cookie.js"></script>
+<script>
+    function myFunction() {
+        var x = document.getElementById('myDIV');
+        if (x.style.display === 'none') {
+            x.style.display = 'block';
+        } else {
+            x.style.display = 'none';
+        }
+    }
+
+    bars = ["GenType", "FineTypeA", "FineTypeB"];
+    rows = 5;
+
+    function validate() {
+        var total_na = 0;
+        for (var i = 0; i < rows; i++) {
+            var missing = 0;
+            var has_text = 0;
+            for (var k = 0; k < bars.length; k++) {
+                var value = $("[name='" + bars[k] + i + "']").val()
+                if ($.inArray(value, ontology) == -1) missing = k + 1;
+                if (value.length > 0) has_text = 1;
+            }
+            var gen_value = $("[name='" + bars[0] + i + "']").val();
+            var fine1_value = $("[name='" + bars[1] + i + "']").val();
+            var fine2_value = $("[name='" + bars[2] + i + "']").val();
+            var value = $("[name='NA" + i + "']").is(":checked");
+            if (value) {
+                total_na += 1;
+            }
+            if (value && has_text) {
+                alert("row " + (i + 1) + " has ignore checked but boxes have values");
+                return false;
+            }
+            if (!value) {
+                if (missing > 0) {
+                    alert("row " + (i + 1) + ", box " + missing + " has a value that does not match dropdown");
+                    return false;
+                }
+                if (fine1_value == fine2_value || fine1_value == gen_value || fine2_value == gen_value) {
+                    alert("row " + (i + 1) + " has repeating types. General type and two specific type must be distinct.");
+                    return false;
+                }
+            }
+        }
+        if (total_na > 2) {
+            alert("You have clicked more two rows as errors. Please review.");
+            return false;
+        }
+        return true;
+
+    }
+</script>
+<p style="text-align: center;"><input id="submitButton" onclick="return validate()" type="submit" value="Submit"/></p>
+<script src="https://homes.cs.washington.edu/~eunsol/data/ontology.js"></script>
+<script>
+    var display = function (request, callback) {
+        var max = 20;
+        var search_value = request.term.toLowerCase();
+        var l0 = [[], [], [], [], [], [], [], [], []];
+        var l1 = [[], [], [], [], [], [], [], [], []];
+        var l2 = [];
+        for (var k = 0; k < ontology.length; k++) {
+            var current_value = ontology[k].toLowerCase();
+            var splits = current_value.split(" ");
+            for (var p = 0; p < splits.length; p++) {
+                if (splits[p] === search_value) {
+                    l0[p].push(current_value);
+                    break;
+                }
+                if (splits[p].startsWith(search_value)) {
+                    l1[p].push(current_value);
+                    break;
+                }
+            }
+            if (current_value.includes(search_value)) {
+                l2.push(current_value);
+            }
+        }
+        rv = [];
+        for (var p = 0; p < l0.length && rv.length < max; p++) {
+            for (var i = 0; i < l0[p].length; i++) {
+                if ($.inArray(l0[p][i], rv) == -1) rv.push(l0[p][i])
+            }
+        }
+        ;
+        for (var p = 0; p < l1.length && rv.length < max; p++) {
+            for (var i = 0; i < l1[p].length; i++) {
+                if ($.inArray(l1[p][i], rv) == -1) rv.push(l1[p][i])
+            }
+        }
+        ;
+        for (var i = 0; i < l2.length && rv.length < max; i++) {
+            if ($.inArray(l2[i], rv) == -1) rv.push(l2[i])
+        }
+        ;
+        callback(rv);
+    }
+
+    for (var k = 0; k < bars.length; k++) {
+        for (var i = 0; i < rows; i++) {
+            $("[name='" + bars[k] + i + "']").autocomplete({
+                minLength: 3,
+                source: display
+                //,
+                //select: function( event, ui ) {
+                //alert(event.target.id);
+                //}
+            });
+        }
+    }
+</script>
