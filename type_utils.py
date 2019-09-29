@@ -73,6 +73,7 @@ def get_ontology():
             for prof in yt_bad_words:
                 if prof == w:
                     print(prof, word)
+
                     dirty = True
                     break
             if dirty:
