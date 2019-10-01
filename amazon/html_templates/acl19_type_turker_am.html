@@ -26,19 +26,20 @@
                         </p>
 
                         <p style="color: rgb(51, 51, 51);">For each assignment, there will be a highlighted term for you
-                            to
-                            annotate. Please select or enter two
-                            <b>specific types</b> that it belongs to.
+                            to annotate. Please select two
+                            <b>specific type labels</b> for it from the dropdown menu.
                         </p>
                         <p>
                             The sources of the sentences are various research datasets including news and Weibo text
                             data.
-                            Sentences are in Simplified Chinese and the types/labels can be either in <b>Chinese or
-                            English</b>.
+                            Sentences are in Simplified Chinese and the types/labels are in <b>English</b>.
                         </p>
+                        <h3>*** This is &nbsp;<font color="#ff0000"><b>not a translation task!!</b></font>&nbsp;The goal
+                            is to get the <font color="#ff0000"><b>type/category</b></font> for the targeted term.***</h3>
 
+                        <br style="margin-bottom:240px;"/>
 
-                        <p style="color: rgb(51, 51, 51);"><strong><em>We provide some examples for the
+                        <p style="color: rgb(51, 51, 51);"><strong><em>Here we provide some examples for the
                             task:</em></strong></p>
 
                         <table border="3" cellpadding="5" cellspacing="2"
@@ -163,13 +164,7 @@
 
                         <p style="color: rgb(51, 51, 51);"><strong><em>Annotation details:</em></strong></p>
 
-                        <p style="color: rgb(51, 51, 51);">* In each slot, a dropdown menu will appear as you type. You
-                            can
-                            choose from it or <strong>enter freely</strong> for any types you think is suitable for the
-                            highlighted term.
-                            Here are the <a target="_blank" href="https://cleeag.github.io/files/crowd_types.js">
-                                2500 entity types</a> available. We encourage you to create your own annotation outside
-                            of these 2500 types.
+                        <p style="color: rgb(51, 51, 51);">* Please select a type/label from the dropdown menu.
                         </p>
 
                         <p>* Please fill-in <b>every</b> slots in the “specific types” with different types unless you check the
@@ -268,14 +263,8 @@
                         ><span style="color: rgb(255, 0, 0);">are not</span></strong><span
                         >&nbsp;considered as types: Pronouns&nbsp;</span><span
                         >(i.e., you, them, they, I, it, he, she, self), Quantifying expressions</span><span
-                        >&nbsp;(i.e., all, both, many), Names (i.e., Jon, Mary, George), Adjective or adverb (i.e., ancient, beautiful, religious).</span>
+                        >&nbsp;(i.e., all, both, many), Names (i.e., Jon, Mary, George, USA, ), Adjective or adverb (i.e., ancient, beautiful, religious).</span>
                         </p>
-                        <p style="color: rgb(51, 51, 51)">Please be careful with your <strong
-                        ><span style="color: rgb(255, 0, 0);">spellings</span></strong> and not to commit typos!! Also
-                            please convert all plurals into their singular forms.</p>
-                        <p>Please don't directly annotate
-                            the <strong><span style="color: rgb(255, 0, 0);">translation</span></strong>
-                            of your the other type for a single assignment. E.g. 1. Person, 2. 人</p>
                         <br style="margin-bottom:240px;"/>
                         <p style="color: rgb(51, 51, 51);"><strong><em>Feel free to send questions, and thank you for
                             your
@@ -425,7 +414,6 @@
             <script src="//code.jquery.com/jquery-1.10.2.js"></script>
             <script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
             <script src="https://s3.amazonaws.com/MY89_js/jquery.cookie.js"></script>
-            <script src="https://cleeag.github.io/files/crowd_types.js"></script>
             <script src="https://cleeag.github.io/files/cufe_ontology.js"></script>
 
             <script>
@@ -449,8 +437,11 @@
                         var has_text = 0;
                         for (var k = 0; k < bars.length; k++) {
                             var value = $("[name='" + bars[k] + i + "']").val();
-                            if (bars[k] == 'FineTypeA' && $.inArray(value, ontology) == -1) missing_fine += 1;
-                            if (bars[k] == 'FineTypeB' && $.inArray(value, ontology) == -1) missing_fine += 1;
+
+
+                            if ($.inArray(value, ontology) == -1) {
+                                missing_fine += 1;
+                            }
 
                             if (value.length > 0) has_text += 1;
                         }
@@ -482,12 +473,9 @@
                     }
                     if (val) alert('Your answers are ready to be submitted.');
                     return true;
-
-
                 }
 
             </script>
-
 
             <script>
 
@@ -514,7 +502,6 @@
                             l2.push(current_value);
                         }
                     }
-                    // alert(l1)
                     rv = [];
                     for (var p = 0; p < l0.length && rv.length < max; p++) {
                         for (var i = 0; i < l0[p].length && rv.length < max; i++) {
@@ -522,20 +509,16 @@
                         }
                     }
                     ;
-
                     for (var p = 0; p < l1.length && rv.length < max; p++) {
                         for (var i = 0; i < l1[p].length && rv.length < max; i++) {
                             if ($.inArray(l1[p][i], rv) == -1) rv.push(l1[p][i])
                         }
                     }
                     ;
-
                     for (var i = 0; i < l2.length && rv.length < max; i++) {
                         if ($.inArray(l2[i], rv) == -1) rv.push(l2[i])
                     }
                     ;
-                    // alert(rv);
-                    // alert(rv.length);
                     callback(rv);
                 };
                 rows = 5;
@@ -543,8 +526,8 @@
                     for (var i = 0; i < rows; i++) {
 
                         $("[name='" + bars[k] + i + "']").autocomplete({
-                            minLength: 0,
-                            source: display_all
+                            minLength: 1,
+                            source: display_all,
                         });
                     }
 
