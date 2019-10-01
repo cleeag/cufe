@@ -11,25 +11,41 @@ import string
 data_dir = '/home/cleeag/cufe/data'
 cpu3_data_dir = '/data/cleeag/wikidata'
 
+
+def camel_case_split(identifier):
+    matches = re.finditer('.+?(?:(?<=[a-z])(?=[A-Z])|(?<=[A-Z])(?=[A-Z][a-z])|$)', identifier)
+    return [m.group(0) for m in matches]
+
 def filter_ontology(ontology):
     country_list_path = join(data_dir, 'types', 'ontology', 'country_list.txt')
-    with open(country_list_path, 'r') as r:
+    nationality_list_path = join(data_dir, 'types', 'ontology', 'nationality_list.csv')
+    with open(country_list_path, 'r') as r,  open(nationality_list_path, 'r') as r2:
         country_ls = [x.strip().lower() for x in r.readlines()]
+        reader = csv.reader(r2)
+        next(reader)
+        nationality_ls = []
+        for line in reader:
+            country_ls.append(line[-2])
+            nationality_ls.append(line[-1])
 
     filtered_type_ls = []
-    bad_char_list = ['(', ')', '{', '}', 'wiki', ':', 'Category:', 'aa', 'beta-', 'metabol', '.', 'phosph', 'dna-', 'gluc', 'response to', 'united states']
-    bad_word_list = ['of', 'name', 'acid', 'atp', 'dna', 'acute', 'german', 'protein']
+    bad_char_list = ['(', ')', '{', '}', 'wiki', ':', 'Category:', 'aa', 'beta-', 'metabol', '.',
+                     'phosph', 'dna-', 'gluc', 'response to', 'united states', 'glu', 'gly']
+    bad_word_list = ['of', 'name', 'acid', 'atp', 'dna', 'acute', 'german', 'protein',
+                     'category']
     bad_word_list.extend(country_ls)
+    bad_word_list.extend(nationality_ls)
     total_count, bad_count = 0, 0
-    for word in tqdm(ontology):
+    for word in tqdm(ontology, desc='filtering...'):
         bad_tp = False
+
         for ban_char in bad_char_list:
             if ban_char.lower() in word.lower():
                 # print(ban_word, word)
                 bad_tp = True
                 break
         for ban_word in bad_word_list:
-            if ban_word.lower() in [x.lower() for x in word.split(' ')]:
+            if ban_word.lower() in [x.lower().strip() for x in word.split(' ')]:
                 # print(ban_word, word)
                 bad_tp = True
                 break
@@ -38,8 +54,8 @@ def filter_ontology(ontology):
             if len(word.split(' ')) > 5 \
                     or word == '' \
                     or word[0] in '.?!_*&^%$#@-=+"\'\/,<[>]\\\|' \
-                    or word.split(' ')[0] in list(string.ascii_lowercase) + ['the', 'a*', 'uci', 'uk', 'un'] \
-                    or word.split('-')[0] in list(string.ascii_lowercase) + ['the', 'a*', 'alpha', 'atp', 'australian'] \
+                    or word.split(' ')[0].strip() in list(string.ascii_lowercase) + ['the', 'a*', 'uci', 'uk', 'un'] \
+                    or word.split('-')[0].strip() in list(string.ascii_lowercase) + ['the', 'a*', 'alpha', 'atp', 'australian'] \
                     or any(char.isdigit() for char in word):
                 # print(word)
                 bad_tp = True
@@ -75,8 +91,8 @@ def filter_ontology(ontology):
 
 def get_type_set_from_wikidata():
     all_types_path = join(cpu3_data_dir, 'wikidata_types.txt')
-    # processed_all_types_path = join(cpu3_data_dir, 'processed_wikidata_types.txt')
-    processed_all_types_path = join(data_dir, 'types',  'ontology', 'processed_wikidata_types.txt')
+    processed_300k_types_path = join(cpu3_data_dir, 'processed_wikidata_types_300k.txt')
+    processed_10_up_types_path = join(data_dir, 'types',  'ontology', 'processed_wikidata_types_>10.txt')
 
     type_dict = defaultdict(int)
     with open(all_types_path, 'r') as r:
@@ -87,18 +103,16 @@ def get_type_set_from_wikidata():
             for dt in diff_types:
                 type_dict[dt] += int(row[1])
                 # print(type_dict[dt])
-    type_ls = [k for k, v in type_dict.items()]
-    # type_ls.sort(key=lambda x:x[1], reverse=True)
-    type_ls.sort()
+    type_ls = [(k, v) for k, v in type_dict.items()]
+    type_ls.sort(key=lambda x:x[1], reverse=True)
+    type_ls_more_than_10 = [k for k, v in type_ls if v > 10]
+    # type_ls_more_than_10.sort()
     print(type_ls[:10])
 
-    # filter the list
-
-    # filtered_type_ls = filter_ontology(type_ls)
-    with open(processed_all_types_path, 'w') as w:
-        # writer = csv.writer(w)
-        # writer.writerows(filtered_type_ls)
-        w.writelines([x +'\n' for x in type_ls])
+    with open(processed_300k_types_path, 'w') as w, open(processed_10_up_types_path, 'w') as w2:
+        writer1 = csv.writer(w)
+        writer1.writerows(type_ls)
+        w2.writelines([x +'\n' for x in type_ls_more_than_10])
 
 
 def get_ontology_from_ufet_types():
@@ -123,7 +137,7 @@ def get_ontology_from_ufet_types():
 
 def get_ontology():
     great_noun_list_path = join(data_dir, 'types', 'ontology', 'the_great_noun_list.txt')
-    wikidata_ontology_path = join(data_dir, 'types',  'ontology', 'processed_wikidata_types.txt')
+    wikidata_ontology_path = join(data_dir, 'types',  'ontology', 'processed_wikidata_types_>10.txt')
     # ufet_ontology_path = join(data_dir, 'types',  'ontology', 'ufet_ontology.txt')
     # all_types_path = join(data_dir, 'types', 'all_types.txt')
     all_types_path = join(data_dir, 'types', 'crowd_types.txt')
@@ -142,8 +156,6 @@ def get_ontology():
         wikidata_ontology = r2.readlines()
         all_types = r3.readlines()
         yago_types = r4.readlines()
-        country_set = set([x.strip().lower() for x in r5.readlines()])
-        yt_bad_words = set([x.strip().lower() for x in r6.read().split(',')])
 
     great_noun_list = [' '.join(x.strip().split('-')) for x in great_noun_list]
     # all_types = [' '.join(x.strip().split('_')).lower() for x in all_types]
@@ -152,9 +164,6 @@ def get_ontology():
     wikidata_ontology = [x.strip() for x in wikidata_ontology]
     new_yago_types = []
 
-    def camel_case_split(identifier):
-        matches = re.finditer('.+?(?:(?<=[a-z])(?=[A-Z])|(?<=[A-Z])(?=[A-Z][a-z])|$)', identifier)
-        return [m.group(0) for m in matches]
     for typ in yago_types:
         typ_str = typ.split('\t')[0]
         s = ''
@@ -176,8 +185,8 @@ def get_ontology():
     gs.update(wikidata_ontology + all_types + new_yago_types)
 
     ontology = [x.lower() + '\n' for x in gs]
-
     ontology = filter_ontology(ontology)
+
     ontology_js_path = join(data_dir, 'types', 'js', 'cufe_ontology.js')
     with open(ontology_output_path, 'w') as w, open(ontology_js_path, 'w') as w2:
         w.writelines(ontology)
@@ -288,5 +297,5 @@ if __name__ == '__main__':
     # get_crowd_and_distant_types()
     # types_to_js()
     # get_ontology_from_ufet_types()
-    # get_type_set_from_wikidata()
+    get_type_set_from_wikidata()
     get_ontology()

@@ -482,43 +482,39 @@
                 var display_all = function (request, callback) {
                     var max = 50;
                     var search_value = request.term.toLowerCase();
-                    var l0 = [[], [], [], [], [], [], [], [], []];
-                    var l1 = [[], [], [], [], [], [], [], [], []];
+
+                    var l0 = [];
+                    var l1 = [];
                     var l2 = [];
+
                     for (var k = 0; k < ontology.length; k++) {
                         var current_value = ontology[k].toLowerCase();
-                        var splits = current_value.split(" ");
-                        for (var p = 0; p < splits.length; p++) {
-                            if (splits[p] === search_value) {
-                                l0[p].push(current_value);
-                                break;
-                            }
-                            if (splits[p].startsWith(search_value)) {
-                                l1[p].push(current_value);
-                                break;
-                            }
+                        if (current_value === search_value && l0.length < max) {
+                            l0.push(current_value);
+                            console.log(l0);
+                            continue;
                         }
-                        if (current_value.includes(search_value)) {
+                        if (current_value.startsWith(search_value) && l1.length < max) {
+                            l1.push(current_value);
+                            continue;
+
+                        }
+                        if (current_value.includes(search_value) && l2.length < max) {
                             l2.push(current_value);
                         }
                     }
+                    console.log(l0);
+                    console.log(l1);
+                    console.log(l2);
+                    l0 = l0.concat(l1);
+                    l0 = l0.concat(l2);
+                    console.log(l0)
                     rv = [];
                     for (var p = 0; p < l0.length && rv.length < max; p++) {
-                        for (var i = 0; i < l0[p].length && rv.length < max; i++) {
-                            if ($.inArray(l0[p][i], rv) == -1) rv.push(l0[p][i])
-                        }
+                        if ($.inArray(l0[p], rv) == -1) rv.push(l0[p])
                     }
-                    ;
-                    for (var p = 0; p < l1.length && rv.length < max; p++) {
-                        for (var i = 0; i < l1[p].length && rv.length < max; i++) {
-                            if ($.inArray(l1[p][i], rv) == -1) rv.push(l1[p][i])
-                        }
-                    }
-                    ;
-                    for (var i = 0; i < l2.length && rv.length < max; i++) {
-                        if ($.inArray(l2[i], rv) == -1) rv.push(l2[i])
-                    }
-                    ;
+
+
                     callback(rv);
                 };
                 rows = 5;
@@ -526,7 +522,7 @@
                     for (var i = 0; i < rows; i++) {
 
                         $("[name='" + bars[k] + i + "']").autocomplete({
-                            minLength: 1,
+                            minLength: 2,
                             source: display_all,
                         });
                     }
