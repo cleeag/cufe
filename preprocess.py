@@ -21,59 +21,35 @@ format = {'mention': '',
           'sentence_id': '',
           'mention_id': ''}
 
-
-def explore_short_sents():
-    # mention_path = join(home_dir, 'data', 'cufe_sent2mention.txt')
-    mention_path = join(home_dir, 'data', 'processed', 'cufe_mentions_all.txt')
-    short_sents_output = join(home_dir, 'data', 'processed', 'cufe_mention_short_sents.txt')
-    with open(mention_path, 'r') as r:
-        cufe_mentions_all = [json.loads(x) for x in r.readlines()]
-    sent_length_dict = {}
-    sent_length_ls = []
-    with open(short_sents_output, 'w') as w:
-        for sent_dict in tqdm(cufe_mentions_all):
-            if sent_dict['mention_type'] == 'PRO' and sent_dict['sentence_id'] not in sent_length_dict:
-                sent_length_dict[sent_dict['sentence_id']] = len(sent_dict['sentence'])
-                sent_length_ls.append(len(sent_dict['sentence']))
-                if len(sent_dict['sentence']) < 50:
-                    w.write(json.dumps(sent_dict, ensure_ascii=False) + '\n')
-
-
-
-    mention_count = [(k, v) for k, v in Counter(sent_length_ls).items()]
-    total_mentions = sum([v for k, v in mention_count])
-    print(total_mentions)
-    mention_count.sort(key=lambda x: x[0], reverse=True)
-    mention_count = ['\t'.join([str(k), str(v)]) + '\n' for k, v in mention_count]
-
-    with open(join(home_dir, 'data', 'sent_len.txt'), 'w') as w:
-        w.writelines(mention_count)
-
-    import matplotlib.pyplot as plt
-    import numpy as np
-    plt.hist(sent_length_ls, cumulative=True, range=(0, 200), bins=50)
-    plt.ylabel('sent length count')
-    plt.savefig(join('data','test.png'))
-
-
-def get_amz_csv_format():
+def get_amz_csv_format(test_num=100):
     input_file = 'cufe_mention_sampled'
-    # input_file = 'cufe_mention_short_sents'
     cufe_mention_path = join(home_dir, 'data', 'processed', f'{input_file}.txt')
     sample_mention_output_path = join(home_dir, 'data', 'processed', f'{input_file}_amazon.csv')
-    delimiter = ','
-    # delimiter = '\t'
+    test_sample_mention_output_path = join(home_dir, 'data', 'processed', f'{input_file}_amazon_{test_num}_test.csv')
+    headers = ['mention_id_1', 'mention_id_2', 'mention_id_3', 'mention_id_4', 'mention_id_5',
+               's1', 's2', 's3', 's4', 's5',
+               'm1', 'm2', 'm3', 'm4', 'm5']
+    if test_num > 0:
+        tw = open(test_sample_mention_output_path, 'w')
+        test_writer = csv.writer(tw)
+        test_writer.writerow(headers)
+    test_count = 0
+
     with open(cufe_mention_path, 'r') as r, open(sample_mention_output_path, 'w') as w:
         data = r.readlines()
         random.shuffle(data)
         writer = csv.writer(w)
-        writer.writerow(['mention_id_1', 'mention_id_2', 'mention_id_3', 'mention_id_4', 'mention_id_5',
-                         's1', 's2', 's3', 's4', 's5',
-                         'm1', 'm2', 'm3', 'm4', 'm5'])
+        writer.writerow(headers)
+
         input_id_ls, sent_ls, mention_ls = [], [], []
         for line in data:
             if len(input_id_ls) == 5:
                 writer.writerow(input_id_ls + sent_ls + mention_ls)
+                if test_num > 0 and test_count < test_num:
+                    test_writer.writerow(input_id_ls + sent_ls + mention_ls)
+                    test_count += 5
+                elif test_num > 0 and test_count == test_num:
+                    tw.close()
 
                 input_id_ls, sent_ls, mention_ls = [], [], []
 
@@ -88,63 +64,100 @@ def get_amz_csv_format():
             mention_ls.append(mention)
 
 
-def count_mentions():
-    sample_mention_path = join(home_dir, 'data', 'processed', 'cufe_mention_sampled.txt')
-    mention_count_output_path = join(home_dir, 'data', 'processed', 'mention_count.txt')
-    with open(sample_mention_path, 'r') as r, open(mention_count_output_path, 'w') as w:
-        data = r.readlines()
-        all_mentions = []
-        for line in data:
-            sent = json.loads(line)
-            all_mentions.append(sent['mention'].strip())
+def filter_data(data):
+    filtered_data = []
+    count = 0
+    for line in data:
+        mention_dict = json.loads(line)
+        mention = mention_dict['mention']
+        sentence = mention_dict['sentence']
+        # sentence_id = mention_dict['sentence_id']
+        # mention_type = mention_dict['mention_type']
+        # source = mention_dict['source']
+        if 'http://' in mention:
+            # print(mention)
+            continue
+        if '@' in sentence:
+            # print(sentence)
+            continue
+        if len(mention) / len(sentence) > 0.2 and len(sentence) < 15:
+            # print(mention)
+            # print(sentence)
+            if random.uniform(0, 1) > 0.4:
+                count += 1
+                continue
+        # if len(mention) == 2 and '某' in mention:
+            # print(mention)
+            # print(sentence)
+            # count += 1
+            # continue
 
-        # all_mentions.sort()
-        mention_count = [(k, v) for k, v in Counter(all_mentions).items()]
-        total_mentions = sum([v for k, v in mention_count if v > 10])
-        print(total_mentions)
-        mention_count.sort(key=lambda x: x[1], reverse=True)
-        mention_count = ['\t'.join([k, str(v)]) + '\n' for k, v in mention_count]
-
-        w.writelines(mention_count)
+        new_line = line.replace('\n', '')
+        new_line = new_line.replace('\\n', '')
+        filtered_data.append(new_line)
+    print(count)
+    return filtered_data
 
 def sample_mention_file():
     cufe_mention_path = join(home_dir, 'data', 'processed', 'cufe_mentions_all.txt')
     sample_mention_output_path = join(home_dir, 'data', 'processed', 'cufe_mention_sampled.txt')
     with open(cufe_mention_path, 'r') as r, open(sample_mention_output_path, 'w') as w:
         data = r.readlines()
-        random.shuffle(data)
+        sampled_mention_ls =[]
         mention_count_dict = defaultdict(int)
         sent_count_dict = defaultdict(int)
         type_count_dict = defaultdict(int)
         prnoun_count_dict = defaultdict(int)
         source_count = defaultdict(int)
-        max_data_from_source = 5000
+        source_count_2 = defaultdict(int)
+        max_data_from_source = 3200
         max_seq_length = 256
-        for i, line in tqdm(enumerate(data)):
-            # mention_dict = json.loads(line, encoding='utf-8')
+        total_num = 8000
+        nam_num = total_num / 10 * 9
+        pro_num = total_num / 10
+
+        filtered_data = filter_data(data)
+
+        for i, line in tqdm(enumerate(filtered_data)):
             mention_dict = json.loads(line)
             mention = mention_dict['mention']
             sentence_id = mention_dict['sentence_id']
             mention_type = mention_dict['mention_type']
             source = mention_dict['source']
-            # if source == 'golden_horse':
-            #     w.write(json.dumps(mention_dict, ensure_ascii=False) + '\n')
-            #     type_count_dict[mention_type] += 1
-            #     source_count[source] += 1
-            if mention_type == 'NAM' and mention_count_dict[mention] < 5 \
+            sentence = mention_dict['sentence']
+            if mention_type == 'NAM' and mention_count_dict[mention] < 8 \
                     and sent_count_dict[sentence_id] < 10 and source_count[source] < max_data_from_source \
-                    and len(mention_dict['sentence']) < max_seq_length:
-                w.write(json.dumps(mention_dict, ensure_ascii=False) + '\n')
+                    and len(sentence) < max_seq_length \
+                    and type_count_dict[mention_type] < nam_num:
+
+                sampled_mention_ls.append(mention_dict)
+
                 type_count_dict[mention_type] += 1
                 source_count[source] += 1
+                source_count_2['_'.join([source, mention_type])] += 1
+            mention_count_dict[mention] += 1
+            sent_count_dict[sentence_id] += 1
 
-            elif mention_type == 'PRO' and mention_count_dict[mention] < 75 \
-                    and sent_count_dict[sentence_id] < 5 and source_count[source] < max_data_from_source \
-                    and len(mention_dict['sentence']) < max_seq_length:
-                w.write(json.dumps(mention_dict, ensure_ascii=False) + '\n')
+        random.shuffle(filtered_data)
+        for i, line in tqdm(enumerate(filtered_data)):
+            mention_dict = json.loads(line)
+            mention = mention_dict['mention']
+            sentence_id = mention_dict['sentence_id']
+            mention_type = mention_dict['mention_type']
+            source = mention_dict['source']
+            sentence = mention_dict['sentence']
+            if mention_type == 'PRO' \
+                    and sent_count_dict[sentence_id] < 5\
+                    and source_count[source] < max_data_from_source \
+                    and len(sentence) < max_seq_length \
+                    and type_count_dict[mention_type] < pro_num:
+
+                sampled_mention_ls.append(mention_dict)
+
                 type_count_dict[mention_type] += 1
                 prnoun_count_dict[mention] += 1
                 source_count[source] += 1
+                source_count_2['_'.join([source, mention_type])] += 1
 
             mention_count_dict[mention] += 1
             sent_count_dict[sentence_id] += 1
@@ -152,12 +165,17 @@ def sample_mention_file():
         print(type_count_dict)
         print(prnoun_count_dict)
         print(source_count)
-    with open(sample_mention_output_path, 'r') as r:
-        data = r.readlines()
-        type_count_dict = defaultdict(int)
-        for line in data:
-            type_count_dict[json.loads(line)['mention_type']] += 1
-    print(type_count_dict)
+        print(source_count_2)
+        random.shuffle(sampled_mention_ls)
+        for mention_dict in sampled_mention_ls:
+            w.write(json.dumps(mention_dict, ensure_ascii=False) + '\n')
+
+    # with open(sample_mention_output_path, 'r') as r:
+    #     data = r.readlines()
+    #     type_count_dict = defaultdict(int)
+    #     for line in data:
+    #         type_count_dict[json.loads(line)['mention_type']] += 1
+    # print(type_count_dict)
 
 
 
@@ -212,11 +230,10 @@ def combine_all():
         golden_horse = r2.readlines()
         boson = r3.readlines()
         renmin = r4.readlines()
-        msra.extend(golden_horse)
-        msra.extend(boson)
-        # renmin = random.choices(renmin, k=8000)
-        msra.extend(renmin)
-        data = msra
+        renmin.extend(golden_horse)
+        renmin.extend(msra)
+        renmin.extend(boson)
+        data = renmin
         # random.shuffle(data)
         named_count, pronoun_count = 0, 0
         for i, line in enumerate(data):
@@ -264,22 +281,28 @@ def process_renmin():
 
     # target_set = ('r', 's', 'n', 'np', 'ns', 'ni', 'nz', 'j')
     # target_set = ('rr', 'n_nap', 'n_nh', 'nr', 'nrg', 'ns', 'nt', 'nx', 'nz', 'jd')
-    target_set = ('rr', 'n_nap', 'n_nh', 'nt', 'nx', 'jd')
+    target_set = ('rr', 'n_nap', 'n_nh', 'nt', 'jd')
     too_much = ['nr', 'nrg', 'ns', 'nz']
     all_type_set = set()
     with open(file_path, 'r') as r, open(output_file_path, 'w', encoding='utf-8') as w:
         lines = r.readlines()
         tmp = []
         pronoun_count, pronoun_set = 0, set()
+        typ_count = defaultdict(int)
         for line in tqdm(lines):
             if line.strip() == '' or line.split()[1].strip() in end_sent_symbols:
+                if line.strip() != '' and line.split()[1].strip() in end_sent_symbols:
+                    tmp.append((line.split()[1], line.split()[2]))
                 sent = ''
                 mentions = []
                 for i, (token, typ) in enumerate(tmp):
                     if typ in target_set:
                         if typ == 'rr':
                             pronoun_count += 1
+                            typ_count['PRO'] += 1
                             pronoun_set.add(token)
+                        else:
+                            typ_count['NAM'] += 1
                         span = [0, 0, '', '', '']
                         span[0] = len(sent)
                         span[1] = len(sent) + len(token)
@@ -307,7 +330,7 @@ def process_renmin():
 
     pronoun_set = list(pronoun_set)
     pronoun_set.sort()
-    # print(pronoun_set)
+    print(typ_count)
     print(pronoun_count)
 
 
@@ -354,7 +377,9 @@ def preprocess_golden_horse():
         while line:
             # print(line)
             if line.strip() == '' or line[0] in end_sent_symbols:
-            # if line.strip() == '':
+                if line.strip() != '' and line[0] in end_sent_symbols:
+                    token, token_idx, typ = (line.split()[0][:-1], line.split()[0][-1], line.split()[-1])
+                    tmp.append((token, token_idx, typ))
                 sent = ''
                 mentions = []
                 rolling = False
@@ -425,10 +450,12 @@ def preprocess_boson():
         # processed_data = []
         for _ in tqdm(data):
             text = _
-            sentences = re.split(r'[。！？]', text)
+            sentences = re.split(r'([。！？])', text)
+
             # sentences = [text]
             # print(sentences)
             for sent in sentences:
+                # print(sent)
                 sent = sent.strip()
                 if len(sent) < 5:
                     continue
@@ -452,14 +479,11 @@ def preprocess_boson():
 
 
 if __name__ == '__main__':
-    preprocess_golden_horse()
+    # preprocess_golden_horse()
     # preprocess_boson()
     # preprocess_msra()
     # process_renmin()
-    combine_all()
-    get_mention_file()
+    # combine_all()
+    # get_mention_file()
     sample_mention_file()
-    count_mentions()
-    # explore_short_sents()
-    get_amz_csv_format()
-#
+    get_amz_csv_format(test_num=200)
