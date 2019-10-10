@@ -17,9 +17,11 @@ def camel_case_split(identifier):
     return [m.group(0) for m in matches]
 
 
-def filter_ontology(ontology):
-    country_list_path = join(data_dir, 'types', 'ontology', 'country_list.txt')
-    nationality_list_path = join(data_dir, 'types', 'ontology', 'nationality_list.csv')
+def filter_ontology(ontology, chinese=False):
+    if not chinese:
+        print('filtering...')
+    country_list_path = join(data_dir, 'types', 'filters', 'country_list.txt')
+    nationality_list_path = join(data_dir, 'types', 'filters', 'nationality_list.csv')
     with open(country_list_path, 'r') as r, open(nationality_list_path, 'r') as r2:
         country_ls = [x.strip().lower() for x in r.readlines()]
         reader = csv.reader(r2)
@@ -37,12 +39,13 @@ def filter_ontology(ontology):
     bad_word_list.extend(country_ls)
     bad_word_list.extend(nationality_ls)
     total_count, bad_count = 0, 0
-    for word in tqdm(ontology, desc='filtering...'):
+    # for word in tqdm(ontology, desc='filtering...'):
+    for word in ontology:
         bad_tp = False
 
         for ban_char in bad_char_list:
             if ban_char.lower() in word.lower():
-                # print(ban_word, word)
+                # print(ban_char, word)
                 bad_tp = True
                 break
         for ban_word in bad_word_list:
@@ -65,10 +68,10 @@ def filter_ontology(ontology):
         if not bad_tp:
             for w in word.split(' '):
                 if len(w) > 0 and w[0].isupper():
-                    # print(tp[0])
+                    # print(w)
                     bad_tp = True
                     break
-        if not bad_tp:
+        if not bad_tp and not chinese:
             try:
                 word.encode(encoding='utf-8').decode('ascii')
             except UnicodeDecodeError:
@@ -84,35 +87,57 @@ def filter_ontology(ontology):
             # break
             pass
     filtered_type_ls.sort()
-    print(total_count, bad_count)
+    # print(total_count, bad_count)
 
     return filtered_type_ls
 
+def write_ontology():
+    ontology_path = join(data_dir, 'types', 'ontology', 'cufe_ontology.txt')
+    ontology_output_path = join(data_dir, 'types', 'ontology', 'cufe_ontology2.txt')
+    ontology_js_path = join(data_dir, 'types', 'on_web', 'cufe_ontology2.js')
+    ontology_adding_path = join(data_dir, 'types', 'ontology', 'cufe_ontology_cn_trad.txt')
+    with open(ontology_path, 'r') as r, open(ontology_adding_path, 'r') as r2:
+        ontology = [x.strip() for x in r.readlines()]
+        cn_adding = [x.strip() for x in r2.readlines()]
+    ontology.extend(cn_adding)
+    ontology = set(ontology)
+    ontology = list(ontology)
+    ontology.sort()
+    with open(ontology_output_path, 'w') as w, open(ontology_js_path, 'w') as w2:
+        w.writelines([x + '\n' for x in ontology])
+        ontology_str = '"' + '","'.join([x.strip().replace('"', '') for x in ontology]) + '"'
+        w2.write(f"""var ontology=[{ontology_str}];""")
 
-def get_ontology():
+
+def get_ontology(add_trad=True):
     # great_noun_list_path = join(data_dir, 'types', 'ontology', 'the_great_noun_list.txt')
-    wikidata_ontology_path = join(data_dir, 'types', 'ontology', 'processed_wikidata_types_>10.txt')
     # ufet_ontology_path = join(data_dir, 'types',  'ontology', 'ufet_ontology.txt')
     # all_types_path = join(data_dir, 'types', 'all_types.txt')
-    crowd_types_path = join(data_dir, 'types', 'ontology', 'crowd_types_en2cn_revised.txt')
     # yago_types_path = join(data_dir, 'types', 'ontology', 'yago_types.txt')
+    wikidata_ontology_path = join(data_dir, 'types', 'ontology', 'processed_wikidata_types_>10.txt')
+    crowd_types_path = join(data_dir, 'types', 'ontology', 'crowd_types_en2cn_revised.txt')
 
-    # filters
-    country_list_path = join(data_dir, 'types', 'ontology', 'country_list.txt')
-    yt_bad_words_path = join(data_dir, 'types', 'ontology', 'yt_bad_words.txt')
+    # manually added
+    with open(join(data_dir, 'types', 'ontology', 'manually_added.txt'), 'r') as r:
+        manually_added = [x.strip() for x in r.readlines()]
+    manually_added_set = [k for x in manually_added for k in x.strip().split('\t')]
+    manually_added_en2cn_dict = {x.split('\t')[0].strip(): [x.split('\t')[1].strip()] for x in manually_added}
 
-    ontology_output_path = join(data_dir, 'types', 'ontology', 'cufe_ontology.txt')
     with open(wikidata_ontology_path, 'r') as r2, \
             open(crowd_types_path, 'r') as r3:
-        # great_noun_list = r1.readlines()
-        # reader2 = csv.reader(r2)
-        wikidata_ontology = r2.readlines()
+        wikidata_ontology_org = r2.readlines()
         crowd_types_org = r3.readlines()
-        # yago_types = r4.readlines()
+
+    # count the language in crowd types
+    # for tup in crowd_types_org:
+    #     crowd_en_set.add(tup.strip().split('\t')[0])
+    #     crowd_cn_set.add(tup.strip().split('\t')[1])
+    # lang_count_dict['en'] += len(crowd_en_set)
+    # lang_count_dict['cn'] += len(crowd_cn_set)
 
     # great_noun_list = [' '.join(x.strip().split('-')) for x in great_noun_list]
-    crowd_types = [' '.join(v.split('_')).strip() for x in crowd_types_org for v in x.strip().split('\t')]
-    wikidata_ontology = [json.loads(x.strip()) for x in wikidata_ontology]
+
+
 
     # new_yago_types = []
 
@@ -126,54 +151,117 @@ def get_ontology():
     #     s = camel_case_split(s)
     #     new_yago_types.append(' '.join([x for x in s]))
 
-    print(len(wikidata_ontology), len(crowd_types))
-    print(wikidata_ontology[:10], crowd_types[:10])
     # great_noun_list = [x.lower() for x in great_noun_list]
-    wikidata_ontology_en = [k.strip() for d in wikidata_ontology for k, v in d.items()]
-    wikidata_ontology_en2cn_dict = {k:v for d in  wikidata_ontology for k, v in d.items()}
     # wikidata_ontology_cn = [v.strip() for d in wikidata_ontology for k, vs in d.items() for v in vs]
-    crowd_types = [x.lower() for x in crowd_types]
     # new_yago_types = [x.lower() for x in new_yago_types]
-    gs = set(wikidata_ontology_en)
+
+    # here split them into list of en and cn
+    # crowd_types = [' '.join(v.split('_')).strip() for x in crowd_types_org for v in x.strip().split('\t')]
+    crowd_types_en = [x.split('\t')[0].strip() for x in crowd_types_org]
+    crowd_types_en2cn_dict = {x.split('\t')[0].strip(): [x.split('\t')[1].strip()] for x in crowd_types_org}
+
+    wikidata_ontology_org = [json.loads(x.strip()) for x in wikidata_ontology_org]
+    wikidata_ontology_en = [k.strip() for d in wikidata_ontology_org for k, v in d.items()]
+    wikidata_ontology_en2cn_dict = {k.strip(): v for d in  wikidata_ontology_org for k, v in d.items()}
+
+    en2cn_dict_all = defaultdict(list)
+    for dictionary in [crowd_types_en2cn_dict, manually_added_en2cn_dict, wikidata_ontology_en2cn_dict]:
+        for k, v in dictionary.items():
+            en2cn_dict_all[k].extend(v)
+
+    print(len(wikidata_ontology_org), len(crowd_types_org))
+    print(wikidata_ontology_org[:10], crowd_types_org[:10])
+
+    # here combine all sources and filter them
+    gs = set(wikidata_ontology_en + crowd_types_en)
 
     ontology = filter_ontology(list(gs))
     print(len(ontology))
     ontology = list(ontology)
-    for en_word in list(ontology):
-        if en_word in wikidata_ontology_en2cn_dict:
-            ontology.extend(wikidata_ontology_en2cn_dict[en_word])
+    lang_count_dict = defaultdict(int)
+    cn_simplified_set = set()
+    en2cn_dict_filtered = defaultdict(list)
+    for en_word in tqdm(list(ontology), desc='adding chinese...'):
+        if en_word in en2cn_dict_all:
+            clean_cn = filter_ontology(en2cn_dict_all[en_word], chinese=True)
+            if len(clean_cn) == 0:
+                continue
+            ontology.extend(clean_cn)
+            en2cn_dict_filtered[en_word].extend(clean_cn)
+            cn_simplified_set.update(clean_cn)
+            lang_count_dict['en'] += 1
+    lang_count_dict['cn'] = len(cn_simplified_set)
+
     print(len(ontology))
-    ontology = [x.lower() + '\n' for x in ontology]
     ontology = set(ontology)
     print(len(ontology))
-    ontology.update(crowd_types)
+
+    if add_trad:
+        ontology_adding_path = join(data_dir, 'types', 'ontology', 'cufe_ontology_cn_trad.txt')
+        with open(ontology_adding_path, 'r') as r:
+            cn_adding = [x.strip() for x in r.readlines()]
+        ontology.update(cn_adding)
+        print(len(cn_adding), len(set(cn_adding)), len(cn_simplified_set))
+        # print(set(cn_adding) - cn_simplified_set)
+    ontology.update(manually_added_set)
     ontology = list(ontology)
     print(len(ontology))
+    print(lang_count_dict)
     ontology.sort()
+    ontology = [x.lower() + '\n' for x in ontology]
 
-    ontology_js_path = join(data_dir, 'types', 'js', 'cufe_ontology.js')
+    ontology_output_path = join(data_dir, 'types', 'ontology', 'cufe_ontology.txt')
+    ontology_js_path = join(data_dir, 'types', 'on_web', 'cufe_ontology.js')
     with open(ontology_output_path, 'w') as w, open(ontology_js_path, 'w') as w2:
         w.writelines(ontology)
+        print()
         ontology_str = '"' + '","'.join([x.strip().replace('"', '') for x in ontology]) + '"'
         w2.write(f"""var ontology=[{ontology_str}];""")
 
-    # en2cn lists
-    wikidata_ontology_tup_ls = [(k.strip(), one_d) for d in wikidata_ontology for k, v in d.items() for one_d in v]
-    crowd_types_tup_ls = [(x.split('\t')[0].strip(), x.split('\t')[1].strip()) for x in crowd_types_org]
-    en2cn_list = wikidata_ontology_tup_ls + crowd_types_tup_ls
+
+    # wikidata_ontology_tup_ls = [(k.strip(), one_d) for d in wikidata_ontology for k, v in d.items() for one_d in v]
+    # crowd_types_tup_ls = [(x.split('\t')[0].strip(), x.split('\t')[1].strip()) for x in crowd_types_org]
+    # en2cn_list = wikidata_ontology_tup_ls + crowd_types_tup_ls + manually_added_ls
+    # all_en2cn_dict = {k:v for k, v in en2cn_list}
+
+    # en2cn lists for reference
+    # for en_word in ontology:
+    #     if en_word.strip() in en2cn_dict_all:
+    #         en2cn_dict_filtered[en_word.strip()] = en2cn_dict_all[en_word.strip()]
+    for k, v in manually_added_en2cn_dict.items():
+        en2cn_dict_filtered[k].extend(v)
+    en2cn_list = [(k.strip(), one_d) for k, v in en2cn_dict_filtered.items() for one_d in v]
     en_ls = [k for k, v in en2cn_list]
     cn_ls = [v for k, v in en2cn_list]
     assert len(en_ls) == len(cn_ls)
-    en2cn_js_path = join(data_dir, 'types', 'js', 'en2cn_list.js')
-    with open(en2cn_js_path, 'w') as w:
+
+    # en2cn_dict = defaultdict(set)
+    # for tup in en2cn_list:
+    #     en2cn_dict[tup[0]].add(tup[1])
+    en2cn_dict_ls = [json.dumps([k, v], ensure_ascii=False) + '\n' for k, v in en2cn_dict_filtered.items()]
+
+    en2cn_js_path = join(data_dir, 'types', 'on_web', 'en2cn_list.js')
+    en2cn_27k_path = join(data_dir, 'types', 'on_web', 'en2cn_27k.txt')
+    with open(en2cn_js_path, 'w') as w, open(en2cn_27k_path, 'w') as w2:
         en_str = '"' + '","'.join([x.strip().replace('"', '') for x in en_ls]) + '"'
         cn_str = '"' + '","'.join([x.strip().replace('"', '') for x in cn_ls]) + '"'
         w.write(f"""var en_l=[{en_str}];""")
         w.write(f"""var cn_l=[{cn_str}];""")
+        w2.writelines(en2cn_dict_ls)
 
+    cufe_ontology_en_path = join(data_dir, 'types', 'ontology', 'cufe_ontology_en.txt')
+    cufe_ontology_cn_path = join(data_dir, 'types', 'ontology', 'cufe_ontology_cn.txt')
+    with open(cufe_ontology_en_path, 'w') as w1, open(cufe_ontology_cn_path, 'w') as w2:
+        en_tmp = [k.strip() + '\n' for k in en2cn_dict_filtered]
+        en_tmp.sort()
+        w1.writelines(en_tmp)
+        en_tmp = list(set([v + '\n' for k, ls in en2cn_dict_filtered.items() for v in ls]))
+        en_tmp.sort()
+        w2.writelines(en_tmp)
 
 
 def get_type_set_from_wikidata():
+    return
     wikidata_types_path = join(cpu3_data_dir, 'wikidata_types.txt')
     processed_300k_types_path = join(cpu3_data_dir, 'processed_wikidata_types_300k.txt')
     processed_10_up_types_path = join(data_dir, 'types', 'ontology', 'processed_wikidata_types_>10.txt')
@@ -378,4 +466,5 @@ if __name__ == '__main__':
     # types_to_js()
     # get_ontology_from_ufet_types()
     # get_type_set_from_wikidata()
-    get_ontology()
+    get_ontology(add_trad=True)
+    # write_ontology()
