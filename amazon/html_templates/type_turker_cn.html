@@ -1,0 +1,476 @@
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<crowd-form onsubmit="return confirm('确定要提交？');">
+    <!-- Bootstrap v3.0.3 -->
+    <meta charset="UTF-8">
+
+    <link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet"/>
+    <section class="container" id="Other"
+             style="margin-bottom: 15px; padding: 10px; font-family: Verdana, Geneva, sans-serif; font-size: 1em;">
+
+        <div class="row col-xs-12 col-md-12"><!-- Instructions -->
+            <div class="panel panel-primary">
+                <div class="panel-heading" style="color: rgb(51, 51, 51);"><span
+                        style="strong;color:white;">标注规则 </span><span onclick="myFunction()"
+                                                                              style="text-decoration:underline;color:white;cursor:pointer">[Hide/Show]</span>
+                </div>
+
+                <div id="myDIV">
+                    <div class="panel-body">
+
+                        <p style="color: rgb(51, 51, 51);">这项任务的目的是推测出句中
+                            <mark>高亮词语</mark>
+                            所代表的实体 <b>其较精确的类别(type/category)</b>
+                        </p>
+
+                        <p>当你在作答区开始输入时，会显示参考类别的选单，请从中选出适合该高亮词语<mark>实体</mark>的<b>选项</b>
+
+                        <p>作答区在页面底端，答案 <strong>繁体中文，简体中文和英文皆可</strong></p>
+
+                        <h3>*** 这<font color="#ff0000"><b>不是一个翻译任务！</b></font>目标是取得该实体的
+                            <font color="#ff0000"><b>类别/type/category</b></font>***</h3>
+
+                        <br style="margin-bottom:240px;"/>
+
+                        <p style="color: rgb(51, 51, 51);"><strong><em>我们提供一些例子作为参考：</em></strong></p>
+
+                        <table border="3" cellpadding="5" cellspacing="2"
+                               style="color: rgb(51, 51, 51); font-size: 1em;">
+                            <colgroup>
+                                <col span="1" style="width: 65%;"/>
+                                <col span="1" style="width: 30%;"/>
+                                <col span="1" style="width: 5%;"/>
+                            </colgroup>
+                            <tbody>
+                            <tr>
+                                <td align="center"><strong>句子</strong></td>
+                                <td rowspan="1" align="center"><b>高亮实体的精确类别</b></td>
+                                <td align="center"><b>错误</b></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    电影《画皮II》导演乌尔善、制片人
+                                    <mark>庞洪</mark>
+                                    、出品人郭力以及中央美术学院教授王水泊在中央美术学院美术馆学术报告厅进行了题为《电影“画皮Ⅱ”的思考与回顾》的讲座
+                                </td>
+                                <td><p>1. 制片人</p>
+                                    <p>2. film maker</p></td>
+                                <td><input  type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    轿车在
+                                    <mark>印度</mark>
+                                    市场上的地位日益重要，而日产阳光能够最大程度上满足消费者对精致、实用及高性价比车型的需要
+                                </td>
+                                <td><p>1. country</p>
+                                    <p>2. location</p></td>
+                                <td><input  type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    农妇满脸丰收喜悦,
+                                    向我们这些分享她劳动成果的城里人连连地说:『你们随便挑哇,
+                                    <mark>咱</mark>
+                                    自家种的,八月十五快到了,买回去全家吃个鲜
+                                </td>
+                                <td><p>1. 农人</p>
+                                    <p>2. woman</p></td>
+                                <td><input  type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    凯基证券分析师Kuo对苹果2012年下半年的“战况”进行了预测，Kuo认为，13英寸的
+                                    <mark>Retina显示屏</mark>
+                                    MacBook Pro以及最新款的MacBook Air对消费者的吸引力非常大
+                                </td>
+                                <td><p>1. screen</p>
+                                    <p>2. 技术</p></td>
+                                <td><input  type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    毛泽东与柳亚子畅游
+                                    <mark>颐和园</mark>
+                                    ，就是其中最为典型的一例
+                                </td>
+                                <td><p>1. 庭园</p>
+                                    <p>2. 旅游景点</p></td>
+                                <td><input  type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <mark>他</mark>
+                                    说,中国认为,国家不分大小、强弱和贫富,都是国际社会中平等的一员。
+                                    李岚清表示,中国愿意加强与爱沙尼亚在各个领域、特别是经贸领域的友好合作关系。
+                                </td>
+                                <td><p>1. speaker</p>
+                                    <p>2. 人</p></td>
+                                <td><input  type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <mark>张南</mark>
+                                    也不好反对，就交出了钥匙
+                                </td>
+                                <td>person</td>
+                                <td><input checked="yes"  type="checkbox"/></td>
+                            </tr>
+                            <tr>
+                                <td>
+
+                                    晚会上当地的华人艺术家们演奏了精彩的中国民乐,田鸣的一首《大中国》和另一首《
+                                    <mark>我</mark>爱你中国》将晚会的气氛推向了高潮
+                                </td>
+                                <td></td>
+                                <td><input checked="yes" type="checkbox"/></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <p></p>
+                        <p style="color: rgb(51, 51, 51); font-size:20px"><strong><em>标注细节说明：</em></strong></p>
+
+                        <p style="color: rgb(51, 51, 51);">
+                            * 请从 <strong>下拉选单</strong> 中选出合适的类别
+                        </p>
+                        <p>
+                            * 我们期望取得该实体最精细的类别，例如：第一句中，<mark>庞洪</mark>，请标注为 "制片人" or "film maker"，
+                            而不是单单只是 "person" or "男人"
+                        </p>
+                        <p>
+                            * 类别是从上下文中 <strong>推测</strong> 出来的
+                        </p>
+                        <p>
+                            * 当上下文中没有提供足够资讯，不足以推测出高亮实体的类别时，
+                            请标注他最 <strong>广为人知</strong> 的类别，或是较具有
+                            <strong>一般性</strong> 的类别，例如 "人", "object" 或是 "地方"
+
+                        </p>
+
+                        <p>* 请完成 <b>每一个</b> 空格，并分别填入不同的类别，除非你勾选 <strong>错误</strong> 选项</p>
+                        <p>
+                            *  如果上下文无法推测出高亮实体的类别，或没头没尾无法作答，
+                            可以填其中一个或两个都留空，然后勾选旁边的 <strong>错误</strong> 选项（参见上方最后两个例子）
+                        </p>
+                        <p>
+                            * 请仔细思考并尽量作答，每页接受 <b>最多两个</b> 句子出现错误情况
+                        </p>
+                        <p>* 同一句两个答案如果分别是中英文，<font color="#ff0000">不可是另一个的直接翻译</font>，例如：1. 国家  2. country</p>
+
+                        <p style="color: rgb(51, 51, 51); font-size:20px"><strong><em>常见错误：</em></strong></p>
+                        <p>标注错误的例子：<strong><span style="color:#FF0000;">红色</span></strong>,
+                            标注正确的例子：<strong><span style="color:#008000;">绿色</span></strong>.
+                        </p>
+                        <table border="3" cellpadding="5" cellspacing="2"
+                               style="color: rgb(51, 51, 51); font-size: 1em;">
+                            <colgroup>
+                                <col span="1" style="width: 65%;"/>
+                                <col span="1" style="width: 30%;"/>
+                                <col span="1" style="width: 5%;"/>
+                            </colgroup>
+                            <tbody>
+                            <tr>
+                                <td align="center"><strong>句子</strong></td>
+                                <td rowspan="1" align="center"><b>高亮实体的精确类别</b></td>
+                                <td align="center"><b>错误</b></td>
+                            </tr>
+                            <tr>
+                                <td>方形塔楼一统天下的格局已被打破，各种X形、
+                                    <mark>Y形</mark>
+                                    、蝶形等设计方案将使每套住户都有朝阳的房间
+                                </td>
+                                <td><p>1. <span style="color:#008000;">Shape</span></p>
+                                    <p>2. <span style="color:#FF0000;">物体</span></p></td>
+                                <td><input type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">解释：Y形 是一种形状，不是一个物体
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    韩素云朴实地说:“我把照片挂在这里，是时刻提醒<mark>自己</mark>:只有努力工作、努力学习，才能回报党和人民给我的荣誉
+                                </td>
+                                <td><p>1. <span style="color:#008000;">人</span></p>
+                                    <p>2. <span style="color:#FF0000;">self</span></p></td>
+                                <td><input type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">解释："self" 不是一个种类，而是自己的直接翻译
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    本轮
+                                    <mark>华盛顿</mark>
+                                    将在主场迎战东区排名垫底的芝加哥火焰，虽说最近两次交手遭遇连败，但这也是两队最近10次碰面，华盛顿联仅有的两场失利
+                                </td>
+                                <td>
+                                    <p>1. <span style="color:#008000;">sports team</span></p>
+                                    <p>2. <span style="color:#008000;">组织</span></p>
+                                    <p>3. <span style="color:#FF0000;">人物</span></p>
+                                    <p>4. <span style="color:#FF0000;">location</span></p>
+                                <td><input type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">解释： 这里 华盛顿 指的是"球队"，因此不应该标注为 location 或 person。
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>上排左起：孙毅、
+                                    <mark>尚秀云</mark>
+                                    、杨艺文、王振林、谭竹青。
+                                </td>
+                                <td><p>1. <span style="color:#008000;">person</span></p>
+                                    <p>2. <span style="color:#FF0000;">男人</span></p>
+                                    <p>3. <span style="color:#FF0000;">人名</span></p>
+                                </td>
+                                <td><input type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">解释：这句话没头没尾，只能知道 尚秀云 是个人，其余不知，
+                                    所以应该打<strong>错误</strong>选项才对。
+                                    <font color="#ff0000">"人名"并不是实体的种类，指的是字面上词语的种类，我们也不接受这种标注</font>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <mark>阿诺</mark>
+                                    表示：“还有一个最大的损失是，我没有太多时间陪家人，这是今后我最应弥补的。”他说，
+                                    开始担任州长时，每周一早上就从洛杉矶的家里直奔加州州府，直到周末才能回来，家人还因此抱怨
+                                </td>
+                                <td><p>1. <span style="color:#008000;">州长</span></p>
+                                    <p>2. <span style="color:#008000;">government official</span></p>
+                                    <p>3. <span style="color:#FF0000;">演员</span></p>
+                                </td>
+                                <td><input type="checkbox" disabled/></td>
+                            </tr>
+                            <tr>
+                                <td colspan="3">解释：根据上下文，阿诺指的是州长阿诺，所以这两个选项应该填入和州长有关的种类。
+                                    相反的，如果上下文没有提供足够资讯，可以根据<strong>常识</strong>填入 "演员" 等。
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <p><span style="color: rgb(255, 0, 0);">"人名", "地名", "组织名"</span>
+                            等些答案是 <b>字面上</b> 词语的分类，是不被接受的。我们关注的是词语代表的 <strong>实体的种类</strong></p>
+                        <p style="color: rgb(51, 51, 51);">
+                            下列词语并不是所谓的<strong> 类别</strong>
+                            <p>* 代名词： you, them, they, I, it, he, she, self, 你, 我, 他, 自己, 我们, 他们</p>
+                            <p>* 数量词： all, both, many, 很多, 大量, 比例</p>
+                            <p>* 名字： Jon, Mary, George, USA, EU, 中国人, 美国人, 王先生, 欧盟</p>
+                            <p>* 形容词： ancient, beautiful, religious, 美丽的, 宏大的, 友善的</p>
+                            <p>* 文法词汇：noun, pronoun, verb, adjective, 名词 , 代名词</p>
+                        </p>
+
+                        <h3>*** <font color="#ff0000"><b>并不是所有在下拉选单中的词语都是合适的种类/答案！！</b></font>请选出你认为最合适的种类***</h3>
+
+                        <br style="margin-bottom:240px;"/>
+                        <p style="color: rgb(51, 51, 51);"><strong><em>请仔细阅读上述规则，如有过多错误则提交的答案不会被接受</em></strong></p>
+                        <a href="https://cleeag.github.io/files/en2cn_27k.txt" target="_blank">这里提供下拉选单中的词汇列表（用 ctrl+f 或 command+f 搜索）</a>
+                    </div>
+                </div>
+            </div>
+
+
+            <section style="color: rgb(51, 51, 51);">
+                <div style="display:none;">${mention_id_1}${mention_id_2}${mention_id_3}${mention_id_4}${mention_id_5}
+                </div>
+
+                <fieldset>
+                    <table border="3" cellpadding="15" cellspacing="2"
+                               style="color: rgb(51, 51, 51); font-size: 1em;">
+                            <colgroup>
+                                <col span="1" style="width: 65%;"/>
+                                <col span="1" style="width: 30%;"/>
+                                <col span="1" style="width: 5%;"/>
+                            </colgroup>
+                        <tbody>
+
+                        <tr>
+                            <td align="center"><strong>句子</strong></td>
+                            <td rowspan="1" align="center"><b
+                                    style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">高亮实体的精确类别</b>
+                            </td>
+                            <td align="center"><b>错误</b></td>
+                        </tr>
+                        <tr>
+                            <td style="font-size: 15px;">${s1}
+                            </td>
+                            <td><input class="form-control" name="FineTypeA0" size="15" type="text"  placeholder="请开始输入..."/>
+                                <p></p><input class="form-control" name="FineTypeB0" size="15" type="text"  placeholder="请开始输入..."/></td>
+                            <td><input name="NA0" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td style="font-size: 15px;">${s2}
+                            </td>
+                            <td><input class="form-control" name="FineTypeA1" size="15" type="text"  placeholder="请开始输入..."/>
+                                <p></p><input class="form-control" name="FineTypeB1" size="15" type="text"  placeholder="请开始输入..."/></td>
+                            <td><input name="NA1" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td style="font-size: 15px;">${s3}
+                            </td>
+                            <td><input class="form-control" name="FineTypeA2" size="15" type="text"  placeholder="请开始输入..."/>
+                                <p></p><input class="form-control" name="FineTypeB2" size="15" type="text"  placeholder="请开始输入..."/></td>
+                            <td><input name="NA2" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td style="font-size: 15px;">${s4}
+                            </td>
+                            <td><input class="form-control" name="FineTypeA3" size="15" type="text"  placeholder="请开始输入..."/>
+                                <p></p><input class="form-control" name="FineTypeB3" size="15" type="text"  placeholder="请开始输入..."/></td>
+                            <td><input name="NA3" type="checkbox"/></td>
+                        </tr>
+                        <tr>
+                            <td style="font-size: 15px;">${s5}
+                            </td>
+                            <td><input class="form-control" name="FineTypeA4" size="15" type="text"  placeholder="请开始输入..."/>
+                                <p></p><input class="form-control" name="FineTypeB4" size="15" type="text"  placeholder="请开始输入..."/></td>
+                            <td><input name="NA4" type="checkbox"/></td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </fieldset>
+            </section>
+
+
+            <link href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css" rel="stylesheet"/>
+            <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+            <script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+            <script src="https://s3.amazonaws.com/MY89_js/jquery.cookie.js"></script>
+            <script src="https://cleeag.github.io/files/cufe_ontology.js"></script>
+            <script src="https://cleeag.github.io/files/en2cn_list.js"></script>
+
+            <script>
+                function myFunction() {
+                    var x = document.getElementById('myDIV');
+                    // var x = $('myDIV');
+                    if (x.style.display === 'none') {
+                        x.style.display = 'block';
+                    } else {
+                        x.style.display = 'none';
+                    }
+                }
+
+                bars = ["FineTypeA", "FineTypeB"];
+
+                function validate(val) {
+                    var total_na = 0;
+                    rows = 5;
+                    for (var i = 0; i < rows; i++) {
+                        var missing_fine = 0;
+                        var has_text = 0;
+                        for (var k = 0; k < bars.length; k++) {
+                            var value = $("[name='" + bars[k] + i + "']").val();
+
+
+                            if ($.inArray(value, ontology) == -1) {
+                                missing_fine += 1;
+                                break
+                            }
+
+                            if (value.length > 0) has_text += 1;
+
+                        }
+
+                        var fine1_value = $("[name='" + bars[0] + i + "']").val();
+                        var fine2_value = $("[name='" + bars[1] + i + "']").val();
+                        var error_checked = $("[name='NA" + i + "']").is(":checked");
+                        if (error_checked) {
+                            total_na += 1;
+                        }
+                        if (error_checked && has_text == 2) {
+                            alert("第" + (i + 1) + "句中，错误选项被勾选了，但两个空格都有作答。请取消勾选错误，或删除答案");
+                            return false;
+                        }
+                        if (!error_checked) {
+                            if (missing_fine > 0) {
+                                alert("第" + (i + 1) + "句有空格未作答，或是答案没有在下拉选单中。请选择选单中的答案");
+                                return false;
+                            }
+                            if (fine1_value == fine2_value) {
+                                alert("第" + (i + 1) + "句有重复的答案。各个答案必须不同");
+                                return false;
+                            }
+                        }
+                        for (var k = 0; k < en_l.length; k++) {
+                            if ((fine1_value == en_l[k] && fine2_value == cn_l[k]) || (fine1_value == cn_l[k] && fine2_value == en_l[k])){
+                                alert("第" + (i + 1) + "句，两个答案互为翻译，请选择其他答案");
+                                return false;
+                            }
+
+                        }
+                    }
+                    if (total_na > 2) {
+                        alert("多于两个句子勾选了错误选项，请检查。");
+                        return false;
+                    }
+                    if (val) alert('已完成检查，你的答案可以提交了！');
+                    return true;
+                }
+
+            </script>
+
+            <script>
+
+                var display_all = function (request, callback) {
+                    var max = 50;
+                    var search_value = request.term.toLowerCase();
+
+                    var l0 = [];
+                    var l1 = [];
+                    var l2 = [];
+
+                    for (var k = 0; k < ontology.length; k++) {
+                        var current_value = ontology[k].toLowerCase();
+                        if (current_value === search_value && l0.length < max) {
+                            l0.push(current_value);
+                            console.log(l0);
+                            continue;
+                        }
+                        if (current_value.startsWith(search_value) && l1.length < max) {
+                            l1.push(current_value);
+                            continue;
+
+                        }
+                        if (current_value.includes(search_value) && l2.length < max) {
+                            l2.push(current_value);
+                        }
+                    }
+                    console.log(l0);
+                    console.log(l1);
+                    console.log(l2);
+                    l0 = l0.concat(l1);
+                    l0 = l0.concat(l2);
+                    console.log(l0)
+                    rv = [];
+                    for (var p = 0; p < l0.length && rv.length < max; p++) {
+                        if ($.inArray(l0[p], rv) == -1) rv.push(l0[p])
+                    }
+
+
+                    callback(rv);
+                };
+                rows = 5;
+                for (var k = 0; k < bars.length; k++) {
+                    for (var i = 0; i < rows; i++) {
+
+                        $("[name='" + bars[k] + i + "']").autocomplete({
+                            minLength: 0,
+                            source: display_all,
+                        });
+                    }
+
+
+                }
+            </script>
+
+        </div>
+    </section>
+    <p style="text-align: center;"><input id="valButton" onclick="return validate(true)" type="button"
+                                          value="检查答案"/></p>
+    <p style="text-align: center;"><input id="submitButton" onclick="return validate(false)" type="submit"
+                                          value="提交"/></p>
+</crowd-form>

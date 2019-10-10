@@ -1,0 +1,11 @@
+location	地方
+location	地点
+group	团体
+team	小组
+user	网友
+speaker	说话人
+politician	政客
+historical figure	历史人物
+witness	目击者
+employee	职员
+musician	音乐人
